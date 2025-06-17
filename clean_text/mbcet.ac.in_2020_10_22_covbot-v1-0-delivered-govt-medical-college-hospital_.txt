@@ -1,0 +1,27 @@
+CovBot V1.0 delivered @ Govt. Medical College Hospital – Mar Baselios College of Engineering And Technology
+Skip to content
+The UGC has conferred Autonomous status in July 2020,Affiliated to APJ Abdul Kalam Technological University. Degree awarded by KTU.
+||"Ph. D Admissions Open"||
+||"B.Tech admissions 2025 Rank List published"||
+Ajmal M. is an alumnus of 2013-17 batch of ME
+CET-CovBot V 1.0, a Covid Care Robot developed by students of M.Tech Robotics & Automation (2018-20 Batch) under CET-Centre for Interdisciplinary Research (CCIR), was delivered to Medical College Hospital, Trivandrum on 14-10-2020. One of the team members behind the work is Mr. Ajmal M., MBCET ME 2017 passout. Ajmal was the Chair at IEEE Robotics and Automation Society at MBCET during 2016-17. He holds two research publications to his credit from his undergraduate project work completed at MBCET. Ajmal is currently working as Project Engineer at Wipro Limited.
+The specialties of this mobile robot are:
+1. It can perform tasks such as automatic sanitizer dispensing, remote patient assistance, delivering food and medicines, collecting samples and specimens, announcement of Covid-19 related messages and warning, etc. at various MCH departments.
+2. It can navigate autonomously and can carry a payload of up to 40 kgs.
+3. It is capable of mapping the floor plan using LIDAR and autonomously navigating between static and dynamic obstacles. The mobile robot can be alternatively controlled using Joystick.
+4. GUI based on Robotic Operating System(ROS) console is employed for the user interface.
+5. Running time is 2 hours (with a 2-hours of additional battery backup)
+6. This is an open-source hardware project and design details will be available from Dec 2020 at
+https://github.com/CCIR-CET/
+CovBot
+.
+Congratulations Ajmal M!!
+ANNOUNCEMENTS
+Exam Notifications
+New
+M.Tech Admissions 2025
+New
+B. Tech Admissions 2025
+New
+MBCET e-bulletin
+New

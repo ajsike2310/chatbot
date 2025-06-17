@@ -1,0 +1,131 @@
+Facilities – Mar Baselios College of Engineering And Technology
+Skip to content
+Home
+>
+Departments
+>
+Civil Engineering
+>
+Facilities
+Facilities
+Laboratories
+Research & Development  Lab
+The primary testing facilities in the Research and Development Lab consist of a Systronics Water    Analyzer 371 which measures pH, Dissolved oxygen, Salinity
+, Conductivity, Colorimetric a
+nd Turbidity in water sample, an FTIR Spectroscopy to do chemical characterisation  of different materials such as bitumen, cement, oils, etc., a Brookfield viscometer for determination of viscosity of binders.
+PG Labs
+The P.G. Lab includes the Dynamics Laboratory and the Experimental Stress Analysis and Computational Laboratory. The primary testing facility in the Dynamics Laboratory consists of the horizontal and vertical shake tables for dynamic testing of Structures. Modern instrumentation, including a multi-channel computer controlled data acquisition systems, is available for measurement and data collection. The laboratory is also equipped with accelerometers, and numerous experimental models. The Experimental Stress Analysis and Computational Lab consist of a 100T loading frame, 100T Universal Testing Machine and other related equipments.
+Surveying Laboratory
+This laboratory helps the students to gain basic and advanced knowledge, and hands-on experience on the usage of various surveying and levelling instruments. The available instruments include Total Station, Transit Theodolite, Dumpy Level, Automatic Level, Plane Table, Prismatic Compass, Subtense Bar, and other accessories such as plane table accessories, levelling staff, cross staff, chains, measuring tapes, ranging rods, offset rods etc.
+Strength of Materials Lab
+This lab deals with the testing of properties of various materials like brass, mild steel, torsteel, aluminum etc. The machineries include 400kN capacity Universal Testing Machine (UTM), Torsion Testing Machine, Izod and Charpy Impact Testing Machines, Brinell and Rockwell Hardness Testing Machines, Spring Testing Machine for both open and close coiled springs, Torsion Pendulum etc.
+Concrete Lab
+This lab is of utmost importance for a Civil Engineering student as it deals with the testing of various construction materials such as cement, aggregates, concrete (both fresh and hardened), tiles and bricks. the various apparatus set up in the concrete lab are air permeability apparatus, Vicat apparatus, Le Chatelier’s apparatus, slump cone, compaction factor apparatus, Riffle sample divider, length gauge, thickness gauge, is sieves for sieve analysis of cement and aggregates etc. the machinery includes a 2000kN capacity compression testing machine, 100 kN flexure testing machine, tile testing machine, vibrating table for compacting specimen etc. Other accessories include compressometer, concrete penetrometer, moulds, cuboids, cylindrical & beam, weighing pans, platform type weigh balance, cylindrical measures, tamping rods etc.
+Software Lab
+The Civil Engineering Department has an excellent air conditioned Software Laboratory with power back up. The lab is intended to provide state-of-the-art training for students in drafting, modeling and analysis packages. The lab is provided with licensed versions of AutoCAD 2008, Auto CAD inventor 2008, STAAD PRO and ANSYS 11.0. The lab gives training on programming languages like C and C++ also.
+Geotechnical Lab
+The Geotechnical Lab of Civil Engineering Department is well equipped with the latest testing facilities for determination of strength and compressibility characteristics of service. The laboratory has the following testing facilities: Specific Gravity and Moisture Content Test, Field Density and Void Ratio Test, Sieve Analysis, Hydrometer Analysis, Atterberg Limits, Permeability Test, Compaction Test, Consolidation Test, Unconfined Compression Test, Direct Shear Test, Vane Shear Test, California Bearing Ratio (CBR) Test.
+Transportation Engineering Lab
+The testing of highway materials viz bitumen and aggregates is essential for ascertaining its suitability in road construction. The Transportation Engineering Laboratory has facilities for testing the various properties of both aggregate and bitumen. The tests carried out for aggregates include Crushing Strength, Impact Test, Specific Gravity of Aggregate, Angularity Number etc. The tests on bitumen include Ductility Test, Softening Point Test, Penetration Test, Specific Gravity Test, etc. The Lab has facilities also for performing the California bearing ratio (CBR) test.
+Environmental Engineering Lab
+The Laboratory has sophisticated equipments to analyze pollution parameters in water and waste water. The facilities include pH meter, Desiccators, Water bath, Hot Air Oven, Muffle Furnace, Spectrophotometer, BOD Incubator, COD Digestor, Conductivity Meter, Naphelometer, Analytical Balance, Electronic Balance, Jar Test Apparatus, Hot Plate, Muffle Furnace, Magnetic Stirrer, etc. It is being planned to have state-of-the-art instruments so as to cater to the needs of the Post Graduate Students and Faculty Members for carrying out Advanced Research and Consultancy Work in the area of Environmental Engineering.
+Geology Lab
+The Civil Engineering Department is well equipped with a geology lab that showcases various types of rocks, geological maps and various still models. This laboratory helps the students to recognize various earth materials, features, and structures, identification of common rocks and also topographic features.
+Departmental Library
+The library of the Civil Engineering Department plays a key role in maintaining a vast collection of books related to various streams of Civil Engineering. The Department Library forms the backbone for the advancement of consultation and research work in the department. The library preserves a good collection of text books, reference books, project reports, IS codes, etc. The Department Library works hand in hand with the main library of the College. The facilities available in the Department Library are utilized effectively by the Faculty Members and students.
+Seminar Hall
+The department has a seminar hall facilitated with the latest technology and well-equipped with multimedia projectors and audio-video amenities, named after the famous architect, Laurie Baker. With a seating capacity of 100, the seminar hall is regularly used for class interactions, meetings, national and international conferences and teacher-student training programs. The back-up facility in the seminar hall enables smooth functioning of seminars and conferences.
+Civil Engineering Workshop
+The civil engineering workshop acts as the baby steps towards understanding the opportunities of civil engineering. Here the newly admitted students are introduced to the basic concepts of civil engineering by giving hands on experience in setting out of a building, computing the area and volume of various components of buildings, construction of walls, testing of building materials etc.
+Plumbing Lab
+The Civil Engineering department has a Plumbing Lab set up in association with IPA (Indian Plumbing Association).  The Plumbing Lab aids in providing basic skill training on plumbing technologies and operations to students to enhance their practical knowledge.
+LABORATORY
+FACULTY IN-CHARGE
+TECHNICAL STAFF IN-CHARGE
+SURVEYING LAB
+Mr. SIJO M. SAJI
+G314
+Ms. RENCHUMOHAN.R
+G103B
+STRENGTH OF MATERIALS LAB
+Ms. JEAN MOLLY SIMON
+G201
+Ms. VIDYAMOL S
+G104 A
+CONCRETE LAB
+Dr. MINU ANN PETER
+G204B
+Ms. REJI S
+G104 B
+SOFTWARE LAB
+Dr  ARCHANA J. SATHEESH
+G204B
+Mr. ARUN J
+G208
+GEOTECHNICAL LAB
+Ms. DIANA ALICE SUGUNAN
+G204B
+Ms. DHANALEKSHMI.MC
+G102
+TRANSPORTATION ENGINEERING LAB
+Mr. AMAL RAJ
+G314
+Mr. VIJIN V J
+G202
+TRANSPORTATION PLANNING & TRAFFIC  ENGINEERING LAB
+Ms. ANUPAMA KRISHNAN
+G214
+Ms ASWANI A J
+G101
+ENVIRONMENTAL ENGINEERING LAB
+Ms. SANGEETHA SAJEEV
+G214
+Mr. EDWIN ROY E J
+G204
+MICRO BIOLOGY LAB
+Ms JISA JOSE
+G214
+Ms ANJITHA RAJAN
+G 102
+CIVIL ENGINEERING WORKSHOP (MANUFACTURING & CONSTRUCTION PRACTICES LAB)
+Ms. RINTU JOHNSON
+G314
+Mr. SARATH KUMAR S
+G107 A
+PLUMBING LAB
+Ms.  RADHIKA  P
+G 204 B
+Mr SARATH KUMAR S
+G107 A
+GEOLOGY LAB
+Ms. INDHU LUKE
+G201
+Ms. ASWANI A J
+G 101
+STRUCTURAL ENGINEERING AND DYNAMICS LABORATORY
+Dr. ANUPAMA KRISHNA D
+G314
+Mr. JOHNSON GEORGE
+G106
+RESEARCH & DEVELOPMENT  LAB
+Dr. NEETHU ROY
+G 310
+Vision
+To be a Centre of Excellence in Civil Engineering education with a global perspective, creating ethically strong engineers for the service of society.
+Mission
+To provide Engineering Education which can create exemplary professional Civil Engineers of high ethics with strong conceptual foundation coupled with practical insight, to serve the industry and community.
+BoS
+The People
+DAB
+Facilities
+News & Events
+Achievements
+Activities
+Faculty Activities
+Conferences
+Research & Consultancy
+B. Tech PEOs, POs & PSOs
+Placement
+Curriculum & Syllabus
+Time Table
+Former HoDs

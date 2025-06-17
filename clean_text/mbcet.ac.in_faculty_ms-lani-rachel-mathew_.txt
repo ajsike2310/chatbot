@@ -1,0 +1,71 @@
+Dr. Lani Rachel Mathew – Mar Baselios College of Engineering And Technology
+Skip to content
+The UGC has conferred Autonomous status in July 2020,Affiliated to APJ Abdul Kalam Technological University. Degree awarded by KTU.
+||"Ph. D Admissions Open"||
+||"B.Tech admissions 2025 Rank List published"||
+Home
+>
+Electronics & Communication Engineering
+>
+Dr. Lani Rachel Mathew
+Employee Code / ID No.
+10411018
+Qualifications
+M. Tech (Telecommunication Engineering), Ph.D
+Orcid ID
+https://orcid.org/0000-0002-9484-7127
+Industry / R & D Experience
+Industry (4 years), R&D(4 years)
+Email ID
+[email protected]
+Alternate E-mail ID
+Mobile No (Optional) / Intercom Extension No.
+Extension 111
+Areas of Interest / Current Research
+Biomedical Engineering, Speech Processing, Assistive Technology
+Research, Consultancy, Publication
+Faculty Publications:
+• Lani Rachel Mathew, K. Gopakumar, “Evaluation of speech enhancement algorithms applied to electrolaryngeal speech degraded by noise”, Applied Acoustics, Elsevier, Volume 174, 2021, 107771, ISSN 0003-682X, https://doi.org/10.1016/j.apacoust.2020.107771
+• Lani Rachel Mathew, Arun Manohar, Nidheesh S., S. Sainath, Arsha Vijayan and K. Gopakumar, “Speech reconstruction using LSTM networks”, International Journal of Electrical Engineering & Technology, Volume 12, Issue 3, 2021, pp. 269 – 277
+• Lani Rachel Mathew, Priya G., K. Gopakumar,Piezoelectric Throat Microphone Based Voice Analysis”, Proceedings of IEEE International Conference on Advanced Computing and Communication Systems, 2021
+• Lani Rachel Mathew, Manju S., Gopakumar K., “Vocal tract parameter estimation and modeling with application in diagnosis of voice disorders”, Proceedings of International Conference on IoT based Control Networks and Intelligent Systems, Elsevier SSRN, 2020, pp. 797 – 809.
+• Nandana R, Nissie Mary Johnson, Jubily V Reji, B. S Shreelekshmi, Ancy S. Anselam, Lani Rachel Mathew, K. Gopakumar, “Electrolaryngeal Speech Identification using GMM”, International Journal of Engineering  Research and Technology(IJERT),  Volume 9, Issue 6, June 2020.
+• Amitha Khan Irshad, Arathy Krishnan, Avinash A S, Siddharth Sanjay, Remya Annie Eapen, Lani Rachel Mathew, K. Gopakumar, “Speech Assist” , International Research Journal of Engineering and Technology(IRJET),Vol 7, Issue 7,June 2020,pp 4273-4275.
+• Krishnendu Lalaji, Pooja G. S., Rahul Krishnan K. S., Lani Rachel Mathew, Manju S., Suja K. Kunnath and K. Gopakumar, “Speech Analyzer: A Voice Parameter Extraction Device”, Proceedings of Empower Assistive Technology Conference,  October 2018.
+• Lani Rachel Mathew, K. Gopakumar, “Voice Analysis Using Acoustic and Throat Microphones for Speech Therapy”, Proceedings of Interspeech 2018, pp. 173 – 174, September 2018.
+• Haripriya R.P., Lani Rachel Mathew, K. Gopakumar, “Performance evaluation of DWT based Speech Enhancement”, IEEE International Conference on Networks & Advances in Computational Technologies, MBCET, July 2017
+• Amritha Vijayan, Bipil Mary Mathai, Karthik Valsalan, Riyanka Raji Johnson, Lani Rachel Mathew, K. Gopakumar, “Throat Microphone Speech Recognition using MFCC”, IEEE International Conference on Networks & Advances in Computational Technologies, MBCET, July 2017
+• Haripriya R.P., Lani Rachel Mathew, K. Gopakumar, “Estimation of Non -stationary Noise Power Spectrum using DWT”, 2nd International Conference on Research Trends in Engineering, NITTTR, pp. 414- 419, Apr 2017
+• Lani Rachel Mathew and Gopakumar K, “Survey of Speech Reconstruction Algorithms for Speech Impaired Persons”, McGraw Hill. Proceedings of the 2nd International Conference on Signal and Speech Processing, (ICSSP-2016), TKMCE, Kollam, September 8 – 10, 2016.
+• Swathikrishna R and Lani Rachel Mathew, “Fingerprint Extraction and Retrieval of Songs Using Multiple Features Including MFCC”, McGraw Hill. Proceedings of the 2nd International Conference on Signal and Speech Processing, (ICSSP-2016), TKMCE, Kollam, September 8 – 10, 2016.
+• Aarcha P. K. and Lani Rachel Mathew, “Data Hiding in Audio Carrier using AES algorithm in DWT domain”, International Journal of Advanced Technology in Engineering and Science, vol. 4, Issue 7, pp.14-21, July 2016.
+• Lani Rachel Mathew and David John, “Frugal Automation of Sustainable Practices in Kerala”, presented at the International Conference on Electronics, Signal Processing & Communication Engineering (eSpace-2015), organized by Govt. Engineering College, Thrissur, 9-11 December 2015.
+• Lani Rachel Mathew, Ancy S. Anselam and Sakuntala S. Pillai, “Quality Evaluation of CELP, LD-CELP and MELP vocoders”, Elsevier Science and Technology Proceedings of International Conference on Signal and Speech Processing, (ICSSP-2014), TKM College of Engineering, Kollam, pp. 236-240, August 21 – 23, 2014.
+• Lani Rachel Mathew, Ancy S. Anselam and Sakuntala S. Pillai, “A Study of Low Bit-Rate Linear Prediction based Speech Coders for Indian Dialects”, Proceedings of the IEEE International Conference on Control, Instrumentation, Communication and Computational Technologies (ICCICCT-2014), Noorul Islam University, Tamil Nadu, pp. 432-436, July 10-11, 2014.
+• Lani Rachel Mathew, Ancy S. Anselam and Sakuntala S. Pillai, “Analysis of LD-CELP Coder Output with Sound eXchange and Praat Software”, Proceedings of the IEEE Conference on Advanced Communication, Control and Computing Technologies, Syed Ammal Engineering College, Ramanathapuram, Tamil Nadu, pp. 1281-1285, May 8-10, 2014.
+• Lani Rachel Mathew, Ancy S. Anselam and Sakuntala S. Pillai, “Performance Comparison of Linear Prediction based Vocoders in Linux Platform”, International Journal of Engineering Trends and Technology, Volume 10, Issue 11, pp 554-558, April 2014.Consultancy Projects
+• ‘Speech Therapy Based Visual Feedback System For Cleft Lip/Palate’, November 2020 – ongoing. (National Institute of Speech and Hearing, Trivandrum)
+• ‘Analysis of Voice signals using Throat Microphone’ – In-house project (MBCET), December 2016 – June 2019
+• ‘Fundamental frequency estimation using Praat’, April 2017 – March 2018 (National Institute of Speech and Hearing, Trivandrum)
+• ‘Vocal Tract Resonance Measurement’, April 2017 – June 2017 (National Institute of Speech and Hearing, Trivandrum)
+• ‘Wireless system for water level monitoring in overhead tank’, June 2015 – March 2016 (HLL Lifecare, Trivandrum)
+• ‘Study and Implementation of Advanced Low Bit Rate Audio Encoding and Decoding Algorithms’: HDL conversion of G729 Matlab program (December 2014 – May 2015),  Simulation of linear prediction based vocoders (CELP, LD-CELP, MELP) (September 2012 – May 2014)  (ISRO Respond Project)
+Ph.D Research Guidance ( Research Scholar, E-mail ID, Research Topic/ Tentative Thesis Tittle)
+—-
+Academic / Professional Outreach Activities
+—-
+Membership in Professional bodies/ organizations
+IEEE Senior Member
+Community Outreach Activities
+—-
+Awards / Distinctions / Rank / Other Achievements if any
+—-
+ANNOUNCEMENTS
+Exam Notifications
+New
+M.Tech Admissions 2025
+New
+B. Tech Admissions 2025
+New
+MBCET e-bulletin
+New

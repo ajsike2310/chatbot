@@ -1,0 +1,804 @@
+Research & Consultancy – Mar Baselios College of Engineering And Technology
+Skip to content
+Home
+>
+Departments
+>
+Electrical and Electronics Engineering
+>
+Research & Consultancy
+Research & Consultancy
+Research Activities
+Research activities are carried out in the department in various fields like Control systems, Power Electronics, Electric Vehicles, etc.
+Faculty as Research Guide
+Sl No
+Name of Faculty
+Name of Research Scholar
+University
+Registered Year
+Topic
+1.
+Dr. Abraham T Mathew (2020 to 2024)
+Ms. Renuka V S
+NIT Calicut
+2018
+Stability and Control of DC Community Grid
+Ms. Sony M G
+NIT Calicut
+2019
+Power Systems Operation and Control
+2.
+Dr S Ushakumari
+Ms. Namitha Murali
+APJ Abdul Kalam Technological University
+2018
+Design, Modelling and Implementation of an efficient PMSM drive for an electric three-wheeler
+Ms Vijayasree G
+APJ Abdul Kalam Technological University
+2019
+Design, Modelling and Performance Analysis of high-speed Homopolar Inductor Alternator
+Ms. Sabna M
+APJ Abdul Kalam Technological University
+2019
+Condition Monitoring of five phase PMSM
+3.
+Dr. Nisha G K
+Ms. Sandhya P
+APJ Abdul Kalam Technological University
+2021
+Wireless Charging in EV
+4.
+Dr. Shalu George K
+Mr. Rejish Babu F R
+APJ Abdul Kalam Technological University
+2022
+Energy Cooperation among Microgrids
+Mr. Arunlal N L
+APJ Abdul Kalam Technological University
+2020
+More Electric Aircraft
+Faculty pursuing Research
+Sl No
+Name
+Research Centre
+University
+Area of Research
+1.
+Mr. Rejish Babu F. R.
+Mar Baselios College of Engineering and Technology
+APJ Abdul Kalam Technological University
+Microgrids
+2.
+Ms. P Sandhya
+Mar Baselios College of Engineering and Technology
+APJ Abdul Kalam Technological University
+Wireless charging in EV
+3.
+Ms. Jomole Joseph P
+Amrita School of Engineering
+Amrita Vishwa Vidyapeetham
+Energy trading
+4.
+Ms. Manju Sreekumar
+Amrita School of Engineering
+Amrita Vishwa Vidyapeetham
+Connected Autonomous Vehicles
+5.
+Ms. Shyju Susan Mathew
+College of Engineering, Thiruvananthapuram
+APJ Abdul Kalam Technological University
+Robotics
+6.
+Ms. Sojy Rajan
+College of Engineering, Thiruvananthapuram
+APJ Abdul Kalam Technological University
+Microgrids
+7.
+Mr. Aswin R B
+College of Engineering, Thiruvananthapuram
+APJ Abdul Kalam Technological University
+Unmanned Aerial Vehicles
+8.
+Ms. Surasmi N L
+College of Engineering, Thiruvananthapuram
+APJ Abdul Kalam Technological University
+Power Electronics
+9.
+Mr. Praveen Raj R S
+College of Engineering, Thiruvananthapuram
+University of Kerala
+Micro Grids
+10.
+Ms. Soumya A V
+VIT, Vellore
+VIT,Vellore
+Micro Grids
+11.
+Ms.  Elizabeth Varghese
+College of Engineering, Thiruvananthapuram
+University of Kerala
+Fractional Order Controllers for Aerospace Systems
+12.
+Ms. Sheenu P
+Hindustan Institute of Technology & Science
+Hindustan University
+Digital signal Processing
+Research Groups
+The Department of Electrical and Electronics Engineering has conducted many seminars and workshops for students and faculties to promote research and there are many R&D activities and consultancy works undertaken by the department. There is a research lab in the department to facilitate and promote research activities.
+There are three major research groups involved in the research activities namely
+Control Systems Research Group
+Power Electronics Research Group
+EV Research Cell
+The faculties are members of the above groups based on their area of expertise. These groups conduct regular meetings to discuss and decide on the activities to be conducted.
+EV Research Cell Activities
+EV Research Cell Coordinator:
+Dr. Nisha G K
+(
+ORCID
+:
+https://orcid.org/0000-
+0002-7798-906X,
+Vidwan:
+https://vidwan.
+inflibnet.ac.in/profile/193120
+)
+The EV Research group, Department of Electrical and Electronics Engineering organised an invited lecture on “Foundation to Electric Vehicles” for the students of EEE on 19 May 2023. The resource person for the session was Mr. Pradeep Kumar Keloth (Adjunct Professor of Practice at Amrita School of Engineering, Coimbatore and MBCET, Former HoE, Electrification at Bosch). Around 45 students attended the talk.Faculty coordinators:
+Dr. Dishore S V
+and
+Mr. Anil J
+, Assistant Professors, EED.
+The EV Research Cell in association with Illumina, the Association of the Department of Electrical and Electronics Engineering, organized an Online Expert Talk on “
+Overview of EV environment and Opportunities
+” on 25/11/2022 from 10:30 am to 12:00 pm. The Resource person for the session was Mr. Ramesh G, Consultant, Manatec E-Drive. Around 40 participants attended the session.
+Coordinators
+: Mr. Aswin R B (94473 29628), Dr. Dishore S. V. (77087 57675), Assistant Professors, EED.
+VISIT TO EMC:
+A team of faculty from EED comprising of Dr. S Ushakumari, Dr. Nisha G.K., Mr. Aswin R.B. and Dr. Dishore S. V. paid a visit to the Energy Management Centre (EMC), Trivandrum on 24.11.2022. This was for discussing the possibilities of collaboration with EMC on the scheme for retrofitting the conventional autorickshaw and converting to an e-rickshaw. The team submitted a proposal to EMC for setting up a retrofitting facility on campus.
+Research Group Activities
+Control Systems Research Group
+The Control Systems Research group, Department of Electrical and Electronics Engineering organised an invited talk on the Control Aspects of Soft landing of Chandrayaan – 3 for the final year students on
+08 December 2023
+. The resource persons for the session were
+Ms. Revathi H
+, Group Director, LPSC, ISRO and
+Mr. Benoy Joseph K
+., Divisional Head, LPSC, ISRO.
+The Control Systems Research group, EED organized an expert talk on “Role of Optimal guidance in soft landing of Chandrayan- 3” on 13 September 2023. The resource person was
+Dr. Radhakant Padhi
+, Hal Chair Professor, Dept. of Aerospace Engineering, IISc., Bengaluru. The talk was coordinated by Mr. Aswin R B, Assistant Professor, EED.
+The Control Systems Research group, Department of Electrical & Electronics Engineering, MBCET is organizing a Webinar on “Introduction to Unmanned Aerial Vehicles” on 18.09.2021. The resource person was Ms. Lima Agnel Tony, Robert Bosch Centre for Cyber-Physical Systems Ph.D. fellow, Department of Aerospace Engineering, Indian Institute of Science, Bangalore. The programme was coordinated by Mr. Aswin R B and Ms. Keerti S Nair.
+The Control Systems Research Group, Department of Electrical & Electronics Engineering, MBCET organized a Webinar on “Dynamics and Control of Aerial Vehicles” on 28.05.2021. The resource person was Dr. Elizabeth Rita Samuel, Associate Professor and Head of the Department of EEE, Rajagiri School of Science and Technology (Autonomous). The programme was coordinated by Dr. Shalu George K and Ms. Anu Gopinath.
+The Control Systems Research Group, Department of Electrical & Electronics Engineering, MBCET organized a Webinar on “Introduction to Model Predictive Control and its Applications” on 22.05.2021. The resource person was Dr. Chinmay Rajhans, Assistant Professor, VJTI, Mumbai. The programme was coordinated by Ms. Elizabeth Varghese and Ms. Shyju Susan Mathew.
+Power Electronics Research Group
+The Power Electronics Research Group, EED, organized an Expert talk on “Indian Power Challenges and Way forward” for the final year students of EED on 24/02/2023 from 09:30 am to 11:30 am. The resource person was Mr. Shine Raj (Assistant Engineer, TRAC, KSEBL). Coordinator:
+Mr. Anil J
+, Assistant Professor, EED.
+The Power Electronics Research Group, EED, organized a Webinar on “Energy Management” for the final year students of EED on 13/02/2023 from 09:30 am to 12:30 pm. The resource person was Mr. Jose Philip (Building Energy Efficiency Expert, GRIHA Certified Professional, BEE Certified Energy Manager, Certified Resource person of ANERT). 70 students participated for the Webinar.
+The Power Electronic Research Group, Department of Electrical and Electronics Engineering, MBCET organized an Expert talk for the final year students on Electrical Safety Aspects, on 14 October 2022 from 2:00 pm to 4:30 pm in Faraday Hall. The Resource person for the webinar was Sri. Suresh Kumar S., Nodal Officer Litigation (AEE), KSEB, Electrical Circle, Kattakada. The session was coordinated by
+Ms. Vandana P. and Mr. Aswin R B
+, Assistant Professors, EED. Around 70 students attended the session.
+Coordinators:
+Ms. Revathy K P
+and
+Ms. Anila A V
+, Assistant Professors, EED.
+The Power Electronic Research Group, Department of Electrical and Electronics Engineering, MBCET organized a webinar for the pre-final year students on EV Mid-drive Motor Test kit and CAN Analyser, on 6 May, 2022 from 2:30 pm to 3:30 pm. The webinar was coordinated by Mr. Rejish Babu F R and Ms. Anila A V, Assistant Professors, EED. Around 50 students attended the Webinar.
+Power Electronic Research Group and EV Research Cell, Department of Electrical and Electronics Engineering, MBCET organized a Two-day Webinar on Modeling and Simulation of EVs using MATLAB and Simulink, on 28 February 2022 and 3 March 2022 for final year B.Tech students, M.Tech students and members of the MBCET EV research cell. The resource person was Dr. Deb Singdeo, Education Customer Success Engineer, MathWorks India. The webinar was coordinated by Mr. Ajish Ashok, Assistant Professor, EED.
+The Power Electronics Research group, Department of Electrical and Electronics Engineering, organized a webinar on “Solar Photovoltaic Systems” on 8 January 2022. The Speaker was Mrs. Radhika J M, Project Engineer, ANERT. The online platform for the webinar was Google Meet. Ms. Surasmi N L and Ms. Anila A. V., Assistant Professors, EED, coordinated the programme.
+Power Electronics Research Group, Department of Electrical and Electronics Engineering, MBCET organized a webinar on “Grid Integration of Wind Power Systems” on 29 November 2021 from 02:00 pm – 03:00 pm (IST). The session was handled by Ms. Teena George, Assistant Professor, Vimal Jyothi Engineering College, Kannur. The online platform for the webinar was Google Meet. Ms. Manju Ann Mathews and Ms. Shilpa Susan Peter, Assistant Professors, EED, coordinated the programme.
+Power Electronics Research Group, Department of Electrical & Electronics Engineering in association with EV Research Cell, organized a Webinar on “Electric Vehicle Charging System and Challenges” on 09.10.2021. The resource person was Mr. Sooraj V., Senior Hardware Engineer, TATA Elxsi. The programme was coordinated by Ms. Shilpa George and Mr. Ajish Ashok.
+Power Electronics Research Group, Department of Electrical & Electronics Engineering, MBCET organized a Webinar on “Vector Control of Three Phase Induction Motor” on 06.09.2021. The resource person was Prof. A. S. Shajilal (Retd), College of Engineering Trivandrum, Former HOD EEE Dept. Mar Baselios College of Engineering and Technology. The programme was coordinated by Mr. F R Rejish Babu and Mr. Ajish Ashok.
+The Power Electronics Research Group, Department of Electrical & Electronics Engineering in association with EV Cell MBCET organized a Webinar on “Control Strategies for PMSM driven Electric Vehicle” on 26.06.2021. The resource person was Mr. Keloth Pradeep Kumar, Head of Department, Electrification Topics, Robert Bosch Engineering and Business Solution. Around 80 members participated in the programme. The programme was coordinated by Ms. Archana A N and Mr. Ajish Asok.
+The Power Electronics Research Group, Department of Electrical & Electronics Engineering, MBCET organized a Webinar on “The role of Power Electronic Controllers for EV Charging Infrastructure” on 19.06.2021. The resource person was Dr. K Deepa, Assistant Professor, Department of EEE, Amrita School of Engineering, Bangaluru Campus Around 80 members participated in the programme. The programme was coordinated by Ms. Sojy Rajan C and Mr. Ajish Asok.
+The Power Electronics Research Group, Department of Electrical & Electronics Engineering, MBCET organized a Webinar on “Career Prospects and Higher Studies after Electrical Engineering” on 05.06.2021. The resource person was Dr. Imthias Ahamed T P, Professor, Department of EEE, TKMCE. Around 100 members participated in the programme. The programme was coordinated by Ms. Vandana P and Mr. Aswin R. B.
+The Department of Electrical and Electronics Engineering in association with IPCS – The Global Technology Service Provider conducted an Online Training Programme on Introduction to Industrial Automation on 29 and 30 April 2021 from 2 to 4 PM. The programme was organized by Power Electronics Research Group of the Department as a 2-day workshop, aimed at enhancing your practical knowledge in Industrial Automation. Final year and pre-final year B.Tech students (all branches) attended. The programme was coordinated by Ms. Surasmi N L and Ms. Jeneena Babu.
+Power Electronics Research Group, Department of Electrical & Electronics Engineering, MBCET organized a Webinar on “Emerging Trends in the Electric Vehicle Space” on 21 April 2021 from 12:00 PM – 01:00 PM (IST) in Google meet. The Speaker was Ms. Latha Chembrakalam, Vice President, Engineering, Robert Bosch Engineering and Business Solutions Ltd. The programme was coordinated by Ms. Sandhya P. and Mr. Ajish Ashok.
+Power Electronics Research Group, Department of Electrical & Electronics Engineering, MBCET organized a Webinar on “Industrial Applications of Power Electronics” on 8 April 2021 from 2.30pm – 3.30pm (IST) in Google meet. The Speaker was Mr. A. Saravana Kumar, Scientist-E/Joint Director, Power Electronics Group, CDAC. The programme was coordinated by Ms. Sandhya P. and Ms. Manju Ann Mathews.
+Collaborative Research Work
+The Department of Electrical & Electronics Engineering, MBCET entered into a collaboration with “THESPACESLAB”, a start-up company working in the aerospace application for expanding the possibility of research and consultancy of the College. A research project involving Programming, Modelling, Computation and Simulation has been initiated.
+Topic: Orbital Debris Propagation
+Faculty involved:
+Principal investigator          – Ms. Elizabeth Varghese
+Co-investigator                   – Mr. Aswin R. B.
+Ms. Amala Justin has joined as the Research Assistant to this project. The total outlay for this project including the monthly remuneration is Rs 2,00,000/-.
+In-house Projects
+Approval granted for following in-house R&D projects, recommended by the MBCET research promotion committee.
+“Smart Meeting Room”:
+Sheenu P. and Ms. Soumya A.V.
+Amount sanctioned: Rs. 42,000/-
+“Solar Powered Water Pumping System”:
+Sandhya P.
+Amount sanctioned: Rs. 85000/-
+“
+Vibration Energy Harvesting
+”:
+Archana A. N. and Ms. Shilpa Susan Peter
+Amount sanctioned: Rs. 35000/-
+“Design and Implementation of Control Strategy for Load Sharing and Circulating Current Minimization in Grid Application”:
+Nisha G K and Ms. JeneenaBabu
+Amount sanctioned: Rs. 73000/-
+“SVPWM based Dual Multilevel Inverter fed Induction Motor Drive for Common Mode Voltage Elimination”:
+Midhun G.
+Amount sanctioned: Rs. 65000/-
+“A comparison on the performance of BLDC motor drive with DBR, Luo and BL-Luo as Converters”:
+Dr Nisha G K, Ms C. SojyRajan, Mr Midhun G.
+Amount sanctioned: Rs. 1,00,000/-
+“Optical tuning Of PID controller for a second order system” :
+Elizabeth Varghese and Ms. Anu Gopinath
+Amount sanctioned: Rs. 40,000/-
+“Speed and Position control system of DC servo motor”:
+Ms. Shyju Susan Mathew and Ms. Keerthi S Nair
+.
+Amount sanctioned: Rs. 55,000/-
+Funded Student Projects
+The student project entitled “Pisces Care Bot” guided by Mrs. Manju Sreekumar, Assistant Professor, EEE received the
+Kerala State Council for Science, Technology and Environment (KSCSTE)
+financial assistance of Rs. 9910/-. Student Project Members: Abhijith A, Ananth A J, Gautham B R, Ravishankar S.
+The student project entitled “Public Bus Transport Information System for Visually Impaired People” guided by Ms. Jomole Joseph P, Assistant Professor, EEE received the
+Kerala State Council for Science, Technology and Environment (KSCSTE)
+financial assistance of Rs. 10,000/-. Student Project Members: Gokul R, Abhimanyu A L, Arya P K, Sruthi P Nair.
+The student project entitled “Fire Extinguishing Drone” guided by Ms. Elizabeth Varghese, Associate Professor, EEE received the
+Kerala State Council for Science, Technology and Environment (KSCSTE)
+financial assistance of Rs. 10000/-. Student Project Members: Al Thanzeer Muhammed, Ananthakrishnan G S, Vaishnav S S.
+The student project entitled “IoT based dam monitoring and Pre disaster management” guided by Ms. Sheenu P, Assistant Professor, EEE received the APJ Abdul Kalam Technological University
+Centre for Engineering Research and Development (CERD)
+financial assistance of Rs. 12,000/-. Student Project Members: Noel Mathew Jacob and Vaishnavi Sreekumar. CERD funding list (Sl. No.: 46)
+The student project entitled “Demand Management system using AI and IoT” guided by Ms. Manju Sreekumar, Assistant Professor, EEE received the financial assistance of Rs. 34,000/- from
+Energy Management Centre (EMC)
+. Student Project Members: Vishnu M Nair, Abinshah Ameer, Amaze Anna Toms, Nanditha Sai Prasanth and Vaishnavi.
+The student project entitled “AQI mapping using UAV” guided by Mr. Praveen Raj, Assistant Professor, EEE (Student Project Members: Adarsh Sudarsanan, Amalu S Panicker, Karthik J, Sachu Pradeep) and “Plant Box: A Controlled-Environment Agricultural Technology Platform” guided by Ms. Shyju Susan Mathew, Assistant Professor, EEE (Student Project Members: Prince K Francis, Amal S, Roshan Roy, Navaneeth M S) received the mentoring and support from International
+Centre for Free and Open Source Software (ICFOSS)
+.
+MoU's
+MoU between EMC and MBCET
+An MoU has been signed between EMC and MBCET on
+6 January 2023
+for promoting the industry-academic interaction activities and to help achieve academic excellence of the Department of Electrical and Electronics Engineering, and to conduct joint/collaborative research and consultancy in the areas of Electric Vehicles and E-Mobility and promote Energy Conservation and Environmental Protection through such activities.
+MoU between SPACELABS and MBCET
+An MoU has been signed between SPACELABS and MBCET on
+5 July 2022
+. The Spacelabs is a software firm established in Kerala and engaged in offering software products and services with operations in India and represented by its duly authorized representative, Ms. Sheela D S , CEO. purpose of this MoU is to use the expertise of the faculty of the MBCET and engage a dedicated qualified person for the research-oriented activities.
+MoU between CDAC (T) and MBCET
+An MoU has been signed between CDAC (T) and MBCET on
+27 May 2022
+. The purpose of this MoU is to formally express the mutual wish of MBCET and C-DAC (T) to associate in the studies and research in the subject areas of Cyber Security and Forensics, Cyber Law, Software Technologies, Cloud Computing, GIS Technology, 5G Networks, Power Electronics, Energy Systems, Control Systems and Instrumentation, VEGA Processor and in the efforts of Collaborative Teaching, Research and Development. This is a legally non-binding agreement, which outlines an intention to promote collaboration between the two parties for a socially productive cause. This document would be followed by an Agreement, in future, specifying the areas of collaboration and sharing, which will have the legal binding.
+MoU between Tata Elxsi Ltd. and MBCET
+An MoU has been signed between Tata Elxsi Ltd. and MBCET on
+25 February 2022
+. The main objective of this MoU is to build a strong and mutually fruitful relationship between TE and MBCET. The primary goals are to develop and foster strategic linkages with MBCET and the departments at TE, to assist the students and enhance their knowledge about the latest technologies in which TE is involved with a view to make them productive from the first day of their employment and to understand the needs and expectations of both the parties and to identify the measures required to meet requirement therein. Planned activities include technical presentations and talks, Projects for Undergraduate and Post-graduate students, Lab visits, Technical and Soft-skill trainings, and Placement of Competent students.
+Initiatives for this collaboration has been taken by the Department of EEE under the guidance of Dr. S Ushakumari, Professor, EED and Dr. Nisha G. K, HoD, EED and with the support of Vice Principal, Dr. Viswanath Rao and Principal, Dr. Abraham T Mathew. Ms. Shyju Susan Mathew was given charge to coordinate the activities and be the Point of Contact.
+MoU between Vydyuthi Energy Services and MBCET
+On 3 December 2020, the IET MBCET On Campus crossed a new milestone, with the signing of the MoU between MBCET and Vydyuthi Energy Services (VES) for the collaborative venture of IET Outreach 150.
+MoU signed with Vydyuthi Energy Services
+MoU between KILA and MBCET
+The IET Team visited the Kerala Institute of Local Administration – KILA Director General on 23 December 2020) and discussed about MBCET-KILA collaboration for Outreach 150. The idea was approved, and extended willingness for working together with MBCET. An MoU has been signed between MBCET and KILA on this regard on 19 March 2021.
+MoU between LNCPE and MBCET
+An MoU between the MBCET and LNCPE was signed on 12 March 2019 to conduct 2-day FIRST INTERNATIONAL MEET on Applications of Engineering in Sports, NEXUZ’19 – The International Meet, in the month of August 16 &17 2019
+Faculty Interactions with outside world
+Dr. Nisha G K ,
+Professor, EEE Department served as session chair for the International Conference on Applied Mechanics & Optimisation
+(ICAMeO-2025)
+on 29th May 2025.
+Dr. Nisha G K ,
+Professor, EEE Department served as session chair for the AICTE sponsored International Conference on Recent Trends in Energy, Environment , Science and Technology (CREEST- 2025) held @ UKF College of Engineering and Technology on 9th May 2025.
+Dr. Nisha G K
+has been selected as one of the Core Committee Members in the IEEE India Council Industry Academia Young Professionals Committee (IAYPC) 2025.
+EMPOWERING MINDS FOR A VIKASIT BHARATH – FACULTY PARTICIPATE IN PRESTIGIOUS NAAC ROUND TABLE CONFERENCE
+As part of Janmabhumi’s Grand Golden Jubilee Celebration in Thiruvananthapuram, a high-level Round Table Conference titled
+“Empowering Minds, Enhancing Quality for Vikasit Bharath”
+was held on April 19 at Udaya Suites.
+Dr. Nisha G K
+(Professor, EED & IQAC Coordinator) and
+Ms. Deepa P L
+(Assistant Professor, ECE) represented our institution at this significant event that brought together educational visionaries and national-level policymakers.
+The conference featured
+Prof. (Dr.) Anil Sahasrabudhe
+, Chairman of the Executive Committee of the National Assessment and Accreditation Council (NAAC), who also holds key positions as Chairman of the National Board of Accreditation (NBA), Chairperson of the National Innovation Foundation-India, and Chairperson of the National Educational Technology Forum (NETF).
+Eminent experts from NCTE, AICTE, and the Department of Higher Education, Government of India, also participated in the discussions.
+The conference focused on the vision of Vikasit Bharath, exploring collaborative strategies to enhance the quality of teaching and learning, foster holistic student development, and strengthen institutional infrastructure to support the nation’s educational aspirations.
+INDUSTRIAL VISIT BY FACULTY
+Dr. Elizabeth Varghese
+, Associate Professor and HoD, EED,
+Dr. Nisha G.K.,
+Professor, EED and IQAC coordinator,
+Dr, Soumya A V,
+Associate Professor, EED,
+Mr Aswin
+and
+Mr. Midhun G
+, Assistant Professor/s, EED  visited
+Hykon india unit 1 Thalore
+on 4 March,2025.  The team had a detailed discussion on future collaborations and projects with Hykon R and D team and the Department. The team also visited the factory and production units. Discussions also happened regarding student placements and internship opportunities.
+Dr. Nisha G K
+, Professor, EED and IQAC Coordinator has participated in the one-day education conclave on
+“Education for Viksit Bharat: Bharatiya Knowlwedge System and Quality Education in Kerala”
+held on January 24, 2025 at Maurya Rajadhani, Thiruvananthapuram, Kerala. The conclave was organised by the Central University of Kerala, Vidhyabyasa Vikasa Kendram and the Chamber of Kerala Colleges.
+Dr. Shalu George,
+Associate Professor in the Electrical Engineering Department (EED), and Yash Chhalotre from S4 EL attended the inauguration of the IPR Centre and Startup Cell organized by APJ Abdul Kalam Technological University on June 19, 2024, at Mascot Hotel in Thiruvananthapuram. Yash Chhalotre served as one of the Technical Volunteers for the event. Dr. Shalu George was one of the 50 invited faculty members from the university’s affiliated colleges.
+Dr. Nisha G K
+, Professor, EEE Department served as session chair for the IEEE International Conference on E-mobility, Power Control and Smart Systems (ICEMPS)18-20 April 2024.
+Dr. Ushakumari S
+., Dean Corporate Relations and Professor, EED, MBCET was invited as resource person to deliver expert lecture in ‘Need for Value Education’ and ‘Holistic Transformation of Human being’, on 8 and 9 January 2024, as part of the Short Term Training Programme on “Recent Research Trends in Green Energy Technologies”, organized by Centre of Sustainable Development in collaboration with the Department of Mechanical Engineering and Department of Civil Engineering, College of Engineering Trivandrum.
+In connection with the visiting faculty programme in the Dept. of Electrical Engineering, College of Engineering Trivandrum,
+Dr. Elizabeth Varghese
+, Associate Professor and HoD, EED delivered lectures on “Modelling and Control of Fractional Order Systems” on 13, 18 and 19 December 2023.
+Dr. S. Ushakumari
+, Dean, Corporate Relations and Professor, EED was invited as the Resource person for the Student induction program on Universal Human Values for Mechanical Engineering on 19, 21 and 31 October 2023 and for Electrical Engineering on 14 and 21 October 2023 at College of Engineering Trivandrum.
+Dr G K Nisha
+, Professor, EED participated in the inauguration session of IEEE Kerala Section’s 40th Anniversary Celebrations at Mascot hotel on 10 December 2023.
+Dr. Soumya A V and Mr. Aswin R B
+, Assistant Professors, EED along with 43 students from S5 EE visited Kerala Electricals and Allied Engineering Co Ltd (KEL) Mamala on 08  December 2023.
+Ms. Manju Sreekumar and Ms. C. Sojy Rajan
+along with second-year students of Department of Electrical and Electronics Engineering visited the Milma production unit, Thiruvananthapuram Dairy at Ambalathara on 27 November 2023 to get an idea about the stages of milk production process when Milma opened its unit as part of the National Milk Day celebrations on November 26 and 27, commemorating the 102
+nd
+birth anniversary of Verghese Kurien, the Father of the White Revolution in India to the public.
+Dr. Nisha G K
+, Professor, EED attended the Kerala Leadership Summit, a gathering of women leaders from different industries and government organisations, organised by IEEE WiE Kerala Section as part of WiECON-ECE’23 on 26 November 2023 at Hotel Apollo Dimora, Trivandrum.
+Dr. Shalu George K
+., Associate Professor, EED and
+Ms. Soumya A V
+., Assistant Professor, EED, along with a group of students of S8 EE visited the National Institute of Speech and Hearing (NISH) on 01 March 2023, as part of the discussion of their project entitled “Smart Ergonomic Office Chair”.
+Dr. Shalu George K
+., Associate Professor, EED and
+Ms. Soumya A V
+., Assistant Professor, EED, along with
+Dr. Nidhi
+M B
+. (Associate Professor, MED),
+Dr. Alice Thomas
+(Assistant Professor, CED), and
+Ms. Amritha B J
+(Assistant Professor, ECED) attended the one-day Mentor Sensitization Programme conducted as part of the 2-day Camp, ‘Huddle – 2’ of the project “Innovation by Youth with Disabilities (I-YwD)” at the National Institute of Speech and Hearing (NISH) on 24 February 2023
+Shyju Susan Mathew
+delivered a talk on the topic Robot Kinematics on 29 August 2022, as part of the Faculty Development Programme on Control Systems & Robotics, organized by the Department of Electronics & Communication Engineering, College of Engineering, Muttathara.
+Dr.Nisha G K
+, Professor and Head, EED, MBCET, delivered a technical talk on Electric Vehicles on 25 May 2022 at 5:45 pm at The Institution of Engineers (India) Hall, Visvesvaraya Bhavan, Thiruvananthapuram.
+Shyju Susan Mathew
+delivered a talk on the topic Introduction to Robotics and its Applications on 04 April 2022, as part of the Faculty Development Programme on Robotics: Control and Applications – Phase I, organized by the Department of Electrical and Electronics Engineering, Mar Baselios College of Engineering and Technology (Autonomous), Thiruvananthapuram.
+Dr.Nisha G. K.
+, Professor and Head, EED, MBCET, delivered a talk on Electric Vehicles in the 20th Annual State Students Convention of ISTE, Daksha’22 hosted by Government Engineering College, Kannur on 08 January 2022 from 1.00 pm to 2.30 pm.
+Dr.Nisha G. K.
+, Professor and Head, EED, MBCET, handled a session on Electric Vehicles, for the Webinar organized by ISTE Kerala Section on 10 December 2021 at 10:30 am in Google Meet.
+Dr.Nisha G. K.
+, Professor and Head, EED, MBCET, delivered a talk on Electric Vehicles in the 20th Annual State Students Convention of ISTE, Daksha’22 hosted by Government Engineering College, Kannur on 08 January 2022 from 1.00 pm to 2.30 pm.
+Manju Ann Mathews
+delivered a talk on the topic “Energy Storage Technology for Renewable Integration” on 18 February 2021, as part of the Faraday talk Series organized by the Department of Electrical Engineering, College of Engineering Thiruvananthapuram.
+Jomole Joseph P.
+delivered an expert talk on “Problem Identification – Design Thinking” for first year students of EEE, MBCET on 8 January 2021, for CE students on 22 January 2021 and for other branches on 27 January 2021, as part of Expert talk session of Life Skill.
+Archana A. N.
+delivered a talk on “Distribution System Reliability Evaluation” in the Faraday talk Series organized by the Department of Electrical Engineering, College of Engineering Thiruvananthapuram on 21 January 2021.
+F. R. Rejish Babu
+delivered a talk on “Home Energy Audit” for the NSS volunteers of MBCET on 12 January 2021, as part of a 7-day special camp conducted by National Service Scheme MBCET Unit.
+Dr.Nisha G. K.
+delivered a talk on “PWM and Space Vector Modulation Three Phase Inverters” for S5 students of ECE, MBCET on 5 December 2020 as part of Expert talk session of Power Electronics and Instrumentation.
+Shyju Susan Mathew
+delivered a talk on “Introduction to Robotics and Control” in the Faraday Talk Series organized by the Department of Electrical Engineering, College of Engineering Trivandrum on 24 September 2020.
+Elizabeth Varghese
+delivered a talk on Design of Fractional Order Controllers in the Faraday Talk Series organized by the Department of Electrical Engineering, College of Engineering Trivandrum on 17 September 2020.
+Shalu George K.,
+and
+Ms. Shyju Susan Mathew
+handled a session of a 1-day Webinar on Introduction to Robotic Control on 03 July 2020 organized by Department of Mechanical Engineering, Adi Shankara Institute of Technology in association with ASME Students Section.
+Dr.Nisha G.K.
+delivered an expert talk on “Three Phase Transformer” at Marian Engineering College on 20 November 2019.
+Dr.Nisha
+G. K.
+delivered an expert talk on “Finite Element Analysis” for S8 EEE students of MBCET on 15 November 2019.
+Dr.Nisha
+G. K.
+gave an expert talk on “Future scope in Electrical Engineering” at Marian Engineering College, Kazhakuttam on 7 August 2019.
+Dr.Nisha G. K.
+gave an invited talk on Electric and Hybrid Vehicles at Marian Engineering College on 9th October 2018.
+Interactions in connection with Research
+Faculty:  Dr. Nisha G K
+1
+KTU Ph D Guideship
+Name of the Scholar
+:
+Ms. Sandhya P (MBCET)
+2
+External Doctoral Committee Member for the research scholar under Anna University Chennai
+Name of the Research Supervisor
+:
+Dr. M  Marsaline Beno
+Name of the Scholar
+:
+Mr. Saravanan
+3
+External Doctoral Committee Member for the NDF research scholar under APJ KTU (2018-19 Even Semester admission)
+Name of the Research Supervisor
+:
+Dr. Shiny G.
+Dr. David Solomon George
+Name of the Scholar
+:
+A Gouri
+5
+External Doctoral Committee Member for the research scholar under APJ KTU
+Name of the Research Supervisor
+:
+Dr. Shiny G
+Name of the Scholar
+:
+SHANI S J
+6
+Internal Doctoral Committee Member for the Research Scholar under APJ KTU
+Name of the Research Supervisor
+:
+Dr. Jayakumari J (KTU-F33227)
+Name of the Scholar
+:
+Ms. Parvathy Prathap
+7
+External Doctoral Committee Member for the research scholar under APJ KTU
+Name of the Research Supervisor
+:
+Dr. MINI V P (KTU-F22138)
+Name of the Scholar
+:
+Ms. Nikhila M P
+8
+External Doctoral Committee Member for the research scholar under APJ KTU
+Name of the Research Supervisor
+:
+Dr. MINI V P (KTU-F22138)
+Name of the Scholar
+:
+Ms. Vijayasree G
+9
+External Doctoral Committee Member for the research scholar under APJ KTU
+Name of the Research Supervisor
+:
+Dr. Godwinraj D
+Name of the Scholar
+:
+Ms. C Sreeja
+10
+External Doctoral Committee Member for the research scholar under APJ KTU
+Name of the Research Supervisor
+:
+Dr Harikumar R
+Name of the Scholar
+:
+Ms. Monish M
+11
+Subject expert and question paper setter for the Comprehensive Viva voce of Research Scholar Ms. NAMITHA MURALI under the supervision of Associate Professor Dr. Mini V P, Professor, Department of Electrical and Electronics Engineering, College of Engineering Trivandrum
+12
+Subject expert and question paper setter for the Comprehensive Viva voce of Research Scholar Ms. Lekshmi S under the supervision of Dr. Lal Priya P S Associate Professor, Department of Electrical and Electronics Engineering, College of Engineering Trivandrum
+13
+Dr. Nisha G K was selected as KTU curriculum Committee member from 2019 to 2021.
+14
+Internal Doctoral Committee Member for the Research Scholar under APJ KTU
+Name of the Research Supervisor
+:
+Dr. Sheryl Arulini A (KTU-F42539)
+Name of the Scholar
+:
+Ms. Rinku R S
+Faculty: Dr. Shalu George K
+Internal Doctoral Committee Member for the Research Scholar under APJ KTU
+Name of the Research Supervisor   :  Dr. G K Nisha
+Name of the Scholar                           :  Ms. Sandhya P (MBCET)
+Industry-Institute collaboration Initiatives
+The Department of EEE has initiated an EV Research cell. For its activities, collaboration with different companies and agencies such as Vydyuthi Energy Services, Charge MOD, Energy Management Centre (EMC) has been initiated. The Research Cell aims to create awareness about e-mobility, EV Technologies and enhance R&D works and career opportunities for faculty and students in this emerging area. Planned activities include internship, workshops, STTPs, project support to the student project groups with support from Faculty, Industrial experts and Domain experts, which may open the base for major projects and research later. The final objective of the cell is to develop an EV model and a charging station in the campus by Faculty and students. Ms. Jomole Joseph was given charge to coordinate the activities and be the Point of Contact with the collaborating industries/Agencies. The team includes Dr. Nisha G K, Ms. Archana A N, Ms. Shilpa George and Mr. Ajish Ashok under the guidance and support of Vice Principal, Prof. Viswanath Rao and Principal, Dr. Abraham T Mathew.
+The Institution is paving the path ahead for the students in Electric Vehicles by setting up an Electric Vehicle (EV) Skill Development Lab on the campus as a part of the Kerala Electric Vehicle Community initiative. By promoting EV capacity-building programs among the faculties and students, the college is set to be a role model in the education sector in preparing future graduates to be a #SustainableArmy to fight against climate change. Vydyuthi Energy Services in association with Chargemod delivered an E-Rickshaw for the lab as a part of their EV Community Development Program initiative.
+Internship Programmes and Activities
+July 2024 – February 2025
+DEPARTMENT OF EEE-INTERNSHIP DETAILS FOR THE ACADEMIC YEAR 2024-’25
+(July 2024 – February 2025)
+SUMMARY SHEET
+Sl No
+Batch & Class
+Total number of students who attended internships during the AY 2022-’23
+Total strength of the class
+Percentage
+1
+2024 -’28 Batch EE
+0
+58
+0.0
+2
+2024 – ’28 Batch EL
+0
+63
+0.0
+3
+2023 -’27 Batch EE
+30
+62
+48.4
+4
+2023 – ’27 Batch EL
+34
+62
+54.8
+5
+2022 -’26 Batch EE
+14
+48
+29.2
+6
+2022 – ’26 Batch EL
+17
+43
+39.5
+7
+2021-’25 Batch EE
+1
+50
+2.0
+Overall Percentage
+96
+386
+24.9
+2021-’25
+DEPARTMENT OF EEE-INTERNSHIP DETAILS FOR THE ACADEMIC YEAR 2024-’25
+BATCH:
+2021-’25
+CLASS:
+EE
+Sl No
+Industry/Organisation
+Dates of the Internship Programme & no of days
+Names of students attended
+Total number of students attended
+1
+YBI Foundation
+6/6/2024-20/6/2024 & 15 days
+Adarsh H.
+1
+2022-’26
+DEPARTMENT OF EEE-INTERNSHIP DETAILS FOR THE ACADEMIC YEAR 2024-’25
+BATCH:
+2022-’26
+CLASS:
+EE
+Sl No
+Industry/Organisation
+Dates of internship programme and no of days
+Names of the students attented
+Total number of students attended
+1
+KSEB:- Transformer maintainance and repairing unit, Thirumala
+1/7/24 – 5/7/24 (5 days)
+Merlin Raji
+1
+2
+KSEB Substation,Paruthippara
+8/7/24 – 12/7/24 ( 5 days)
+Ronn Koshy, Athul Krishna P, Madhav Madhusoodan,Aaron Joseph
+4
+3
+KSEB 110 KV Substation,
+Thirumala, TVM
+01-07-2024 to 05-07-2024
+(5 days)
+Jaish J S, Karthik K, Thejas Krishna A L,
+Vaishnav K
+4
+4
+KSEB 110KV Substation,
+Medical College, TVM
+02-07-2024 to 06-07-2024
+(5 Days)
+Devika B A, Rohith Babu S, Sachith S Santhosh, Sriparvathi SP,  Suryanarayanan S
+5
+DEPARTMENT OF EEE-INTERNSHIP DETAILS FOR THE ACADEMIC YEAR 2024-’25
+BATCH:
+2022-’26
+CLASS:
+EL
+Sl No
+Industry/Organisation
+Dates of the Internship Programme & no of days
+Names of students attended
+Total number of students attended
+1
+VSSC Thiruvananthapuram
+9/12/24 – 23/12/24 (11 days)
+Rachel Antony P
+1
+2
+Revertech IT solutions
+4/01/2025 – 8/01/2025
+Srevya S Deep, Thamanna Prasanth, M S Manas,Mohammed Afroz,Tiya Mathew,Sourav V Nair, Ujwal Reji
+7
+3
+Keltron
+9/12/14-16/12/24
+Adithya S Pillai,Anand S Ganesh,Berni Albert,Dhanush Krishnan A U,Kurias Mathew,Nanda V S,Niranjan B,Philip B George,Vishak B Shrinivas
+9
+4
+LogicPlum
+4/12/2024-31/12/2024
+Milan S
+1
+2023-2027
+DEPARTMENT OF EEE-INTERNSHIP DETAILS FOR THE ACADEMIC YEAR 2024-’25
+BATCH:
+2023-2027
+CLASS:
+EE
+Sl No
+Industry/Organisation
+Dates of the Internship Programme & no of days
+Names of students attended
+Total number of students attended
+1
+110KV Substation, Paruthippara
+27-11-24 to 02-12-2024                 (5 days)
+Akshitha Mohan R V,Bhagya R Nair , Arpitha R N, Anna Koshy,Anupama M , Shreya Ann Jacob
+6
+2
+KSEB 110kV SUB-STATION (PARUTHIPPARA)
+17/12/24 to 21/12/24 (5 Days)
+Aadhikesh S, Deepak N.S.,Feba Maria Nelson, Gautham Krishna M, Lesin Lama Levan, Udit Krishna
+6
+3
+KSEB 110kV SUB-STATION (PARUTHIPPARA)
+6/12/24 to 11/12/24 (5 Days)
+Jonath Vinamsi,Allen Anil,Alin Stanly,Nandana Priya P,Aromal P Nair,Meghna P ,Adith.M
+7
+4
+KSEB 110kV Substation, Medical College
+9/12/2024 to 13/12/2024 (5 Days)
+D Maheshwar, Dheeraj R.S, Festin Fleenton Pereira, Harisaran S.P
+4
+5
+Smart City Thiruvananthapuram Ltd
+26/12/24 – 4/1/25
+Christopher George, Adarshkumar, Pranav B, Anudeep Krishna, Jeevan B
+5
+6
+Vizhinjam International Seaport Ltd
+17/12/24 to 21/12/24  (5 days)
+Hiran H.       Niranjan B.
+2
+DEPARTMENT OF EEE-INTERNSHIP DETAILS FOR THE ACADEMIC YEAR 2024-’25
+BATCH:
+2023-2027
+CLASS:
+EL
+Sl No
+Industry/Organisation
+Dates of the Internship Programme & no of days
+Names of students attended
+Total number of students attended
+1
+AT group at MBCET & IEEE EMBS Kerela Chapter
+1st to 12th July 2024 , 10 days
+Sooraj R Pillai, Abhishek J, Hanok, Manuraj
+4
+2
+Keltron
+12th to 26td Dec 2024, 2 weeks
+Adithyan J, Saurav G Nair,
+Sooraj R Pillai, Sreeram R Nair,
+Advaith Renjith
+5
+3
+Keltron
+6th to 12th Dec 2024, 1 week
+Prathyusha N Nair
+1
+4
+Keltron
+10th to 16th Dec 2024, 1 week
+Niranjan Babu J
+1
+5
+Equgit Solutions Technopark
+19th Dec 2024 to 19th Jan 2025, 30 days
+Adithya S Krishna, Shibin S R, Gouri Nandhana
+3
+6
+ICT ACADEMY,Technopark
+16th Dec 2024 to 12th Jan 2025,1 month
+Amal S Shafeek,Aneeta Sibi,Anna Susan George,Ardra S,Bhadra G Nair,Hanok Samuel Boban,Jayasree G Kalkura,Manuraj M S,Meenakshi M S,Namitha Mohan
+Sabeeh Ahamed P S
+11
+7
+110 KV Substation Paruthippara
+30th Dec 2024 to 3rd Jan 2025,5 days
+Ashtami Viswanath,V S Sivapriya
+2
+8
+KELTRON
+09-07-2024 TO 15-07-2024
+Dhiya K., Deepthe S. ,Ryan Mathew Mannual,Aman Khan,Abraham Jacob
+5
+9
+ALGOL SOFT TECH PRIVATE LIMITED
+2.12.24 to 14.12.24
+Ardra S & Bhadhra G Nair
+2
+DEPARTMENT OF EEE
+INTERNSHIPS MORE THAN ONE WEEK FOR THE ACADEMIC YEAR 2024-’25  (July 2024 to February 2025)
+Sl No
+Industry/Organisation
+Dates of the Internship Programme & no of days
+Names of students attended and Semester
+Total number of students attended
+1
+YBI Foundation
+6/6/2024-20/6/2024 & 15 days
+Adarsh H. – S7 EEE
+1
+2
+AMAZON WEB SERVICES
+8-07-2024 to 04 Sep 2024   & 1 month
+Varsha Rachel George,Rachel Antony,Sinta Maria Richard,Santra Anna Richard,Josna Jomon (S5 EL)
+5
+3
+AT group at MBCET & IEEE EMBS Kerela Chapter
+1st to 12th July 2024 , 10 days
+Sooraj R Pillai, Abhishek J, Hanok, Manuraj,V.S Sivapriya,Ashtami Vishwanath (S3 EL)
+6
+Internship details of students
+Academic Year
+Total number of students who attended internships
+2021-22
+92
+2020-21
+88
+2019-20
+89
+Internship Programmes
+An introductory webinar session on “Zero-Watt smart energy monitor” was conducted for EEE students by Mr. Ansha Naji, Senior Manager, Business Development, NTPC and Technical Head, Alpha Geek Enterprises on 12/02/2022 from 10:45 am – 11:30 am. This was held as a part of the internship program on “Zero-Watt Technology” to be offered by Alpha Geek for EEE students. The interns will get an extensive exposure to the technical, business and marketing aspects for a start-up. Ms C. Sojy Rajan, Assistant Professor, EED was the coordinator of the event.
+A 5-day internship programme on Motion Control using LabVIEW was conducted from 17/07/18 to 21/07/18. Mr. Shino G. Babu, TIERA Trivandrum was the resource person. 24 students successfully completed the programme. The programme was coordinated by Ms. C. Sojy Rajan, Assistant Professor.
+Consultancy
+Consultancy details for academic year 2024 – 2025
+Project Title
+Duration
+Funding Agency
+Amount
+Space Avionics Test and Evaluation Laboratory
+1 year
+VSSC
+44,000
+Electrical Maintenance Cell
+1 year
+MBCET
+1,44,000
+Total Amount
+188,000/-
+Completed Consultancy Work:
+The Department of Electrical and Electronics Engineering has completed an industry sponsored research consultancy project, the details of which are as follows.
+Title
+:
+Orbital Debris Propagation and Proximity Awareness
+Client
+:
+THESPACELABS
+, Thiruvananthapuram (Ref. No.: MBT/PO/EED-RC/2022)
+Duration
+: 6 months
+Project Coordinator
+: Dr. S Ushakumari, Dean Corporate Relations
+Research Assistant
+: Ms. Amala Justin
+Project in-charge
+: Ms. Elizabeth Varghese, Assoc. Professor, Dept. of Electrical and Electronics Engineering, Mr. Aswin R B, Assistant Professor, Dept. of Electrical and Electronics Engineering.
+Project cost
+: Rs. 2 Lacs
+Vision
+To be a Centre of Excellence in Electrical & Electronics Engineering Education, Research and Application of knowledge to benefit the society at large.
+Mission
+To mould quality Electrical Engineers, fostering creativity and innovation to address global issues.
+BoS
+Department Advisory Board
+The People
+Facilities
+News and Events
+Activities
+Conferences
+Workshops & Seminars
+Research & Consultancy
+Placement
+B. Tech PEOs, POs & PSOs
+Opportunities
+Curriculum & Syllabus
+Time Table
+Video Lectures
+Former HODs
+Department Google Site

@@ -1,0 +1,229 @@
+Dr. Jayakumari J. – Mar Baselios College of Engineering And Technology
+Skip to content
+The UGC has conferred Autonomous status in July 2020,Affiliated to APJ Abdul Kalam Technological University. Degree awarded by KTU.
+||"Ph. D Admissions Open"||
+||"B.Tech admissions 2025 Rank List published"||
+Home
+>
+Electronics & Communication Engineering
+>
+Dr. Jayakumari J.
+Employee Code / ID No.
+10417056
+Qualifications
+B.E, M.Tech., PhD
+Orcid ID
+https://orcid.org/0000-0001-9500-7907
+Industry / R & D Experience
+—-
+Email ID
+[email protected]
+Alternate E-mail ID
+[email protected]
+Mobile No (Optional) / Intercom Extension No.
+9442408881
+Areas of Interest / Current Research
+Wireless communication, Signal processing
+Research, Consultancy, Publication
+No: of PhDs produced: 12
+No. of scholar presently under guidance:7
+No: of papers published:
+International Journals :56
+National Journal :3
+International Conferences :28
+National Conferences :10
+Publication details
+International Journal 2025
+Lakshmi, J.L.,
+Asst. Prof,
+Jayakumari J
+, Professor & International liaison officer, dept. of ECE, Optimized Belief Propagation Decoder Using One’s Complement Processing Element for Polar Codes in 5G NR. Natl. Acad. Sci. Lett. (2025, SCIE Indexed).
+International Journal 2024
+L. Lakshmi, J. Jayakumari,
+“A reduced complexity rate matching and channel interleaver/ de-interleaver for 5G NR,” Engineering Research Express, vol.6, April 2024 (Scopus Indexed)
+International Journal 2023
+Jayakumari J
+, Femina Jalin “LASSO Based Acoustic modelling for Tamil text to Speech Synthesis”, Kongzhi yu Juece/Control and Decision, pp. 1933-1945. (Scopus indexed)
+Prathap P, Jayakumari J, “An improved neural network-based saliency detection scheme for light field images,” Multimed Tools Appl (2023).
+doi:10.1007/s11042-023-17683-x
+(SCIE indexed published online).
+L. Lakshmi, J. Jayakumari,
+“A Novel Resource Sharing Channel Interleaver for 5G NR,” Advances in Electrical and Computer Engineering, vol.23, no.4, pp.61-68, 2023, doi:10.4316/AECE.2023.04007 (SCIE Indexed published online).
+International Journal 2022
+Shahin M. Abdulla,
+Jayakumari J.
+, “Improving Time-Frequency Sparsity for Enhanced Audio Source Separation in Degenerate Unmixing Estimation Technique Algorithm” ,
+Journal of Control and Decision
+(Emerging Sources Citation Indexed), May 2022.
+Revathy Sivanandan and
+Jayakumari J.
+, “Development of a Novel CNN Architecture for Improved Diagnosis from Liver Ultrasound Tumor Images”,
+International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems
+, Vol. 30, No. 2 (2022) 189–210. (SCI Indexed Journal).
+International Journals 2021
+Sivanandan, R., Jayakumari, J. Ultrasound liver tumour active contour segmentation with initialization using adaptive Otsu based thresholding. Res. Biomed. Eng. (2021). https://doi.org/10.1007/s42600-020-00118-z
+Shahin M Abdulla, Jayakumari, J High Clarity speechseperation using synchroextracting transform. International Journals of Electrical & Computer Engineering (2088-8708) 2021.
+Revathy Sivanandan, Jayakumari, J Ultrasound liver tumour active contour segmentation with initialization using adaptive Otsu based thresholding. Research on Biomedical Engineering. (2021).
+Revathy Sivanandan, Jayakumari, J A new CNN architecture for efficient classification of ultrasound breast tumor image with activation map clustering based prediction validation. Medical & Biomedical Engineering & Computing. (2021).
+2020
+Syama Sasikumar and Jayakumari J, “Genetic Algorithm based Joint Spectral-Energy Efficiency optimization for 5G Heterogeneous Network”, International Journal of Electronics, Taylor and Francis online Sep 2020(online),ISSN No.1362-3060.
+Syama Sasikumar and Jayakumari J, “A novel method for the optimization of Spectral -Energy efficiency tradeoff in 5 G heterogeneous Cognitive Radio Network” Computer Networks, Elsevier June 2020(online),Vol. No.180,ISSN No.1389-1286.
+Revathy Sivanandan and J. Jayakumari,”Neutrosophic Texture-Region Difference-Based Fuzzy C-Means Clustering Of Ultrasound Tumor Images” Biomedical Engineering: Applications, Basis and Communications, Vol. 32, No. 6 (2020) 2050049,DOI: 10.4015/S1016237220500490
+2019
+Chandrakala and Jayakumari.J, “Mathematical modeling and analysis of Hierarchical modulation in AWGN and Rayleigh channel” International Journal of Wireless and Mobile Computing, Interscience publishers ,Vol.16,No.1,2019 [ISSN 1741-1092].
+Shahin M Abdulla and Jayakumari.J,”Degenerate unmixing estimation technique of speech mixtures in real environments using wavelets” International Journal of Electronics Letters, Taylor and Francis, June 2019.
+Femina Jalin and Jayakumari.J,”A novel text to speech technique for Tamil language using hidden markov models” International Journal of Innovative Technology and exploring Engineering, August 2019
+2018
+Sreeja T.K.and Jayakumari. J ,”Design and Analysis of Compact T Shape Slotted Patch Antenna for 4G WiMAX Applications” Int. J. Enterprise Network Management, Vol. 9, No. 1, 2018 (IJENM). [ISSN : 1748-1260].
+Chandrakala and Jayakumari.J, “An Efficient Hierarchical Modulation based OFDM transmission Scheme for digital video Broadcasting” International Journal of Engineering (IJE) Transactions A: Basics Vol. 31, No. 4, (April 2018) [ISSN: 1728-1431].
+Jayakumari.J and Rakhi K.J, “Efficient OFDM transceiver design for VLC systems in fading channel” International Journal of Engineering & Technology(UAE), 7 (1) (2018) 245-248 [ISSN: 2227-524X]
+2017
+Sowmy. I, J. Jayakumari ,” “An Efficient Radon Mapped Discrete Wavelet Transform Based Algorithm for MC-CDMA System.” International Journal of Enterprise Network Management (IJENM), vol.8, No.2,pp.155-165,2017. [ISSN : 1748-1260].
+J.E.Judith and Jayakumari.J, “Distributed Document Clustering Analysis based on a hybrid method” China Communications, Vol: 14, Issue: 2, pp.131-142, February 2017 DOI: 10.1109/CC.2017.7868161,Publisher: IEEE [(ISSN 1673-5447](SCI indexed).
+Sreeja T.K, B.C.Brightlin, S.Balamurugan and Jayakumari. J ” Multiband Layered Patch Antenna Using Nanoengineered Dielectric Substrate, BaFe12O19″ Advanced Science, Engineering and Medicine, Vol.9,No.2, Feb 2017(ASEM) [ISSN : 2164-6627].
+Jayakumari.J and Jane Sofia. J,”FPGA Implementation of concatenated LT and LDPC coder for Deep Space Applications” Far east Journal of Electronics & Communications vol 17 No:2 ,pp 409-422,2017 [ISSN 0973-7006].
+Dhanya G and J.Jayakumari,”Speech scrambling based on chaotic mapping and random permutationr for modern mobile communication systems” APTIKOM Journal on Computer Science and Information Technologies, Vol.2, No:1,2017 [ISSN:2528-2425]
+2016
+Dhanya G and Dr. J. Jayakumari “Improved OFDM based speech scrambler for next generation mobile systems”, Research Journal of Applied Sciences, Vol 11 No 5, Pages:224-228,2016 [ISSN : 1815-932X].
+A. Anitha and Jaya Kumari.J, ” Rate Adaptation Schemes in WLANs ” International Journal of Enterprise Network Management (IJENM), Vol.7, No.3,pp.191-206, 2016. [ISSN : 1748-1260].
+Ganesh R .S, Jayakumari J, “Performance Evaluation of DFT Based Channel Estimation in MIMO-OFDM System” International Journal of Enterprise Network Management (IJENM),vol. 7, no.2, pp.142-151,2016. [ISSN : 1748-1260].
+Sreeja T.K.,Stalin.A.J and Jayakumari. J “Performance analysis of single element and two elements U- shaped slotted patch multiband antenna for 4G Communication Systems” International Journal of Enterprise Network Management (IJENM), vol 7, no.2, pp.161- 171,2016. [ISSN : 1748-1260].
+Ganesh R .S, Jayakumari J, “An efficient pilot carrier channel estimation using genetic algorithm in 4G MIMO-OFDM System” ARPN Journal of Engineering and Applied Sciences, Vol.11, No:9,pp.5767-5772, May 2016 [ISSN:1819-6608].
+A. Anitha and Jaya Kumari.J, ” A guaranteed time and rate control method for improving QoS in WLAN “American Journal of Applied Sciences, Vol.13, no:3,pp.251-260, Mar 2016. [ISSN : 1554- 3641].
+Dhanya G and Dr. J. Jayakumari “An Efficient Voice Scrambling Technique For Next Generation Communication Systems”, International Journal of Engineering and Technology, Vol 8 No 1 Feb Mar 2016,pages:293-297[e-ISSN : 0975-4024].
+Dhanya G and Dr. J. Jayakumari “Permutation based speech scrambling for next generation mobile communication”, International Journal of Engineering and Technology, Vol 8 No 2 Apr May 2016, Pages:707-713 [e-ISSN : 0975-4024].
+Dhanya G and J.Jayakumari,”Secure speech communication using improved OFDM scrambler for next generation mobile communication systems” ARPN Journal of Engineering and Applied Sciences, Vol.11, No:1,pp.706-711, Jan 2016 [ISSN:1819-6608].
+K. S. Angel Viji and J. Jayakumari, “Modified region growing segmentation optimized with genetic algorithm for MRI brain images” International Journal of Enterprise Network Management (IJENM), vol.7, no:1,2016,pp.55-69. [ISSN : 1748-1260].
+Dhanya G and Dr. J.Jayakumari “An Efficient speech scrambling technique based on chaotic mapping and pseudorandom binary scrambling”, International Journal of Control Theroy and applications,Vol.8, No.2,pp.9-15, 2016[ ISSN : 0974-5572] 16.
+K. S. Angel Viji and J. Jayakumari, “Modified Texture, Intensity And Orientation Constraint based Region Growing Segmentation Of 2D MR Brain Tumor Images” The International Arab Journal of Information Technology Vol.13,No:6A,pp.723-731, 2016. [ISSN:2309-4524] (SCI indexed).
+K. S. Angel Viji and J. Jayakumari, “A Brain abnormality detection and tissue segmentation technique by using dual mode classifier” The International Arab Journal of Information Technology Vol.13,No:6A,pp.740-747, 2016. [ISSN:2309-4524] (SCI indexed)
+2015
+R. S. Ganesh and J. Jayakumari, “A Novel GA-Optimized DFT Channel Estimation in MIMO-OFDM System,” International Journal of Control Theory and Applications, vol. 8, no. 5, pp. 2293– 2299, 2015 [ISSN : 0974-5572].
+Ganesh R .S, Jayakumari J,”Genetic algorithm based optimized channel estimation in MIMO OFDM system” Middle East Journal of Scientific Research 23 (11): pp. 2700-2705,2015 [ISSN:1990-9233].
+Vinila Jinny, S and Jaya Kumari. J “A Novel Mutual Feature CRF for Intrusion Detection System” International Journal of Enterprise Network Management (IJENM), Vol.6,No.4, 2015. [ISSN : 1748-1260].
+Sowmy. I, J. Jayakumari ,” “A Radon Mapped Discrete Wavelet Transform Based Algorithm with channel compensation for MC-CDMA System in fading channels.” International Journal of Control Theory and Applications, vol. 8, no. 5, pp. 2469–2478, 2015 [ISSN : 0974-5572].
+J.E.Judith and Jayakumari.J, “Distributed Document Clustering Algorithms: A Recent Survey” International Journal of Enterprise Network Management Vol. 6, No. 3, 2015, pp.207-221 [ISSN : 1748-1260].
+A. Anitha and J. Jaya Kumari,”A novel rate adaptation scheme for improving throughput in WLAN” International Journal of Applied Engineering Research ISSN 0973-4562 Volume 10, Number 70 (2015) pp. 45-53.
+J.E.Judith and Jayakumari.J “Optimized Distributed Text Document Clustering Algorithm” Advances in Intelligent and Soft Computing,Vol.325, pp. 565-574 Springer publication,2015. (DOI 10.1007/978-81-322-2135-7_60).
+A. Anitha and J. Jaya Kumari,”Vertical Handoff Scheme in Integrated WIMAX and WLAN Networks”, Advances in Intelligent and Soft Computing, Vol.325, pp. 513-520 Springer publication, 2015.
+Vinila Jinny, S and Jaya Kumari. J “Encrusted CRF in Intrusion Detection System” Advances in Intelligent and Soft Computing,Vol.325,pp.605-613 Springer publication,2015.
+K. S. Angel Viji and J. Jayakumari, “Modified LBP Based Region Growing Segmentation of MR Brain Images” Lecture notes in Electrical Engineering, Vol 326, pp 1453-1465, Springer publication 2015.
+J.E.Judith and Jayakumari.J, “ An efficient hybrid distributed document clustering algorithm ”Scientific Research and Essays,Vol 10(1), pp.14-22, Jan 2015 [ISSN:1992-2248].
+2014
+A.Anitha and Jayakumari.J, “Performance Analysis of EDCA under Light, Heavy and Variable Data Sources”,Advances in Intelligent Systems and Computing, Vol 255, 2014,pp 575- 583,DOI:10.1007/978-81-322-1759-6_66,Springer India[ISBN: 978-81-322-1759-6] 17.
+A.Anitha and Jayakumari.J, “ Performance analysis of WLAN under variable number of nodes using the adjustable parameters in EDCA” Journal of Theoretical and Applied Information Technology, Vol:60, no:2, Feb 2014[ISSN: 1992-8645].
+Dhanya G and J.Jayakumari,” A Review of Analog Speech Scrambling for Secure Communication” Progress In Science and Engineering Research Journal PISER 14, Vol.02, Issue: 04/06 July-August 2014; Page(s) 194-198 [ISSN 2347-6680].
+J. Jayakumari, “Optimum PRCC coded OFDM transceiver design for fading channels” Australian Journal of Basic and Applied Sciences,8(17) November 2014, Pages: 155-159 [ISSN:1991-8178].
+K. S. Angel Viji and J. Jayakumari, “Modified region growing segmentation optimized with genetic algorithm for MRI Brain images” Australian Journal of Basic and Applied Sciences,8(17) November 2014, Pages: 374-378 [ISSN:1991-8178].
+Jaya kumari.J, “Optimal MIMO-OFDM transceiver design for fading channels” International Journal of Applied Engineering Research ISSN 0973-4562 Volume 9, Number 24 (2014) pp. 26971-26986.
+Dhanya G and Jayakumari.J, Optimum speech scrambling technique for OFDM based system International Journal of Applied Engineering Research ISSN 0973-4562 Volume 9, Number 24 (2014) pp. 28871-28878.
+2013
+R.S.Ganesh and Jayakumari.J,” A Survey on Channel Estimation Techniques in MIMO-OFDM Mobile Communication Systems”, International Journal of Scientific and Engineering Research, Vol. 4, Issue 5, May 2013[ISSN 2229-5518].
+Angel Viji and Jayakumari.J “Texture based segmentation of MRI brain tumor images” International review on computers and software, Vol.8, No:9, Sep 2013 [ISSN 1828-6003].
+Vinila Jinny, S and Jaya Kumari. J “Comparative analysis of Intrusion Detection system with mining” International review on computers and software, Vol.8, No:10, Oct 2013[ ISSN 1828- 6003].
+J.E.Judith and Jayakumari.J “Enhanced distributed text document clustering based on semantics” International review on computers and software, Vol.8, No:10, Oct 2013 ISSN 1828-6003] 2012.
+Angel Viji and Jayakumari.J,”Performance Evaluation of Standard Image Segmentation Methods and Clustering Algorithms for segmentation of MRI Brain Tumor Images” European Journal of Scientific Research Vol.79 No.2 (2012), pp.166-179 [ISSN 1450-216X].
+J.E.Judith and Jayakumari.J, ”Performance Evaluation of an Effective Hybrid Distributed Document clustering Algorithm” European Journal of Scientific Research Vol.86 No.2 (2012), pp.283-297 [ISSN 1450-216X].
+2010
+Jaya kumari.J, “MIMO-OFDM for 4G wireless systems” International Journal of Engineering Science and Technology Vol. 2(7), 2010, 2886-2889 [ISSN:0975-5462]
+2009
+Jaya kumari.J and Sakuntala.S.Pillai, “A spectrally efficient method for reducing intercarrier interference in OFDM” International Journal of Electronics & Communication Engineering vol.2, no:1-2, 2009 [ISSN 0974-2166] 18
+2008
+Jaya kumari.J and Sakuntala.S.Pillai, “Interference Analysis of Partial Response Coded OFDM signals” Journal of Engineering and Applied Sciences vol.3, no:4,pp 363- 367, 2008 [ISBN: 1816-949X].
+Jaya kumari.J and Sakuntala.S.Pillai, “Bandwidth Efficient Signaling Scheme for OFDM” Far east Journal of Electronics & Communications vol 2 No:2 ,pp 109-119,Aug 2008 [ISSN 0973-7006]
+National Journals
+J.Abi Monish,J.E.Judith,J.Jayakumari, “Review on Distributed Text Clustering Algorithm Based On Optimization”Image Processing and networking,Vol.8,Special Issue IV,ISSN No.0973- 2993,Feb. 2014.
+R.Babitha, S.Vinila Jinny, J.Jayakumari, “ A novel approach to restructure a hacked classifier” Image Processing and networking,Vol.8,Special Issue I,ISSN No.0973-2993,Feb. 2014.
+R.Reshma Raj, S.Vinila Jinny, J.Jayakumari, “ Log file analysis using KHMM and NMF” Image Processing and networking, Vol.8,Special Issue II,ISSN No.0973-2993,Feb. 2014.
+Conferences
+International Conferences 2020
+Jayakumari.J, Jayashree M.J,Daniel C, Rohit Satheesan,Sandra Jeeva, Shamil Shamsudeen,”Portable EEG data acquisition system for BCI applications”, International Conference on IoT Based Control Networks and Intelligent Systems (ICICNIS 2020), Kottayam, Kerala, India, 10-11 Dec 2020.
+R. Sivanandan and J. Jayakumari, “An Improved Ultrasound Tumor Segmentation Using CNN Activation Map Clustering and Active Contours,” 2020 IEEE 5th International Conference on Computing Communication and Automation (ICCCA), Greater Noida, India,30-31, Oct 2020, pp. 263-268, doi: 10.1109/ICCCA49541.2020.9250909.
+Anjitha. I.N. and J. Jayakumari., “A Novel Technology for Efficient Channel Allocation in Cognitive Radio Networks Using Fuzzy Logic Controller,” 2020 4th International Conference on Trends in Electronics and Informatics (ICOEI)(48184), Tirunelveli, India, 15-17 June 2020, pp. 630-634, doi: 10.1109/ICOEI48184.2020.9142995.
+2019
+Jayakumari.J and Chandrakala K, “A low complexity zero threshold detector for bandwidth efficient hierarchical modulated system”,IEEE sponsored Amity International Conference on Artificial Intelligence,4-6, Feb 2019, Amity University, Dubai 19.
+Jayakumari.J and Femina Jalin,”An improved text to speech technique for Tamil language using hidden markov model” IEEE sponsored 7 th IInternational Conference on Smart Computing & Communications, 28-30 June 2019, Curtin University, Malaysia.
+Hadil Hashir, Jayakumari.J,” Pilot aided semi blind channel estimation utilizing intrinsic interference for MIMO-FBMC/OQAM systems” IEEE sponsored 2019 International Conference on Intelligent Computing, Instrumentation and Control Technologies,5-6 July 2019, Kanuur, Kerala, India.
+2017
+Shahin M Abdulla, Jayakumari.J, “DUET using automatic peak detection and histogram thresholding” 2017 IEEE International conference on circuits and systems, 20-21 Dec 2017,Thiruvananthapuram, Kerala,India [ISBN:978-1-5090-6480-9]
+A.Femina Jalin, Jayakumari.J,”Text to Speech synthesis system for Tamil using HMM”2017 IEEE International conference on circuits and systems, 20-21 Dec 2017,Thiruvananthapuram, Kerala,India [ISBN:978-1-5090-6480-9].
+Rakhi.K.J, Jayakumari.J,”Design of Flip-OFDM system for optical wireless communication” 2017 IEEE Sponsored International Conference on circuits Power and Computing Technologies, March 2017, Kollam, Kerala, India[ ISBN:978-1-5090-4966-0]
+2016
+Jane sofia.J, J. Jayakumari, “VLSI Implementation of efficient coder for deep space communication”2016 IEEE sponsored Online International Conference on Green Engineering and Technologies, Coimbatore, Tamil Nadu,India, Page(s): 1851 – 1856, 19,Nov. 2016 [ISBN: 978- 1-5090-4556-3]
+2015
+S. Divya, S.Vinila Jinny, J.Jayakumari, “An Efficient Real-Time Misbehavior Detector using Non Parametric Cumulative Sum (CUSUM) Test in WLAN”2015 IEEE sponsored Global Conference on Communication Technologies, N.I.C.H.E, Kanya Kumari, India, Page(s): 155 – 159, 23- 24,April 2015 [IEEE Catalog Number: CFP15B45-ART ], [ISBN: 978-1-4799-8553-1 ]
+M.Anugraha, Anitha, A. , Jayakumari, J, “Throughput optimization using cross layer flow based frame work in cooperative wireless Multihop networks ”2015 IEEE sponsored Global Conference on Communication Technologies, N.I.C.H.E, Kanya Kumari, India, Page(s): 366 – 370, 23- 24,April 2015 [IEEE Catalog Number: CFP15B45-ART ], [ISBN: 978-1-4799-8553-1]
+Salini. M. Chandran, J. Jayakumari, “Design of printed antenna for low SAR and multiband services”2015 IEEE sponsored Global Conference on Communication Technologies, N.I.C.H.E, Kanya Kumari, India, Page(s): 441 – 445, 23-24,April 2015 [IEEE Catalog Number: CFP15B45- ART ], [ISBN: 978-1-4799-8553-1 ]
+Jane sofia.J, J. Jayakumari, “Application of LT Code technology in deep space communication”2015 IEEE sponsored Global Conference on Communication Technologies, N.I.C.H.E, Kanya Kumari, India, Page(s): 458 – 463, 23-24,April 2015 [IEEE Catalog Number: CFP15B45-ART ], [ISBN: 978-1-4799-8553-1 ]
+Md.Atiullah Khan, Kailash Kr.Mishra, N.Santhi, J.Jayakumari, “A new hybrid technique for data encryption”2015 IEEE sponsored Global Conference on Communication Technologies, N.I.C.H.E, Kanya Kumari, India, Page(s): 925 – 929, 23-24,April 2015 [IEEE Catalog Number: CFP15B45- ART ], [ISBN: 978-1-4799-8553-1 ] 20
+2013
+Sowmy, I. ; Jayakumari, J. “ Simulation and analysis of MC-CDMA system using discrete wavelet transform” 2013 IEEE Conference on Information and communication Technologies(ICT 2013)Digital Object identifier: 10.1109/CICT.2013.6558305 Publication Year: 2013 , Page(s): 1314 – 1318.
+Angel Viji, K.S. ; Jayakumari, J. “Modified texture based region growing segmentation of MR brain images” 2013 IEEE Conference on Information and communication Technologies(ICT 2013) Digital Object Identifier: 10.1109/CICT.2013.6558183 Publication Year: 2013 , Page(s): 691 – 695.
+Rathiya, R. ; Anitha, A. ; Jayakumari, J. “Efficient QoS oriented vertical handoff scheme in the integration of WiMAX/WLAN networks ” 2013 IEEE Conference on Information and communication Technologies(ICT 2013) Digital Object Identifier: 10.1109/CICT.2013.6558124 Publication Year: 2013 , Page(s): 378 – 381.
+Narayanan, Neethi ; Judith, J.E. ; Jayakumari, J. “Enhanced distributed document clustering algorithm using different similarity measures”2013 IEEE Conference on Information and communication Technologies(ICT 2013) Digital Object Identifier: 10.1109/CICT.2013.6558155 Publication Year: 2013 , Page(s): 545 – 550
+2012
+Sreeja, T.K. ; Arun, A. ; Jaya Kumari, J. “,An S-Band Micro-strip Patch Array Antenna for nano-satellite applications” 2012 IEEE sponsored International Conference on Green Technologies Digital Object Identifier: 10.1109/ICGT.2012.6477994 Publication Year: 2012 , Page(s): 325 – 328.
+Sreeja, T.K. ; Sandhya, T.K. ; Radha, K. ; Jaya Kumari, J. “An efficient multiband antenna for satellite and 4G communication systems”2012 IEEE sponsored International Conference on Green Technologies Digital Object Identifier: 10.1109/ICGT.2012.6477993 Publication Year: 2012 , Page(s): 320 – 324
+2011
+Anitha, A, JayaKumari, Jand Venifa Mini. G, “A survey of P2P overlays in various networks” Proc. 2011 International Conference on Signal Processing, Communication, Computing and Networking Technologies, N.I.C.H.E, Kanya Kumari, India, Page(s): 277 – 281, 21-22, July 2011[IEEE Catalog Number: CFP1160N-ART ], [ISBN: 978-1-61284-653-8 ] Digital Object Identifier: 10.1109/ICSCCN.2011.6024559.
+Ganesh, R.S., Jayakumari. J and Akhila, I.P, “Channel Estimation Analysis in MIMO OFDM Wireless Systems”, Proc. 2011 International Conference on Signal Processing, Communication, Computing and Networking Technologies, N.I.C.H.E, Kanya Kumari, India, Page(s): 399 – 403, 21- 22,July 2011 [IEEE Catalog Number: CFP1160N-ART ], [ISBN: 978-1-61284-653-8 ] Digital Object Identifier: 10.1109/ICSCCN.2011.6024583.
+Sreeja T.K., Ashmi Mohammed and Jayakumari. J, “A skull stripping method based on modified morphological processing”, Proc. 2011 International Conference on Signal Processing, Communication, Computing and Networking Technologies, N.I.C.H.E, Kanya Kumari, India, Page(s): 313 – 316, 21-22,July 2011 [IEEE Catalog Number: CFP1160N-ART ], [ISBN: 978-1- 61284-653-8 ] Digital Object Identifier: 10.1109/ICSCCN.2011.6024566.
+Vaishnavi V. Nair, Judith, J. E.and Jayakumari, J, “Secured distributed document Clustering and key phrase extraction algorithm in structured peer to peer networks”, Proc. 2011 International Conference on Signal Processing, Communication, Computing and Networking Technologies, N.I.C.H.E, Kanya Kumari, India, Page(s): 151 – 156, 21-22,July 2011 [IEEE Catalog Number: CFP1160N-ART ], [ISBN: 978-1-61284-653-8 ] Digital Object Identifier: 10.1109/ICSCCN.2011.6024533 21.
+Angel Viji, K. S and Jayakumari. J, “ Automatic Detection of brain tumor based on magnetic resonance image using CAD system with watershed segmentation”, Proc. 2011 International Conference on Signal Processing, Communication, Computing and Networking Technologies, N.I.C.H.E, Kanya Kumari, India, Page(s): 145 – 150, 21-22,July 2011 [IEEE Catalog Number: CFP1160N-ART ], [ISBN: 978-1-61284-653-8 ] Digital Object Identifier: 10.1109/ICSCCN.2011.6024532.
+Vinila Jinny, S and Jaya Kumari. J, “Neuralized Intrusion Detection System”, Proc. 2011 International Conference on Signal Processing, Communication, Computing and Networking Technologies, N.I.C.H.E, Kanya Kumari, India, Page(s): 137 – 139, 21-22,July 2011 [IEEE Catalog Number: CFP1160N-ART ], [ISBN: 978-1-61284-653-8 ] Digital Object Identifier: 10.1109/ICSCCN.2011.6024530
+2010
+Sharmi.B. and Jaya kumari.J, “ VLSI based carrier frequency offset estimation in MIMO OFDM system” Proc. International conference on Advances in Information, Communication Technology and VLSI Design (ICAICV 2010) at PSG College of Technology , 6-7 Aug.2010.
+Sindhu.B.R and Jaya kumari.J, “Performance Analysis of Complex Wavelet Transform based OFDM system” Proc. International conference on Advances in Information, Communication Technology and VLSI Design (ICAICV 2010) at PSG College of Technology , 6-7 Aug.2010
+2007
+Jaya kumari.J and Sakuntala.S.Pillai, “Improved OFDM Transmission over Fading Channels” Proc. IEEE-International Conference on Signal Processing, Communication and Networking 2007, MIT Campus, Anna University, India, pp.326-330, 22-24 Feb 2007.[IEEE Catalog Number: 07EX1690C], [ISBN:1-4244-0997-7].
+Jaya kumari.J and Sakuntala.S.Pillai, “Optimal Coding Scheme for OFDM Transmission over Multipath Fading Channels” Proc. International Conference on Advanced Computing and Communication 2007, Madurai, India, pp.554-557, 9-10 Feb 2007.[ISBN:81-8371-066-2] .
+National Conferences
+2014
+M.Pavithra and Jayakumari.J, “Efficient Receiver design for OFDM system using two path conjugate transmission” Proc. Of VLES-14,Viswajyothi College of Engineering and Technology, Eranakulam, 25 April 2014
+2010
+Sindhu.B.R and Jaya kumari.J, “BER Estimation of OFDM System based on DT-CWT” Proc. of CoMNeT2010, Mar Baselios College of Engineering & Technology,Trivandrum,21-22 Dec2010.
+Sharmi.B. and Jaya kumari.J, “Frequency Offset Estimation Algorithms For MIMO OFDM System In Time domain” Proc. of CoMNeT2010, Mar Baselios College of Engineering & Technology,Trivandrum,21-22 Dec2010.
+Sharmi.B., Jaya kumari.J and Sakuntala.S.Pillai, “Performance Evaluation of MIMO-OFDM for 4GWireless Systems” Proc. of CoMNeT2010, Mar Baselios College of Engineering & Technology, Trivandrum, 21-22 Dec2010
+2009
+Reena.N.S and Jaya kumari.J, “Automatic mother Wavelet Selection Using Genetic algorithm for image compression” Proc. Of ADEECOM’09, SCADCET, Cherai, pp.117-122, 8-9 Apr 09
+2008
+Jaya kumari.J and Sakuntala.S.Pillai, “ Evaluation of OFDM for Fourth Generation Wireless Networks“Proc. 39th IETE Mid Term Symposium on Recent Advances in Broad band systems,12-13, Apr 2008
+2007
+Jaya kumari.J and Sakuntala.S.Pillai, “BER Performance of Partial Response Coded OFDM System in Rician Fading Channels” Proc. National Conference on Trends in Communication 2007, pp.24-28, 24-25 Jan 2007.
+2006
+Jaya kumari.J and Sakuntala.S.Pillai, “A new approach for error rate reduction in OFDM systems” Proc. 37th IETE Mid Term Symposium on Information Communication Technology Initiative for Rural Developments (ICTIRD-06), pp.23-I, 08-09 Apr 2006. 2005
+Jaya kumari.J and Sakuntala.S.Pillai, “Performance of multicarrier OFDM systems” Proc. 36th IETE Mid Term Symposium on Emerging and Futuristic Communication Systems (EFCoS-05), pp.347-352, 30 Apr-01 May 2005.
+Jaya kumari.J and Sakuntala.S.Pillai, “Orthogonal Frequency Division Multiplexing” Proc. 17th Kerala Science Congress, KFRI, Peechi, pp.139-142, 29-31 Jan 2005.
+Ph.D Research Guidance ( Research Scholar, E-mail ID, Research Topic/ Tentative Thesis Tittle)
+University, Trivandrum Ongoing
+Lakshmi J L/R20EC01 Efficient VLSI implementation of channel coding scheme for 5G NR January 21 APJ Abdul Kalam Technological University, Trivandrum Ongoing
+Academic / Professional Outreach Activities
+Professional Society Activities:
+Chair, IEEE India Circuits and Systems Society Chapter(2016-19)
+Member, Academic Council, The Council of Engineering and Technology(India)
+Executive Committee member, IEEE India Solid State Circuits(SSC) Society( 2014-15)
+Executive Committee member, IEEE Communication Society Madras Chapter
+IEEE Student Branch Counselor, Noorul Islam University (Branch code:STB 60881) from Aug.2010 till July 2017.
+IEI Student Branch Advisor, Dept. of ECE, Noorul Islam University (Branch code:629180/NICH/EC) from Aug. 2010 till July 2017
+Membership in Professional bodies/ organizations
+Membership of International/ National Professional Bodies:
+Senior Member of Institution of Electrical and Electronics Engineers (IEEE) (Membership No: 85021230)
+Fellow Member, The Council of Engineering and Technology(India) (Membership No:30002)
+Fellow Member of Institution of Engineers (India) (Membership No: F-1197467)
+Fellow Member of Institution of Electronics and Telecommunication Engineers (IETE) (Membership No: F177634)
+Life Member of Indian Society for Technical Education (ISTE) (Membership No: LM44049)
+Member, The Society of Digital Information and Wireless Communications (SDIWC) (Membership No:11014)
+Chartered Engineer of Institution of Engineers (India) (Membership No: M-145064-0)
+Community Outreach Activities
+Ececutive member, Christian fellowship for social service, Nagercoil
+Awards / Distinctions / Rank / Other Achievements if any
+—–
+ANNOUNCEMENTS
+Exam Notifications
+New
+M.Tech Admissions 2025
+New
+B. Tech Admissions 2025
+New
+MBCET e-bulletin
+New

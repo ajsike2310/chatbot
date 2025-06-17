@@ -1,0 +1,53 @@
+National Workshop on Advanced Deep Learning – Mar Baselios College of Engineering And Technology
+Skip to content
+The UGC has conferred Autonomous status in July 2020,Affiliated to APJ Abdul Kalam Technological University. Degree awarded by KTU.
+||"Ph. D Admissions Open"||
+||"B.Tech admissions 2025 Rank List published"||
+Deep Learning percolates into the various facets of technology. The technology enables computers to capture concept level features hidden in the input data. The methods based on deep learning have a significant impact in the performance of algorithms used for speech recognition, image and video processing, text analysis and medical image processing. This workshop aims towards promoting research, assist to educators and designers in the field of deep learning. The workshop sessions and hands-on will enable participants to understand the basics of deep learning and the various deep learning architectures. The sessions will be handled by eminent members from Bennett University.
+THE PROGRAMME WILL COVER THE FOLLOWING TOPICS IN DETAIL AND HANDS-ON ON:
+Hands On with Python
+Basics of Convolutional Neural Networks
+Deep Learning Techniques for Medical Image Processing
+Introduction to Recurrent Neural Networks
+Hands On with Tensorflow 2.0
+Hands On with PyTorch
+Unsupervised Deep Learning
+Deep Generative Models: Autoencoders, Variational Autoencoders, GANs
+Advanced Deep Learning Topics in CNN
+Advanced Deep Learning Topics in RNN
+Deep Learning Model Optimization
+Neural Architecture Search (NAS): AutoML, Auto Keras, Multi-objective Approaches
+ELIGIBILITY
+This workshop is open to the faculty members from AICTE/UGC approved academic institutions, Research Scholars, IT Professionals and PG students.
+REGISTRATION FEE
+The registration fee for participants including GST has been given below
+Industry: 4000
+Faculty: 3500
+Research Scholar and PG students : 3000
+Session Coverage –
+click here
+Workshop Brochure –
+click here
+Registration link –
+click here
+Event Timing: May 20th – 22nd, 2019
+Organized by: Department of Computer Science and Engineering
+Venue: Mar Baselios College of Engineering and Technology, Thiruvananthapuram, Kerala
+Ms. Jesna Mohan Assistant Professor
+Department of CSE
+MBCET  Phone: 9497467715
+Mr. Ramjith R P
+Assistant Professor
+Department of CSE
+MBCET  Phone: 9746314160
+Email:
+[email protected]
+ANNOUNCEMENTS
+Exam Notifications
+New
+M.Tech Admissions 2025
+New
+B. Tech Admissions 2025
+New
+MBCET e-bulletin
+New

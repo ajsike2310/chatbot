@@ -1,0 +1,134 @@
+Dr. Dishore S V – Mar Baselios College of Engineering And Technology
+Skip to content
+The UGC has conferred Autonomous status in July 2020,Affiliated to APJ Abdul Kalam Technological University. Degree awarded by KTU.
+||"Ph. D Admissions Open"||
+||"B.Tech admissions 2025 Rank List published"||
+Home
+>
+Electrical and Electronics Engineering
+>
+Dr. Dishore S V
+Employee Code / ID No.
+10322061
+Qualifications
+Ph.D (Power Electronics for Renewable Energy Applications)
+Orcid ID
+0000-0002-7581-2164
+Industry / R & D Experience
+Nil
+Email ID
+[email protected]
+Alternate E-mail ID
+[email protected]
+Mobile No (Optional) / Intercom Extension No.
+0471-2534242,7708757675/408
+Areas of Interest / Current Research
+Mutiport Converters, Multilevel inverters, reliability evaluation of Power Converters, Python for Power Electronics, IoT based fault tolerant systems/Deep learning algorithms for Battery management systems in Electric Vehicle.
+Research,  Consultancy, Publication
+Iqubal, M., sathiyan, P., Dishore S V.
+et al.
+Design of a modular converter in hybrid EV charging station with efficient energy management system.
+Electrical Engineering
+(2023). https://doi.org/10.1007/s00202-023-01822-6.
+CV A, Misron N, Saadha A, Azhar F, Stonier AA, Shunmugham Vanaja D. System design, analysis, and experimental investigations of linear switched reluctance machines with double mover configuration.
+Journal of Vibration and Control
+. 2023;0(0). doi:
+10.1177/10775463231172547
+CV Aravind, Misron N, Saadha A, Azhar F, Stonier AA, Dishore S V, “System Design, analysis and experimental investigations on Linear Switched Reluctance Motor with double mover configuration” in the Journal of Vibration and Control (SAGE Publication) with an impact factor 2.63 (Q1-journal).
+Raj, Devesh, Thiyagarajan Venkatraman, Muthuselvan Balasubramanian, and Dishore Shunmugham Vanaja, “Design and Development of a B-Type Inverter for Harmonic Mitigation in a Grid Integrated System Using Whale Optimization Algorithm”
+Electric Power Components and Systems
+(2022),
+Taylor and Francis Group
+, pp: 1-20. (SCIE Journal with IF 1.27)
+Iqubal, Mohamed, Paul Sathiyan, Albert Alexander Stonier, Geno Peter, Dishore Shunmugham Vanaja, and Vivekananda Ganji. “An Extensive Critique on Electric Vehicle Components and Charging Systems.” INTERNATIONAL TRANSACTIONS ON ELECTRICAL ENERGY SYSTEMS 2022 (2022)(SCIE Impact Factor: 2.860 Wiley).
+Moghassemi, Ali, Dishore Shunmugham Vanaja, Javad Olamaei, Gokhan Ozkan, and Christopher S. Edrington. &quot;A novel switching method in PV‐fed quasi‐ZSI‐DVR for voltage quality enhancement of photovoltaic integrated networks.&quot; IET Renewable Power Generation (2022). https://doi.org/10.1049/rpg2.12575 (SCIE Impact Factor: 3.93 IET IET Renewable Power Generation)
+Raj, M. Devesh, V. Thiyagarajan, N. B. Selvan, and Dishore Shunmugham Vanaja.;Amelioration of power quality in a solar PV fed grid-connected system using optimization-based selective harmonic elimination.&quot; Electrical Engineering (2022): 1-18. (SCIE Impact Factor: 1.836 Springer)
+Dishore Shunmugham Vanaja, Albert Alexander Stonier. (2022) A Real-Time Implementation of Performance Monitoring in Solar Photovoltaics Using Internet of Things. In: Suhag S., Mahanta C., Mishra S. (eds) Control and Measurement Applications for Smart Grid. Lecture Notes in Electrical Engineering, vol 822. Springer, Singapore. https://doi.org/10.1007/978-981-16-7664-2_8 (SCOPUS -Springer)
+Dishore Shunmugham Vanaja, Albert Alexander Stonier, Geetha Mani, and Srinivasan Murugesan.;Investigation and validation of solar photovoltaic-fed modular multilevel inverter for marine water-pumping applications. Electrical Engineering (2021): 1-16. (SCIE Impact Factor: 1.836 Springer)
+Dishore Shunmugham Vanaja, Albert Alexander Stonier &amp; Ali Moghassemi.2021, ‘A Novel Control Topology for Grid-Integration with Modular Multilevel Inverter’, International Transactions on Electrical Energy Systems, Article ID: ETEP12845 Article type: article Article DOI: 10.1002/20212568, (SCIE Impact Factor: 2.860 Wiley)
+Dishore Shunmugham Vanaja, Albert, J. R., &amp; Stonier, Albert Alexander Stonier. (2021). An Experimental Investigation on solar PV fed modular STATCOM in WECS using Intelligent controller. International Transactions on Electrical Energy Systems,31(5), e12845. (SCIE Impact Factor: 2.860 Wiley)
+Dishore Shunmugham Vanaja &amp; Albert Alexander Stonier.2020, ‘Grid integration of modular multilevel inverter with improved performance parameters’, International Transactions on Electrical Energy Systems, pp. 1-34. ISSN: 2050-7038 ,DOI: 10.1002/2050-7038.12667, (SCIE Impact Factor: 2.860 Wiley)
+Dishore Shunmugham Vanaja &amp; Albert Alexander Stonier.2020, ‘A Novel PV Fed Asymmetric Multilevel Inverter with Reduced THD For a Grid Connected System’, International Transactions on Electrical Energy Systems, vol. 30, no. 4, pp. 1-25.ISSN: 2050-7038 ,DOI: 10.1002/2050-7038.12267, (SCIE Impact Factor: 2.860 Wiley)
+Dr. Rambabu Chunduri, Benisha Gracelin, Dr. Dishore ShunmughamVanaja, Subhashree Priyadarshini, Aradhana Khillo, Bibhu Prasad Ganthia, “Design and Control of a Solar Photovoltaic Fed Asymmetric Multilevel Inverter Using Computational Intelligence”, Annals of RSCB, vol. 25, no. 6, pp. 10471–10484, Jun. 2021.(SCOPUS)
+M Revanth, K. Sanjeev Kumar, M. Srinivasan, S.Albert Alexander and Dishore Shunmugham Vanaja, Design and Development of an IoT Based Smart Poultry Farm, 2021 International Conference on Advancements in Electrical, Electronics, Communication, Computing and Automation (ICAECA), 2021, pp. 1-4, doi: 10.1109/ICAECA52838.2021.9675553. (SCOPUS -IEEE Explore)
+D. Sarathkumar, M. Srinivasan, S.Albert Alexander and Dishore ShunmughamVanaja,;A Brief Review on Optimization Techniques for Smart Grid Operation and Control; 2021 International Conference on Advancements in Electrical, Electronics, Communication, Computing and Automation (ICAECA), 2021, pp. 1-5, doi: 10.1109/ICAECA52838.2021.9675618. (SCOPUS -IEEE Explore)
+S.Albert Alexander, M. Yazhini., Dishore Shunmugham Vanaja, M. Srinivasan and D. Sarathkumar, Multi Level Inverter and Its Applications – An Extensive Survey; 2021 International Conference on Advancements in Electrical, Electronics, Communication, Computing and Automation (ICAECA), 2021, pp. 1-6, doi: 10.1109/ICAECA52838.2021.9675535. (SCOPUS -IEEE Explore)
+S.Albert Alexander, S. M. Devasena, J. Mounika, S. Ganesh, M. Srinivasan and Dishore Shunmugham Vanaja,Design and Implementation of an Intelligent Energy Conversion System, 2021 International Conference on Advancements in Electrical, Electronics, Communication, Computing and Automation (ICAECA), 2021, pp. 1-6, doi: 10.1109/ICAECA52838.2021.9675537. (SCOPUS -IEEE Explore)
+D. Sarathkumar, M. Srinivasan, S.Albert Alexander, S. Kumar and Dishore Shunmugham Vanaja, A Review on Renewable Energy Based Self-Healing Approaches for Smart Grid, 2021 International Conference on Advancements in Electrical, Electronics, Communication, Computing and Automation (ICAECA), 2021, pp. 1-6, doi: 10.1109/ICAECA52838.2021.9675495 (SCOPUS -IEEE Explore)
+Riya, Jeba; Dishore 2019, Predictive Control of Photovoltaic Grid Connected Cascaded H-Bridge Converters During Unbalanced Voltage Sags, Journal of Integrating Concepts, Special Issue, ISSN: 2456-6071
+Vyshna, Priyadarshini ; Dishore 2019, Design of Decoupled Fuzzy Controller to Enhance the Transient Performance for the Current Control of PMSG Based Wind Turbine, Journal of Integrating Concepts, Special Issue, ISSN: 2456-6071
+Ø Albert, Johny Renoald, and Dishore Shunmugham Vanaja. “Solar energy assessment in various regions of Indian Sub-continent.” Solar Cells Theory, Materials and Recent Advances (2020).
+Dishore S V and Albert Alexander S (2020), “Fault identification and detection of Photovoltaic arrays using IoT”, Proceedings of the International Conference on Power Initiatives, 23rd July 2020.
+Dishore S V, ‘Fault Identification and Remote Sensing of Photovoltaic Arrays Using IOT’ Virtual International Conference on POWER INITIATIVES ICPI-2020.
+Dishore SV,Vishnu VS, ‘Improved Step-Up Ratio And Highly Efficient Multiple Output DC-DC Converter ‘International conference on trends in Engineering and Technology,Science &amp; Humanities and Management, ICTETSHAM ’2015
+Dishore SV,Madhuri Singh ‘A New Single Stage AC-DC converter for Kinetic Energy Harvesting’, International conference on Emerging trends in Electrical Engineering, ETEE-2014
+Dishore SV, Binsimol, Varsha, Nimy Asokan, Chithra Mohan, ‘Distributed FACTS: A New Concept for Realizing Grid Power Flow Control’, International conference on Emerging trends in Electrical Engineering, ETEE-2014
+Dishore SV,Bibin D ‘ANFIS Control For Renewable Interfacing Inverter In 3P4W Distribution Network Using Mamdani Method’ International conference on Emerging trends in Electrical Engineering, ETEE-2014
+Dishore, S, Bhubesh, M ; Devdas, G 2013, Simulation of PMSM Vector Control System Based On Propeller Load Characteristic, International Journal Of Engineering Research ; Technology , (IJERT) Volume 02, Issue 01 (January 2013) ISSN: 2278-0181.
+Ph.D Research Guidance (Research Scholar, E-mail ID, Research Topic/ Tentative Thesis Tittle)
+—-
+Academic / Professional Outreach Activities
+BOOKS PUBLISHED
+Ø “Electric Vehicle Architecture” with ISBN 978-81-961898-6-0, published by Lakshmi Publications.
+Ø “Learning Logic Circuits & Logic Design with VHDL (2023)”, 978-93-5673-100-4, Book Published by Evincepub Publishing.
+Ø “Transducer Engineering (2022)”978-93-55062-76-5, Book Published by HSRA Publications Bangalore
+Ø “Power Systems Stability (2020)” 978-93-87950-60-3, Book Published by Lakshmi Publications Chennai
+Ø “Control of Electrical Drives (2020)” 978-93-87950-54-2, Book Published by Lakshmi Publications Chennai
+Ø “Modern Power Converters (2020)” 978-93-87950-39-9, Book Published by Lakshmi Publications Chennai
+Ø “Automotive Electrical and Electronic Systems (2019)” ISBN 978-93-87950-33-7, Book Published by Lakshmi Publications Chennai
+Ø “SMPS & UPS (2018)” ISBN 978-93-86590-46-6, Book Published by Sri Krishna Hitech Publishing Company
+WEBINARS DELIVERED
+ØDelivered a lecture on “Electric Vehicle Architecture Design” in a AICTE sponsored FDP on “Electric Vehicle: Evolution, Integration and Challenges” organized by the Department of Electrical and Electronics Engineering, Sri Krishna College of Technology, Coimbatore on 19.10.2020.
+ØDelivered a lecture on “Design and Development of Power Electronic Converters with Python” in a AICTE sponsored annual refresher program on “Senor flow for Deep learning with Python ” organized by the Department of Electrical and Electronics Engineering, Arunachala College of Engineering for Women, Kanyakumari on 29.01.2021.
+ØDelivered a lecture on “Reliability Enhancement of Reduced Switch Multilevel Inverter Using Computational Intelligence” in a AICTE sponsored annual refresher program-II on “Senor flow for Deep learning with Python ” organized by the Department of Electrical and Electronics Engineering, Arunachala College of Engineering for Women, Kanyakumari on 25.02.2021.
+ØDelivered a lecture on “Electric vehicle Architecture, Design and Battery Charging” for the Webinar organized by the Department of Electrical and Electronics Engineering, Sanskrithi School of Engineering, Anantapur on 01.05.2021.
+ØDelivered a lecture on “The Future Promise Of Vehicle-To-Grid (V2G) Integration” in a AICTE sponsored STTP on “Recent Advances in EV Technologies” organized by the Department of Electrical and Electronics Engineering, Matrusri Engineering College , Hyderabad on 16.06.2021.
+ØDelivered a lecture on “Coordinate systems & Wave Parameters” in a Anna University Sponsored Online Six Day FDTP on EE8391- Electromagnetic Theory during 14/06/2021 to 19/06/2021 organized by the Department of Electrical and Electronics Engineering, KPR institute of Engineering and Technology, Tamil Nadu on 14.06.2021 & 19.06.2021.
+ØDelivered a lecture on “Recent Trends in Power Electronics” for the Webinar organized by The Institution of Engineers Kanyakumari local chapter on 04/08/2021,at St Xavier’s Catholic College of Engineering, Nagercoil Tamil Nadu
+Ø Gave a lecture talk on “Charging station and Charging Schemes” in AICTE Training & Learning (ATAL) academy sponsored, 05 days National level online FDP on “Revolution & Advances in e-Vehicles” scheduled from 30/08/2021 to 03/09/2021, Organized by Government Polytechnic, Harapanahalli, Vijayanagar District, Karnataka State
+Ø Delivered a talk on “Energy Efficiency of Electric Vehicles -Energy saving and optimal control Technlogies”  on 25th September 2021, during ENERGY AMBASSADOR 2021 CONTEST- WORKSHOP SERIES at Vellore Institute of Technology(VIT) Chennai campus, Vandalur-Kelambakkam Road, Chennai-600127
+Ø Delivered an expert lecture on ”  IoT based Smart Protection System for Industrial Application”  on 08.12.2021, organized by AICTE sponsored Two Week Faculty Development Programme (FDP ) on “Future Automation of Power System Protection in Indian Power Sector”  from, 26.11.2021 to 09.12.2021  at Anna University, Tiruchirappalli
+Ø Delivered an expert lecture on ”  Revolution of E-Vehicles and the implementation of converters in charging station”  on 30.03.2022, organized by Department of Electrical Engineering, NIT Warangal, 10-day ONLINE FACULTY DEVELOPMENT PROGRAMME (FDP) on “Applications of Power Electronics to Electric Vehicles and Hybrid Energy Storage Systems” from 21st  – 30th  MARCH, 2022
+Ø Delivered an expert lecture on ”  Performance monitoring of Solar PV systems using IoT”  on 09.06.2022, organized by Department of Electrical Engineering, Sree Rama Engineering College (SRET),Thirupathi one week virtual Faculty Development Program on “Emerging Technologies in Generation, Operation and Control of Electrical Systems” from 6 th to 11th June 2022.
+Membership in Professional bodies/ organizations
+Ø Member of London Journal Press
+Ø IAENG
+Ø IMRTC
+Ø IRED
+Ø IFERP
+Ø TERA
+Ø ISDS
+Community Outreach Activities
+Illumina
+Awards / Distinctions / Rank / Other Achievements if any
+Dr. Muhammad Harunur Rashid Award from Oklahoma State University, Stillwater, USA.
+“Best Faculty Award” (2021) from VDGOOD Professional Association, India.
+PATENT
+Ø “Modular Coconut Scrapper” (Design Number: 374689-001, has been registered under the Intellectual Property Rights (IPR) system, recognizing the uniqueness and originality of designed tool).Ø”A Reduced Switch Modular Multilevel Inverter with Fault Tolerant Capability” Inventors S.V Dishore & Albert S Alexander. (Application No:202041047725A) Date of Filing:02.11. 2020. Publication Date:13.11.2020
+Ø “An Automatic and Efficient Vehicle Wheel Rim Cleaning Machine ” Inventor Dr.Dishore Shunmugham Vanaja (Application No:202141026266) Date of Filing:12.06. 2021. Publication Date:25.06.2021
+Ø “Modular Solar Photovoltaic Re-Inverter” S.V Dishore,Pandian ,Thiyagarajan &Vivek(Application No:358426-001) Date of Filing:12.02. 2022
+Ø “Handy Cashew-nut Extraction Tool” S.V Dishore,Ananthu MS pillai,Aneeh Prasad,Bushra Majeed,Aromal J.K ,Thiyagarajan &Vivek(Application No:363288-001) Date of Filing:27.04. 2022(Patent Granted-IPR )
+Ø “A Novel Portable Machine to Sanitize Footwear” S.V Dishore Application  No: 202241052384 Date of Filing:14.09. 2022
+PROTO TYPES DEVELOPED:
+a) Solar PV inverter with single chip controller for multiple pulse generation
+b) Solar PV inverter with improved reliability
+c) Solar PV inverter with reduced harmonic distortions
+d) Solar PV inverter for speed control of induction motor
+e) Solar PV inverter with synchronization capability
+f) Speed Control of a Chopper Fed DC Motor
+g) AC voltage Controller with Triac and DIAC
+h) Solar PV Buck Converter
+i) Solar PV Boost Converter
+j) Digital PWM generation Using TL494, KA3525, CD4047
+k) R and RC triggering Circuit
+l) Solar Bike
+m) Solar Car
+ANNOUNCEMENTS
+Exam Notifications
+New
+M.Tech Admissions 2025
+New
+B. Tech Admissions 2025
+New
+MBCET e-bulletin
+New

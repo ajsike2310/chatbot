@@ -1,0 +1,1696 @@
+Workshops & Seminars – Mar Baselios College of Engineering And Technology
+Skip to content
+Home
+>
+Departments
+>
+Electronics & Communication Engineering
+>
+Workshops & Seminars
+Workshops & Seminars
+The Department of Electronics and Communication is very active in conducting workshops, seminars and FDPs for the benefit of faculty and students. Faculty is encouraged to participate as resource persons as well as audience in such activities organized by other institutions.
+Workshops/ Seminar/FDPs organized by Faculty
+KSCSTE Sponsored Workshop on Intellectual Property Rights
+A workshop on Intellectual Property Rights was organized by the IPR cell, IEEE Robotics & Automation Society and IIC, MBCET, in association with
+KSCSTE, PIC-Kerala & IPRIC-K
+on April 4, 2025 from 9:30 AM – 3:30 PM at the Senatus Hall, Mar Baselios College of Engineering and Technology, Nalanchira, Trivandrum. The speakers were Shri. R.S. Praveen Raj – Senior Principal Scientist, CSIR-NIIST, Ms. Chaithanya P.C – Project Scientist-I, PIC-Kerala, KSCSTE and Shri. Anumod S – Examiner of Patents & Designs, IPO, Chennai. 106 students from across departments of the college participated in the workshop.
+Student coordinators
+: Mr. Sanal Sajan E, S6 CS and Mr. Festin Fleenton Pereira, S4 EE.
+Faculty Coordinators:
+Mr. Shiras SN, Dr. Lani Rachel Mathew (Asst. Professors, ECED)
+ATAL one week Faculty Development Programme (FDP) on “5G and Beyond: Research Directions and Opportunities”
+AICTE sponsored ATAL one week Faculty Development Programme (FDP) on “5G and Beyond: Research Directions and Opportunities” is organized by the Department of Electronics and Communication Engineering from 2nd – 7th December 2024.  The FDP fostered advanced insights, research opportunities, and innovation in next-generation communication technologies.
+Co-ordinators: Dr. Swapna P.S
+, Associate Professor and
+Dr. Vineetha Mathai
+, Assistant Professor, Dept. of ECE.
+3-day FDP organised by Dept. of ECE in Collaboration with Quest Global
+The Department of Electronics and Communication Engineering has collaborated with M/s Quest Global for conducting a three day Faculty Development Programme entitled as Digital Nexus:Unveiling the IoT Foundations from Feb 21
+st
+to 23
+rd
+, 2024. The programme addressed building an end -to-end Edge & Cloud connected solution in Python, including data acquisitionwith Raspberry pi Edge Device, secure data ingestion to AWS cloud, Data Storage, processing, analytics on Cloud for remote applications and Edge Device control from Cloud. The Programme was very educative and highly application oriented. Faculty Coordinators for the FDP: Dr.S wapna P S, Associate Professor and Mr. Jijo Jose, Assistant Professor, Dept.of ECE, MBCET.
+The
+Biomedical Research Group
+, Department of ECE, in association with the
+IEEE EMBS
+Kerala Chapter
+, organized a five-day FDP on “Recent Trends in Healthcare and Assistive Technologies –
+RTHAT’24
+” from 29 January to 02 February 2024, to foster disability inclusion in society and to create an awareness regarding the recent trends in healthcare technologies.  The FDP was formally inaugurated on 29 January 2024, by
+Mr. Jithin Krishnan
+, Vice Chair, IEEE EMBS Kerala Chapter, in the presence of
+Rev. Fr. John Varghese
+, Bursar,
+Dr. Abraham T. Mathew
+, Principal,
+Dr. S. Viswanatha Rao
+, Vice Principal, and
+Dr. J. Jayakumari
+, HoD, ECE. The FDP comprised sensitization sessions on the various forms of disabilities, expert talks on healthcare and assistive devices, field visit to SCTIMST, and hands-on session on STM32. The sessions were handled by experts from SCTIMST, NISH, C-DAC, IIST, Jyothirgamaya Foundation, Pallium India, and MBCET. The participants enthusiastically contributed and took part in the various activities and discussions during the various sessions of FDP. The FDP was coordinated by
+Dr. M.J. Jayashree
+, and
+Ms. Amritha B.J
+, Department of ECE.
+Dr M. J. Jayashree,
+Professor, Dept. of ECE and IQAC Coordinator and Student Activities Chair of IEEE EMBS Kerala Chapter had coordinated the Annual event named “Ignium 2023” for the student members of IEEE EMBS Kerala Chapter in online mode on 30th December 2023. Eight events including Idea Pitching Competition, Webinars, Biomedical Quiz, Interaction with Professionals, Experience sharing by an IEEE EMBS member and Essay writing competition were scheduled and conducted.
+The IEEE EMBS SBC in association with eNiX and Biomedical Research Group of ECED organized a seminar session on the topic “Sleep & Technology: Understanding the connection” on 10th November 2023. The resource person for the session was Dr. Kamalesh Gulia, Scientist G (Professor) and In-charge, Division of Sleep Research, BMT Wing, Sree Chitra Tirunal Institute for Medical Sciences & Technology. 56 students attended the session. Faculty coordinators:
+Dr. Lani Rachel Mathew and Dr. Emy Mariam George, Asst. Professors, ECED.
+IEEE Signal Processing Society (SPS) SBC MBCET in association with Signal Processing Research group, Dept. of ECE organized “Pas de Code version 2 – a 6-day Internship Programme on Simulation of Machine Learning and Deep Learning models using MATLAB and Orange” from 9
+th
+to 14
+th
+October 2023. It was a 30 hours programme organized for second and third year B.Tech students of MBCET. Ms. Manju S, Vice Principal, NISH, Dr. Lani Rachel Mathew and Ms. Deepa P L, Asst. Professors, Dept. of ECE, MBCET were the resource persons.
+Sreekumar M G and Ms. Deepa P L coordinated the programme
+. Mr. Akhil Paulton Adem (S7 EC2), Chair, IEEE SPS, MBCET was the student coordinator. 40 Students have successfully completed the internship programme. Through this, the participants got exposure on how to implement machine learning and deep learning models without any coding.
+The Department of ECE organized a  career guidance session on ‘Career Guidance for Higher Studies’ for S7 ECE students on 11th October 2023 by Mr. Salim Peter, Manager, Presidency University, Bangalore.
+Mr. Niyas. K. Haneefa,
+Assistant Professor, ECED, coordinated the session.
+The Department of ECE organized an expert talk session on the topic “Value of IEEE Xplore & EBSCO ebooks in Research, Placement & Career Development” for the final year students on 5th October 2023. The resource person for the session was Nanda Lal T.S, Senior Training Manager-South India, EBSCO Information Services, New Delhi. Staff coordinator:
+Mr. Binu K John
+, Librarian,
+Dr. Swapna P.S
+, Assoc. Professor, ECED and
+Ms. Ann Mary Alex
+, Asst. Professor, ECED.
+A three-day faculty development programme on the topic ‘Modeling and Control of EVs using Simulink and Simscape’ was organized by the Signal Processing and Communication Research groups of the Department of ECE on 13th to 15th September, 2023, as part of the campus-wide license of Matlab. The sessions were led by
+Mr. Apurva Kulkarni,
+Senior Training Engineer, Mathworks India  and
+Mr.Venkatasubramanian Narayanan
+, Training Engineer, Mathworks India. Around twenty faculty members from different departments participated in the sessions. The sessions were coordinated by Ms. Deepa P.L, Asst. Professor and Mr.Shiras. S.N, Asst. Professor, Dept. of ECE.
+Faculty Development Program
+: A three-day faculty development programme on the topic ‘Modeling and Control of EVs using Simulink and Simscape’ was organized by the Signal Processing and Communication Research groups of the Department of ECE on 13th to 15th September, 2023, as part of the campus-wide license of Matlab. The sessions were led by Mr. Apurva Kulkarni, Senior Training Engineer, Mathworks India and Mr.Venkatasubramanian Narayanan, Training Engineer, Mathworks India. Around twenty faculty members from different departments participated in the sessions. The sessions were coordinated by
+Ms. Deepa P.L, Asst. Professor and Mr.Shiras. S.N, Asst. Professor, Dept. of ECE.
+IPR workshop
+: SCTIMST-TiMeD, in association with e-NIX (ECED), IIC and IPR cell of MBCET, conducted a workshop on “Exploring the World of Intellectual Property & Technology Transfer”, on 17th June 2023 (FN), at Shannon Hall, for faculty and students. 103 students from across branches attended the workshop. Ms. Sandhya CG, Scientist F, Technology Business Division, Ms. Indu Govind, Business Development Manager, and Ms. Bessy Titus, Intellectual Property Manager, Technology Transfer Office,TIMeD, SCTIMST, Poojapura, handled the sessions. Five student groups presented their ideas, out of which two winners were identified: Namitha Kurup P.S, Nandana N, Santa L.S, Ashna Rachel Shine, Sona Sagi Geevarghese, Theressa Ann Thomas and Abhishek DV from S2CE2 won the first place, while Adithya S, Arif A, Angitha Anoop, Devika C, Joice Mary and Harishankar of S2 EEE won the second place.
+Staff coordinators: Dr. Lani Rachel Mathew, Ms. Gouri Nandhana (Asst. Professors, ECED).
+I-YwD (Innovation by Youth with Disabilities) Cohort 3 Selection Camp venue at MBCET:
+MBCET hosted the I-YwD team for the online I-YwD (Innovation by Youth with Disabilities) Cohort 3 Selection Camp on 12th and 13th of May 2023. The sessions included orientation, online activities and discussions in breakout rooms for young entrepreneurs with disabilities. Indian Sign Language (ISL) interpreter,
+Ms. Bhavana U B
+, helped the team to communicate in real time with persons having hearing impairment. Project coordinators, Ms. Daisy Sebastian, Ms. Sari P Vishwanath, Ms. Anjali Gopan and Mr. Avaneesh M and interns, Ms. Archa Krishnan S and Ms.Jisha M, were involved in conducting the various sessions. Prof. Raju K. Gopal and Mr. Jith from the ITMS team ensured smooth conduct of the online sessions that were held in Faraday Hall. Faculty coordinator:
+Dr. Lani Rachel Mathew
+, Asst. Professor (ECE).
+ProX-Final Year Project Expo: eNIX
+, the electronics association of MBCET, organized
+ProX
+– the final year project expo, on 29 May 2023, in the department of ECE. The exhibition showcased 29 ingenious projects developed by the final year students of dept. of ECE. The exhibited projects were evaluated by our Chief Guest,
+Mr Saju Mathew
+, CEO, Code of Duty Innovations and
+Mr. Arjun Shyam
+, CEO, Kalpa Sustainable Lightings. The best project awards were bagged by
+Aishwarya Nair S, Amrutha S, Anant Nair, Ashwin K
+(S8 EC1) for their work titled “Intelligent Speed Adaptation by Traffic Sign Recognition and obstacle detection using Deep Learning” guided by
+Mr. Arun J.S.
+, Asst. Prof., Dept. of ECE and by
+Amal Anilkumar, Faizan Ahamed Dawood Majahar, Josipha Sebastian, Nandan S
+(S8 EC2) for their project “Development of Transit Signal Priority Module with Integrated AI Assistant” guided by
+Dr. Jayakumari J
+, HOD, Prof., Dept. of ECE. Faculty Coordinators:
+Ms. Deepa P L
+,
+Mr. Anoop K Johnson.
+(S8 project coordinators, ECE).
+ASSISTIVE TECHNOLOGY (AT) INTERNSHIP 2023:
+The inaugural ceremony of the Assistive Technology Internship 2023, organized by the Assistive Technology group at MBCET, in association with the Biomedical Research Group (ECED) and IEEE EMBS SBC MBCET, was held on 17 April 2023. Josipha Sebastian (S8 EC2) welcomed the gathering. Dr. Viswanatha Rao, Vice Principal, delivered the inaugural address and Dr. J. Jayakumari gave the felicitation address.  The internship is scheduled from 17 – 28 April 2023. During the first week of the internship (17 – 20 April), sensitization sessions were organized, where the participants were given an immersive experience of the various forms of disability in the field of visual impairment, physical impairment, and hearing impairment. The sessions were handled by experts from Jyothirgamaya Foundation, Pallium India, NISH, kanthari international at Vellayani, etc.  Ms. Simla Balasubramaniyan [MBCET Alumna, 2013 Batch] shared her untold story of fighting Arthritis since 2014. Ms. Jomole Joseph, delivered a session, inspiring the participants to embrace the idea of disability inclusion. Mr. Harikrishna Sharma (MBCET Alumnus, Batch of 2022) shared his experiences during the AT internship 2021. 21 participants are attending this internship at MBCET.
+The Assistive Technology Internship 2023 came to a close on 28 April 2023. The second week of the internship (24-28 April), hosted expert sessions and hands-on sessions by the experts like Mr. Sanju Mathew (CE0, Code of Duty Innovations), Mr. Jithin Krishna (Scientist/Engineer, SCTIMST), Mr. Vishnu P. Kumar (MBCET Alumnus & Robotics Software Engineer, Genrobotics), Mr. Mathew Abraham (Architect) and  Ms. Ajisha B. (Product Manager, Embright Infotech). A demo of the assistive technology projects done by the final year B. Tech students and the participants’ idea presentation was held on 27 April. The valedictory session conducted on 28th April, started off with a prayer song by Aswen A.M. (S8 ECE), followed by the welcome address by Anamikaa S. Nair (S8 ECE). Bursar Rev. Fr. John Varghese Palanilkunnathil, Principal – Dr. Abraham T. Mathew, Vice Principal – Dr. S. Viswanatha Rao, and Dr. M.J. Jayashree – Head, AT Group & IQAC Coordinator, addressed the gathering, and awarded the certificates to the participants. Participants shared their feedback, and internship coordinators, Ms. Amritha B.J. (Asst. Prof., Dept. of ECE), presented a brief report of the internship and Dr. Alice Thomas (Asst. Prof., Dept. of CE) proposed the vote of thanks. Faculty coordinators:
+Ms. Amritha B.J
+., Assistant Professor, Dept. of ECE, and
+Dr. Alice Thomas
+, Assistant Professor, Dept. of CE.
+Career Guidance Talk: The Department of ECE organized a one-hour career guidance session on ‘L&T EduTech’ for ECE students on 17th May 2023 by Mr. R.Jayakumar, Manager.
+Mr. Niyas. K. Haneefa
+, Asst. Professor, ECED, coordinated the session.
+Talk Session:
+As part of the Communication Research Group, Dept. of ECE, an invited talk was held for final year students on the topic “
+Cognitive Radio and its Applications
+” on 19th April 2023. The resource person for the session was
+Dr. Yamuna K. Moorthy
+, Lecturer in Electronics, Department of Technical Education, Govt. of Kerala. She discussed 5G use cases, spectrum sharing, cognitive radio, and its applications. Formerly she worked as a faculty in the Department of ECE at MBCET. Staff coordinator:
+Mr. Sherry Varghese George
+, Asst. Professor, ECED.
+Career Guidance Talk:
+The Department of ECE organized a one-hour career guidance session on ‘Career Opportunities on Industrial Automation’ for ECE students on 29th March 2023 by
+Mr. Githesh S B
+, Project Engineer, IPSC.
+Mr. Niyas. K. Haneefa
+, Asst. Professor, ECED, coordinated the session.
+A three-day faculty training programme was organized by the Signal Processing Research and Communication Research group of the Department of ECE on 6th, 7th December 2022, and 12th January, 2023, as part of the campus-wide license activation of Matlab. The sessions were led by Mathworks and Coreel Technologies resource personnel. Around twenty faculty members from different departments participated in the sessions.
+Dr. M. J. Jayashree
+, Professor, Dept. of
+ECE
+and IQAC Coordinator and Student Activities Chair of IEEE EMBS Kerala Chapter had coordinated the Annual event named “Ignium 2022” for the student members of IEEE EMBS Kerala Chapter in online mode on 29th and 30th December 2022. Ten events including Idea Pitching, Wokshop, webinars, Quiz, Interaction with Professionals etc., were scheduled and conducted during these two days.
+INVICTUS – Mini Project Exhibition
+Department of Electronics and Communication Engineering, MBCET, organized
+‘INVICTUS’
+– the mini project exhibition, on 01 August 2022, showcasing the 28 ingenious projects developed by the third year students of dept. of ECE as part of their curriculum.
+Staff Coordinators:
+Mr. Anoop K. Johnson, Ms. Deepa P.L.
+, Asst. professors, Dept. of ECE
+Project Expo –
+ProX
+eNIX
+, the electronics association of MBCET, organized
+ProX
+– the final year project expo, on 01 June 2022, in the department of ECE. The exhibition showcased the ingenious projects developed by the final year students of dept. of ECE. The best project awards were bagged by J
+oshin Samuel, Miladh Muhammed, Vishnu P. Kumar
+(S7 EC2) for their work titled ‘Medoby – ROS Based Autonomous Hospital Assistant Robot’ guided by
+Mr. Arun J.S.
+, Asst. Prof., Dept. of ECE and by
+Aarcha S. Sreevidhya, Ardra B. Dilip, Arya P.S., Mekha Susan Mathew
+(S7 EC1) for their project “Automated Smart Shopping Trolley” guided by
+Mr. Niyas K. Haneefa
+, Asst. Prof., Dept. of ECE.
+Faculty Coordinators:
+Ms. Ancy S. Anselam
+,
+Dr. Swapna P.S.
+(S8 project coordinators, ECE),
+Mr. Shiras S.N.
+(eNIX coordinator)
+Workshop on ‘Prototyping with Swadeshi Processors’
+A hybrid mode workshop on ‘prototyping with Swadeshi Microprocessors’ was organized by the Institutions Innovation Council (IIC) in collaboration with e-Nix, the department association of Electronics and Communication Engineering. Mr. Libin T.T., Scientist ‘F’, CDAC Trivandrum, and Mr. Premjith A. V., Project Engineer, CDAC Trivandrum, delivered the sessions. Dr. Abraham T. Mathew, Principal, MBCET, presided over the opening ceremony, in the presence of Dr. M J Jayashree, President, IIC and IQAC Coordinator, MBCET and Dr. Jayakumari J., HoD, ECED. Around 100 students from various departments attended the session, which was also open to IIC MBCET mentee institutions as part of the Mentor-Mentee Program by Institutions Innovation Council(IIC). Faculty and students from Viswajyothi College of Engineering and Technology, Muvattupuzha, Rajadhani Institute of Engineering and Technology, Trivandrum, Carmel Polytechnic College, Alappuzha, Matha College of Technology, Kochi, Universal Engineering College, Irinjalakkuda attended the session online. The discussion focused on the Vega Processor, India’s first indigenously developed microprocessor. Following the talk session, a demonstration of the Aries development platform based on the Vega processor was given to students. The event was coordinated by Mr. JIjo Jose and Ms. Lakshmy S., Assistant Professors, ECED. The session was volunteered by e-Nix student team led by Mr. Shiras S. N., Assistant Professor, ECED.
+FDP on ‘Smart Prototyping with Arduino’
+A three-day training workshop for MBCET faculty and technical staffs was organized from 11 – 13 May 2022, in association with Institutions Innovation Council (IIC), MBCET, as a forerunner to the Skill Development Program (SDP) on Arduino development platform for semester 2 autonomous batch students. The event drew around 20 people from diverse departments. Under the supervision of
+Dr. Viswanatha Rao
+, Vice Principal, the sessions were handled by
+Mr. Jijo Jose
+, Assistant Professor, Department of Electronics and Communication, and
+Mr. Anilkumar B.S.
+, Project Engineer, IEDC.
+5GIoT-22
+Department of Electronics and Communication Engineering, MBCET, organized  a 5-day Online Short Term Training Programme (STTP) on
+5G & IoT and Research Directions,
+during 18 – 22 April 2022. The different sessions were handled by the resource persons from the academia as well industry, including Dr. P. Sudharsan (NIT, Trichy), Dr. Nishant Budhdev and Dr. Nitya Lakshmanan (National University of Singapore), Dr. Jihas Khan (Senior Specialist, Transportation Business Unit, Tata Elxsi), Mr. Amol Delmade (Radio and Optical Communication Group, Dublin City University, Ireland), Mr. Anish K. K. (Senior Software Development Engineer, AMD, Ireland), Mr. Anoop Madhusudanan (Vice President, Digital Marketing & Engineering, West Pharmaceutical Services), Mr. Renaud Sauvain (Director, D&T, Software Engineering, West Pharmaceutical Services), Mr. Ravi Prakash G. (Senior IoT Engineer, Toyota), Dr.. Swapna P.S., Asst. professor, Dept. of ECE and Mr. Niyas. K. Haneefa, Asst. professor, Dept. of ECE, Ms. Syama Sasikumar, Senior software engineer (telecom), Aspire technologies, Ireland
+Faculty Coordinators:
+Mr. Niyas K. Haneefa
+(Asst. Prof., Dept, of ECE),
+Ms. Luxy Mathews
+(Associate Prof., Dept. of ECE)
+SP Research Group in association with IEEE SPS SBC conducted the Internship program ‘
+Pas de Code
+–
+Simulation of Machine Learning and Deep Learning using MatLab and Orange’
+on Saturdays, starting from 02 October 2021 to 21 January 2022.
+Ms. Ancy S. Anselam
+(Associate Prof., Dept. of ECE) and
+Ms. Deepa P.L.
+(Asst. Prof., Dept. of ECE) were the resource persons for the internship.
+Communication Systems Research Group organized a workshop on ‘Modelling and Simulation of Communication Systems’ from 27 – 29 September, 2021.
+Niyas K. Haneefa
+, Asst. Professor, Dept. of ECE and
+Ms. Syama Sasikumar
+, Ph.D. Scholar, Dept. of ECE, handled the sessions of the workshop.          Coordinator:
+Ms. Luxy Mathews
+, Associate Professor, Dept. of ECE.
+Scientific Computing Applications
+The Signal Processing Research Group, Dept. of ECE, organized 6 days Online STTP on
+‘
+Scientific Computing Applications
+’,
+from 9 – 11 and 16 – 18 August 2021. STTP covered the simulation of various mathematical aspects used in scientific computing using MatLab. The resource persons were
+Joseph Cheriyan
+, Professor & Head, Dept. of S&H, MBCET;
+Dr.Jayakumari J.
+, Professor & Head, Department of ECE,  MBCET,
+Ms. Deepa P. L.
+, Asst. Professor, Department of ECE, MBCET and
+Ms. Athira V.
+, Asst. Professor, Department of ECE,  MBCET.
+Staff Coordinators:
+Ms. Athira V.
+and
+Ms. Deepa P. L.
+, Asst. Professors
+SIDC’21
+The Department of ECE organized a 5-day Hands on workshop on “Simulation and Implementation of Digital Circuits (SIDC’21)” during
+15 – 19 March
+, 2021. The workshop provided an insight into the various simulation and implementation tools used in the design of Digital Circuits. A total of 45 participants, including the faculty and  technical staff from various engineering colleges, attended the workshop.
+Resource Persons:
+Ms. Ancy Joy
+and
+Ms. Amritha B.J.
+, Assistant Professors, Department of ECE.
+Co-ordinator:
+Ms. Ann Mary Alex
+, Assistant Professor, Department of ECE
+FDP – BMEA’21
+The Department of Electronics and Communication Engineering organized a 6-day online
+FDP
+on
+Biomedical Engineering and its Applications
+(Co-ordinated by
+Ms. Teena Rajan
+and
+Ms. Lani Rachel Mathew
+, Assistant Professors in the Department of ECE), from 11
+th
+to 16
+th
+of January 2021. The FDP covered the recent trends in Biomedical Engineering and included sessions on Medical Imaging, Deep Learning, Wearable Technology, Embedded Processors
+etc.
+used in biomedical applications.  FDP comprised of sessions by experts from IEEE Bangladesh section, SCTIMST, IEEE EMBS Kerala chapter, IIIT Naya Raipur, NIT Calicut, NIT Tiruchirappalli, Health Service
+etc.
+A total of 48 participants attended the program.
+The resource persons were
+Dr. Celia Shahnaz
+, SMIEEE, FIEB, Chair, IEEE Bangladesh Section;
+Shri. Muraleedharan C V
+, SCTIMST;
+Dr. Varun P Gopi
+, NIT Tiruchirapalli;
+Dr. Anurag Singh
+, IIIT, Naya Raipur;
+Shri. Koruthu Varghese
+, Chairman, IEEE EMBS Kerala Section;
+Dr. Jayakumari J
+, MBCET;
+Ms. Deepa P L
+, MBCET;
+Ms.
+Revathy Sivanandan
+, MBCET;
+Dr. Sujesh Sreedharan
+, SCTIMST;
+Dr. Ashutosh Mishra
+, NIT Calicut;
+Dr. K K Narayanan Namboodiri
+, SCTIMST;
+Dr. S N Kumar
+, AJCE, Kottayam;
+Dr. Nitha V Panicker
+, TKMIT and
+Dr. Jithesh K A
+, District Hospital Mavelikara.
+Syama Sasikumar
+, Research Scholar, Department of ECE, delivered a session (online) on “
+Introduction to 5G: Evolution, Air Interface and Technologies”
+organized by the Communication Research Group, Department of ECE, MBCET, on 29
+th
+January 2021.
+Staff Coordinator:
+Ms. P.P. Hema
+, Assistant Professor
+INTRODUCTION TO IoT
+A three day workshop on “Introduction to IoT” for the technical staff by the Department of Electronics & Communication Engineering from 25 – 27 February 2020.
+Resource person: Ms. Laksmhy S.
+ADVANCES IN WIRELESS COMMUNICATION (AWC ’19)
+The Department of Electronics and Communication Engineering, Mar Baselios College of Engineering and Technology conducted a Faculty Development Programme on Advances in Wireless Communication from July 8
+th
+to July 12
+th
+2019. The topics covered were Microstrip antennas for 5G, Evolving standards for wireless communication, Cognitive Radio, Hands on session in MATLAB, Security in 5G. Resource persons from IIT Madras, NIT Calicut, CoreEL Technologies, faculty from the Department of ECE handled the sessions.
+Staff co-ordinators: Ms. Hema P. P., Ms. Roselin Raju
+DEEP LEARNING AND IoT APPLICATIONS USING MATLAB (DIAM ’19)
+The Department of Electronics and Communication Engineering, Mar Baselios College of Engineering and Technology, Trivandrum conducted a Short Term Training Programme on Deep Learning and IoT Applications using MATLAB (DIAM’19) from January 21
+st
+to 25
+th
+2019. The topics covered were Image Processing Applications, MATLAB and ThingSpeak for IoT, Xilinx and Deep Learning with a focus on Signal Processing Applications. Resource persons from CoreEL Technologies, MBCET AI team, faculty from the Department of ECE handled the sessions.
+Staff co-ordinators: Ms. Riya John, Mr. Anoop K. Johnson
+INDUSTRY 4.0 – TOWARDS EMBEDDED FUTURE
+We stand on the verge of a new age technological revolution that will alter the fundamental way we think, act, relate and communicate. The buzz is around Mobile Supercomputing, Intelligent robots, Self-driving cars, Neuro-technological brain enhancements, Genome editing and its business disruptions. The evidence of dramatic change is all around us and its happening at exponential speed. The key is to up-skill and re-skill relentlessly to stay relevant in the futuristic world. With this objective in mind, Department of Electronics and Communication Engineering in association with The Catalyst- Mar Baselios Innovation and Entrepreneurship Development Centre (IEDC) organized a five-day workshop on embedded and futuristic technologies that are spearheading the wave of Fourth Industrial Revolution.
+45 faculty members from various engineering as well as polytechnic colleges acrossthe state participated in the 5-day event. The event was coordinated by Ms. Anu Susan Philip and Mr. Arun J. S, Assistant professors in Department of Electronics and Communication Engineering. B’ hub and Destination Kerala associated as Knowledge and Magazine partners respectively.
+During the inaugural session, Head of the Department, Dr. M. J. Jayashree delivered the welcome speechfor the participants in the presence of Bursar Fr. John Vilayil, Principal Dr. T. M. George and Vice Principal Prof. S. Viswanatha Rao. She introduced the objective of the event and also mentioned the importance of adapting with the technological changes so as to stay relevant in the era of fourth industrial revolution.
+The idea of the whole event was to create a solid exposure in the emerging futuristic technologies which will drive the interest of academia from novice to expert level. The contents were organized top-down where we start with a use case and develop it downwards into its technical details, which turned out to be a very effective model to entice the audience. While Dr. Dilip Thomas brought in an absolute revelation in convolutional neural networks and how AI is going to dominate so many existing jobs very soon, Mr. Jeril depicted how virtual reality is becoming a parallel reality which enables mankind to physically interact with digital information. Mr. Senthil Kumar delivered a splendid session on his transformational journey from employee to entrepreneur. The way he crafted a solution for his pregnant sister’s vital statistics measurement and made the doctor to diagnose remotely was very inspiring. He also delivered an incredible activity-oriented session where he made participants to enact as the basic elements of an IoT network, which created absolute clarity regarding the backend operation. The CTO incubations team from the Innovation lab of Tata Consultancy Services engaged the audience with their live drone session and RADA-the robot that uses AI to assist customers, address their queries and entertain them which isdeployed by the team in Delhi International airport. Mr. Jithin Krishnan gave an insight on the assistive implants and the possibilities &revolution that is going to happen with the convergence of medical and engineering streams.
+The sessions concluded on 20 July 2018 with the valedictory session presided by Vice Principal of MBCET, Prof. S. Viswanatha Rao. He also gave away the participants certificate along with Dr. M. J. Jayashree.
+Staff co-ordinators: Ms. Anu Susan Philip, Mr. Arun J. S.
+TOWARDS 5G – TECHNOLOGIES AND CHALLENGES
+The Department of Electronics and Communication Engineering, Mar Baselios College of Engineering and Technology, Trivandrum in association with IEEE Antennas and Propagation Society (IEEE APS) conducted a workshop on “Towards 5G – Technologies and Challenges” from December 18th – December 22nd, 2017.
+Staff co-ordinators: Ms. Luxy Mathews, Ms. Anu Anna John, Mr. Sherry Varghese George
+WORKSHOP ON SOFT COMPUTING FOR BIOMEDICAL APPLICATIONS (WSCBA 2017)
+The Department of Electronics and Communication, Mar Baselios College of Engineering and Technology, Trivandrum, in association with Kerala State Council for Science, Technology and Environment (KSCSTE) conducted “Workshop on Soft Computing for Biomedical Applications” (WSCBA 2017) from July 3
+rd
+to July 7
+th
+, 2017.The topics covered were Neural Networks, Machine Learning, Deep Learning, and Computational Neuroscience with focus on biomedical applications. Resource persons from IIST, IIT Guwahati, Nvidia (Bangalore), IISc Bangalore and MBCET handled the sessions.
+Staff co-ordinators: Ms. Lani Rachel Mathew, Ms. Poorna R. Prabhu, Mr. Priyadarsan U. S.
+STTP ON IMAGE AND SPEECH PROCESSING WITH PRACTICAL APPLICATIONS (ISPPA ’17)
+The Department of Electronics and Communication Engineering organized a Short Term Training Programme on Image and Speech Processing with Practical Applications (ISPPA’17) from 9
+th
+to 13
+th
+January, 2017.
+Staff co-ordinators: Ms. Ancy S. Anselam, Ms. Deepa P. L., Mr. Anoop K. Johnson
+STTP ON CMOS, MIXED SIGNAL AND RADIO FREQUENCY VLSI DESIGN
+A Two week ISTE STTP on “CMOS, Mixed Signal and Radio Frequency VLSI Design” under National Mission on Education through ICT(MHRD) conducted by IIT Kharagpur at MBCET from January 30
+th
+to February 4
+th
+, 2017.
+Staff co-ordinator: Ms. Ann Mary Alex, Teaching Assistant: Mr. Jinu Baby
+The Department of ECE organized a Workshop on EDA Tools and Practice for Lab staff from 4/7/2016 to 11/7/2016. Topics   covered during the workshop were:  Introduction to PSPICE software, Matlab fundamentals,   Introduction to DSP Kit,  Familiarization of Labview Simulation,   Introduction to digital design building blocks and technologies, importance of using HDL in digital circuit design and Steps in VHDL based design flow.
+Programme Coordinator: Ms. Teena Rajan
+Resource Persons: Ms. Lakshmy S., Ms. Athira V., Ms. Teena Rajan, Mr. Arun P. S, Ms. Deepa P. L.
+Three day “National Workshop on NS2”, organized by Department of Electronics & Communication Engineering, MBCET, from 11 – 13 November, 2015.
+Coordinators: Ms. Teena Rajan, Ms. Swapna P. S. , Mr. Shiras S. N.
+One week “National Workshop on Modelling and Simulation of Communication Systems (MSCS)”, organized by Department of Electronics & Communication Engineering, MBCET, from 8 – 12 June, 2015
+Coordinators: Ms. Swapna P.S., Ms. Luxy Mathews, Mr. Niyas K Haneefa.
+“Ansys and Orcad Software Training” for the Technical Staff of the Department of Electronics and Communication, during 18 and 19 June, 2015.
+Coordinator: Ms. Luxy Mathews
+Two day “National Seminar on Emerging Wireless Communication Technologies (NSEWCT15)”, organized by Department of Electronics & Communication Engineering, MBCET, from 12 – 13 March, 2015
+Coordinators: Ms. Yamuna K. Moorthy, Ms. Jofina Jose, Mr. Jinu Baby
+Two day “National Workshop on VHDL Programming and Practices (WVPP2015)”, organized by Department of Electronics & Communication Engineering, MBCET, from 30 – 31 January, 2015
+Coordinators: Ms. Ancy S. Anselam, Ms. Lakshmy S., Ms. Lani Rachel Mathew
+“Introduction to PSpice” for the Technical Staff of the Department of Electronics and Communication, during 3rd to 5th November 2014.
+Coordinator: Ms. Lakshmy S.
+Two week ISTE workshop on signal and systems, organized by Department of Electronics & Communication Engineering, MBCET, from 2 – 12 January 2014
+Coordinator: Mr. Nandan S.
+Two day “Introduction to Xilinx” organized by Department of Electronics & Communication Engineering, MBCET, from 18th to 19th December, 2013
+Coordinator: Ms. Luxy Mathews
+IEEE International conference on Green Technologies (ICGT12) jointly organized by MBCET and University of Dayton, USA during December 18 – 20, 2012. The parallel sessions addressed five major areas – Green Energy, Green Electron Devices & Green Communication, Green Computing & IT, Green Buildings and Green Mechanical Systems.
+One day “Workshop on Familiarization of MATLAB” organized by Department of Electronics & Communication Engineering, MBCET, on 27th September 2012
+Coordinators: Mr. Naveen S., Ms. Deepa P. L.
+One week “STTP on Digital Communication Systems” organized by Department of Electronics & Communication Engineering, MBCET, from 4 – 8 June 2012
+Coordinators: Ms. Jija Rajmohan, Ms. Lani Rachel Mathew
+One week “STTP on Image Processing with practical applications” organized by Department of Electronics & Communication Engineering, MBCET, from 14 – 18 June 2010
+Coordinator: Ms. Ancy S. Anselam
+Three day “Introduction to Microcontrollers” organized by Department of Electronics & Communication Engineering, MBCET, from 19 – 21 May 2010
+Coordinator: Prof. S. Viswanatha Rao.
+Workshops/ Seminar/FDPs attended by Faculty
+Dr. Jayakumari J
+, Professor, dept. of ECE and International liaison officer, MBCET has successfully participated and completed AICTE ATAL FDP on “Research applications in Artificial Intelligence and Machine Learning” at St Xavier’s Catholic College of Engineering( Autonomous), Chunkankadai, KK dist, Tamil nadu from 02/12/24 to 07/12/24
+Dr. Lani Rachel Mathew
+, Assistant Professor, ECED, has successfully participated & completed AICTE Training And Learning (ATAL) Academy Faculty Development Program on AI and Emerging Technologies for Sustainable Energy and Climate Adaptation at IIIT Kottayam from 25/11/2024 to 30/11/2024.
+Dr Swapna P S
+, Associate Professor, Dept. of ECE, has participated in the One Week National level Online Faculty Development Program on Outcome Based Education and Application of Generative AI in Teaching and Research, organised by the Internal Quality Assurance Cell (IQAC) of Gauhati University, Assam in association with ipsr solutions limited from 17 April 2024 to 24 April 2024
+Dr Ancy S Anselam,
+Associate Professor, Dept. of ECE, has participated in the One Week National level Online Faculty Development Program on Outcome Based Education and Application of Generative AI in Teaching and Research, organised by the Internal Quality Assurance Cell (IQAC) of Gauhati University, Assam in association with ipsr solutions limited from 17 April 2024 to 24 April 2024
+Dr. M. J. Jayashree
+, Professor, Dept. of ECE and IQAC Coordinator attended a Two day National Level Online Workshop for IQAC Coordinators titled ” Strategies to strengthen the institutional capacities for Quality, Ranking and Accreditation” on 4th and 5th April 2024 conducted by Institute for Academic Excellence (IAE).
+Dr S Viswanatha Rao
+, Professor, Vice Principal and Dean (Academic Affairs), Dept. of ECE, has participated in the One Week National level online Faculty Development Program on Outcome Based Education and Application of Generative AI in Teaching and Research, organised by the DST-CURIE-AI center of Sri Padmavati Mahila Visvavidyalayam (SPMVV University), Tirupati, in association with ipsr solutions limited from 18 March 2024 to 23 March 2024.
+Ms. Manju Suresh
+,Sr. Grade Instructor, Dept. of ECE,  completed a 8 week NPTEL course on “Embedded System Design with ARM” from Jan to March 2024 and obtained Elite certification.
+Dr. Sreedevi P., Mr. Shiras S. N., Mr. Sherry Varghese George
+attended a 6 day ATAL BASIC FDP on “Exploring the Path to 6G: Unleashing the Potential Beyond 5G” from 5th to 10th February 2024 sponsored by AICTE, New Delhi and AICTE Training & Learning (ATAL) Academy at The National Institute of Engineering (South Campus), Mysuru.
+Dr. J. Jayakumari
+, Professor & Head of Dept. of ECE attended five days online faculty development programme on “AI based wearable biosensing devices for healthcare analytics” organized by Sri Shanmugha college of Engineering and Technology from 8th to 12th January 2024.
+Dr. M. J. Jayashree,
+Professor, Dept. of ECE and IQAC Coordinator, attended “FDP on recent trends in healthcare and assistive technologies”, organized by The Dept. of ECE, MBCET from 29/1/24 to 2/2/2024.
+Dr. Luxy Mathews,
+Asso. professor, Dept. of ECE, attended “FDP on recent trends in healthcare and assistive technologies”, organized by The Dept. of ECE, MBCET from 29/1/24 to 2/2/2024.
+Dr. Ancy S Anselam
+, Asso. professor, Dept. of ECE, attended “FDP on recent trends in healthcare and assistive technologies”, organized by The Dept. of ECE, MBCET from 29/1/24 to 2/2/2024.
+Dr. Lani Rachel Mathew
+, Asst. professor, Dept. of ECE, attended “FDP on recent trends in healthcare and assistive technologies”, organized by The Dept. of ECE, MBCET from 29/1/24 to 2/2/2024.
+Mr. Niyas K. Haneefa
+, Asst. professor, Dept. of ECE,
+Attended “FDP on recent trends in healthcare and assistive technologies”, organized by The Dept. of ECE, MBCET from 29/1/24 to 2/2/2024.
+Attended a five days online faculty development programme on “Research trends in AI innovation and solutions for contemporary challenges” organized by Saveetha Engineering college, Chennai from 22nd to 27th January 2024.
+Ms. Anu Susan Philip
+, Asst. professor, Dept. of ECE,
+Attended “STTP and FDP on ‘Applications of Machine Learning Techniques in Sustainable Technologies (AMLST-2024) organized by NIT,Rourkela, from 24/1/24 to 28/1/2024.
+Completed 12 weeks NPTEL course on “Understanding Incubation And Entrepreneurship” from July to October 2023 and obtained Elite  certification
+Mr. Shiras S N
+, Asst. professor, Dept. of ECE, Completed a 12 week NPTEL course on “Introduction to Wireless and Cellular Communications” from July to October 2023 and obtained Silver certification.
+Mr. Sherry Varghese George
+, Asst. professor, Dept. of ECE,
+Attended “FDP on recent trends in healthcare and assistive technologies”, organized by The Dept. of ECE, MBCET from 29/1/24 to 2/2/2024.
+Completed 12 week NPTEL course on “Introduction to Wireless and Cellular Communications” from July to October 2023 and obtained Elite + Silver certification (5% Topper)
+Ms. Amritha BJ
+, Asst. professor, Dept. of ECE, attended “FDP on recent trends in healthcare and assistive technologies”, organized by The Dept. of ECE, MBCET from 29/1/24 to 2/2/2024.
+Mr. Arun J. S.
+,Asst. professor, Dept. of ECE
+Participated in the five day course on “Cisco Networking Basics” organized by Cisco Networking Academy from 18/10/2023 to 22/10/2023.
+Participated in the  8 hours course on “Cisco Introduction to IoT” organized by Cisco Networking Academy on 29/11/2023.
+Participated in the 8 hours course on “Cisco Packet Tracer” organized by Cisco Networking Academy on 27/10/2023.
+Ms. Salga Ann Jacob
+, Asst. professor, Dept. of ECE
+Attended “FDP on recent trends in healthcare and assistive technologies”, organized by The Dept. of ECE, MBCET from 29/1/24 to 2/2/2024.
+Participated in the five days online FDP “Signals and Systems: Simulation Analysis and Applications”(SSSA-2023) Organized by conducted by AnnantGyan Knowledge and Skills Private Limited from 11/12/2023 to 15/12/2023.
+Dr.Vineetha Mathai
+, Asst. professor, Dept. of ECE, completed the two weeks online FDP on “Entrepreneurship Development (Machine learning)”,organized by Anna University centre for Faculty and Professional Development from 1st February to 14th February 2024.
+Ms. Merin Philip,
+Asst. professor, Dept. of ECE,
+Attended “FDP on recent trends in healthcare and assistive technologies”, organized by The Dept. of ECE, MBCET from 29/1/24 to 2/2/2024.
+Completed 12 weeks NPTEL course on “The Joy of computing using python” from July to October 2023 and obtained Elite  certificate
+Mr. Sreekumar M G
+, Asst. professor, Dept. of ECE, attended “FDP on recent trends in healthcare and assistive technologies”, organized by The Dept. of ECE, MBCET from 29/1/24 to 2/2/2024.
+Ms.Nikhila P
+, Asst. professor, Dept. of ECE, attended “FDP on recent trends in healthcare and assistive technologies”, organized by The Dept. of ECE, MBCET from 29/1/24 to 2/2/2024.
+Ms. GouriNandhana
+, Asst. professor, Dept. of ECE, attended “FDP on recent trends in healthcare and assistive technologies”, organized by The Dept. of ECE, MBCET from 29/1/24 to 2/2/2024.
+Mr. H. Aravind Sarma
+, Asst. professor, Dept. of ECE
+Attended “FDP on recent trends in healthcare and assistive technologies”, organized by The Dept. of ECE, MBCET from 29/1/24 to 2/2/2024.
+Attended “FDP on Outcome Based Education and Essential AI Tools for Teachers”, organized by The Internal Quality Assurance Cell (IQAC) and The Department of Computer Science, St. Albert’s College (Autonomous), Ernakulam from 2/11/23 to 9/11/2023.
+Attended a five days online faculty development programme on “Research trends in AI innovation and solutions for contemporary challenges” organized by Saveetha Engineering college, Chennai from 22nd to 27th January 2024.
+Ms. JeenaViji
+, Asst. professor, Dept. of ECE, attended “FDP on recent trends in healthcare and assistive technologies”, organized by The Dept. of ECE, MBCET from 29/1/24 to 2/2/2024.
+Dr. M. J. Jayashree, Dr Neethu Roy, Dr Luxy Mathews, Ms Deepa P. L. & Mr Arvind P.
+attended the 3rd National Level Online Workshop, titled “Transformation through NAAC Accreditation Process,” on 30-10-2023 and 31-10-2023 conducted by Institute for Academic Excellence (IAE). The Technical Sessions brought a critical insight into all the seven criteria of NAAC and the DVV processes, received the interpretation of qualitative and quantitative metrics and the procedures and precautions during the Peer Committee visit and the importance of the Student Satisfaction Survey (SSS).
+Mr. Shiras S. N.
+, Asst. Professor,
+Aattended a five day Short-Term Course on “Emerging Technologies for 6G Communications” organized by IEEE Rourkela Subsection at NIT Rourkela from 17th to 21st July 2023.
+Attended the ‘IoT Train the Trainer Workshop’ held on 22
+nd
+May to 26
+th
+May 2023 organized by the Dept. of ECE, MBCET.
+Mr. Sherry Varghese George
+, Asst. Professor,
+Attended a five day Short-Term Course on “Emerging Technologies for 6G Communications” organized by IEEE Rourkela Subsection at NIT Rourkela from 17th to 21st July 2023.
+Attended the ‘IoT Train the Trainer Workshop’ held on 22
+nd
+May to 26
+th
+May 2023 organized by the Dept. of ECE, MBCET.
+Ms. Salga Ann Jacob,
+Asst. Professor,
+Attended the webinar on the topic ‘Industry-Academia Interaction with Decathlon Sports India’ conducted by Mr. Sivakumar Karmegam, Innovation Lab Leader at Decathlon Sports India on 9
+th
+May 2023.
+Participated in one week online FDP   on the topic “Performance Analysis of Wireless Communication Systems” conducted by Annant Gyan Knowledge and Skills Private Limited from 26
+th
+June 2023 to 01
+st
+July 2023.
+Participated in one week online FDP   on the topic “Satellite Communication: Design Prospective and Applications” conducted by Annant Gyan Knowledge and Skills Private Limited from 21
+st
+August 2023 to 26
+th
+August 2023.
+Dr. Jayakumari J,
+Professor, attended the ‘IoT Train the Trainer Workshop’ held on 22
+nd
+May to 26
+th
+May 2023 organized by the Dept. of ECE, MBCET.
+Dr.Swapna P.S,
+Assoc. Professor, attended the ‘IoT Train the Trainer Workshop’ held on 22
+nd
+May to 26
+th
+May 2023 organized by the Dept. of ECE, MBCET.
+Ms. Deepa P.L,
+Asst. Professor, attended the ‘IoT Train the Trainer Workshop’ held on 22
+nd
+May to 26
+th
+May 2023 organized by the Dept. of ECE, MBCET.
+Mr. Jinu Baby,
+Asst. Professor, attended the ‘IoT Train the Trainer Workshop’ held on 22
+nd
+May to 26
+th
+May 2023 organized by the Dept. of ECE, MBCET.
+Mr. Arun J.S,
+Asst. Professor, attended the ‘IoT Train the Trainer Workshop’ held on 22
+nd
+May to 26
+th
+May 2023 organized by the Dept. of ECE, MBCET.
+Mr. Jijo Jose,
+Asst. Professor, attended the ‘IoT Train the Trainer Workshop’ held on 22
+nd
+May to 26
+th
+May 2023 organized by the Dept. of ECE, MBCET.
+Ms. Merin Philip,
+Asst. Professor, attended the ‘IoT Train the Trainer Workshop’ held on 22
+nd
+May to 26
+th
+May 2023 organized by the Dept. of ECE, MBCET.
+Ms. Manju Suresh,
+Sr. Lab Instructor, attended the ‘IoT Train the Trainer Workshop’ held on 22
+nd
+May to 26
+th
+May 2023 organized by the Dept. of ECE, MBCET.
+Mr. Ajith Kumar S. M,
+Lab Instructor, attended the ‘IoT Train the Trainer Workshop’ held on 22
+nd
+May to 26
+th
+May 2023 organized by the Dept. of ECE, MBCET.
+Mr. Dhaneesh Raj D,
+Lab Instructor, attended the ‘IoT Train the Trainer Workshop’ held on 22
+nd
+May to 26
+th
+May 2023 organized by the Dept. of ECE, MBCET.
+Dr M. J. Jayashree
+, Professor, Dept. of ECE and IQAC Coordinator, participated in the one day orientation program on Kerala Institutional Ranking Frameworks (KIRF) and State Assessment and Accreditation Centre (SAAC) organized by the Kerala State Higher Educational Council on 24th May 2023 for the faculty members of Higher Educational Institutions (HEIs) in Thiruvananthapuram District, Kerala.
+Dr. Paul Thomas
+, Professor,
+Dr. M. J. Jayashree
+, Professor,
+Dr. Swapna P.S
+, Assoc. Professor,
+Ms.Deepa P.L
+, Asst. Professor attended the ISO Gap Analysis Workshop and Internal Auditor Training held on 25th and 26th April 2023 at MBCET.
+Ms.Teena Rajan
+, Asst. professor, Dept. of ECE completed the FDP on “Development of Implantable Medical Devices & Patenting”, from 20th to 24th February 2023, organized by the Department of ECE, College of Engineering, Trivandrum.
+Mr. Arun J S,
+Asst. professor, Dept. of ECE participated in the symposium as a delegate to address the Industry-Institution gap organized by Gtech Mulearn followed by the Industry Summit and launch of Kerala Skills Express by Kerala Knowledge Economy Mission on 23 January 2023 at Hotel Hycinth, Thiruvananthapuram.
+Ms. Deepa PL
+and
+Dr. Lani Rachel Mathew,
+Asst. professor, Dept. of ECE attended a one day Orientation Program on AICTE Technical Translation on 22-12-2022 at Digital University Kerala(DUK) Technocity Campus, Thiruvananthapuram.
+Ms. Salga Ann Jacob
+, Asst. professor, Dept. of ECE
+Participated in the three day online workshop on “Introduction to Latex for Document Preparation” conducted from 28th to 30th December 2022 organized by the Centre for Skill Development & Innovative Research.
+Participated in the five days online FDP on “ Research Trends in Optical Technologies and its Applications” Organized by School of Electronics Engineering from January 05th -09th  2023 at VIT, Chennai.
+Participated in IP Awareness/Training program under NATIONAL INTELLECTUAL PROPERTY AWARENESS MISSION on February 09, 2023 jointly organized by Intellectual Property Office and MoE’s Innovation Cell, India.
+Participated in Five-day hands-on FDP on SECURITY IN COMPUTING organized by Mar Baselios College of Engineering and Technology (Autonomous) from February 20-24, 2023
+Dr.Emy Mariam George
+, Asst. professor, Dept. of ECE,
+Participated in a one day online workshop on “Advanced Antenna Design and Analysis using Ansys HFSS” conducted by ARK Infosolutions Pvt. Ltd., Bangalore on December 7, 2022.
+C
+ompleted the two week FDP on “MATLAB and SDR Hands-on for Communication Engineering Lab”, from 27th February to 10th March 2023, organized by the Department of ECE, Amal Jyothi College of Engineering, Kanjirapally.
+Ms. Merin Philip,
+Asst. professor, Dept. of ECE, completed the FDP on “Technology based Learning for Communication and Signal Processing” from 9 to 13th of January 2023 organized by Saintgits college of engineering in association with CoreEL, ENTUPLE and Anritsu.
+As part of Intel Unnati Program, faculty members from MBCET attended Internet of Things (IoT) Train the Trainer workshop at Indian Institute of Science (IISc), Bengaluru from 5th to 7th December 2022. The faculty members were Dr. Swapna P. S., Associate Professor, ECED, Mr. Arun J. S, Assistant Professor, ECED, Mr. Shibu V.S., Assistant Professor, CSED, Mr. Jijo Jose, Assistant Professor, ECED and Mr.Ajith Ashok, Assistant Professor, EEED.
+Dr S Viswanatha Rao
+, professor, Mr Jijo Jose and Mr Arun J S, Asst. professors, Dept. of ECE attended the two day capacity building workshop for Technology Business Incubation Managers organized by Kerala Startup Mission on 2nd and 3rd December 2022  at The Technology Innovation Zone Cochin.
+Ms. Vineetha Mathai
+, Asst. Professor of ECE department attended one week National level online Faculty Development Program on Recent Trends in Artificial intelligence and Cyber security from 01-05 November 22 organized at Shri Vishnu Engineering College for women.
+Dr. Jayakumari J
+, HOD, Dept. of ECE, participated in a one day workshop on ‘6GIC-CLICK WORKSHOP: FEATURING RECONFIGURABLE INTELLIGENT SURFACES’, organized by 5G/6G Innovation Centre, University of Surrey, UK, on 23rd September 2022.
+Ms. Remya Annie Eapen
+, Asst. professor, Dept. of ECE, participated in the 5 day workshop on ‘Designing and modelling of IoT, AI and ML systems’, organized by AICTE, ATAL academy, ARM education, STMicroelectronics, from 1 – 5 August 2022.
+Dr. Jayakumari J,
+HOD, Dept. of ECE, participated in a one day workshop on ‘6GIC-CLICK WORKSHOP: FEATURING RECONFIGURABLE INTELLIGENT SURFACES’, organized by 5G/6G Innovation Centre, University of Surrey, UK, on 23rd September 2022.
+Mr. Arun J.S.
+and
+Dr. Lani Rachel Mathew
+(Asst. Professors, Dept. of ECE) attended the Assistive technology Conclave at the NISH campus on 31 August 2022. The conclave aimed at promoting Assistive Technology engagement among students and faculty from diverse fields.
+Mr. Jijo Jose
+, Convenor, IIC MBCET and Assistant Professor, Dept. of ECE,  attended the IIC regional meet at Reva University, Bengaluru, on 16 August 2022. The IIC regional meet was organized in different cities across the country,  by the Ministry of Education’s Innovation Cell, to provide a platform for sharing Innovation and Entrepreneurship (I&E) knowledge and best practices in Higher Educational Institutions.
+Mr. Shiras S.N.,
+Asst. professor, Dept. of ECE, participated in the one-day faculty development workshop on ‘Introduction to Software Defined Radio’, organized by the department of Electronics and Communication Engineering, College of Engineering Adoor, on 10 July 2022.
+Ms. Deepa P.L.,
+Asst. Professor, Dept. of ECE, participated in the hands-on workshop on ‘Unconventional Artificial Neural Networks to Deep Learning: A practical perspective for biomedical diagnostic application’ organized by IIT Mandi iHUb and HCI foundation in collaboration with Karunya University during 09-14 May 2022.
+Mr. Shiras S.N.
+and
+Mr. Sherry Varghese George
+, Asst. professors, Dept. of ECE, attended the five-day online short-term course on ‘Emerging Wireless Communications: 6G and Beyond’, held at the department of Electronics and Communication Engineering, National Institute of Technology Rourkela and sponsored by Science and Engineering Research Board (SERB), India, during 09-13 May, 2022.
+Dr. Lani Rachel Mathew,
+Asst. professor, Dept. of ECE,  attended the
+International Workshop on Innovations & Trends in Brain Computing Techniques
+organized by Digital University Kerala from 25 – 29 April 2022 at Technocity campus, Trivandrum
+Ms.Lakshmy S.
+, Asst. Professor, attended the following.
+Participated in the IP awareness/training program under National Intellectual Property Awareness Mission, organized by Intellectual Property Office, India, on 15 March 2022.
+5-day online FDP on ‘Inculcating Universal Human Values in Technical Education’ organized by AICTE from 26 – 30 July 2021.
+Ms.Anu Susan Philip,
+Asst. Professor, attended the 5 days online FDP on “Emerging Technologies of Opto-VLSI and its Applications” organized by the Department of Electronics and Communication Engineering, Meerut Institute of Engineering and Technology, Delhi from 31 August 2021- 4 September 2021.
+Dr.Swapna P.S.
+, Asst. Professor, attended the online FDP on ‘Advancements on Antenna Technologies for Future Applications’, organized by Velagapudi Ramakrishna Siddhartha Engineering College, during 14-19 February, 2022.
+Ms.Lakshmy S.
+and
+Ms. Amritha B.J.
+, Asst. Professors, attended the online FDP on ‘SoC Design Methodology using Intel FPGAs’, organized by IIT Goa in association with Intel Technologies Ltd., from 17-19 February, 2022.
+Ms.Ann Mary Alex,
+Asst. Professor, attended One Week Online Faculty Development Program on ‘Next Generation Materials and Devices’ organized by Dept. of ECE, SR University, Warangal from 03 – 07 January, 2022.
+Ms.Lakshmy S., Ms. Amritha B.J.
+,
+Ms. Salga Ann Jacob
+, Asst. professors, attended the talk session on ‘Disaster Mitigation and Management’ by Dr. Shibu K. Mani organized by the Environmental and Water Resources Engineering Research Group, Department of Civil Engineering, MBCET in association with the MBCET Student Chapter of American Society of Civil Engineers (ASCE) on 27 December, 2021.
+Ms.Ancy Joy
+, Asst. Professor, participated in the online Elementary FDP on ‘Recent Advances and Challenges in Nanoelectronics Devices (RACND-2021)’, organized by AICTE Training and Learning (ATAL) Academy from 13-17 December 2021, at IIIT Bhagalpur.
+Ms.Amritha B.J.,
+Asst. professor, attended the 5-day online workshop on Academic Writing, organized by the department of Science and Humanities, MBCET, from 01-06 November, 2021.
+Ms.Remya Annie Eapen
+, Asst. Professor, participated in the one-day online workshop on ‘How to conduct the Student Induction Program (SIP)’, organized by All India Council for Technical Education (AICTE) on 20 September 2021.
+Mr.Jijo Jose,
+Assistant Professor, successfully completed the 5-day online FDP on ‘Inculcating Universal Human Values in Technical Education’ organized by AICTE from 22 – 26 November, 2021.
+Ms.Salga Ann Jacob
+, Asst. Professor, attended the following
+Participated in the 32nd annual state (ISTE) Faculty Convention 2022 organized by Trinity College of Engineering on 19 February 2022.
+Two-day Workshop on ‘Renewable Energy: Materials & Devices’ organized by Department of Applied Science, NITTTR Chandigarh and IKG PTU, Amritsar Campus during 03-04 February, 2022.
+Two-day workshop on ‘Nanoscale Characterization and Analysis’ organized by Department of Applied Science, National institute of technical teachers Training & Research Chandigarh, from 10-11 March 2022.
+Winter School on ‘Advances in Deep Learning for Multimedia Signal Processing’ organized by IEEE signal processing society Gujarat chapter, from 3-5 March 2022.
+Webinar titled ‘Grid Integration of Wind Power Systems’, organized by Power Electronics Research Group, Department of Electrical and Electronics Engineering, MBCET, on 29 November, 2021.
+National Webinar on ‘Professional Ethics in Academics’ organized by the Department of Science and Humanities, FISAT on 27 November, 2021.
+National Webinar on ‘Introduction to Academic Writing’ organized by the Department of Science and Humanities, FISAT on 26 November, 2021.
+Two Day National Webinar on ‘Linear Algebra and Its Applications’ organized by the Department of Science and Humanities, FISAT, from 19 – 20 November 2021.
+Interactive session on ‘Tips for Effective Technical Presentations’ organized by CESA on 26 October, 2021.
+Dr. Jayakumari J.,
+Professor and Head, attended the following.
+Two days FDP on ‘Development of Wireless Communication Applications using MATLAB and Simulink’organized by CoreEL Technologies, during 12 – 13 August 2021.
+Three Days Hands-on Workshop on ‘LABVIEW ’organized by IEEE Communications Society Madras Chapter, during 09 – 11 August, 2021
+Ms. Swapna P.S.,
+Assistant Professor, attended the following.
+Two Days FDP on ‘Development of Wireless Communication Applications using MATLAB and Simulink’ organized by CoreEL Technologies, during 12 – 13 August 2021.
+Seminar on Designing Communication Systems – Wireless and 5G with MATLAB and Simulink organized by Mathworks during May 6, 7 and 10, 2021
+Dr Sreedevi P.,
+Assistant Professor, attended the 5 days online FDP on “ Emerging Technologies of Opto-VLSI and its Applications”organized by the Department of Electronics and Communication Engineering, Meerut Institute of Engineering and Technology, Delhi  from 31 August 2021- 4 September 2021.
+Mr. Niyas K Haneefa
+, Assistant Professor, attended the following FDPs.
+AICTE-ISTE approved 6 days online orientation/ refresher programme on “Advance Technology in Effective Teaching” held during 19.04.2021 to 24.04.2021 organized by Mohandas College of Engineering and Technology, Anad, Nedumangad, Kerala.
+KTU sponsored 5 day FDP (online) on AI and Data Sciences: A Pedagogical Approach, during 9 to 13 August 2021, organized by the Department of Electronics and Communication Engineering, St. Joseph’s College of Engineering and Technology, Palai, Kerala.
+Two Days FDP on ‘Development of  Wireless Communication Applications using MATLAB and Simulink’ organized by CoreEL Technologies, during 12 – 13 August 2021
+Ms. Ann Mary Alex,
+Assistant Professor,  attended the 5 day online FDP on “Inculcating Universal Human Values in Technical Education” organized by All India Council for Technical Education (AICTE) from 26-30 July, 2021.
+Mr. Anoop K. Johnson,
+Assistant Professor, attended the following.
+Successfully completed the one-week Instructor Led Live online training on ‘Deep learning using medical data’, organized by Finland Labs (A unit of Revert Technology Pvt. Ltd.), during 16 – 20 August 2021
+5 day online FDP on ‘Deep Learning and Neural Networks’ organized by the Department of ECE, Mohandas College of Engineering and Technology, and sponsored by APJAKTU, from 05 – 09 July 2021
+Ms. Lakshmy S.,
+Assistant Professor,attended the5 days online FDP on ‘Telemedicine’ organized by ATAL &Department of ECE, NIT JAMSHEDPUR from 9 – 13 August 2021
+Mr. Shiras S.N.,
+Assistant Professor, attended the Three day Faculty Development Programme on ‘LoRaWAN and IoT Applications’ conducted by the Department of Electronics and Communication Engineering, LBS College of Engineering Kasaragod, Kerala in association with ICFOSS, Trivandrum from 14 – 16 July, 2021.
+Ms. Anu Susan Philip,
+Assistant Professor, attended the following
+5 days online FDP on “Emerging Technologies of Opto-VLSI and its Applications”organized by the Department of Electronics and Communication Engineering, Meerut Institute of Engineering and Technology ,Delhi  from 31 August 2021- 4 September 2021
+Participated in the 3 days FDP on “Emerging Trends and Challenges in Low Power VLSI Design” organized by the Department of Electronics and Communication Engineering, Mar Baselios Christian College of Engineering ,Peermedu  from 19 – 21 May 2021.
+Mr. Sherry Varghese George,
+Assistant Professor, attended the AICTE – ISTE approved Orientation/Refresher Programme on “Advance Technology in Effective Teaching” held during 19 – 24 April 2021.
+Ms. Ancy Joy,
+Assistant Professor, attended the following.
+5 days online FDP on “ Emerging Technologies of Opto-VLSI and its Applications”organized by the Department of Electronics and Communication Engineering, Meerut Institute of Engineering and Technology ,Delhi from 31 August 2021- 4 September 2021.
+AICTE Training And Learning (ATAL) Academy Online Elementary 5 days FDP on ” Nano-Sensors” from 05 – 09 July 2021, at Indian Institute of Technology Jodhpur.
+Participated in the 3 days FDP on “Emerging Trends and challenges in Low Power VLSI Design” organized by Department of Electronics and Communication Engineering, Mar Baselios Christian College of Engineering ,Peermedu from 19 – 21 May 2021
+Mr. Arun J.S.,
+Assistant Professor
+Participated in the 3 days FDP on “Emerging Trends and Challenges in Low Power VLSI Design” organized by the Department of Electronics and Communication Engineering, Mar Baselios Christian College of Engineering ,Peermedu from 19 – 21 May 2021.
+Participated in the KTU sponsored five day FDP on Entrepreneurship and Essential skills for Innovation organized by MES College of ENgineeringKuttipuram from 6 – 10 September 2021.
+Mr. Jijo Jose
+, Assistant Professor,, attended the following
+3 day workshop on “Embedded Systems- An application driven approach “ organised by AICTE, ATAL Academy, STMicroelectronics and ARM Education from 25 – 27 August, 2021.
+3 day FDP on “LoRAWAN and IoT Applications” conducted by Department of Electronics and Communication Engineering, LBS College of Engineering, Kasaegode in association with ICFOSS, Trivandrum from 14 – 16 July, 2021.
+Ms. Salga Ann Jacob
+, Assistant. Professor, attended the following
+Online STTP on ‘Scientific Computing Applications’ organized by Signal Processing Research Group, Department of ECE, Mar Baselios College of Engineering and Technology, Thiruvananthapuram during 9-11 and 16 -18 August  2021
+National FDP on “Teaching-Competencies for Self-directed Learning”  organized by IQAC, Mar Baselios Institute of Technology and Science (MBITS) Kothamangalam from 28 – 30 July 2021.
+Webinar on “Control Strategies for PMSM driven Electric Vehicle” organized by Power Electronics Research Group in association with EV Research Cell, Department of Electrical and Electronics Engineering Mar Baselios college of Engineering and Technology (Autonomous) on 26 June 2021.
+Webinar on ‘Role of Power Electronic Converters for EV Charging Infrastructure’ organised by the Power Electronics Research Group, Department of Electrical and Electronics Engineering, Mar Baselios College of Engineering and Technology, Thiruvananthapuram on 19 June 2021.
+Participated in the two day session on MENTAL HEALTH AND BLACK FUNGUS awareness conducted by NSS MBCET (Unit No.: 230) of Mar Baselios College of Engineering and Technology, Trivandrum on 11th & 12th of June 2021.
+Online webinar on “Introduction to Model Predictive Control and its Applications” Organized by Control System Research Group Department of Electrical & Electronics Engineering, Mar Baselios College of Engineering & Technology, Thiruvananthapuram on 22nd May 2021.
+KTU sponsored FDP program on ‘Emerging Trends and Challenges in Low power VLSI Design’ organized by the Department of ECE Mar Baselios Christian College of Engineering & Technology, Peermade from 19 – 21 May 2021.
+Mr. Arun J.S.
+and
+Mr. Jijo Jose
+have undergone the advanced level Innovation Ambassador Training, and
+Mr. Shiras S.N
+. has undergone the first level training, conducted by MoE’s Innovation cell and AICTE during 30 June to 30 July 2021, in online mode.
+Lani Rachel Mathew
+, attended the following FDPs in the month of July 2021.
+National FDP on “Teaching-Competencies for Self-directed Learning” organized by Internal Quality Assurance Cell (IQAC), Mar Baselios Institute of Technology and Science (MBITS) from 28 – 30 July 2021.
+KTU sponsored online FDP on “Embedded Systems and IOT in Biomedical Applications” organized by the Department of Biomedical Engineering, Sahrdaya College of Engineering and Technology from 12 – 16 July 2021
+Ms. Swapna P.S
+attended the Online Faculty Development Program on ‘5G And Beyond’ sponsored by TEQIP – II and organized by the Department of Electronics and Communication Engineering, Government Engineering College Wayanad from 28  June to 1 July 2021.
+Ms. Ann Mary Alex
+has participated in the Faculty Development Programme on “Art and Skill of Writing Research Publication” organized by the Department of Civil Engineering, NSS College of Engineering, Palakkad and sponsored by APJ Abdul Kalam Technological University, Kerala, from 28 – 30 June 2021.
+Lakshmy S.
+, attended the following in the month of June.
+A five Day Online Short-Term Training Program (STTP) On
+VLSI Architectures for Digital Signal Processing Systems (VADSPS-21)
+organized by Department of Electronics and Communication Engineering, National Institute of Technology Calicut, from June 14 – 18, 2021.
+SPARC International Workshop on
+Embedded System Technologies for Deep Learning and Approximate Computing
+organized by the Department of CSE, IIT Guwahati on 29-30 May & 5-6 June 2021
+Ms. Ann Mary Alex
+participated in the
+‘Basic Training Program in Nano Science and Technology (Online mode)’
+, supported by Ministry of Human Resource Development (MHRD), Govt. of India and conducted by the Centre for Nano Science and Engineering, Indian Institute of Science, Bangalore, from 10 – 12 May 2021.
+Ms. Ann Mary Alex
+attended the webinar on
+‘National Education Policy (2020).
+organised by Priyadarshini College of Engineering Nagpur and Anand Niketan College Warora on 15 April, 2021.
+Ms. Ann Mary Alex
+attended the
+‘Students Humanitarian Technology Conference (SHTC) 2021’
+organised by IEEE Kerala Section SIGHT in association with IEEE LINK and IEEE Kerala Young Professionals on 1-2 May, 2021
+Mr. Shiras S. N.
+has participated in the 6-days AICTE-ISTE funded Induction / Refresher program (3rd – Phase) on ‘Future Wireless Communication: Standards & Technologies’ organized by the Department of Electronics & Communication Engineering, K S Institute of Technology between 24- 29 May 2021.
+Mr. Shiras S. N.
+attended a two days event –  ‘R2R: Roadway to Robotics’, conducted by IEEE RAS kerala chapter in association with TCS from 15 – 16 May 2021.
+Mr. Jinu Baby
+participated in the 5 day online FDP on “
+Inculcating Universal Human Values in Technical Education
+” organized by All India Council for Technical Education (AICTE) from 8th to 12th March 2021.
+Ms.Ann Mary Alex
+and
+Ms. Ancy Joy
+attended a 6-day QIP-sponsored online FDP on
+“
+Emerging Trends in VLSI and Nanoelectronics for Building Atmanirbhar Bhara
+t
+” organised by Centre For Advanced Electronic (CAE), IIT Indore, during 15
+th
+to 20
+th
+of February, 2021.
+Mr.Arun J.S.
+participated in “
+DX21: Digital Transformation Summit
+”, organized by Kerala University of Digital Sciences, Innovation and Technology (Digital University) during 15
+th
+and 16
+th
+of February 2021.
+Ms. Swapna P.S.
+participated in the online FDP on “
+Art of Student Centric Teaching
+” sponsored by APJAKTU and organized by Department of Computer Science & Engineering, NSS College of Engineering, Palakkad, from 8
+th
+to 12
+th
+February 2021.
+Mr. Jijo Jose
+has successfully completed the 5 day FDP on “
+PCB Design using Autodesk Fusion 360
+” organized by NKOCET, Solapur, in association with Autodesk, from 8
+th
+to 12
+th
+of February 2021.
+AICTE sponsored Faculty Development Program (Virtual mode) on “
+NBA and the processes
+” at National Institute of Technology Mizoram held during 1st February to 5
+th
+February 2021.
+Staff Attended:
+Ms. Ancy S. Anselam, Ms. Swapna P.S.
+Webinar on “
+Identifying Intellectual Property Components at the Early Stage Of Innovation
+” organized by Institute Innovation Council (IIC), MBCET, on 3
+rd
+February 2021.
+Staff Attended:
+Dr. M.J. Jayashree, Ms. Lakshmy S., Ms. P.P. Hema, Mr. Sherry Varghese George, Mr. Arun J.S., Mr. Jijo Jose.
+Ancy Joy
+participated in the “
+ISEA Virtual Presentation Conclave (IVPC 2020)
+” conducted by IIT Guwahati, an initiative under ISEA Project Phase – II , Ministry of Electronics and Information Technology, Government of India during 29
+th
+to 31
+st
+January 2021.
+Arun J S, Mr Sherry Varghese George and Mr. Jijo Jose
+participated in the
+IEDC Summit
+organized by Kerala Startup Mission (KSUM) and hosted by Adi Sankara Institute of Engineering and Technology, from 28
+th
+to 30
+th
+January 2021.
+Webinar on “
+Introduction to 5G: Evolution, Air Interface and Technologies”
+organized by the Communication Research Group, Department of ECE, MBCET, on 29
+th
+January 2021.
+Staff Attended:
+Prof. S. Viswanatha Rao
+, Dr. Jayakumari J., Ms. Swapna P. S, Ms. Teena Rajan, Dr. Sreedevi P., Ms. Remya Annie Eapen, Ms. P.P. Hema, Mr. Shiras S.N., Ms. Roselin Raju, Ms. Amritha B.J.
+Webinar on “
+Orientation Session on National Innovation and Startup Policy
+” organized by Institute Innovation Council (IIC), MBCET, on 22
+nd
+January 2021.
+Staff Attended:
+Dr. M.J. Jayashree, Ms. Lakshmy S.  Ms. P.P. Hema, Mr. Sherry Varghese George, Mr. Arun J.S., Mr. Jijo Jose.
+FDP on “
+Biomedical Engineering and its Applications
+” (BMEA’21), organized by the Department of Electronics and Communication Engineering, MBCET, from 11
+th
+to 16
+th
+January 2021.
+Staff Attended
+:  Ms. Ancy S. Anselam, Ms. Luxy Mathews , Ms. Swapna P.S. , Mr. Anoop K.Johnson, Mr. Jinu Baby , Ms. Athira V. , Ms. P.P. Hema, Ms. Remya Annie Eapen, Ms. Lakshmy S., Mr. Shiras S.N., Mr. Sherry Varghese George,  Ms. Amritha B.J. , Ms. Roselin Raju, Mr. Jijo Jose, Mr. Dhaneesh Raj D. , Ms. Hanna Varghese, Mr. Rajendran H. , Ms. Swapna Lekha U. , Mr. Shinin C.S. , Ms. Sarika U.S.
+Arun J. S.
+attended the 3 day Innovation Project Leadership Program (IPLP) organized as a part of ‘One District One Idea’ program of K-DISC from 4
+th
+to 6
+th
+January 2021. The event held in Collectorate Thiruvananthapuram, was envisioned and executed by The Kerala University of Digital Sciences, Innovation and Technology.
+Deepa P.L
+. has successfully completed the AICTE sponsored Faculty Development Programme (online) on “
+Machine Learning and Deep Learning: A Hands-On Approach
+” organized by Division of Electronics, School of Engineering, CUSAT, from 7
+th
+to 19
+th
+December 2020.
+Webinar on “
+Orientation Session on National Policy
+” organized by Institute Innovation Council (IIC), MBCET, on 17
+th
+December 2020.
+Staff Attended:
+Dr. M.J. Jayashree, Ms. P.P. Hema, Mr. Sherry Varghese George, Mr. Arun J.S., Mr. Jijo Jose.
+Mr. Arun J.S
+participated in the webinar on “
+Catalyst – The Role of Teachers in Promoting Innovation and Entrepreneurship among Students
+” organized by Ahalia Innovation and Entrepreneurship Development Centre in association with Institution Innovation Council of Ahalia School of Engineering and Technology, Palakkad on 10
+th
+December 2020.
+Ms. P.P. Hema
+attended the webinar on “
+Evolution of 5G-New Radio
+” organized by 5G Innovation Center, Department of Electronics and Communication Engineering, Coimbatore Institute of Technology, Coimbatore, on 8
+th
+December 2020.
+Ms. Lakshmy S.
+attended the Virtual Conference on “
+IEEE Recent Advances in Intelligent Computational Systems
+” from 3
+rd
+to 5
+th
+December 2020.
+Webinar on “
+Accreditation and Quality of Engineering Education: IEEE’s Role and Perspectives from ABET
+” organized by IEEE Education Society Chapter, IEEE Vizag Bay Section on 2
+nd
+December 2020.
+Staff Attended:
+Prof. S. Viswanatha Rao
+,
+Ms. Ancy S. Anselam, Ms. Swapna P. S,
+Ms. Teena Rajan
+Ms. Lani Rachel Mathew
+attended the TEQIP II sponsored 6 day online FDP on “
+Smart Vision of IoT in 5G Era
+”, organized by Department of Electronics & Communication Engineering, TKM College of Engineering, Kollam, from 9
+th
+to 11
+th
+November 2020.
+Ms. Ann Mary Alex
+attended AICTE sponsored six days STTP on “
+Advanced VLSI Design and Applications using CADENCE tool
+” organized by the Department of ECE, ABES Engineering College, Ghaziabad, from 19
+th
+to 24
+th
+October 2020
+For Workshops/Seminars/FDPs/Webinars attended by the faculty during April – September 2020,
+click here
+.
+Institution’s Innovation Council (IIC) Ambassador Training Series organized by MHRD’s Innovation Cell, AICTE at ACS College of Engineering, Bangalore on 26-27 February 2020.
+Staff attended: Mr. Sherry Varghese George, Mr. Arun J. S., Mr. Jijo Jose
+Professional Students’ Summit 2020 – Inspiring Youth to Excellence organized by Govt. of Kerala at CUSAT, Kalamassery on 15 February 2020.
+Staff attended: Mr. Arun J. S.
+HAXXWORKS 2020 organized by the Department of Computer Science and Engineering, ER & DCI Institute of Technology at CDAC, Thiruvananthapuram on 14 February 2020.
+Staff attended: Mr. Sherry Varghese George
+Workshop on “Sourcing Research Grants and Writing Winning Research Proposals” by Prof. (Dr.) Valliyappan David Natarajan, Universiti Teknologi MARA, Malaysia was organised from 3-7 February 2020 at MBCET.
+Staff attended: Dr. M. J. Jayashree, Dr. Jayakumari J., Ms. Swapna P. S., Ms. Teena Rajan, Dr. Sreedevi P., Ms. Deepa P. L., Ms. Lani Rachel Mathew, Mr. Jinu Baby, Mr. Anoop K. Johnson,  Ms. Ann Mary Alex, Ms. Remya Annie  Eapen , Ms. Riya John, Mr. Shiras S. N., Ms. Ancy Joy
+DTE sponsored Training program on Image Processing with Python at College of Engineering, Trivandrum from 6-11 Janauary 2020.
+Staff attended: Ms. Athira V.
+“33rd International Conference on VLSI and Embedded Systems (VLSID 2020) – Connecting Intelligent Systems to New Age Transistors” held at Leela Palace, Bengaluru from 4-8 January 2020.
+Staff attended: Ms. Ann Mary Alex
+“Mentoring using the New Product Development, New Concept Development and Fuzzy Front End Innovation Frameworks Workshop for Mentors of Young Innovators Programme 2018” organized by Kerala Development and Innovation Strategic Council (K – DISC) at Indian Institute of Management, Kozhikode from 31 May to 02 June, 2019.
+Staff attended: Mr. Arun J. S.
+“IEDC Summit 2019 – India’s Largest Summit for Aspiring Entrepreneurs” powered by Kerala Startup Mission (KSUM) organized by Sahrdaya College of Engineering, Thrissur on 19 October 2019.
+Staff attended: Mr. Sherry Varghese George, Mr. Arun J. S., Mr. Jijo Jose
+IEDC Nodal Officers Meetup “NONIGHT 2019” powered by Kerala Startup Mission (KSUM) organized by Sahrdaya College of Engineering, Thrissur on 18 October 2019.
+Staff attended: Mr. Arun J. S.
+TiEcon Kerala 2019 – South India’s Largest Entrepreneurial Convention at Le Meridien, Kochi on 4,5 October 2019.
+Staff attended: Mr. Sherry Varghese George, Mr. Arun J. S.
+Huddle Kerala 2019 – One of the most Coveted Tech Startup Event in India initiated by Internet and Mobile Association of India (IAMAI) and Kerala Startup Mission (KSUM) at The Leela Raviz, Kovalam on 27, 28 September 2019.
+Staff attended: Mr. Sherry Varghese George, Mr. Arun J. S., Mr. Jijo Jose
+DST & Texas Instruments India Innovation Challenge Design Contest 2019 powered by AICTE Mission and anchored by NSRCEL @IIMB on 21 September 2019.
+Staff attended: Mr. Arun J. S.
+“Regional orientation session on IIC2.0 and ARIIA 2020” organized by MHRD’s Innovation cell at Marian Engineering College, Trivandrum on 7 August 2019.
+Staff attended: Ms. P. P. Hema
+Two day Workshop on “Integral Education for Teachers” by Mr. Arul Dev, IIT Madras organized by the Teaching Learning Centre of Mar Baselios College of Engineering and Technology, Trivandrum on 18 and 19
+th
+July 2019.
+Staff attended: Ms. Ancy S. Anselam,Dr. Sreedevi P.,  Ms. Teena Rajan, Mr. Jinu Baby,  Ms. Deepa P. L., Ms. Poorna R. Prabhu, Mr. Sherry Varghese George, Mr. Arun J. S., Ms. Ancy Joy, Ms. Anu Susan Philip
+Workshop on “Awareness on Internship Policy and Facilitating SAGY Award Winners” organized by AICTE South Western Regional Office at Kerala State Science and Technology Museum, Trivandrum on 17
+th
+July 2019.
+Staff attended: Mr. Sherry Varghese George
+AICTE approved Faculty Development Programme on Introduction to Robotics and its Application was organized by Department of Mechanical Engineering from 8th to 12th July 2019 at Mar Baselios College of Engineering and Technology.
+Staff attended: Ms. Teena Rajan, Ms Poorna R Prabhu,Mr. Shiras S.N., Ms Amritha B. J., Mr. Arun J. S.
+Visited MIT USA Electronics Fabrication Lab (FabLab) at Indian Institute of Technology and Management – Kerala (IIITM-K), Technopark on 5 July 2019.
+Staff attended: Dr. M. J. Jayashree, Ms. Lani Rachel Mathew, Mr Sherry Varghese George, Mr. Arun J. S., Ms. Amritha B. J., Ms. Ancy Joy.
+“Tech Talk on Blockchain” at TCS People Park, Technopark Campus, Trivandrum on 04th  July 2019.
+Staff Attended: Mr. Shiras S. N., Mr. Sherry Varghese George, Mr. Arun J. S.
+Tutorial session titled Channel Estimation for visible Light Communication in 7th International Conference on  Smart Computing and Communications ICSCC2019 on 28 June 2019.
+Staff attended : Dr. Jayakumari J.
+Seminar on “Innovations and Intellectual Property Rights” by Dr. V. Ajit Prabhu, Joint Director and Chief Scientist of Kerala State Council for Science, Technology, Environment organized by Innovation and Entrepreneurship Development Centre, MBCET on 28 June 2019.
+Staff attended: Dr. M.J. Jayashree, Ms. Swapna P.S., Ms.Teena Rajan, Dr.Sreedevi P., Ms. Lakshmy S, Ms. Remya Annie Eapen, Ms. Riya John, Ms. P.P.Hema, Ms. Amritha B.J., Mr. Sherry Varghese George.
+Microsoft ‘Week of AI’ virtual workshop series from 27th to 31st May 2019.
+Staff Attended: Mr. Shiras S. N.
+National Workshop on ‘Advanced Deep Learning’ organized by the Department of Computer Science and Engineering from 20th  to 22nd May 2019 at Mar Baselios College of Engineering and Technology.
+Staff attended- Ms. Riya John, Ms. Remya Annie Eapen
+4 day mentor workshop on “New Product Development and Fuzzy Front-End ideation and innovation frameworks” organized by KDISC in BHUB from 30th May  to 2nd  June 2019.
+Staff Attended: Mr. Arun J. S.
+One Week workshop on Raspberry Pi conducted by Department of Electrical and Electronics Engineering jointly with IEDC from 11 – 17 March 2019
+Staff attended – Ms. Riya John, Ms. Lakshmy S.
+“Meetup Cafe” presented by Kerala Startup Mission (KSUM) in association with B-HUB on 29 March 2019.
+Staff attended: Mr. Sherry Varghese George, Mr. Arun J. S.
+“Cybit Hacker Challenge 2019 – Ethical Hacking and Cybersecurity Workshop” organized by Incybit Global Pvt. Ltd. in Cybit Global Conference Hall, Trivandrum on 23 March 2019.
+Staff attended: Mr. Sherry Varghese George
+Sochh – A thought to share: A session on the topic “The Art of Presentation” by Mr. Joseph John Panicker, Executive Creative Curator, Catalyst in Mar Baselios College of Engineering and Technology on 14 March 2019.
+Staff attended: Mr. Sherry Varghese George, Mr. Arun J. S., Mr. Jijo Jose
+“The Discovher Summit 2019” powered by Taurus India in B-HUB, Thiruvanthapuram on March 8
+th
+, 2019.
+Staff attended: Dr. Sreedevi P., Mr. Shiras S. N., Ms. Anu Susan Philip, Mr. Sherry Varghese George, Mr. Arun J. S.
+“Smart India Hackathon – 2019: World’s Biggest Open Innovation Model” organized by MHRD, Govt. of India, AICTE, i4c and Persistent Systems in IIT Kharagpur on March 2
+nd
+and 3
+rd
+Staff attended: Mr. Arun J. S.
+Sochh – A thought to share: A session on the topic “My Entrepreneurial Journey” by Mr. Ajin Omanakuttan, CEO of Apttino Technologies in Mar Baselios College of Engineering and Technology on 5 March 2019
+Staff attended: Mr. Sherry Varghese George, Mr. Arun J. S., Mr. Jijo Jose
+“Professional Students’ Summit 2019 – Inspiring Youth to Excellence” organized by Govt. of Kerala at CUSAT, Kalamassery on 10 February 2019.
+Staff attended: Mr. Arun J. S.
+“TEDx MBCET – Observably Random” organized by Mar Baselios College of Engineering and Technology on 9 February 2019
+Staff attended: Ms. Anu Susan Philip, Mr. Arun J. S.
+“Securious Trivandrum 2019 – Conference on Cyber Security” jointly organized by Slash Secure Europe and Cybit Global at Olympia Chambers, Trivandrum on 2 February 2019.
+Staff attended: Mr. Sherry Varghese George
+“Winter School on Speech and Audio Processing (WiSSAP 2019)” at College of Engineering, Trivandrum from January 27
+th
+to 29
+th
+Staff attended: Ms. Lani Rachel Mathew
+An invited talk on “How to prepare a Research Grant Proposal” by Prof. J. Murali Krishnan at Mar Baselios College of Engineering and Technology on 24 January 2019.
+Staff attended: Dr. M. J. Jayashree, Dr. Jayakumari J., Dr. Sreedevi P., Ms. Ann Mary Alex, Ms. Lani Rachel Mathew, Ms. Poorna R. Prabhu, Mr. Shiras S. N., Ms. Anu Susan Philip, Mr. Sherry Varghese George, Ms. Roselin Raju, Mr. Arun J. S.
+Conference on “Forging the Assistive Technology Value Chain” at National Institute of Speech & Hearing (NISH), Akkulam on 18, 19 January 2019.
+Staff attended: Ms. Lani Rachel Mathew
+One week FDP on “Recent Advancements in Optical Wireless Technology” at College of Engineering, Trivandrum from 14-19 January 2019.
+Staff attended: Dr. Sreedevi P.
+TEQIP II sponsored FDP on “Research Trends in Biomedical and Satellite Image Processing” at TKM College of Engineering, Kollam from January 1
+st
+to 5
+th
+, 2019.
+Staff attended: Ms. Teena Rajan, Ms. Poorna R. Prabhu
+Distinguished Lecture and One Day Workshop on “Recent Advances in Wireless and Space Antennas (IEEE Space Antenna Workshop – iSAW 2018)” organized by Indian Institute of Space Science and Technology (IIST) Valiamala at Hotel SP Grand Days, Trivandrum on December 21
+st
+, 2018.
+Staff attended: Ms. Swapna P. S., Mr. Sherry Varghese George
+AICTE sponsored FDP on “Deep Learning” at College of Engineering (CAPE), Muttathara, from December 10
+th
+to 15
+th
+Staff attended: Ms. Lani Rachel Mathew
+Department of Science & Technology sponsored two weeks FDP on “Student Entrepreneurship” at National Institute of Technology (NIT) Calicut from December 3
+rd
+to 15
+th
+, 2018.
+Staff attended: Mr. Sherry Varghese George, Mr. Arun J. S., Mr. Jijo Jose
+“IEDC Summit 2018 – India’s Largest Summit for Aspiring Entrepreneurs” powered by Kerala Startup Mission (KSUM) organized by Amal Jyothi College of Engineering and Technology, Kanjirapally on 3 November 2019.
+Staff attended: Mr. Shiras S. N., Mr. Sherry Varghese George, Mr. Priyadarsan U. S., Mr. Arun J. S.
+IEDC Nodal Officers Meetup “NONIGHT 2018” powered by Kerala Startup Mission (KSUM) organized by Amal Jyothi College of Engineering and Technology, Kanjirapally on 2 November 2019.
+Staff attended: Mr. Arun J. S.
+“The Kitchen Can: Trivandrum Edition” held at B’ hub, Mar Ivanios Vidya Nagar, Trivandrum on September 25
+th
+, 2018.
+Staff Attended: Mr. Sherry Varghese George, Mr. Priyadarsan U. S., Mr. Arun J. S.
+Three day “Faculty Internship Programme” held at HLL Lifecare, Peroorkada factory from September 20
+th
+to 22
+nd
+, 2018.
+Staff Attended: Mr. Sherry Varghese George, Mr. Arun J. S.
+“MATLAB Campus License Program using MATLAB and Xilinx” held at Mar Baselios College of Engineering and Technology, Trivandrum on September 19
+th
+and 20
+th
+, 2018.
+Staff Attended: Ms. Deepa P. L., Ms. Remya Annie Eapen, Ms. Riya John, Mr. Shiras S. N., Ms. Anu Susan Philip, Mr. Priyadarsan U. S., Ms. Amritha B. J., Mr. Jithin M. George, Mr. Felix P. Benedict, Ms. Salga Ann Jacob, Mr. Jijo Jose
+“Internet of Things – Introduction to the world of IoT” held at Mar Baselios College of Engineering and Technology, Trivandrum on September 12
+th
+, 2018.
+Staff Attended: Mr. Shiras S. N., Ms. Anu Susan Philip, Mr. Sherry Varghese George, Mr. Priyadarsan U. S., Mr. Arun J. S.
+“Future Tech – Intro to AR and Blockchain” with Nikhil Krishna Nair, Solutions Architect, UST Global held at Mar Baselios College of Engineering and Technology, Trivandrum on September 13
+th
+, 2018.
+Staff Attended: Mr. Shiras S. N., Ms. Anu Susan Philip, Mr. Sherry Varghese George, Mr. Priyadarsan U. S., Ms. Amritha B. J., Mr. Arun J. S.
+“300+ Failures and 30+ Inventions – On a Lighter Note with Raju Chithamabaram – Where Innovation fuses with Music” held at B’ hub, Mar Ivanios Vidya Nagar, Trivandrum on July 28
+th
+, 2018.
+Staff Attended: Mr. Sherry Varghese George, Ms. Amritha B. J., Mr. Arun J. S.
+“Teacher – A Performing Artist by Dr. Premlet B.” conducted by the Teaching & Learning Centre at Mar Baselios College of Engineering and Technology, Trivandrum on July 23
+rd
+, 2018.
+Staff Attended: Ms. Sreedevi P., Ms. Deepa P. L., Mr. Jinu Baby, Mr. Anoop K. Johnson, Ms. Poorna R. Prabhu, Ms. Remya Annie Eapen
+“Creative Leadership in a Rapidly Changing Environment by Mr. Tom Thekkel” conducted by the Teaching & Learning Centre at Mar Baselios College of Engineering and Technology, Trivandrum on July 24
+th
+, 2018.
+Staff Attended: Ms. Hema P. P, Ms. Riya John, Mr. Shiras S. N., Ms. Anu Susan Philip, Mr. Priyadarsan U. S., Ms. Amritha B. J., Mr. Arun J. S.
+Five day FDP on “Industrial Robotics: Platform, Algorithms & Techniques” held at Federal Institute of Science and Technology, Ernakulam from July 16
+th
+to 20
+th
+, 2018
+Staff Attended: Mr. Jinu Baby
+Workshop on “Basics of Artificial Intelligence and Machine Learning” held at Mar Baselios College of Engineering and Technology, Trivandrum on July 12
+th
+and 13
+th
+, 2018.
+Staff Attended: Ms. Deepa P. L., Ms. Lani Rachel Mathew, Mr. Jinu Baby, Mr. Anoop K. Johnson, Ms. Athira V., Ms. Riya John, Ms. Roselin Raju, Ms. Ancy Joy
+Five day workshop on “Modern Trends in Power Electronic Devices, Circuits & Applications” held at Sree Buddha College of Engineering, Alappuzha from June 18
+th
+to 22
+nd
+, 2018.
+Staff Attended: Ms. Roselin Raju
+“Master Class on Personal and Digital Branding” held at B’ hub, Mar Ivanios Vidya Nagar, Trivandrum on May 26
+th
+, 2018.
+Staff Attended: Mr. Arun J. S.
+Five day workshop on “Recent and Emerging Trends in Networks and Security (RETINAS)” held at Mar Baselios College of Engineering and Technology, Trivandrum from April 23
+rd
+to 26
+th
+, 2018.
+Staff Attended: Ms. Sreedevi P., Ms. Hema P. P., Ms. Lakshmy S., Mr. Sherry Varghese George
+Five day Short term training programme on “Deep Learning and Applications” held at College of Engineering, Trivandrum from April 16
+th
+to 20
+th
+, 2018.
+Staff Attended: Ms. Deepa P. L., Mr. Anoop K. Johnson
+Three day “National Workshop on Automatic Speech Recognition and its Applications (NWaSpR)” held at Indian Institute of Information Technology and Management – Kerala from February 22
+nd
+to 24
+th
+, 2018.
+Staff Attended: Ms. Lani Rachel Mathew
+Workshop on “Creative Learning: A Proactive Approach to Student Centered Learning” organized by Teaching and Learning Centre, Mar Baselios College of Engineering and Technology on February 24
+th
+, 2018.
+Staff Attended: Ms. Hema P. P., Mr. Sherry Varghese George, Ms. Roselin Raju
+Workshop on “Design Thinking” organized by Kerala Startup Mission held at Marian Engineering College, Trivandrum on February 20
+th
+and 21
+st
+, 2018.
+Staff Attended: Mr. Arun J. S.
+Three day FDP on “Open Source Tools for Research” held at Government Engineering College, Barton Hill from February 7
+th
+to 9
+th
+, 2018.
+Staff Attended: Ms. Lani Rachel Mathew
+Five day FDP on “Design and Engineering” organized by the Department of Applied Electronics and Instrumentation in association with Indian National Society for Aerospace and Related Mechanisms sponsored by APJ Abdul Kalam Technological University held at Rajagiri School of Engineering and Technology, Kochi from January 29
+th
+to February 2
+nd
+, 2018.
+Staff attended: Mr. Jinu Baby
+47
+th
+ISTE National Annual Convention held at Saintgits College of Engineering, Kottayam from January 27
+th
+to 29
+th
+, 2018.
+Staff attended: Ms. Remya Annie Eapen
+FDP on “Enhancing Soft Skills for Effective Teaching” sponsored by APJ Abdul Kalam Technological University in Lourde Matha College of Engineering, Trivandrum from January 8
+th
+to 12
+th
+, 2018.
+Staff Attended: Ms. Roselin Raju
+Four day STTP on “Self Awareness and Integral Education (SAIE 2017) held at Government Engineering College, Barton Hill from November 22
+nd
+to 25
+th
+, 2017.
+Staff Attended: Ms. Luxy Mathews
+An Unconvention speaker series titled “Conceiving and Scaling up a Social Enterprise” sponsored by Villgro held at B’ hub, Mar Ivanios Vidya Nagar, Trivandrum on November 16
+th
+, 2017.
+Staff Attended: Mr. Arun J. S.
+Seminar on “Electromagnetic Engineering and its Applications” sponsored by IEEE Antennas and Propagation Society (IEEE APS) held at Government Engineering College, Barton Hill on October 7
+th
+, 2017.
+Staff Attended: Mr. Sherry Varghese George, Ms. Suparna Sreedhar A.
+Young Entrepreneur Summit 2017 conducted by Kerala State Industrial Development Corporation (KSIDC) held at Le Meridian Cochin on September 12
+th
+, 2017.
+Staff Attended: Mr. Arun J. S.
+Short Term Course in “Technical Writing for Academicians and Researchers”organized by the Department of Interdisciplinary Research, College of Engineering,Thiruvananthapuram from July 24
+th
+to 28
+th
+, 2017.
+Staff Attended: Ms. Ancy S. Anselam, Ms. Swapna P. S.
+National Conference on Mathematical Methods for Engineering Applications organized by the Department of Science and Humanities, Mar Baselios College of Engineering and Technology from July 27
+th
+to 29
+th
+, 2017.
+Staff Attended: Ms. Lani Rachel Mathew, Ms. Remya Annie Eapen, Ms. Hema P. P.
+Three day FDP on “Product Development of an IoT Device” organized by the Department of Civil Engineering, Mar Baselios College of Engineering and Technology from July 26
+th
+to 28
+th
+, 2017.
+Staff Attended: Mr. Anoop K. Johnson, Mr. Sherry Varghese George, Mr. Priyadarsan U. S., Ms. Manju Suresh, Ms. Sarika U. S.
+IEEE Kerala Section and IEEE Region 10 sponsored Branch Counselors Congress 2017 held at Le Meridien, Kochi on July 16th, 2017.
+Staff Attended: Dr. M. J. Jayashree, Mr. Anoop K. Johnson
+Five day ISTE sponsored STTP on “Optimization Techniques for Engineering Applications” organized by the Department of Mechanical Engineering, Mar Baselios College of Engineering and Technology from July 17
+th
+to 21
+st
+, 2017.
+Staff Attended: Ms. Ancy S. Anselam, Ms. Swapna P. S., Ms. Remya Annie Eapen
+Two day seminar on SAGA organized by IISE Thiruvananthapuram chapter in association with VSSC, KSREC and NIRD & PR held at Mascot Hotel, Trivandrum on May 19
+th
+and 20
+th
+Staff Attended: Mr. Shiras S. N.
+IEEE International 5G summit (IoT & Cybersecurity) held at Mascot Hotel, Trivandrum on July 1
+st
+, 2017.
+Staff Attended: Ms. Swapna P. S., Mr. Shiras S. N., Mr. Sherry Varghese George
+Three day FDP on “Active Co – operative Learning” by Teaching and Learning Centre, IIT Madras held at Mar Baselios College of Engineering and Technology, Trivandrum from April 21
+st
+to 23
+rd
+, 2017.
+Staff Attended: Ms. Ancy S. Anselam, Ms. Swapna P. S., Ms. Deepa P. L., Ms. Lakshmy S., Mr. Sherry Varghese George
+Four day STTP – The 12th Winter School on Speech and Audio Processing (WiSSAP) held at IISc Banglore from January 26
+th
+to 29
+th
+, 2017.
+Staff Attended: Ms. Anu Anna John
+An Awareness Training Programme on “Migration to SciLab”, organized by the International Centre for Free and Open Source Software (ICFOSS) in association with A P J Abdul Kalam Technological University, on 4th February, 2017 at College of Engineering, Trivandrum.
+Staff Attended: Dr. M. J. Jayashree
+Five days workshop on “Numerical Methods for Researchers”, organised by APJ Abdul Kalam Technological University, conducted during 26
+th
+to 30
+th
+December, 2016.
+Staff Attended: Ms. Ann Mary Alex
+A one day Seminar  on Engineering Education and Research by National Instruments on November 25th 2016.
+Staff Attended: Dr. M. J. Jayashree, Ms. Swapna P. S., Ms. Deepa P L and Ms. Anu Reby John
+Nodal Officers Orientation program conducted at Muthoot Institute Of Technology & Science, Varikoli, on  30
+th
+and 31
+st
+October  2016.
+Staff Attended: Ms. Lakshmy S.
+One week STTP ON Effective Teaching Methodologies in Engineering Education conducted by Department of Architecture,  CET in association with NITTTR, Chennai from october 17 to 22, 2016.
+Staff Attended: Ms. Swapna P. S.
+Three day MAKER WORKSHOP from October 5 – 7
+th
+, 2016 at Federal Institute of  Science and Technology (FISAT), Angamaly.
+Staff Attended: Mr.Niyas K Haneefa
+One week ISTE STTP for Coordinators on “ CMOS, Mixed Signal and Radio Frequency VLSI Design” conducted by IIT Kharagpur from 19
+th
+September to 23
+rd
+September, 2016.
+Staff Attended: Ms. Ann Mary Alex
+Two day workshop on e-Yantra conducted by IIT Bombay at FISAT
+Staff Attended: Mr. Jinu Baby
+Faculty Development Workshop on “Intel IoT and Ideation” held at Vidya Academy of Science and Technology on 15 -16 July 2016.
+​Staff Attended: Mr. Shiras S N, Mr. Anil Kumar
+Short term course on  “Microelectronics: from fundamentals to Devices” at IIT Chennai from July 11 to July 16 2016
+Staff Attended: Ms. Ann Mary Alex
+FDP on ‘Advances in Wireless Communications and Networking’ in NIT Calicut from July 11 to July 16.
+Staff Attended: Mr. Niyas K. Haneefa
+FDP on ‘Digital Filter Design’ organized by Electronics & Communication, CET from 25th June to 30th June 2016.
+Staff Attended: Ms. Teena Rajan, Ms. Anu Anna John and Ms. Lani Rachel Mathew
+Four Week FDP on ”Use of ICT in Education for Online and Blended Learning” by IIT Bombay.
+Staff Attended: Ms.Sreedevi, Ms.Anu R. G, Ms. Anu Susan Philip, Mr. Shiras S N
+AICTE sponsored QIP–STC on “Recent Trends in Development of Communication: Cognitive Networks” organized by Dept. of ECE, Pondicherry Engineering College from 30th November to 4th December 2015.
+Staff attended: Ms. Yamuna K. Moorthy
+One day seminar on ”Making Kerala_inclusive and accessible for People with disabilities”held at kerala state Science and technology museum on 3rd December 2015.
+Staff attended: Ms. Lani Rachel Mathew, Ms. Poorna R. Prabhu, Ms. Remya Annie Eapen, Mr. Shiras S. N.
+Two-Week ISTE “STTP on Technical Communication”, National Mission on Education through ICT (MHRD, Govt. of India), conducted by IIT Bombay at MBCET from October 8th, 2015 to December 5th, 2015.
+Staff attended: Ms. Ancy S. Anselam, Ms. Anu Mariam John, Ms. Luxy Mathews, Ms. Swapna P. S
+Two day workshop on “FOSS & IoT – Faculty Development” organized by ICFOSS Technopark ,Trivandrum from 9th – 10 th October, 2015.
+Staff attended: Ms. Ann Mary Alex, Ms. Anu Mariam John, Mr. Jinu Baby, Mr. Jubin James, Ms. Lakshmy S, Mr. Shiras S.N., Ms. Sreedevi P, Ms. Teena Rajan
+“Science Academies’ Lecture Workshop on Advances in Wireless Communications and Networking”, organized by Department of Electronics and Communication, Amal Jyothi College of Engineering, Kanjirappally, from 23 -24 July,2015.
+Staff Attended: Ms. Yamuna K. Moorthy.
+“Two day Workshop on IC Design Flow using Mentor Graphics Tools and Vivado Design Flow Using Zed Board”, held at Sree Buddha College of Engineering, Pattoor, from 25- 26 June, 2015.
+Staff Attended: Ms. Anu Mariam John.
+Invited talk by Prof. S. Viswanatha Rao on the topic “Wireless Sensor Networks – Challenges and Opportunities”, STTP on Recent Advances in Wireless Communication at LBS Institute of Technology for Women, 10th June 2015.
+“Faculty Development Programme on Recent Advances in Nano science and Nanotechnology”, held at Amal Jyothi College of Engineering and Technology, Kanjirappally, from April 20 – May 1, 2015.
+Staff Attended: Ms. Ann Mary Alex.
+“Faculty Development Program on Optical Engineering” under FDP scheme of TEQIP-II, organized by Government Engineering College, Barton Hill, Trivandrum, from 18- 20 March, 2015.
+Staff Attended: Ms. Sreedevi P.
+“National Seminar on Emerging Wireless Communication Technologies (NSEWCT15)”, organized by Department of Electronics & Communication Engineering, MBCET, held on 12th and 13th March, 2015.
+Staff attended: Ms Luxy Mathews, Ms. Ancy S. Anselam, Ms. Swapna P.S, Ms. Anu Anna John, Ms. Yamuna K Moorthy, Mr. Nandan S., Mr. Arun P.S.
+“Two weeks Workshop on Signals and Systems”, National Mission on Education through ICT (MHRD, Govt. of India), organized by IIT Kharagpur at MBCET, January 2nd , 2014 to January 12th , 2014.
+Staff attended: Ms. Luxy Mathews, Ms. Swapna P.S, Mr. Niyas K Haneefa, Mr. Jinu Baby, Mr. Anoop K. Johnson, Mr. Arun P. S , Ms. Yamuna K Moorthy, Ms. Poorna R Prabhu, Ms. Athira V, Ms. Arathy C Haran V.
+Short Term Training Programme on “Computer vision and Image Processing” Sponsored by TEQIP- II, November 20 to 22, 2013, organized by LBS Institute of Technology for Women, Poojappura.
+Staff attended: Ms. Deepa P. L., Ms. Teena Rajan, Mr. Anoop K. Johnson, Mr. Arun P. S.
+Courses completed by the Faculty
+Industrial Training program attended
+Dr. Lani Rachel Mathew
+, Assistant Professor, Department of ECE attended a three week Industrial Training program for Faculty organized by BSNL, from 11th December to 31st December 2024, at the Regional Telecom Training Centre, Trivandrum.
+WINTER SCHOOL ATTENDED
+Teena Rajan
+attended the winter school on “
+Wearable Sensors and Devices”
+– an online event organized by IEEE Gujarat Section Sensors Council Chapter, during 6
+th
+to 7
+th
+February, 2021.
+MOOC courses completed by the faculty
+Ms. Lakshmi J.L.,
+Assistant Professor, Department of ECE has completed the -week (Jan-March 2025) NPTEL course on Introduction to Machine Learning with Elite Silver certification.
+Ms. Teena Rajan
+, Asst. Professor, ECE have completed the four week (Jan-Feb 2025) NPTEL course on Teaching And Learning in Engineering (TALE) with Elite Silver certification.
+Dr. Lani Rachel Mathew
+, Asst. Professor, ECE have completed the four week (Jan-Feb 2025) NPTEL course on Teaching And Learning in Engineering (TALE) with Elite Silver certification.
+Dr. Jayakumari J,
+Professor & HOD, Dept. of ECE completed 8 week NPTEL course on “Evolution of Air Interface Towards 5G” from January to March 2024 and obtained Elite + Silver certification.
+Dr.Sreedevi.P,
+Associate Professor, Dept. of ECE completed 8 week NPTEL course on “Fundamentals of MIMO Wireless Communication” from January to March 2024 and obtained Elite certification.
+Mr. Shiras S N,
+Assistant Professor, Dept. of ECE completed an 8 week NPTEL course on “Fundamentals of MIMO Wireless Communication” from January to March 2024 and obtained Elite certification.
+Mr. Sherry Varghese
+George,
+Assistant Professor, Dept. of ECE completed 8 week NPTEL course on “Fundamentals of MIMO Wireless Communication” from January to March 2024 and obtained Elite + Silver certification (5% Topper)
+Mr. Sherry Varghese George
+, Asst. Professor, Dept. of ECE, completed 12 week NPTEL course on “Introduction to Wireless and Cellular Communications” from July to October 2023 and obtained Elite + Silver certification (5% Topper).
+Mr. Shiras S N
+, Asst. Professor, Dept. of ECE,  completed 12 week NPTEL course on “Introduction to Wireless and Cellular Communications” from July to October 2023 and obtained Elite certification.
+Ms. Anu Susan Philip,
+Asst. Professor, Dept. of ECE, completed 12 weeks NPTEL course on “Understanding Incubation And Entrepreneurship” from July to October 2023 and obtained Elite  certification.
+Ms. Lekshmy S
+, Asst. Professor, Dept. of ECE successfully completed the Skill Development Training Program on ‘Internet of Things-PHASE III’ and scored above 75% in the final assessment under the joint venture of ISTE & BNY Mellon.
+Dr. Swapna P.S,
+Associate Professor, successfully completed NPTEL course on “Introduction to Internet of Things” held from January to April 2023. She completed all the requirements of the programme with
+Elite plus Silver
+grade (5% Topper).
+Mr. Sherry Varghese George
+, Assistant Professor, successfully completed NPTEL course on “Evolution of Air Interface towards 5G” held from February to April 2023. He completed all the requirements of the programme with
+Elite plus Silver
+grade (5% Topper).
+Ms.Lakshmy S.,
+Asst. Prof., Dept. of ECE, participated in the two weeks (40 hours) online certificate course on ‘AI and Machine learning for IoT/EDA’, jointly organized by the Electronics and ICT Academies at MNIT Jaipur and NIT Patna, during 07-17 March 2022, under the scheme of ‘financial assistance for setting up of Electronics and ICT Academics’ for MeitY, Govt. of India. She has completed all the requirements of the programme with
+Excellent
+grade.
+Ms.Anu Susan Philip,
+Asst. Professor, successfully completed edX course on “Managing Conflicts on Programs and Projects with Cultural and Emotional Intelligence”, offered by University System of Maryland.
+Ms
+.
+Lani Rachel Mathew
+, Assistant Professor, successfully completed the 4-week non-credit course on ‘Data Science for Business Innovation – Introduction to Data-driven Business’ by Coursera in February 2022.
+Ms. Lakshmy S.,
+Assistant Professor, successfully completed the edX course on ‘Python Basics for Data Science’, offered by IBM, an online learning initiative of IBM.
+Ms. Swapna P. S.
+successfully completed the edX course on ‘
+Business Considerations for 5G with Edge, IoT and AI
+’, offered by LinuxFoundationX, an online learning initiative of The Linux Foundation
+Ms. Teena Rajan
+has successfully completed the 10 week course on “
+Synapses, Neurons and Brains
+” authorized by Hebrew University of Jerusalem and offered through Coursera, in February 2021.
+Ms. Teena Rajan
+has successfully completed the online course on “
+Brain Computer Interface
+” offered through Udemy, in January 2021.
+Mr. Arun J.S.
+has successfully completed the following courses (offered through Coursera) in December 2020.
+“
+The Sustainable Development Goals – A global, transdisciplinary vision for the future
+” authorized by University of Copenhagen.
+“
+Design-Led Strategy: Design thinking for business strategy and entrepreneurship
+” authorized by The University of Sydney.
+P.P. Hema
+attended the following online courses, as part of the Winter school on Python for Design, Analysis and Simulation of 5G Technologies, organized by IIT Kanpur
+Online course on “
+Python for 5G NOMA, Cooperative and Cognitive Radio
+”
+by Prof. Aditya Jagannatham, Department of Electrical Engineering, IIT Kanpur, from 4
+th
+to 12
+th
+January 2021.
+Online course on “
+Python for 5G MU, Massive MIMO and mmWave MIMO
+” by Prof. Aditya Jagannatham, Department of Electrical Engineering, IIT Kanpur, from 21
+st
+to 30
+th
+December 2020.
+For MOOC courses completed by the faculty during January – September 2020,
+click here
+.
+Ms. Ann Mary Alex
+successfully completed the 12 week course on “Microelectronics: Devices to Circuits” conducted by NPTEL Online Certification, Funded by Ministry of HRD, Govt. of India in October 2019.
+Ms. Athira V.
+received Elite Silver Certificate for successfully completing the 12 week course on “Digital Signal Processing” conducted by NPTEL Online Certification, Funded by Ministry of HRD, Govt. of India in October 2019. She also secured the 5 % topper stamp.
+Ms. Ancy Joy
+received Elite Silver Certificate for successfully completing the 12 week course on “Digital Circuits” conducted by NPTEL Online Certification, Funded by Ministry of HRD, Govt. of India in October 2019. She also secured the 5 % topper stamp.
+Ms. Lakshmy S.
+successfully completing the 4 week course on “Python for Data Science” conducted by NPTEL Online Certification, Funded by Ministry of HRD, Govt. of India in September 2019.
+Ms. Remya Annie Eapen
+received Elite Silver Certificate for successfully completing the 4 week course on “Python for Data Science” conducted by NPTEL Online Certification, Funded by Ministry of HRD, Govt. of India in September 2019. She also secured the 1 % topper stamp.
+Ms. Anu Susan Philip
+received Elite Silver Certificate for successfully completing the 12 week course on “Innovation, Business Models and Entrepreneurship” conducted by NPTEL Online Certification, Funded by Ministry of HRD, Govt. of India in October 2019. She also secured the 5 % topper stamp.
+Ms. P. P. Hema
+received Elite Silver Certificate for successfully completing the 8 week course on “Digital Circuits” conducted by NPTEL Online Certification, Funded by Ministry of HRD, Govt. of India in October 2019.
+Mr. Arun J. S.
+received Elite Silver Certificate for successfully completing the 8 week course on “Innovation, Business Models and Entrepreneurship” conducted by NPTEL Online Certification, Funded by Ministry of HRD, Govt. of India in October 2019. He also secured the topper 5 % stamp.
+Mr. Anoop K. Johnson
+received Silver Certificate for successfully completing the 12 week course on “Joy of Computing using Python” conducted by NPTEL Online Certification, Funded by Ministry of HRD, Govt. of India in April 2019.
+Mr. Jinu Baby
+received Silver Certificate for successfully completing the 12 week course on “Joy of Computing using Python” conducted by NPTEL Online Certification, Fundedby Ministry of HRD, Govt. of India in April 2019.
+Mr. Sherry Varghese George
+received Elite Silver Certificate for successfully completing the 12 week course on “Cryptography and Network Security” conducted by NPTEL Online Certification, Funded by Ministry of HRD, Govt. of India in April 2019.
+Ms. Luxy Mathews
+has successfully completed NPTEL Online 12 week Certification Course on “Cryptography and network Security” in April 2019.
+Ms. Deepa P. L.,
+has successfully completed NPTEL Online 12 week Certification Course on “Joy of Computing using Python” in April 2019.
+Ms. P. P. Hema
+has successfully completed NPTEL Online 12 week Certification Course on “Principles of Signals and System ” in April 2019.
+Mr. Shiras S. N., Ms. Anu Susan Philip, Mr. Arun J. S.
+has successfully completed NPTEL Online 12  week Certification Course on “Digital Electronic Circuits” in April 2019.
+Ms. Amritha B. J.
+has successfully completed NPTEL Online 8 week Certification Course on “CMOS Digital VLSI Design” in April 2019.
+Ms. Lakshmy S.
+has successfully completed NPTEL Online 4 week Certification Course on “Effective Engineering Teaching in Practice ” in February 2019.
+Ms. Remya Annie Eapen
+has successfully completed NPTEL Online 12 weeks Certification Course on “Joy of Computing Using Python” in September 2018 with Gold Certification conducted by IIT Roorkee.
+Dr. Sreedevi P.
+has successfully completed NPTEL Online 12 weeks Certification Course on “Fiber Optic Communication System and Techniques” conducted by IIT Kanpur in October 2018.
+Ms. Ann Mary Alex
+received Elite certificate for the NPTEL Online 12 weeks Certification Course on “Semiconductor Devices and Circuits” conducted by IISc Bangalore during July – October 2018.
+Mr. Shiras S. N.
+received Elite certificate for the NPTEL Online 12 weeks Certification Course on “Switching Circuits and Logic Design” conducted by IIT Kharagpur in October 2018.
+Ms. Syama Sasikumar
+received Elite certificate for the NPTEL Online Certification course on “Principles of Communication Systems – Part 1” conducted by IIT Kanpur from January to March 2017.
+Ms. Ann Mary Alex
+received Elite certificate for the NPTEL online course (8 weeks) on “MATLAB programming on Numerical Computations” conducted by IIT Chennai during January to March 2017.
+Mr. Shiras S. N.
+received Elite certificate for the NPTEL online course (8 weeks) on “MATLAB programming on Numerical Computations” conducted by IIT Chennai during January to March 2017.
+Ms. Ann Mary Alex
+received Elite certificate for the NPTEL Online Certification course on “VLSI Design, Verification and Test” conducted by IIT Guwahati during July- October 2016.
+Ms. Anu R. G.
+is the Topper in NPTEL online course on “Basic Tools of Microwave Engineering” by IIT Kharagpur.
+Faculty as Resource Persons
+Participated as academic expert member
+Dr. Jayakumari J,  Professor, dept. of ECE and International liaison officer,  MBCET participated as academic expert member in the second  Board of Studies meeting of department of  Electronics and  Communication Engineering,  Stella Mary's College of Engineering ( Autonomous), K.K district,  Tamil  Nadu on 26/05/25.
+Sessions Chaired
+Dr. Jayakumari J,  Professor, dept. of ECE and International liaison officer,  MBCET delivered a keynote address  entitled "Intelligent reflecting surface aided  millimeter wave communication for  6G" and chaired a technical session during the International Conference on  Sustainable Aspects in Engineering  Technology, Management and  Science organized by  Udaya School of  Engineering, Vellamodi  during 22-23 May 25.
+Dr M. J. Jayashree,
+Professor, Dept. of ECE and Dean (Academic Affairs-UG), Treasurer and Student Activities Chair of IEEE EMBS Kerala Chapter had coordinated the Annual event named "Ignium 2024" for the student members of IEEE EMBS Kerala Chapter in online mode from 26 th to 31 st December 2024. Eight events including Idea Pitching Competition, Webinars, Biomedical Quiz, Interaction with Professionals, Experience sharing by an IEEE EMBS member and Essay writing competition were scheduled and conducted.
+Dr M J Jayashree
+, Professor, Dept. of ECE and Dean (Academic Affairs-UG) chaired two sessions of Health and BCI tracks on 19th and 20th Dec 2024 in the "2024 International Conference on Brain Computer Interface & Healthcare Technologies (iCon-BCIHT)" organized by CDAC in association with IEEE EMBS Kerala Chapter. She was also the Technical Program Co-Chair of the Conference.
+Mr. Arun J S, Assistant Professor, Department of Electronics and Communication Engineering, served as a Resource Person during the Hybrid Faculty Development Program (FDP) on Engineering Entrepreneurship & lPR on 30th and 31st January 2025.
+Mentor during the 24-hour Hackathon, Hack-Arti-Thon
+Mr. Arun J S, Assistant Professor, Department of Electronics and Communication Engineering,made significant contributions as a mentor during the 24-hour Hackathon, Hack-Arti-Thon, held on 17th and 18th January 2025 at the LEAP certified Incubation Centre, AISSPACE, Al Ameen College, Edathala.
+Mr Arun J S
+Assistant Professor, Department of ECE delivered an invited talk on “Design Thinking” in the LEAP entrepreneurship state summit organised by Directorate of Industrial training Government of Kerala on 12 June 2024
+Mr. Arun J. S,
+Assistant Professor, Dept. of ECE delivered a session on Idea generation using business model canvas at "Ideathon 2024" held at Sree Anjaneya Institute of Dental Sciences, Kozhikode on 22 March 2024.
+Dr M J Jayashree,
+Professor, Dept. of ECE and IQAC Coordinator, has delivered an Orientation session on ‘NAAC Criteria and the Accreditation Process’ on 19-01-2024 to the Faculty members of Marian Engineering College. Also had a discussion with IQAC core team and Management representatives.
+Dr Jayakumari J
+, HOD, Dept. of ECE, chaired a technical session "Electronic Device Design, Functional Simulation and Performance Analysis" on 30/10/23 of 2023 5th International Conference on Circuits and Systems sponsored by University of Electronic Science and Technology, China and IEEE Chengdu CEDA hosted by Yangtze Delta Region Institute, China.
+Dr Jayakumari J
+, HOD, Dept. of ECE, delivered an invited talk on Intelligent Reflecting Surface aided wireless communication systems- applications and challenges today (online) during the 2023 5th International Conference on Circuits and Systems sponsored by University of Electronic Science and Technology, China and IEEE Chengdu CEDA hosted by Yangtze Delta Region Institute, China. Conference is being held in Huzhou, China.
+M.J. Jayashree S
+, Professor, Dept. of ECE, and IQAC Coordinator,
+Chaired PULSE TALK- Talk 6 session on the topic “Biomedical Materials: Learn to heal themselves”, on 24 August 2023.
+Delivered an online talk session on "NAAC Benchmarks for Affiliated Colleges" for the staff members of DMI ENGINEERING COLLEGE, Aralvaimozhi on 16th August 2023.
+Presented a paper titled “Administrative Audit for Quality Improvement in Higher Educational Institute (HEI)-an imperative component for Internal Quality Assurance of Autonomous Institutions'' in the 15th National IQAC Conference (I-con) Revisiting Quality in Higher Education at Kristu Jayanti College Bengaluru on 17th March 2023.
+Dr. Lani Rachel Mathew
+, Asst. Professor, ECED, was part of the delegation from APJAKTU to Tata Consultancy Services (TCS), Trivandrum, on 15th February 2023, to discuss possibilities of promotion of assistive technology related activities in the engineering community.
+M.J. Jayashree S
+, Professor, Dept. of ECE, and IQAC Coordinator,
+Presented the Mission, Vision, Principles and Activities of IRCS and YRC during the Seminar on "Indian Red Cross Society (IRCS) and its Activities" to the MSW students of IGNOU on 8th February 2023 at IMA hall, Thiruvananthapuram. She is the member of Thiruvananthapuram District IRCS Executive Committee and Joint Coordinator of Youth Red Cross (YRC).
+Delivered an online talk on “Awareness on IEEE EMBS WIBE” on 27th February 2023 to the EMBS student members of Kerala.
+presented a paper titled “Administrative Audit for Quality Improvement in Higher Educational Institute (HEI)-an imperative component for Internal Quality Assurance of Autonomous Institutions'' in the 15th National IQAC Conference (I-con) Revisiting Quality in Higher Education at Kristu Jayanti College Bengaluru on 17th March 2023.
+Mr Arun J. S.
+, Asst. Professor, of ECE
+Contributed as facilitator in the YIP 5.0 Intern training session and workshop of representatives from Government Departments organized jointly by KDISC and KSUM from 6 to 9 February 2023. The event was organized at Technopark Trivandrum and Appolo Dimora Trivandrum.
+Dr. S Viswanatha Rao
+, professor, Dept. of ECE, and Vice Principal & Dean (Academic Affairs - UG), delivered a talk on “An overview of NBA Accreditation Process” in an FDP program at Lourdes Matha College of Science and Technology, Trivandrum on 18th January 2023.
+Dr. S Viswanatha Rao
+, Professor, Vice Principal & Dean (Academic Affairs - UG), was the Moderator for the Industry Roundtable panel discussion for the 5G Technology domain, held on December 16, 2022, in Trivandrum, hosted by ASAP Kerala in association with the Kerala Knowledge Economy Mission, for the identification of existing and emerging job roles, the skill gaps in the current workforce, the skill sets that are in demand by industries and the strategies that can help develop these skill sets to benefit students and employers.
+Dr. M.J. Jayashree S
+, professor, Dept. of ECE, and IQAC Coordinator, delivered  an online talk on the "Benefits of IEEE EMBS" as a part of the events organized with the inauguration of IEEE EMBS MCC Student Branch Chapter in Musaliar College of Engineering, Chirayinkeezhu on 30 November 2022.
+Mr. Arun J. S
+, Asst. professor, Dept. of ECE, and Nodal officer of  CATALYST,  shared his knowledge as a speaker in the one day entrepreneurship workshop on ‘VENTURE PLANNING & PITCH DECK PREPARATION’ organized as part of Innovator’s Premier League II. The event was held at Sree Buddha College of Engineering, Pattoor on 29 November 2022.
+Mr. Arun J. S
+, Asst. professor, Dept. of ECE, and Nodal officer of  IEDC,  delivered  the session "Catalyst Mar Baselios IEDC-The Impact Creation" as a part of the event Meet the Kerala Startup Mission CEO, an one day meetup of Nodal officers from IEDCs accredited by KSUM as TBI. The event was held at Marian Engineering College, Trivandrum on 30 September 2022
+Mr Arun J. S.
+, Asst. professor, Dept. of ECE
+Was invited to deliver a Guest lecture on ‘Innovation and startup opportunities in HealthCare’ for the event MedPitch 2022, organized by Sree Anjaneya Institute of Dental sciences, Malabar Medical College Kozhikode on 30 August 2022.
+Delivered the session on ‘Demystifying Innovation’, as part of the one day bootcamp - IMPETUS, organized by Mar Ivanios College, on 06 August 2022.
+Delivered an online session on Design Thinking: Decoded for the faculty and student members of Lourdes Matha College of Science and Technology on 16 July 2022. The session was organized by the Institution Innovation Council of LMCST.
+Delivered a session on ‘Design Thinking for Ideation’ at Marian Engineering College on 10 May 2022
+Dr. Jayakumari J.,
+HoD, chaired a technical session during the 2021 IEEE 3
+rd
+International Conference on Circuits and Systems (IEEE ICCS 2021), hosted by the University of Electronic Science and Technology of China, on 02 November 2021.
+M.J. Jayashree
+, Prof., delivered an online session on ‘Gender Equality today for a sustainable tomorrow’, as part of the International Women’s Day celebrations at Sree Mookambika Institute of Dental Sciences, Kulashekaram.
+Mr. Niyas K. Haneefa
+, Asst. Professor, handled sessions as part of the one day workshop on ‘Research paper writing using LateX’, organized by EduCorp Centre for Research and Advanced Studies Pvt. Ltd. on 09 January 2022.
+Mr. Arun J.S.,
+Assistant Professor, delivered a session as part of the ‘Hands-on workshop on Business model canvas’, organized by Trinity College of Engineering, on 28 October 2021.
+Ms. Lani Rachel Mathew
+, Asst. Professor, Dept. of ECE and
+Ms. Jomole Joseph P.,
+Asst. Prof, Dept. of EEE, delivered the talk sessions on ‘Discover your Prototype’, organized by IEEE WIE MBCET SB AG for the final year students of MBCET, on 01 November 2021.
+Dr.Jayakumari J. ,
+Professor and Head, delivered asession on the topic ‘Applications of Scientific Computing ’ as part of  Online STTP on Scientific Computing Applications,  organized by the Signal Processing Research Group, Dept. of ECE, from 9 - 11 and 16 - 18 August 2021.
+Ms. Athira V
+, Assistant Professor, delivered a session on the topic ‘Familiarization of Matlab’ as part of  Online STTP on Scientific Computing Applications,  organized by the Signal Processing Research Group, Dept. of ECE, from 9 - 11 and 16 - 18 August 2021
+Ms. Deepa P. L.
+, Assistant Professor, delivered hands-on sessions on the simulation of various mathematical aspects like ‘Solution of differential equations, differentiation and integration, Singular Value Decomposition, Data Visualization Tools, Convergence of Fourier Series and Probability Distribution’ used in Scientific Computing using Matlab, as part of the online STTP on Scientific Computing Applications,  organized by the Signal Processing Research Group, Dept. of ECE, MBCET, from 9 - 11 and 16 - 18 August 2021.
+Arun J. S.
+, Assistant Professor
+Delivered a session on ‘Design Thinking for Project Innovations’ as part of the Insight Educator Summit 2021 organized by St. Joseph’s College of Engineering and Technology, Palai,on 07 September 2021.
+Delivered a session on ‘Product development using Design Thinking and Business Model Canvas’, during the faculty developed program conducted for IEDC Nodal Officers – Entrepreneurial Ecosystem in Polytechnic Colleges, organized by Govt. Polytechnic College, Perinthalmanna, on 14 August 2021.
+Engaged a session on ‘Transform your idea to a marketable product’ organized by TOC H institute of science and technology on 23 June 2021.
+Delivered a session on ‘Demystifying Entrepreneurship’ organized by University College, Kariavattom on 19 June 2021.
+Participated as panelist in the Panel discussion ‘From college to Dream Job’ organized by Code of Duty Innovations on 7 June 2021.
+Engaged a session on Observe-Make-Innovate in the 2 day idea bootcamp “INCEPTRA 2021” organized by Catalyst- Mar Baselios IEDC on 30 July 2021.
+Engaged a session on “Business Model Canvas” organized by the Institutions Innovation Council on 25 May 2021.
+Mr. Niyas K. Haneefa
+, Assistant Professor
+Delivered the sessions on the topics “Emerging Technologies in Wireless Communication” on 16th March 2021 and “5G Evolution” on 17 March 2021, as part of the 5 day virtual FDP on Emerging Technologies in 5G, organized by Government Engineering College Palakkad.
+Delivered a session on the topic “Introduction to Matlab Programming/ Coding” as a part of the 3-Day Online STTP on "Simulation of Electronic Circuits and Systems using MATLAB/SIMULINK and PSpice- SCSMAP'21" organized by Department of EEE, MBCET, during 07-09 April 2021
+Dr. Sreedevi P.
+delivered an invited talk on ”Fiber optics in 5G” organized by ECE Dept. of  Marian Engineering College,Trivandrum on 25 May 2021.
+Dr. M.J. Jayashree
+(Student Activities Chair, EMBS Kerala Chapter), addressed the students of Model Engineering College, about the benefits of IEEE Engineering in Medicine and Biology Society (EMBS), as part of the event ‘INCUBATE’, on 16 May 2021.
+Lakshmy S.
+delivered a session on the topic “Introduction to Simulink Programming” as a part of  the 3-Day Online STTP on "Simulation of Electronic Circuits and Systems using MATLAB/SIMULINK and PSpice- SCSMAP'21" organized by Department of EEE, MBCET during 07-09 April 2021.
+Arun J.S.
+delivered a session on “
+Importance of Startups in Indian Economy
+”, organized by Technoblaze IEDC, GPTC, Nedumangadu, on 8 April 2021.
+P.P. Hema
+delivered a session on “Physical Layer Technologies for 5G” on 30 March 2021, for the faculty members of the department of ECE.
+Swapna P.S.
+delivered a session on “Beam management in 5G” on 22 March 2021, for the faculty members of ECE, which is the first in the series of presentations as part of an initiative to identify emerging research areas.
+Dr. Jayakumari J.
+delivered an invited talk on “
+Development of Portable Brain Computer Interface for Medical Applications
+” as part of the IEEE 2
+nd
+International Conference on Circuits and Systems (
+ICCS 2020
+) , co-organized by University of Electronic Science and Technology of China and Sichuan Institute of Electronics and technically sponsored by IEEE CDEA Chengdu Chapter, Sichuan University, China, Singapore Institute of Electronics, National Institute of Astrophysics, Optics and Electronics, INAOE, Keio University, Japan and The University of Manchester, on 11
+th
+December 2020.
+Prof. S. Viswanatha Rao
+delivered a technical talk on “
+Infrastructure Development and Systems: The new horizons for growth
+” as part of the National Conference 'Aatmanirbhar Bharat: A Roadmap to Self-Reliant India' organised by MACFAST (Mar Athanasios College for Advanced Studies) on 25
+th
+November 2020.
+Arun. J. S.,
+Assistant Professor
+Delivered an invited talk on the topic “
+Fueling Innovation for the Future
+”, organised by the Department of Electronics and Communication Engineering in association with IEDC and IETE, Vimal Jyothi Engineering College, Kannur on 12
+th
+February 2021.
+Delivered a session on “
+Design Thinking for Product Innovation
+” as part of the 5 day National Faculty Development Programme (FDP) organized by Department of Mechanical Engineering, College of Engineering Trivandrum, on 6
+th
+January 2021.
+Ms. Ancy Joy
+and
+Ms. Amritha B.J.
+, Assistant Professors, delivered sessions on the various simulation and implementation tools used in the design of Digital Circuits as part of the workshop on “Simulation and Implementation of Digital Circuits (SIDC’21)” organized by the Department of Electronics and Communication Engineering, MBCET during 15 – 19 March, 2021.
+Ms. Deepa P.L.,
+Assistant Professor, delivered a session on “D
+eep Learning Applications on Biomedical Images using MATLAB
+” as part of the online Faculty Development Program (FDP) on Biomedical Engineering and its Applications
+(BMEA’21
+), organized by the Department of Electronics and Communication Engineering, MBCET, on 13
+th
+January 2021.
+Dr. Jayakumari J.
+, delivered a session on “
+Brain Computer Interfacing BCI) - Challenges and Research Perspective
+” as part of the online Faculty Development Program (FDP) on Biomedical Engineering and its Applications
+(BMEA’21
+), organized by the Department of Electronics and Communication Engineering, MBCET, on 12
+th
+January 2021.
+Mr. Sherry Varghese George
+, Assistant professor, delivered a session on “The
+Trends of the 2020’s
+”, as part of the Student Induction Programme, on 26
+th
+November 2020. During the session, he shared some of the transitions that have happened due to COVID-19 and provided global insights about the rising trends of the coming decade.
+Mr. Arun J.S.
+, Assistant Professor, delivered a session on “Fueling Innovation for the Future” on 26
+th
+November 2020, as part of the Student Induction Program organized for first year students.
+Dr. M.J. Jayashree
+delivered a session on “
+IEEE EMBS and its Benefits
+” as a part of the Student Membership Development Session hosted by IEEE EMBS Kerala chapter on 26
+th
+September 2020.
+Prof. S. Viswanatha Rao
+delivered a session on “
+NBA Accreditation
+” as a part of the MDP organized by Mar Athanasios College for Advanced Studies, IQAC and Department of Management Studies on 24
+th
+September 2020.
+Mr. Arun J. S.
+delivered a session on “
+Fueling Innovation for the Future
+” in the event ‘Socch- A thought to share’, organized jointly by IEDC and IIC MBCET on 29
+th
+August 2020.
+Mr. Arun J. S.
+delivered a session on “
+Opportunities of Networking
+” in the event ‘Civilize’, organized by ASCE MBCET Students Chapter on 27
+th
+August 2020.
+Mr. Arun J. S.
+delivered a session on “
+Fueling Innovation for the Future
+” in the event ‘SUNDAY MIRROR’ organized by Government Polytechnic College Perinthalmanna on 16
+th
+August 2020.
+Ms. Athira V.
+delivered a session on “
+Introduction to LabVIEW
+” during the online internship program on Assistive Technology-2020 organized by Assistive Technology group, MBCET in association with Department of Electronics and Communication Engineering on 11
+th
+August 2020.
+Ms. Amritha B.J.
+delivered a session on “
+Introduction to Raspberry Pi
+'' during the online internship program on Assistive Technology-2020 organized by Assistive Technology group, MBCET in association with Department of Electronics and Communication Engineering on 11
+th
+August 2020.
+Ms. P.P. Hema
+delivered a session on “
+Introduction to Arduino
+” during the online internship program on Assistive Technology-2020 organized by Assistive Technology group, MBCET in association with Department of Electronics and Communication Engineering on 7
+th
+August 2020.
+Dr. M.J. Jayashree
+delivered a session on “
+Introduction to Assistive Technology
+” during the online internship program on Assistive Technology-2020 organized by Assistive Technology group, MBCET in association with Department of Electronics and Communication Engineering on 3
+rd
+August 2020.
+Mr. Arun J. S.
+delivered a session on “
+The Future workplace and workforce
+” in the event ‘SYNERGY’ organized by St. Joseph's College of Engineering and Technology, Palai on 2
+nd
+August 2020.
+Mr. Arun J. S.
+delivered a session on “
+Fueling Innovation for the future
+” in the event ‘IDEATION, INNOVATION AND INCUBATION’ organized by Mohandas College of Engineering and Technology, on 16
+th
+July 2020.
+Mr. Arun J. S.
+delivered a session on “
+Covid-19: A catalyst for Innovation and Entrepreneurship
+”, in the National webinar series organised jointly by PG & Research Department of Commerce and ED club, Mar Ivanios College (Autonomous)on 1
+st
+July 2020.
+Ms. P.P.Hema
+delivered a talk on “Microelectro Mechanical Systems" for the final year students of Department of Electrical and Electronics Engineering on 4 March 2020.
+Mr. Arun J. S.
+took a session on “Successfully setting up an IEDC in a College” in the two-week FDP in Entrepreneurship and Startups organized by EDII in association with DST on 21 February 2020.
+Ms. Lakshmy S.
+was the resource person for  three day workshop on “Introduction to IoT" for the technical staff organized by the Department of Electronics & Communication Engineering from 25 – 27 February 2020.
+Mr. Arun J. S.
+engaged a session on “Innovation using Design Thinking” in MES AIMAT on 14 February 2020.
+Ms. Ancy S. Anselam
+and
+Ms. Deepa P. L.
+engaged sessions in "Training Programme on Deep Learning Applications using MATLAB" for the students of third year and fourth year during 10, 11 January 2020.
+Mr. Arun J. S.
+engaged an invited lecture on "Fuelling Entrepreneurship" in Mar Ivanios College on 10 January 2020.
+Prof. S. Viswanatha Rao, Dr. M. J. Jayashree, Dr. Jayakumari J., Dr. Sreedevi P., Ms. Swapna P. S.
+and
+Mr. Shiras S. N.
+chaired various sessions of the Springer International Conference on Communication Systems and Networks held on 12, 13 December 2019.
+Mr. Arun J. S.
+engaged one day ideation workshop at Government Polytechnic College, Kaimanam on 5 September 2019.
+Mr. Arun J. S.
+engaged one day ideation workshop at Government Polytechnic College, Punalur on 3 September 2019.
+Mr. Jijo Jose
+delivered a hands-on session on "Robotics" at University College of Engineering, Karyavattom on 1 September 2019.
+Mr. Jinu Baby
+delivered a motivational talk during the three week long induction program for first year Electronics & Communication Engineering students on 23
+rd
+July 2019.
+Mr. Sherry Varghese George
+delivered a motivational talk on the topic “The Scale of Disruptions happening in the World” during the three week long induction program for first year Electronics & Communication Engineering students on 23
+rd
+July 2019.
+Prof. S. Viswanatha Rao
+delivered a talk on “Evolving Standard in Wireless Communication” for faculty members as part of Faculty Development Programme on Advances in Wireless Communication (AWC ’19) on 9
+th
+July, 2019.
+Dr. Jayakumari J.
+delivered a talk on “Cognitive Radio ” for faculty members as part of Faculty Development Programme on Advances in Wireless Communication (AWC ’19) on 9
+th
+July, 2019.
+Ms. Teena Rajan
+delivered a session on Textile sensors and applications during the summer internship Programme on Assistive Technology on  2
+nd
+July 2019
+Mr. Arun J. S.
+delivered a one day session on “Product Development using SCAMPER” in the FDP organized by VKCET, Paripally on 9
+th
+July 2019.
+Mr. Arun J. S.
+delivered a one day session on “Innovation and Business Model Canvas development” in the KTU sponsored FDP conducted by “Sree Buddha College of Engineering Pattoor” on 8
+th
+July 2019.
+Dr. M. J. Jayashree
+delivered a session on “Assistive technologies” during the summer internship Programme on Assistive Technology on  1
+st
+July 2019.
+Ms. Amritha B. J.
+delivered a hands-on session on “Raspberry Pi”  during the summer internship Programme on Assistive Technology on  1
+st
+July 2019.
+Ms. P. P. Hema
+delivered a hands-on session on “Arduino Programming” during the summer internship Programme on Assistive Technology on 1
+st<%
+Vision
+To be a Centre of Excellence in Electronics and Communication Engineering Education and Research for the service of humanity.
+Mission
+To provide quality Engineering Education and to carry out Research in the field of Electronics and Communication Engineering addressing the challenges faced by the society.
+BoS
+The People
+Department Advisory Board
+Facilities
+News and Events
+Activities
+Conferences
+Research and Consultancy
+Workshops & Seminars
+Placements
+B. Tech PEOs POs & PSOs
+Syllabus
+Video Lectures
+Time Table
+Former HoDs

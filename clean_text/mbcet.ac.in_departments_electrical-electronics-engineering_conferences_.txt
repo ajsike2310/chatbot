@@ -1,0 +1,249 @@
+Conferences – Mar Baselios College of Engineering And Technology
+Skip to content
+Home
+>
+Departments
+>
+Electrical and Electronics Engineering
+>
+Conferences
+Conferences
+International Conferences Attended
+2024-2025
+PAPER PRESENTATION
+Dr. Nisha G K,
+Professor, EEE Department presented three papers in the AICTE sponsored International Conference on Recent Trends in Energy, Environment, Science and Technology (CREEST- 2025) held @ UKF College of Engineering and Technology from 7th- 9th May 2025.
+Chinmay Krishna S
+, “Artificial Intelligence: Revolutionising Electrical and Electronics Engineering”
+Sandhya P, Ms. Aiswarya S S
+, ” Mitigating Risks in EV Wireless Power Transmission through Foreign Object Detection”
+Ms. Rinku R S, Dr. Sheryl Arulini A
+,” Review on Torque Ripple Mitigation Strategies and Fault Tolerant Control Techniques for Switched Reluctance Motor Drives”
+2023-24
+Mr Anil J
+, Assistant Professor, EED
+chaired a Technical session
+in the International Conference on Circuit Power and Computing Technologies
+(ICCPCT 2024)
+organized by Baselios Mathews II College of Engineering, Sasthamcotta, Kollam. He was also one of the
+Technical reviewers
+for the conference.
+Dr. Sheryl Arulini
+, Assistant Professor, EED attended the IEEE sponsored 3
+rd
+International Conference on New Energy and Power Engineering as an Academic Committee Member held at Huzhou, China from 24 to 26 November 2023.
+Ms. Surasmi N. L
+., Assistant Professor, EED presented two papers titled “Hybrid Multilevel Inverter Control for Harmonic Mitigation” and “Grid-integrated Solar Photovoltaic Converter Control for Power Quality Enhancement”, in IEEE International Conference on Control, Communication and Computing (ICCC 2023) organized by College of Engineering Trivandrum from 19 to 21 May 2023. She received the
+best paper award
+for the paper titled “Hybrid Multilevel Inverter Control for Harmonic Mitigation”.
+2021-22
+G K Nisha
+, Stella Kurien presented a paper entitled “Current Control with Hysteresis Controller and Sliding mode Controller in SRM” in the
+International Conference on Signal Processing, Informatics, Communication and Energy Systems 2022
+(IEEE SPICES 2022) jointly organized by Mar Baselios College of Engineering and Technology (Autonomous), Thiruvananthapuram and IEEE Kerala Section from March 10-12, 2022.
+G K Nisha
+, Praveen O. presented a paper entitled “Performance study of Capacitor Clamped Multilevel Inverter fed Induction Motor Drive for Electric Vehicle Application” in the
+International Conference on Signal Processing, Informatics, Communication and Energy Systems 2022
+(IEEE SPICES 2022) jointly organized by Mar Baselios College of Engineering and Technology (Autonomous), Thiruvananthapuram and IEEE Kerala Section from March 10-12, 2022.
+G K Nisha
+, Lekshmi P. Nair presented a paper entitled “Torque Ripple Reduction And Speed Control Of PMSM Using Fuzzy Logic For Propulsion Application” in the
+International Conference on Signal Processing, Informatics, Communication and Energy Systems 2022
+(IEEE SPICES 2022) jointly organized by Mar Baselios College of Engineering and Technology (Autonomous), Thiruvananthapuram and IEEE Kerala Section from March 10-12, 2022.
+Praveen Raj R. S.
+presented a paper entitled “Performance Assessment of A Hybrid Islanding Detection Scheme For PV Based Distributed Generators Combining Total Harmonic Distortion And Bidirectional Reactive Power Injection” in the
+International Conference on Signal Processing, Informatics, Communication and Energy Systems 2022
+(IEEE SPICES 2022) jointly organized by Mar Baselios College of Engineering and Technology (Autonomous), Thiruvananthapuram and IEEE Kerala Section from March 10-12, 2022.
+Sandhya P, G K Nisha
+presented a paper entitled “Review of Battery Charging Methods for Electric Vehicle” in the
+International Conference on Signal Processing, Informatics, Communication and Energy Systems 2022
+(IEEE SPICES 2022) jointly organized by Mar Baselios College of Engineering and Technology (Autonomous), Thiruvananthapuram and IEEE Kerala Section from March 10-12, 2022.
+Shalu George K
+., Abhiram A., Amal Jose, Ajay Soorya Madhav, Najiya N, S Aswin presented a paper entitled “Steering Angle Estimation for an Autonomous Car” in the
+International Conference on Signal Processing, Informatics, Communication and Energy Systems 2022
+(IEEE SPICES 2022) jointly organized by Mar Baselios College of Engineering and Technology (Autonomous), Thiruvananthapuram and IEEE Kerala Section from March 10-12, 2022.
+Shyju Susan Mathew
+, V R Jisha presented a paper entitled “Decentralized control of a slow moving mobile manipulator” in the
+International Conference on Signal Processing, Informatics, Communication and Energy Systems 2022
+(IEEE SPICES 2022) jointly organized by Mar Baselios College of Engineering and Technology (Autonomous), Thiruvananthapuram and IEEE Kerala Section from March 10-12, 2022.
+Shyju Susan Mathew
+, Aswin, Navya S Warrier, Ann Elizabeth Babu presented a paper entitled “Design of an Optimized Controller for Docking System for Space Application” in the
+International Conference on Signal Processing, Informatics, Communication and Energy Systems 2022
+(IEEE SPICES 2022) jointly organized by Mar Baselios College of Engineering and Technology (Autonomous), Thiruvananthapuram and IEEE Kerala Section from March 10-12, 2022.
+Sojy C Rajan
+presented a paper entitled “Voltage Profile Improvement of a Multi Microgrid Interconnection Scheme using Synchronverters” in the
+International Conference on Signal Processing, Informatics, Communication and Energy Systems 2022
+(IEEE SPICES 2022) jointly organized by Mar Baselios College of Engineering and Technology (Autonomous), Thiruvananthapuram and IEEE Kerala Section from March 10-12, 2022.
+Sojy C Rajan
+presented a paper entitled “Grey Wolf Optimizer Algorithm for Performance Improvement & Cost Optimization in Microgrids” in the 6th IEEE
+International Conference on Green Energy & Applications 2022
+(ICGEA 2022) jointly organized by IEEE and sponsored by Power & Energy Society, Singapore from March 4-6, 2022.
+Anu Gopinath
+, V. R. Jisha presented a paper entitled “Gain Scheduled LQR Control of a Two Wheeled Mobile Robot with Heavy Payloads” in the
+International Conference on Signal Processing, Informatics, Communication and Energy Systems 2022
+(IEEE SPICES 2022) jointly organized by Mar Baselios College of Engineering and Technology (Autonomous), Thiruvananthapuram and IEEE Kerala Section from March 10-12, 2022.
+Arjun U, Gowri B K, Gayathri U, Malavika V P,
+Sojy Rajan
+and
+Ajish Ashok
+presented a paper titled “Dual Axis Solar Tracker for an Automated Irrigation System in the
+Springer International Conference
+on Smart Energy and Advances in Power Technologies
+(ICSEAPT’21), NIT Jamshedpur on 7 September 2021.
+Aiswarya R, Elby Barnabas, Hari Shankar R S, Nandagopal S, and
+A N Archana
+presented a paper titled “Design and Simulation of Wireless Power Transfer System for Electric Vehicle Application” in the
+Springer International Conference
+on Smart Energy and Advances in Power Technologies
+(ICSEAPT’21), NIT Jamshedpur on 6 September 2021.
+Vishnu M Nair, Nanditha Sai Prasanth, Amaze Anna Toms, Abinshah Ameer,
+Manju Sreekumar
+presented a paper titled “Demand Management System using Artificial Intelligence and IoT” in the 9th
+Scopus Indexed International Conference
+on Innovations in Computer Science and Engineering
+(ICICSE 2021) on 3 September 2021
+2020-21
+C Sojy Rajan
+presented a paper entitled “Fuzzy Controlled D-STATCOM to improve the PCC Voltage Profile of a Multi-Microgrid Interconnection Scheme” in the Springer Electric Power & Renewable Energy International Conference (EPREC-2021) organized by Department of Electrical Engineering, NIT Jamshedpur and sponsored by Springer from May 28-30, 2021.
+Manju Ann Mathews
+presented a paper entitled “A novel power Management Strategy for Frequency Regulation in Low Inertia Grid” in 8th IEEE Conference on Technologies for Sustainability (SusTech 2021) organized by IEEE Region 6 USA at
+Orange County, California, USA
+on April 22-24, 2021.
+Sandhya P
+. presented a paper entitled “Solar PV fed BLDC motor Drive using ZETA Converter” in the
+International Conference on Energy and Environment
+(ICEE 2021) held during April 09 – 10, 2021, organised by Jyothi Engineering College, Thrissur.
+N. Archana
+and T. Rajeev, “EV Charging Station Allocation in a Distribution Network Based on Power Quality,” in Proc. of 2021
+IEEE Power and Energy Conference
+at Illinois (PECI), pp. 1-6, April 2021. doi: 10.1109/PECI51586.2021.9435228.
+Elizabeth Varghese
+presented a paper entitled “Design of Robust Fractional Controller for Unstable Linear Systems Based on Phase Shaper Method” in the 6
+th
+IEEE International Conference for Convergence in Technology
+(I2CT), Pune held during April 2 – 4, 2021.
+Archana A N
+presented a paper entitled “EV Charging Station Allocation in a Distribution System based on Power Quality” in the IEEE Power and Energy Conference at Illinois (PECI 2021) organized by University of Illinois, Urbana–Champaign, USA and sponsored by IEEE PES/PELS/IAS Joint Student Chapter from April 1 – 2, 2021.
+Nisha G K
+presented a paper entitled “Induction Machine Characteristics Control in Field Weakening Region for Propulsion Application” in the International Conference on Smart Grid Energy Systems and Control (SGESC-2021) organized by Department of Electrical Engineering, NIT Kurukshetra and sponsored by Springer Series from March 19-21, 2021.
+Jeneena Babu
+presented a paper entitled “Comparative study of Closed Loop Controlled Parallel Connected Converter Methods for Minimization of Circulating Current” in the International Conference on Smart Grid Energy Systems and Control (SGESC-2021) organized by Department of Electrical Engineering, NIT Kurukshetra and sponsored by Springer Series from March 19-21, 2021.
+Nisha G K,
+and
+Dr. Shalu
+George chaired ISTE Faculty Convention organized by Mar Baselios College of Engineering and Technology and sponsored by ISTE on 23.01.2021
+Nisha G.K and Aswin R. B.,
+presented a paper ‘Creating an online virtual environment for Electrical Engineers’, in the 31st Annual State Convention of the ISTE Kerala Section on “Opportunities and Challenges in Technical Education in the Post-COVID Scenario” organized by Mar Baselios College of Engineering and Technology, on 23 January 2021, at Thiruvananthapuram in association with ISTE Kerala Section.
+Hridya C. K., Surasmi N. L., Jeneena Babu, Soumya A. V. and Sheenu P
+. presented a paper ‘ COVID-19 and Digital Transformation in Academia: A Case Study’, in the 31st Annual State Convention of the ISTE Kerala Section on “Opportunities and Challenges in Technical Education in the Post-COVID Scenario” organized by Mar Baselios College of Engineering and Technology, on 23 January 2021, at Thiruvananthapuram in association with ISTE Kerala Section.
+Surasmi N. L.
+presented a paper titled “Harmonic Mitigation in Induction-Motor Drives using Active Filtering Approach” at the 2020 IEEE International Power and Renewable Energy Conference (IPRECON) held at College of Engineering Karunagappally from 30 October 2020 to 1 November 2020.
+Elizabeth Varghese
+presented a paper on “Robust Fractional Order PI Controller for Attitude Control of Launch Vehicle with Flexible Dynamics” in the International Conference on Sustainable Technology Applications for Green Engineering Solutions STAGE 2020 organized by NSS College of Engineering, Palakkad from 17 to 18 July 2020.
+Manju Sreekumar
+attended the RBCDSAI’s International Summit organized by Indian Institute of Technology Madras and sponsored by Indian Institute of Technology, Madras from 18 to 20 June 2020.
+Shyju Susan Mathew presented a paper titled “Tracking Control of a Mobile Manipulator with External Torque disturbances using Computed Torque Control” in the 17
+th
+IEEE INDICON 2020 held between 11 to 13 December 2020 at Netaji Subhash University of Technology, New Delhi.
+Sojy Rajan C. presented a paper titled “Modeling Operation and Simulation of Interconnected DC Microgrids” at the third edition of the 2020
+IEEE International Conference on Power Instrumentation Control and Computing
+(PICC2020) under the aegis of the Sixth Biennial International Conference on Emerging Trends in Engineering Science and Technology held at Government Engineering College Thrissur from 17 to 19 December 2020
+.
+2019-20
+Merin Zachariah,
+Nisha G. K. and Jeneena Babu
+, presented a paper entitled “Circulating Current Control of Parallel connected converters”, in the
+4
+th
+International Conference on Inventive Systems and Control,
+ICISC 2020, organized by JCT College of Engineering and Technology, Coimbatore, 8-10 January 2020.
+Elizabeth Varghese
+presented a paper entitled “Robust Fractional Order Controller for an Expendable Launch Vehicle” in the
+International Conference on Design, Automation and Control
+, ICDAC 2020, held on 6 to 8 January 2020 at Vellore Institute of Technology.
+Manju Ann Mathews
+presented a paper entitled “Fuzzy based management of Hybrid Energy Storage System for improved dynamic response of DC microgrid” in the
+IEEE International conference on “Power Electronics, Smart Grid and Renewable Energy
+(PESGRE 2020) held on 2 to 4 January 2020 at Le Meridien, Kochi.
+Archana A. N.
+presented a paper entitled “Reliability Index based approach for allocating EV charging station in a distribution system” in the
+IEEE International conference on “Power Electronics, Smart Grid and Renewable Energy
+(PESGRE 2020) held on 2 to 4 January 2020 at Le Meridien, Kochi.
+Ms. Surasmi N. L.
+presented a paper entitled “Power Quality Improvement in Multilevel Inverter using Open end winding Motor Scheme” in the
+5th IEEE International Women in Engineering (WIE) Conference on Electrical and Computer Engineering 2019
+(IEEE WIECON-ECE 2019 Conference) on 15 & 16 November 2019 at Bangalore, India.
+International Conferences Conducted/Hosted
+ICEMPS 2024 Technically co-sponsored by IEEE Kerala Section
+The 2024 International Conference on E-Mobility, Power Control and Smart Systems (ICEMPS 2024), technically co-sponsored by IEEE Kerala Section and co-sponsored by APJ Abdul Kalam Technological University and MBCET Alumni Association was organised by the Department of Electrical and Electronics Engineering, Mar Baselios College of Engineering and Technology, Thiruvananthapuram, from 18 to 20 April 2024. The conference was conducted in the hybrid mode. Out of the 406 papers received, 112 papers were accepted, and 106 papers were registered.
+ICEMPS 2024 Report
+NEXUZ ’19
+Nexuz ’19 Report –
+Click here
+IEEE PEDES 2016-Hosted by MBCET
+PEDES, the IEEE sponsored series of International Conferences on Power Electronics, Drives and Energy Systems was started in 1996. The first in the Series, PEDES 1996 was held in New Delhi. It was followed by PEDES 1998 in Perth, Australia; PEDES 2006 & PEDES 2010 in New Delhi, PEDES 2012 in Bangalore and PEDES 2014 in Mumbai. PEDES 2016 was held at Trivandrum and was sponsored by the four important IEEE societies, viz., the IEEE Industry Application Society, IEEE Power Electronics Society, IEEE Industrial Electronics Society and IEEE Power and Energy Society.
+The event was hosted by Mar Baselios College of Engineering & Technology.
+The sessions on 14
+th
+Dec 2016 was held at Hotel UdaySamudra, Kovalam, Trivandrum and included one full day tutorials and the inaugural ceremony. The sessions from 15
+th
+Dec to 17
+th
+Dec 2016 was held at MBCET and included
+plenary talks and over 350 paper and poster presentations in 6 different tracks over 9 different venues. Over 500 delegates from 21 countries all over the world participated in the Conference.
+The tutorial sessions were handled by eminent personalities –
+Mr. Joachim Holtz
+from University of Wuppertal, Germany,
+Mr. Anurag K Srivastava
+, Professor & Director of Smart Grid Demonstration and Research Investigation Lab School of Electrical Engineering and Computer Science, Washington State University,
+Mr. LalitGoel
+, Professor of Power Engineering & Director of Office of Global Education & Mobility Nanyang Technological University Singapore,
+AlirezaKhaligh
+Professor & Director of the MPEL, University of Maryland, College park, USA.
+Plenary talks were handled by eminent personalities like
+Dr. Deepak Divan
+, Professor, John E Pippin Chair, GRA Eminent Scholar and Director of the Center for Distributed Energy at the Georgia Institute of Technology in Atlanta, GA;
+Dr. Ambrish Chandra
+, Professor of Electrical Engineering Department at École de TechnologieSupérieure, Université du Québec, Montréal, Canada;
+Dr. Prasad Enjeti
+, lead developer of the Power Electronics / Power Quality & Fuel Cell Power Conditioning Laboratories at Texas A&M University;
+Dr. Jih-Sheng (Jason) Lai
+, James. S. Tucker Endowed Chair Professor and Director of Future Energy Electronics Center (FEEC);
+Dr. Praveen Jain
+, Professor of Electrical and Computer Engineering, Tier 1 Canada Research Chair in Power Electronics, and Director of the Queens Centre for Energy and Power Electronics Research at Queens University.
+Dr. Sheldon S. Williamson
+, Associate Professor at the Smart Transportation Electrification and Energy Research (STEER) group, within the Department of Electrical, Computer, and Software Engineering, at the University of Ontario-Institute of Technology (UOIT) in Oshawa, Ontario, Canada;
+Dr. Koki Matsuse
+, Emeritus Professor in Dept of Electrical Engineering, Meiji University;
+Dr. Seung-Ki Sul,
+Professor, School of the Electrical and Computer Engineering, Seoul National University.
+The conference provided a unique forum for the exchange of knowledge and information among the professionals across the globe in the areas of Power Electronics, Drives and Energy Systems – subjects which have greater significance owing to the emphasis on Energy affected by the climate change. The Conference concluded with panel discussion followed by the valedictory session. Variety of programs was performed by the students of MBCET for Gala dinner arranged for all delegates on 16th December 2016 and was well appreciated by all.
+The delegates congratulated the efforts taken by MBCET team in organizing the event. The General Chair of the Conference was the Principal,
+Dr T M George
+. The hospitality and local arrangement co-ordinators of the event were
+Prof. A S Shajilal, Ms. Elizabeth Varghese and Ms. C SojyRajan
+. The technical program chair was
+Dr. Unnikrishnan A K
+and the publication chair was
+Ms. Divya N A
+.
+Vision
+To be a Centre of Excellence in Electrical & Electronics Engineering Education, Research and Application of knowledge to benefit the society at large.
+Mission
+To mould quality Electrical Engineers, fostering creativity and innovation to address global issues.
+BoS
+Department Advisory Board
+The People
+Facilities
+News and Events
+Activities
+Conferences
+Workshops & Seminars
+Research & Consultancy
+Placement
+B. Tech PEOs, POs & PSOs
+Opportunities
+Curriculum & Syllabus
+Time Table
+Video Lectures
+Former HODs
+Department Google Site

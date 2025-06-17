@@ -1,0 +1,817 @@
+Activities – Mar Baselios College of Engineering And Technology
+Skip to content
+Home
+>
+Departments
+>
+Electronics & Communication Engineering
+>
+Activities
+Activities
+Department Association (eNIX) Activities
+To know more about eNIX
+https://enix2021.github.io/eNIXmbcet/
+ENIX- EXECOM 2024-25
+New executive committee is formed for the year 2025. The Execome committee discussed the activities planned for the upcoming academic year and collected the feedback from the former committee members.
+ADHARVA- 25
+Adharva’25, the annual technical fest of the Electronics and Communication Engineering (ECE) department, was held on February 27, 2025, at the college campus. The event saw enthusiastic participation from students across various engineering disciplines.
+The fest was inaugurated by Dr. Luxy Mathews, Head of the Department.The fest comprised of a diverse range of events, workshops, and competitions that effectively challenged the technical skills and creativity of the participating students.
+Adharva’25 was an exceptional success, providing a valuable platform for students to showcase their technical skills and creativity. The festival not only fostered innovation and entrepreneurship, but also facilitated significant opportunities for students to connect with industry experts and peers.
+Faculty Coordinator: Mr Shiras S N and Dr. Sreedevi P.
+Student Coordinators : Ms. Anoushka L Nair and Karthik R
+Project Expo –
+ProX
+E-NIX
+, the electronics association of MBCET, organized
+ProX
+– the final year project expo, on 28th March 2025, in the department of ECE. The exhibition showcased the ingenious projects developed by the final year students of dept. of ECE. The exhibited projects were evaluated by our Chief Guest,
+Mr. Nandan S,
+Assistant Director, LBS Centre for Science and Technology, Trivandrum | Secretary, IEEE India Council & IEEE Kerala Section
+Faculty Coordinators:
+Dr. Swapna P  S & Ms. Lakshmy S
+. (S8 project coordinators, ECE),
+Event Coordinator:
+Mr. Shiras S.N.
+(eNIX coordinator)
+ProX-Final Year Project Expo
+eNIX
+, the electronics association of MBCET, organized
+ProX
+– the final year project expo, on 24 April 2024, in the department of ECE. The exhibition showcased ingenious projects developed by the final year students of dept. of ECE. The exhibited projects were evaluated by Chief Guest, Dr. Joseph Zacharias, HoD, Department of ECE, College of Engineering, Trivandrum.
+SCTIMST-TiMeD, in association with e-NIX (ECED), IIC and IPR cell of MBCET, conducted a workshop on “Exploring the World of Intellectual Property & Technology Transfer”, on 17th June 2023 (FN), at Shannon Hall, for faculty and students. 103 students from across branches attended the workshop. Ms. Sandhya CG, Scientist F, Technology Business Division, Ms. Indu Govind, Business Development Manager, and Ms. Bessy Titus, Intellectual Property Manager, Technology Transfer Office,TIMeD, SCTIMST, Poojapura, handled the sessions. Five student groups presented their ideas, out of which two winners were identified: Namitha Kurup P.S, Nandana N, Santa L.S, Ashna Rachel Shine, Sona Sagi Geevarghese, Theressa Ann Thomas and Abhishek DV from S2CE2 won the first place, while Adithya S, Arif A, Angitha Anoop, Devika C, Joice Mary and Harishankar of S2 EEE won the second place. Staff coordinators:
+Dr. Lani Rachel Mathew, Ms. Gouri Nandhana
+(Asst. Professors, ECED).
+ProX-Final Year Project Expo
+eNIX
+, the electronics association of MBCET, organized
+ProX
+– the final year project expo, on 29 May 2023, in the department of ECE. The exhibition showcased 29 ingenious projects developed by the final year B.Tech students of Department of ECE. The exhibited projects were evaluated by our Chief Guest,
+Mr Sanju Mathew
+, CEO, Code of Duty Innovations and
+Mr. Arjun Shyam
+, CEO, Kalpa Sustainable Lightings. The best project awards were bagged by
+Aishwarya Nair S, Amrutha S, Anant Nair, Ashwin K
+(S8 EC1) for their work titled “Intelligent Speed Adaptation by Traffic Sign Recognition and obstacle detection using Deep Learning” guided by
+Mr. Arun J.S.
+, Asst. Prof., Dept. of ECE and by
+Amal Anilkumar, Faizan Ahamed Dawood Majahar, Josipha Sebastian, Nandan S
+(S8 EC2) for their project “Development of Transit Signal Priority Module with Integrated AI Assistant” guided by
+Dr. Jayakumari J
+, HOD, Prof., Dept. of ECE.
+Faculty Coordinators:
+Ms. Deepa P L
+,
+Mr. Anoop K Johnson.
+(S8 project coordinators, ECE).
+BAATCHEET
+e-NIX, the Department association of ECE  in association with IIC, presented the next chapter of Alumni talk series, BAATCHEET, by our Alumnus Speaker, Mr.
+Nandagopal Harikrishnan
+, Firmware Design Engineer, Vinvish Technologies Pvt Ltd, on Mar 27th 2023, from 3.30pm – 4.30pm. Mr. Nandagopal, a 2020 alumnus from MBCET, handled a session on
+“Simplifying RTOS for Product Design & Innovation”
+. He is currently specialising in firmware design & development at Vinvish Technologies for embedded applications such as Optical Amplifiers, IoT & Medical devices. 59 students participated in the session.
+Staff coordinators: Mr. Shiras SN and Dr. Lani Rachel Mathew
+(Asst. Professors, ECED). Student coordinators: Ms. Brigitta W L (S8 EC1) and Ms. Josipha Sebastian (S8 EC2).
+ProX
+eNIX, the electronics association of MBCET, organized
+ProX
+– the final year project expo, on 01 June 2022, in the department of ECE. The exhibition showcased the ingenious projects developed by the final year students of dept. of ECE. The best project awards were bagged by Joshin Samuel, Miladh Muhammed, Vishnu P. Kumar (S7 EC2) for their work titled ‘Medoby – ROS Based Autonomous Hospital Assistant Robot’ guided by Mr. Arun J.S., Asst. Prof., Dept. of ECE and by Aarcha S. Sreevidhya, Ardra B. Dilip, Arya P.S., Mekha Susan Mathew (S7 EC1) for their project “Automated Smart Shopping Trolley” guided by Mr. Niyas K. Haneefa, Asst. Prof., Dept. of ECE.
+Faculty Coordinators: Ms. Ancy S. Anselam, Dr. Swapna P.S. (S8 project      coordinators, ECE), Mr. Shiras S.N. (eNIX coordinator)
+Workshop on ‘Prototyping with Swadeshi Processors’
+A hybrid mode workshop on ‘prototyping with Swadeshi Microprocessors’ was organized by the Institutions Innovation Council (IIC) in collaboration with e-Nix, the department association of Electronics and Communication Engineering. Mr. Libin T.T., Scientist ‘F’, CDAC Trivandrum, and Mr. Premjith A. V., Project Engineer, CDAC Trivandrum, delivered the sessions. Dr. Abraham T. Mathew, Principal, MBCET, presided over the opening ceremony, in the presence of Dr. M J Jayashree, President, IIC and IQAC Coordinator, MBCET and Dr. Jayakumari J., HoD, ECED. Around 100 students from various departments attended the session, which was also open to IIC MBCET mentee institutions as part of the Mentor-Mentee Program by Institutions Innovation Council(IIC). Faculty and students from Viswajyothi College of Engineering and Technology, Muvattupuzha, Rajadhani Institute of Engineering and Technology, Trivandrum, Carmel Polytechnic College, Alappuzha, Matha College of Technology, Kochi, Universal Engineering College, Irinjalakkuda attended the session online. The discussion focused on the Vega Processor, India’s first indigenously developed microprocessor. Following the talk session, a demonstration of the Aries development platform based on the Vega processor was given to students. The event was coordinated by Mr. JIjo Jose and Ms. Lakshmy S., Assistant Professors, ECED. The session was volunteered by e-Nix student team led by Mr. Shiras S. N., Assistant Professor, ECED.
+COMPENDIA
+eNIX, the electronics association of MBCET, conducted “COMPENDIA-
+A guide for final year students to ace journal writing
+” for the final year students on 29 March 2022.  The speaker Dr. Maryjo M. George (Assistant Professor, Department of ECE, Government Engineering College, Thrissur) gave an insight into journal writing.
+Faculty Coordinators: Ms. Anu Susan Philip, Ms. Ancy Joy, Dr. Sreedevi P.
+Student coordinator: Akshaya D.R.
+LOGIX –
+The Digital Expo
+LogiX – The digital expo, was conducted for S3 and S1 ECE Students, by eNIX (Department association of electronics and communication engineering) on 07 March 2022. Selected micro projects previously done by the current fifth semester ECE students, as part of their curriculum, were presented to S1 and S3 ECE students. Souraf N.S., Faizan Ahamed, Vasundaraa G., Roshan R. Nair, Aswen A.M., Sania M.S. and Amrutha S, have done a wonderful job, by presenting their projects to the students.
+Staff Coordinators: Ms. Anu Susan Philip, Ms. Ancy Joy, Ms. Amritha B.J., Assistant Professors.
+QUAESTIO
+eNIX – the electronics association of MBCET, conducted QUAESTIO – offline quiz competition Prelims and Finals, on 25 February and 04 March, 2022 respectively. The top 8 candidates selected after the prelims written test, were divided into teams of 2 – Tony spark, Alter ego, Black Panther, and Legion, and a live quiz was conducted. Ephy Eapen (S3 EC1) and Govind S. Suresh (S1 EC2), secured the first prize and P. H. Ganga and Arevind Mohan (S3 EC2) secured the second prize, for the event. The winners were awarded with certificates and cash prize.
+Faculty coordinators: Ms. Anu Susan Philip (Asst. prof.), Dr. Sreedevi P., (Associate Professor)
+Student Coordinators: Alenso Rooby (S5 EC2) and Chris Mathew (S3 EC1)
+MadArt
+MadArt, jointly organized by eNIX, and FRAMES MBCET, during 30 January to 28 February 2022, challenged the participants to weave a brand advertisement using visual tools. It consisted of 2 rounds, a poster making competition and a video advertisement round. Melvin Joseph , Nandana T.S. (S1 CS1) were announced the first prize winners and Shibin Shibu, Mithun K.S. (S3 CS2) won the second prize. The winners were awarded the cash prize.
+Staff Coordinators: Ms. Anu Susan Philip, Mr. Sherry Varghese George
+Student coordinators: Sanju Mathew Joseph (S3 EC1), Vasundaraa Ganesh (S5 EC2)
+CRAFTEX
+eNIX conducted ‘Craftex: a hands-on session on Origami
+the art of folding
+’, on 11th of December 2021. Resource person, Ms. Aleena Anna Mathew (Alumna of MBCET, Currently the associate software developer at UST Global), was engaged in complete dedication throughout the session with the ever so curious participants, to help build their creative coordination and develop lateral thinking.
+Faculty coordinator: Ms. Anu Susan Philip, Assistant Professor
+Student coordinators: Devika S.R. (S7 EC2), Vasundaraa G. (S5 EC2)
+IoT Garage –
+–
+Forging Man – Machine Loop
+IoT Garage – a four day bootcamp on IoT, organized by e-NIX in association with IEEE RAS SBC MBCET, was conducted on 20
+th
+and 27
+th
+of November and 11
+th
+&12
+th
+of December 2021. The sessions were delivered by Mr Jijo Jose, Assistant professor, Dept. of ECE & Vishnu P. Kumar, Chief Technical Officer of Catalyst Mar Baselios IEDC. Total of 35 students participated in the bootcamp.
+Faculty Coordinators: Ms. Anu Susan Philip & Mr. Shiras.S.N., Assistant Professors, Dept. of ECE
+Student Coordinators: Vishnu P. Kumar (S7EC2), Vaibhav K. (S7 EC2), Miladh Muhammed (S7 EC2), Vaishanvy Menon (S7 CS), Anfas C. (S7 EC1), Devika S. R. (S7 EC2)
+GAMEX
+eNIX conducted a game development webinar “GAMEX” on 17 November 2020. The speaker of the session Mr. Abhiram A., Co-founder, Odyn Reality, gave an insight into the gaming industry and the game development software UNITY.
+Faculty Coordinators:
+Mr. Shiras S. N.
+,
+Ms. Anu Susan Philip,
+Assistant Professors
+Student Coordinators: Abhiram A., (S3 EC2), A. R. Gokul, (S3 EC1)
+BAATCHEET 4
+eNIX conducted the 4
+th
+episode of its alumni talk series on 13 November 2020. The speaker was Mr. Vineeth G.K., Senior Engineer Verification, Qualcomm Inc (also. alumnus of 2012-2016 Batch of ECE).
+Faculty Coordinators:
+Dr. Swapna P.S.
+,
+Ms. Anu Susan Philip,
+Assistant Professors
+Student Coordinators: Chris Mathew (S2 EC1), A.R. Gokul (S2 EC1)
+To know more about eNIX
+click here
+Execom members 2021-2022
+“Victory is always possible for the person who refuses to stop fighting.”- Napoleon Hill.eNIX, the electronics association of MBCET, announced the new execom members for the academic year 2021-2022.After an overwhelming response from the students of ECE, the execom was selected based on a challenging task given to each of the participants. Congratulations to all the selected members. Wishing the team a grand success in all their future endeavors!
+Farewell: ABIEU SENIORS
+eNIX conducted ‘ADIEU SENIORS’ on 7 August 2021, to bid farewell to the outgoing execom members –
+Arun H.P.
+(S8 EC1),
+Rohith Nair
+(S8 EC1),
+Anjana Santhosh
+(S8 EC1),
+Tessy T.S.
+(S8 EC2) and
+Akshai R.K.
+(S8 EC1), who were an integral part of the association.
+Dr. J. Jayakumari
+, HoD of Dept. of ECE delivered the presidential address followed by felicitation by
+Dr. M.J. Jayashree
+, IQAC Coordinator and message by eNIX coordinator
+Ms. Anu Susan Philip
+(Asst. Professor, Dept. of ECE).
+e WAVE by eNIX
+The 8th edition of the department newsletter,
+e WAVE
+, which is a medium for students of the department of ECE to stay updated with regard to the dynamics of technology, was published on 29 June 2021. The content includes creative and technical articles, drawings and photographs taken by the students
+Mindspark 101 Chapter 2
+Mindspark 101 Chapter 2 – a 3-day Bootcamp on web development was conducted from 17 – 19 May 2021. The event was flagged off by
+Dr. Jayakumari J.
+, HoD, Dept. of ECE. The resource persons were
+Avita Wilson
+(S8 ECE) and
+Devika S. R.
+(S6 ECE). 30+ participants attended the session. A web development-based competition has also been announced as part of this session.
+Ashwin Abraham Thomas
+of S8 EC1 secured the First prize and
+Aravind Venugopal
+of S8 EC2 secured the Second Prize.
+Baatcheet Episode 1 and 2 (Alumni talk series)
+Baatcheet Episode 1 and 2 was conducted on 21 May and 12 June 2021. Speaker for episode 1,
+Mr. Aravind Prem
+(2017 Batch of ECE), delivered the session on the topic ‘Career opportunities and industrial exposure’ and the speaker for Episode 2,
+Ms. Christina Peter
+(2014 Batch of ECE), delivered the session on the topic ‘Crossing paths with a humanitarian world’. Both sessions had 50 + participants.
+The Electronics Association is very active with the full participation of the students of all semesters. The association focuses on continuous learning,team building,and to enable sequential knowledge upgradation. Invited lectures by experts drawn from industries and academic field are arranged regularly. The students are encouraged to present papers on current topics. This has helped the students to improve their communication skills and update their technical knowledge. Programs like quizzes, group discussions, and talks are conducted by eNIX.
+Logo and Website launch
+The electronics association of MBCET –
+e-NIX
+, officially launched its new logo and website on 30
+th
+March 2021. The honours were done by
+Prof. S. Viswanatha Rao
+and
+Dr. M. J. Jayashree
+.
+Faculty Coordinator:
+Ms. Anu Susan Philip
+, Assistant Professor, Department of ECE
+THE PARADE
+e-NIX
+, the ECE departmental association of MBCET, organized a competition (in connection with the Republic Day) called “
+The Parade
+” exclusively for ECE students, to honour and appreciate the Indian Defence forces, from 28
+th
+January to 1
+st
+February 2021. Each participant was given an equipment used by Indian Defence Forces, about which they had to create a business card.
+Vaibhav Krishna
+(S5 EC2) was the winner and
+Gokul G.S.
+(S5 EC2) was the runner up.
+eNIX – Online Events
+CAPTION CONTEST
+The aim of the contest was to develop the creative side of students in the field of technology. As part of the event, some pictures based on electronics were posted online and the students were asked to come up with some interesting captions for the pictures using various technical terms. It mainly comprised of three phases and was conducted between 13/04/2020 and 16/04/2020. Winners were identified for each phase. They were: R. ShakthiPriya of S6 EC2 (Phase I), Anamika. S. Nair of S2 EC2 (Phase II) and C. Harikrishna Sharma of S4 EC2 (Phase III). The winners’ names were announced on April 2020 by Dr. M. J. Jayashree (HOD, Dept. of ECE, MBCET) via online and were awarded with cash prizes of Rs.150/- each.
+TECH JAM
+The event was held on 20 April 2020. It invited student speakers to speak on a technology of their choice and upload the videos of them speaking. Through this event, the students got an opportunity to expose their knowledge on various technological advancements and the command over their language, all within a span of one minute. Josipha Sebastian of S2 EC2 was announced the winner for her oratory skills on the topic, ‘Jelly Powered Battery’ and was given a cash prize of Rs. 450/- by Dr. M. J. Jayashree (HOD, Dept. of ECE, MBCET).
+PUZZLECTRONICS
+It was a puzzle contest, mainly aimed at strengthening the cognitive ability and critical thinking of the students, and was held on 29 April 2020. Under this, the students were challenged to solve a puzzle related to electronics with the help of the hints provided to them beforehand, and the winners were chosen based on the time of submission and accuracy. The first prize with a cash award of Rs. 300/- was bagged by Rughma Susan Renji of S8 EC2 and Jithin Kunjumon of S6 EC1 secured the second prize which comprised of a cash award of Rs. 200/-. The winner was announced online on 1 May 2020 by Dr. M. J. Jayashree (HOD, Dept. of ECE, MBCET).
+eNIX Quiz – QUAESTIO
+To encourage the students to sharpen their knowledge, eNIX conducted a quiz competition “QUAESTIO” for the EC department students. Students from various semesters participated actively and made the event a huge success. The competition had two rounds (preliminary & finals). Based on their performance in the preliminary round, the best four finalists were shortlisted. The winners of the grand finale were awarded with attractive prize money and certificates. The winners of “QUAESTIO” were:
+1. Vishnu C. Nair & Sreehari (S7 EC1)
+2. C. Harikrishna Sharma & Karthik Pradeep (S3 EC2)
+3. Gokul G. S. & Ashwin Sharma (S3 EC2)
+eNIX Invited Talks
+As part of the Communication Research Group, Dept. of ECE, an invited talk was held for final year students on the topic “
+Cognitive Radio and its Applications
+” on 19th April 2023. The resource person for the session was
+Yamuna K. Moorthy
+, Lecturer in Electronics, Department of Technical Education, Govt. of Kerala. She discussed 5G use cases, spectrum sharing, cognitive radio, and its applications. Formerly she worked as a faculty in the Department of ECE at MBCET. Staff coordinator:
+Mr. Sherry Varghese George
+, Asst. Professor, ECED.
+A short session on “Blockchain” was conducted by Mr. Abhilash Sreedharan who is a Blockchain educator, enterprise architect, blockchain consultant with strong expertise on artificial intelligence, cyber security and digital transformation.
+eNIX Newsletters
+eNIX releases a  newsletter named E-WAVE, a collection of articles written by the staff and students which explores the recent trends in technical world and provide a platform for students and staff to foster their talents for writing articles, both technical and non technical.
+E – WAVE Newsletter 2020
+Adharva - The Technical Fest of EC Department
+Adharva’25
+Adharva’25, the annual technical fest of the Electronics and Communication Engineering (ECE) department, was held on February 27, 2025, at the college campus. The event saw enthusiastic participation from students across various engineering disciplines.
+The fest was inaugurated by Dr. Luxy Mathews, Head of the Department.The fest comprised of a diverse range of events, workshops, and competitions that effectively challenged the technical skills and creativity of the participating students.
+Adharva’25 was an exceptional success, providing a valuable platform for students to showcase their technical skills and creativity. The festival not only fostered innovation and entrepreneurship, but also facilitated significant opportunities for students to connect with industry experts and peers.
+Faculty Coordinator: Mr Shiras S N and Dr. Sreedevi P.
+Student Coordinators : Ms. Anoushka L Nair and Karthik R
+Adharva’23
+Adharva’23, the annual technical fest of the Electronics and Communication Engineering (ECE) department, was held on February 10, 2023, at the college campus. The event saw enthusiastic participation from students across various engineering disciplines.
+The fest was inaugurated by
+Mr. Jithin Krishnan
+, a well-known scientist from the Sree Chitra Tirunal Institute for Medical Sciences and Technology (SCTIMST), who gave an inspiring talk on the latest advancements in the field of medical technology.
+The fest consisted of a diverse range of events, workshops, and competitions that effectively challenged the technical skills and creativity of the participating students. Among the well-received events was “DIY with Arduino,” which provided participants with the opportunity to construct their own electronic gadgets using the Arduino platform.
+The festival also included “We have a dream”, an event conducted in association with Catalyst IEDC, that urged students to develop innovative solutions for real-world problems.
+The “Learning Station” in association with GTech Mulearn, offered an engaging platform for engineering aspirants to explore and learn about diverse fields of interest.
+Adharva’23 was an exceptional success, providing a valuable platform for students to showcase their technical skills and creativity. The festival not only fostered innovation and entrepreneurship, but also facilitated significant opportunities for students to connect with industry experts and peers.
+Faculty Coordinator:
+Mr Shiras S N
+, Asst Prof., Dept. of ECE
+Student Coordinators: Mr. Faizan Ahamed Dawood Majahar, Ms. Sruthi N A
+ADHARVA ’19
+The third edition of Adharva was conducted on 27 and 28 April 2019.  The logo for Adharva ’19 was released on 19 March 2019 and was an instant hit. Adharva is the Techno-Cultural fest of the Department of Electronics and Communication Engineering.
+ADHARVA ’18
+The second edition of Adharva was conducted on 24th February 2018.  The logo for Adharva ’18 was released online on 10th February 2018 and was an instant hit. The promo video was released on 21st February 2018 and received critical acclaim. The inauguration ceremony of Adharva’18 was presided over by Dr V. Narayanan, Director LPSC, ISRO TVPM.
+This year Adharva consisted of over 15 events. Flash fiction ,Musical.ly and Photography events were conducted online and the entries were invited till 23rd of February, 2018. The main events held in college were JAM, Debate, Expo, Blago Run, Q’riosity (School and College level Quiz), Circuit Debugging, Eureka, Matlab Coding, RUSH, Junkyard Wars and The Perfect Ambassador. This time over 200 participants registered and participated for Adharva and this is a testament to the hardwork of the core team and the faculty of the ECE Dept. The fest was made lively through various fun Informals like #Be Kiduve, Gaming to name a few. The fest blazed its way to a glorious finish providing both participants and hosts with the sense of meritorious satisfaction and leaving them with an assurance of  greater things to come.
+ADHARVA ’17
+The Association of Electronics and Communication Department (eNIX) of MBCET, for the very first time came out with their Technical Fest: Adharva’17. The Technical Fest started off with the curtain raiser event on 8
+th
+March, followed, by a talk on Machine Learning by two of our alumni Mr. Pranoy and Mr. Abhiram H on March 17
+th
+,2017. The event was inaugurated by Dr. Rajasree M. S. , Director, IITMK on March 18,2017. Both managerial and technical events were charted for the Technical Fest. The Fest was coordinated by Ms. Sreedevi. P and Mr. Aravind Prem. Managerial events like flash fiction and photography portrayed the diverse shades of city life in Trivandum and the event Perfect Ambassador enabled the students to think out of the box. Technical events like Paper presentation, Exhibition, Junkyard wars, RC racing and Quiz enabled the students to explore the engineer in them. Participants from various colleges in South India took part in this event.
+Career Guidance
+The Department of ECE organized a one-hour career orientation session for S1 ECE students on 4th December 2024 by
+D
+r. Jayaram V, Advisor, Edsmo private limited. Mr. Niyas. K. Haneefa, Assistant Professor, ECED, coordinated the session.
+The Department of ECE organized a one-hour career guidance session for S5 ECE students on 9th August 2024 by Mr. Ajay Nayar,Head of Academics, TIME Institute. Mr. Niyas. K. Haneefa, Assistant Professor, ECED, coordinated the session.
+The Department of ECE organized a one-hour career guidance session for S3 ECE students on 13th August 2024 by
+D
+r. Ajay Nayar,Director CGP Career Avenues. Mr. Niyas. K. Haneefa, Assistant Professor, ECED, coordinated the session.
+The Department of ECE organized a one-hour career guidance session for S7 ECE students on 23rd November 2023 by
+Mr. Renju John, Research Associate, A-Star Singapore
+.
+Mr. Niyas. K. Haneefa,
+Assistant Professor, ECED, coordinated the session.
+The Department of ECE organized a  career guidance session on ‘Career Guidance for Higher Studies’ for S7 ECE students on 11th October 2023 by Mr. Salim Peter, Manager, Presidency University, Bangalore.
+Niyas. K. Haneefa,
+Assistant Professor, ECED, coordinated the session.
+The Department of ECE organized a one-hour career guidance session on ‘L&T EduTech’ for ECE students on 17th May 2023 by
+R.Jayakumar
+, Manager.
+Mr. Niyas. K. Haneefa
+, Asst. Professor, ECED, coordinated the session.
+The Department of ECE organized a one-hour career guidance session on ‘Career Opportunities on Industrial Automation’ for ECE students on 29th March 2023 by
+Githesh S B
+, Project Engineer, IPSC.
+Mr. Niyas. K. Haneefa
+, Asst. Professor, ECED, coordinated the session.
+The Department of ECE organized a one-hour career guidance session on ‘Career Opportunities after Engineering’ for S5 ECE students on 5th December 2022 by Mr. Rakesh Rajeev, Director, T.I.M.E, Trivandrum.
+Mr. Niyas. K. Haneefa,
+Assistant Professor, ECED, coordinated the session.
+A Career Talk on ‘
+How to Ace your Summer Internship
+‘ was conducted for MBCET students on 13 April 2021, in association with Internshala, official partner of All India Council for Technical Education (AICTE). The session was handled by
+Ms. Lani Rachel Mathew
+, Assistant Professor  and
+Mr. Justin Joseph
+, Training and Placement Officer, MBCET. Twenty students from across the college attended the session.
+A career guidance session on “
+What after B. Tech
+” by
+Mr. Rajesh P. S
+., Manager (HR & Admin), CGP Career Avenues, Trivandrum, was conducted for
+S3 ECE
+students on 20
+th
+January from 10 am to 12 pm. 59 students participated in the session.
+A career guidance session on “
+Career opportunities and higher education
+” by
+Rajesh P. S.
+, Manager (HR & Admin), CGP Career Avenues, Trivandrum, was conducted for S5 ECE students, on 8
+th
+February 2021. 23 students participated in the session.
+Staff Coordinators:
+Ms. Lani Rachel Mathew
+and
+Ms. P.P. Hema,
+Assistant Professors in the department of ECE
+Department of Electronics and Communication Engineering organized a webinar on
+“
+An interactive session on Career Guidance
+” by Mr. Ajay Govind, GROUPON employee (Alumnus of 2005 batch) for the students of S7 EC1 and S7 EC2, on 15
+th
+April 2020.
+Staff Coordinator:
+Ms. Athira V.
+Mr. Vishnu S. S. of Career Launcher delivered a session on “Career Options for ECE” for S6 students on 14 January 2020.
+Staff coordinator: Ms. Lakshmy S.
+Mr. Ashwin, Director of Career Avenues, delivered a session on ‘Career Options for ECE: starting a plan from S3’.
+Staff coordinator: Ms. Lani Rachel Mathew, Ms.  Roselin Raju
+Dr.  Lakshmi J. Mohan , Associate Professor, Dept.of IT,GEC Idukki and Mr. Prashob Prasad Pillay, Senior Contracts Administrator in Melbourne, Australia delivered a talk on “ Motivation and beyond: From the perspective of studying overseas”  on 20th August 2019 for S7 ECE students.
+Staff coordinator: Ms. Lani Rachel Mathew
+Dr. Prakash Ramakrishnan who is a National Level Trainer in the Department of Personal and Training, VSSC, Govt. of India delivered a session on “Motivation and Goal Setting” organized by eNix and ISTE for third year students on 1 February 2019.
+Staff co-ordinator: Dr. Sreedevi P.
+Mr. Praveen S. K., CEO of PerformX Global and motivational speaker, conducted a talk for S5 EC students on October 11
+th
+2018. He discussed about the varied career opportunities available to B. Tech. ECE students, and exhorted the students to choose their careers in industry, management or research, based on their individual aptitudes.
+Staff co-ordinator: Ms. Lani Rachel Mathew
+A talk on the importance of studying for the GATE examination for clearing competitive examinations was held for students of S5 ECE on September 27
+th
+2018. Mr. Rajesh P. S., Manager (HR & Admin) and Mr. Aswin P. Chandran, Director, CGP Career Avenues, Trivandrum took parallel sessions for the two batches.
+Staff co-ordinator: Ms. Lani Rachel Mathew
+The Department of ECE organized a talk on the “Career Prospects of Engineering” by Ms. Gopika M. S., an alumnus of 2012 – 2016 batch of ECE for S7 EC1 and S7 EC2 students on September 15
+th
+, 2018.
+Staff co-ordinator: Dr. M. J. Jayashree
+A talk on “Career Guidance” to S4 and S6 ECE students was conducted on February 21
+st
+, 2018 from 1:15 pm to 1:45 pm at Shannon Hall.
+Staff co-ordinators: Ms. Lani Rachel Mathew, Ms. Hema P. P.
+Mr. R. B. K Menon, Retd. Head, Programme Planning & Evaluation group, VSSC, gave a talk on “Success in Engineering” to S2 ECE students on 23 February 2017.
+Mr. Anoop C. Nair, Corporate Application Engineer, Synopsys Inc., Bangalore gave a talk on “What’s all this Research Stuff?” to S4 ECE students on 17 Feb 2017.
+Invited Talks
+AccessAbility: Technology for Inclusion
+A session by experts from National Institute of Speech and Hearing (NISH) on how technology can enhance accessibility was organized by the Assistive Technology Group, MBCET, in association with IEEE EMBS SBC on April 4, 2025 from 1 PM – 2 PM at Faraday Hall, MBCET. The sessions were handled by  Mr. R. Deepu Raj, Senior Engineer, CATI, NISH, Mr. Amith G. Nair, Principal Co-Investigator, NCAHT, NISH and Ms. Arya M. S., Project Research Scientist, NCAHT, NISH. 29 students of S2 and S4 from various departments of the college participated actively in the sensitisation activities related to empowerment of differently abled persons
+.
+Student Coordinator: Mr. Gokulraj R, S6 EC
+Faculty Coordinators: Dr. Shalu George (Associate Professor, EED) and Ms. Amritha BJ (Asst. Professor, ECD)
+Workshop on Intellectual Property Rights
+A workshop on Intellectual Property Rights was organized by the IPR cell, IEEE Robotics & Automation Society and IIC, MBCET, in association with KSCSTE, PIC-Kerala & IPRIC-Kon April 4, 2025 from 9:30 AM – 3:30 PM at the Senatus Hall, Mar Baselios College of Engineering and Technology, Nalanchira, Trivandrum. The speakers were Shri. R.S. Praveen Raj – Senior Principal Scientist, CSIR-NIIST, Ms. Chaithanya P.C – Project Scientist-I, PIC-Kerala, KSCSTE and Shri. Anumod S – Examiner of Patents & Designs, IPO, Chennai. 106 students from across departments of the college participated in the workshop.
+Student coordinators: Mr. Sanal Sajan E, S6 CS and Mr. Festin Fleenton Pereira, S4 EE.
+Faculty Coordinators: Mr. Shiras SN, Dr. Lani Rachel Mathew (Asst. Professors, ECED)
+Online talk session
+The ISTE MBCET Faculty Chapter organized an online talk session on “Strategies for Teacher Well-being and Student Support” on the 28th of March 2025, from 07:00 – 08:00 pm. The resource person for the session was Ms. Nincy Mariam Mondly, Psychologist at Pallium India and NIMS. The session focused on how teachers can care for themselves while creating a positive learning environment. The speaker engaged with the participants, encouraging them to share the challenges they face in their profession. Various techniques were suggested to improve well-being, covering physical health (like exercise and proper rest), psychological balance (stress management and mindfulness, developing the skill of decision making, etc.), social support (building strong relationships and connecting with people), and spiritual well-being (connecting with inner self, prioritizing self-care, etc.). The session emphasized that a happy and healthy teacher is better equipped to support and inspire students, leading to a more effective and nurturing classroom environment.
+Coordinators: Ms. Poorna B. R., Assistant Professor, Dept. of CSE, and Ms. Amritha B. J., Assistant Professor, Department of ECE
+Lecture program organized
+EEE SBC MBCET organized an enlightening lecture program on the topic “EXPLORING THE POSSIBILITIES OF MEMS & NANOTECHNOLOGY IN AEROSPACE APPLICATIONS” on 27
+th
+September 2024. The session provided a comprehensive understanding on MEMS and  nanotechnology.
+The speaker for the program was Dr. Sreelal S., Scientist, Engineer-G, Division Head,ASCD/DSG/Avionics, VSSC/ISRO.Dr. Sreelal S. shared his extensive thoughts and studies on MEMS pressure sensor and its applications. 89 students attended the talk session. FACULTY COORDINATOR: Dr.Lani Rachel Mathew, STUDENT COORDINATORS: Savya Unnikrishnan (S7 CE) and Krishna Prasanth(S5 CSE).
+VENUE: Pascal Hall, Mar Baselios College of Engineering And Technology.
+As part of Distinguished Lecture Programme (DLP) of IEEE, IEEE Signal Processing Society of MBCET SBC organized a talk on “Seizure Monitoring of Patients with Epilepsy using a Single Wearable EEG  Sensor” by Dr. John Mathews, Professor, Electrical Engineering and Computer Science, Oregon State University, U. S. on 8th April 2024.
+The
+ISTE MBCET Faculty Chapter
+organized a session titled “Art to release, relax, and recharge”for the faculty members of MBCET on 01st April 2024.
+Ms. Nincy Mariam Mondly
+, a Psychologist from Pallium India, served as the guest speaker. The session offered valuable insights into relaxation and stress reduction techniques through art and was well-received by around 40 attendees. The event was coordinated by
+Ms. Amritha B.J
+., Assistant Professor, Department of ECE, and
+Ms. Poorna B.R.
+, Assistant Professor, Department of CSE.
+The IEEE EMBS SBC in association with eNiX and Biomedical Research Group of ECED organized a seminar session on the topic “Sleep & Technology: Understanding the connection” on 10th November 2023. The resource person for the session was Dr. Kamalesh Gulia, Scientist G (Professor) and In-charge, Division of Sleep Research, BMT Wing, Sree Chitra Tirunal Institute for Medical Sciences & Technology. 56 students attended the session. Faculty coordinators: Dr. Lani Rachel Mathew and Dr. Emy Mariam George, Asst. Professors, ECED.
+IEEE EMBS MBCET, in association with IIC and ECED, organized a talk session on Biomedical Engineering – Is it for you? handled by
+Mr. Sarath S Nair
+, Scientist/Engineer F, BMT, SCTIMST, on Advances in Biomedical Engineering and
+Mr. Balram Sankaran
+, Scientist – G, Founder CEO, SCTIMST-TIMed on Creating Values from your Medtech Ideas on the 9th of January, 2023. A total of 66 students from various departments participated in the session. The session was coordinated by Dr. Lani Rachel Mathew.
+VLSI IN INDUSTRY
+VLSI and Embedded Research Group in association with eNIX, the Department Association of Electronics and Communication Engineering of MBCET,  organized an online talk session on ‘VLSI IN INDUSTRY’ on 23 September 2021.  The guest speaker was Ms. Anu Mariam John, Senior Silicon Design Engineer, AMD Hyderabad.
+Faculty Coordinators:
+Ms. Anu Susan Philip
+and
+Ms. Amritha B.J.
+Student Coordinators:
+Akshaya D.R.
+and
+Sneha Saju George
+The VLSI and Embedded Systems group of Department of ECE organized an interactive session (online) on “Introduction to VEGA Processors” by Shri Libin T.T., Scientist E, Hardware Design Group, CDAC-Thiruvananthapuram on 09 July The session covered the features of VEGA series of microprocessors and the importance of manufacturing processors in India.  A total of 70+ students attended the session.
+Staff Coordinators:
+Ms. Lakshmy S.
+and
+Ms. Ann Mary Alex
+Signal Processing Research Group of Department of ECE, MBCET, organized an invited talk on “
+Visual Object Tracking: Opportunities and Challenges
+” by
+Dr. Deepak Mishra
+, Professor, Department of Avionics, Indian Institute of Space Science and Technology (IIST), Trivandrum, on 26 March 2021, which is the first in the series of talks related to Image and Video Processing.
+The Department of Electronics and Communication Engineering organized an interactive session (online) on “
+Managing in times of uncertainty
+’” by
+Shri Madhava C. Kurup
+, Associate Professor, Asian School of Business, Trivandrum on 1
+st
+December 2020. It was an invited lecture for the course “Principles of Management”. The session covered the relevance of learning management techniques and how to apply some of them in personal lives to achieve career excellence. A total of 70 students attended the session.
+Staff Coordinator:
+Ms. Lakshmy S.
+, Assistant Professor
+The Embedded Systems Research group of Department of Electronics and Communication Engineering organized an invited talk (online) on “
+A
+nalog IC Design – Challenges and Opportunities in Digital Era
+” by Mr. Nithin M., Assistant Professor, R.V. College of Engineering, Bengaluru, on 26
+th
+September 2020. A total of 46 participants attended the session.
+Staff Coordinator:
+Mr. Arun J.S.
+Department of Electronics and Communication Engineering in association with the NSS unit of MBCET organized an interactive cum motivational talk on “
+Stay positive
+” by Ms. Sherin Rajan, UST Global Software Developer, (Alumnus of 2012-2016 ECE batch)) on 3
+rd
+May 2020. A total of 77 participants attended the session.
+Staff Coordinator:
+Mr. Shiras S. N.
+Department of Electronics and Communication Engineering organized a talk on
+“
+Wireless LAN
+” by Mr. Vishak Asok, Cypress Semiconductors, (Alumnus of 2007 batch) for the students of S4 ECE and S6 ECE on 24
+th
+April 2020.
+Staff Coordinator:
+Ms. Swapna P. S.
+The Department of Electronics and Communication Engineering organized a webinar on
+“
+Application Development using MATLAB
+”
+by CoreEL Technologies on 20
+th
+April 2020. A total of 29 participants including Faculty and students from the Department of ECE attended the webinar.
+Staff Coordinator:
+Ms. Riya John
+Dr. Nelsa Abraham, Assistant Professor, Department of ECE, Govt. Engineering college, Barton Hill delivered a talk on “Nanoelectronics” on 17 February 2020 for final year students of ECE department.
+Staff co-ordinators: Ms. Ann Mary Alex, Ms. Roselin Raju
+Ms. Athira Krishnan, Systems Engineer, Research and Innovation Lab, TCS delivered a motivational talk for S4 EC1 students on 20 January 2020.
+Staff co-ordinator: Dr. M. J. Jayashree
+Mr. Jerin Thomas Panachakel, Asst. Professor, Dept. of ECE, College of Engineering, Trivandrum delivered a motivational talk for S6 EC1 students on 17 January 2020.
+Staff co-ordinator: Dr. M. J. Jayashree
+Prof. Pradeep Raj, Assistant Professor, Mohandas College of Engineering gave a talk on Problem to product to imbibe New Age Product Development concepts on 1st  April 2019.
+Staff co-ordinators: Mr. Arun J. S, Mr. Jinu Baby
+Mr. Sanju Mathew, CEO of Onbyz Technologies Pvt. Ltd. delivered a session on “Recent Trends in IoT and AI” for S6 ECE students on 7 March 2019.
+Staff co-ordinator: Dr. M. J. Jayashree, Mr. Sherry Varghese George
+Mr. Sanju Mathew, CEO of Onbyz Technologies Pvt. Ltd. delivered a session on “Recent Trends in IoT and AI” for S4 ECE students on March 7
+th
+2019.
+Staff co-ordinator: Dr. M. J. Jayashree, Ms. Roselin Raju
+Dr. Pradeep R. who is an Associate Professor in College of Engineering, Trivandrum delivered a session on “Recent Trends in Entertainment Electronics” for final year students on February 13
+th
+2019.
+Staff co-ordinator: Dr. Sreedevi P.
+Mr. Biju V. S. who is Scientist/Engineer in ISRO, Govt. of India delivered a talk on “Practical Applications of Digital Image Processing” on January 29
+th
+2019.
+Staff co-ordinator: Ms. Hema P. P.
+An interactive session was conducted by Dr. S. Raghavan, Professor, NIT Trichy on December 7
+th
+2018 for the faculty.
+Staff co-ordinator: Ms. Hema P. P.
+The Department of ECE organized a talk on “Lecture on Indian Space Programme” for S7 ECE students on October 10
+th
+, 2018 from 2: 30 pm to 3: 30 pm. The talk was delivered by Ms. Femina Beegum, Scientist/Engineer, ISRO as a part of World Space Week Celebrations 2018 in association with VSSC, LPSC, IISU, ISRO.
+Staff co-ordinator: Ms. Luxy Mathews
+15 students of S2 EC1 and EC2 attended a Webinar on the topic “Machine Learning and IoT” on 14 March 2019. The webinar was brought forward by Ms. Sherin Sara Samuel of S6 EC2, who is doing an online internship at Bolt IoT (Inventrom Pvt Ltd).
+Staff co-ordinator: Ms.   Lani Rachel Mathew
+The Department of ECE organized a talk on “Advanced Communication Technologies” for S7 ECE students on August 10
+th
+, 2018 from 11: 30 am to 12: 30 pm. The talk was delivered by Dr. Chandrabose Janardhanan, MD, Steel Industrials Kerala Limited (SILK). Prior to SILK, he also worked in Samsung Electronics India Ltd, Sistema Shyam Teleservices Limited, BSNL, MTS, SSTL.
+Staff co-ordinators: Ms. Sreedevi P., Mr. Sherry Varghese George
+ISTE in association with the Department of ECE jointly organized a talk on “Wearable Technology” for S4 and S6 ECE students on January 17
+th
+, 2018 from 2 pm to 4 pm. The talk was delivered by Mr. Jithin Krishnan, Scientist/Engineer, Sree Chitra Tirunal Institute for Medical Sciences and Technology, Trivandrum.
+Staff co-ordinators: Ms. Poorna R. Prabhu, Ms. Remya Annie Eapen
+Students from the classes of ECE attended a talk on “Bionic Hand” by Mr. Sanju Mathew from 9.45 am to 12. 30 pm at Shannon Hall on February 23
+rd
+, 2018.
+Staff co-ordinator: Dr. M. J. Jayashree
+Expert talk on Biomedical engineering Past, Present and Future by Mr. Arun K M , Research Scholar, SCTIMST was arranged by the Biomedical and Instrumentation Research group on 5 September 2016.
+Communication Research Group  conducted an Invited talk by Shanthi Ravindran (Business Development Manager, Motorola Solutions, Singapore) on “Growing role of software in telecom networks – Software is eating the world” on  8 August 2016.
+Organized a talk on “How to introduce originality into project” by Mr. Vijaykumar M., CEO, Webyfy Infotech Ltd, Trivandrum for the final year students on 10 July 2015.
+Professional Society (IEEE) Activities
+IEEE events in collaboration with IEDC were conducted on 6th and 7th of August 2016
+A Workshop on Microcontrollers was conducted for second year ECE students.
+A Workshop on Internet Of Things (IoT) was conducted during the month of July for first year omputer science students.
+The Monthly Chairs Meet of IEEE Travancore Hub was conducted on the 31
+st
+of July.
+A Paper Presentation Competition was conducted  from 21
+st
+July to 23
+rd
+of July in collaboration with IEEE COMNET hosted by the college.
+A short term training program on Network Administration was started by the IEEE Computer Society of MBCET SB, covering the basics of networking.
+All Kerala Young Scientist (AKYS) 2016 was conducted on 5th March, 2016, as an event of Crossroad 2016, the annual technical and cultural fest of the college
+The Annual General Body Meeting of Mar Baselios College of Engineering and Technology was held on 1
+st
+March 2016 at the college.
+A 2 day workshop on Arduino was conducted on the 13
+th
+and 14
+th
+of February at the college.
+The Women in Engineering (WIE) affinity group of IEEE MBCET held a talk on Women Empowerment on 5 February 2016.The talk was given by Ms Rina Vivekanandhan on 10 March 2016 from 11:15pm to 12:30pm. There were around 80 students in total from all the branches in the college.
+To know more about IEEE,
+Click here
+INVITED TALKS BY ALUMNI
+RevathySivanandan
+(Alumna, 2007-2011 batch of ECE), currently the Research Scholar at the department of ECE, MBCET, delivered a session on ‘
+Simply Deep: A gentle Introduction to AI and Deep Learning
+’, as part of BAATCHEET – Alumni Talk Series, organized by eNIX (Electronics Association of MBCET), on 04 September 2021.
+AshnaA.S. ,
+Alumna of 2015-2019 batch of ECE, (Junior Hardware Design Engineer, Vinvish Technologies Pvt. Ltd), delivered a webinar session as part of the  ‘
+Core Placement Talks’
+focusing on the job opportunities in  VLSI, Robotics and Hardware companiesorganized byIEEE Signal Processing Society on 25 April 2021.
+Gayathri Pradeep Kartha
+, Alumnus of 2013-2017 batch of ECE, (Executive at MediaTek), delivered a webinar on the
+‘Importance of doing a Good Project’
+organized byIEEE Signal Processing Society on 15 May 2021.
+Aditya Raj
+, Alumna of 2015-2019 batch of ECE, (Co-founder, Atom-Drugs), delivered a webinar on the
+‘Importance of Good Publication’
+organized byIEEE Signal Processing Society on 15 May 2021.
+Royce Thomas Iype
+, Alumna of 2015-2019 batch of ECE, (Software Engineer – Emerging Services IoT, UST), delivered a webinar on the
+‘Importance of Internship leading to Placement”
+organized byIEEE Signal Processing Society on 15 May 2021.
+Gouri A. V.
+, (Alumna, 2016 – 2020 batch of ECE), (Full Stack Developer, Ernst & Young) , delivered a webinar session on ‘
+Corporate Writing and CV preparation
+‘, for S2 students across MBCET, on 7 August 2021, as part of the Professional Communication course.
+NandagopalHarikrishnan
+(Alumnus, 2016 – 2020 Batch of ECE), (Firmware Engineer, Vinvish Technologies Pvt. Ltd) delivered a motivational cum technical talk titled ‘
+What to Expect during your ECE engineering Undergraduate study
+‘ for S2 ECE students on 6 August 2021, as part of the Professional Communication course.
+Ms. Gopika M.S.,
+(Alumna, 2013 – 2017 batch of ECE), (Senior Insights Analyst, LinkedIn), delivered a motivational talk titled ‘
+Importance of Communication Skills in the Professional World
+‘ for the S2 students across MBCET, as part of the Professional Communication course.
+Workshops organized for the students
+KSCSTE Sponsored Workshop on Intellectual Property Rights
+A workshop on Intellectual Property Rights was organized by the IPR cell, IEEE Robotics & Automation Society and IIC, MBCET, in association with
+KSCSTE, PIC-Kerala & IPRIC-K
+on April 4, 2025 from 9:30 AM – 3:30 PM at the Senatus Hall, Mar Baselios College of Engineering and Technology, Nalanchira, Trivandrum. The speakers were Shri. R.S. Praveen Raj – Senior Principal Scientist, CSIR-NIIST, Ms. Chaithanya P.C – Project Scientist-I, PIC-Kerala, KSCSTE and Shri. Anumod S – Examiner of Patents & Designs, IPO, Chennai. 106 students from across departments of the college participated in the workshop.
+Student coordinators
+: Mr. Sanal Sajan E, S6 CS and Mr. Festin Fleenton Pereira, S4 EE.
+Faculty Coordinators:
+Mr. Shiras SN, Dr. Lani Rachel Mathew (Asst. Professors, ECED)
+WORKSHOP ON ANSYS:
+A one day offline workshop on ANSYS for High Frequency Electromagnetics and 5G Technology was organized by the Department of ECE in association with ARK Infosolutions Pvt. Ltd. on 27th February 2023. The session was handled by
+Mr. Vivek Ashokan,
+Senior Application Engineer – HF, ARK Infosolutions Pvt. Ltd and
+Mr. Shiv Sankar Nair,
+Manager – Engineering Simulation Services, Dimension Design Analysis (ANSYS Channel Partner). About 30 participants from inside and outside the college attended the event. Staff Coordinators:
+Dr. Luxy Mathews, Mr. Sherry Varghese George.
+The VLSI and Embedded Systems Group in association with the Biomedical Research Group of the Dept. of ECE, MBCET, organized a hands-on session titled, “PCB Design using KiCAD”, on 16th December 2022, by Mr. Hari Sankar, Deputy Manager, Hardware Division, Vinvish Technologies Pvt . Ltd., for the 5th-semester students of ECED, as part of their Skill Development Program (SDP). The session was coordinated by Dr. Lani Mathew, Assistant Professor, ECED, and Dr. Sreedevi P, Associate Professor, ECED. A total of 86 students participated in the session.
+The Communication Research Group in association with Biomedical Research Group of the Dept. of ECE, MBCET organized a hands on session titled, “Simulink based Electronic Circuit Design and Hardware Integration”, on 29th November 2022, by Mr. Rakshith BS, Senior Application Engineer for Mathworks products, CoreEL, Bangalore, for the 5th semester students of ECED, as part of their Skill Development Program (SDP). ECED Faculty members,
+Dr. Lani Mathew, Ms. Deepa PL and Dr. Ancy S. Anselam
+coordinated the session.
+Workshop on ‘Prototyping with Swadeshi Processors’
+A hybrid mode workshop on ‘prototyping with Swadeshi Microprocessors’ was organized by the Institutions Innovation Council (IIC) in collaboration with e-Nix, the department association of Electronics and Communication Engineering, on 24 May 2022. Mr. Libin T.T., Scientist ‘F’, CDAC Trivandrum, and Mr. Premjith A. V., Project Engineer, CDAC Trivandrum, delivered the sessions. Dr. Abraham T. Mathew, Principal, MBCET, presided over the opening ceremony, in the presence of Dr. M J Jayashree, President, IIC and IQAC Coordinator, MBCET and Dr. Jayakumari J., HoD, ECED. Around 100 students from various departments attended the session, which was also open to IIC MBCET mentee institutions as part of the Mentor-Mentee Program by Institutions Innovation Council(IIC). Faculty and students from Viswajyothi College of Engineering and Technology, Muvattupuzha, Rajadhani Institute of Engineering and Technology, Trivandrum, Carmel Polytechnic College, Alappuzha, Matha College of Technology, Kochi, Universal Engineering College, Irinjalakkuda attended the session online. The discussion focused on the Vega Processor, India’s first indigenously developed microprocessor. Following the talk session, a demonstration of the Aries development platform based on the Vega processor was given to students. The event was coordinated by Mr. JIjo Jose and Ms. Lakshmy S., Assistant Professors, ECED. The session was volunteered by e-Nix student team led by Mr. Shiras S. N., Assistant Professor, ECED.
+Signal Processing Research Group in association with IEEE Signal Processing Society organized “Training Programme on Deep Learning Applications using MATLAB” for the students of third year and fourth year during 10, 11 January 2020.
+Staff co-ordinators: Ms. Deepa P. L., Mr. Anoop K. Johnson
+As a part of MATLAB Campus License Program, the Department of Electronics and Communication Engineering organized a one day workshop titled “Hands-on using MATLAB and Simulink” on October 26
+th
+, 2018.  Ms. Naini Dawar, Education Technical Evangelist, MathWorks was the resource person. This workshop was conducted directly by Mathworks. The hands-on session provided the participants with an experience about the new capabilities of MATLAB and Simulink in the past few releases. The new features in MATLAB include an Interactive Live Editor, App Designer, Data acquisition from mobile devices and capabilities for Data Analytics, Machine Learning and Deep Learning. The new features in Simulink include connectivity with hardware like Raspberry Pi, Arduino, LEGO MINDSTORM, Android and iOS devices. There was an audience of 60 students.
+Staff co-ordinator: Ms. Riya John
+A 2 day workshop on “RIDE” for the students was conducted under the technical interest group of Embedded systems.
+Staff co-ordinator: Prof. S. Viswanatha Rao
+Internship
+Batch internship Status
+2021 – 2025 Batch: 99.13%
+2020 – 2024 Batch: 100%
+2019 – 2023 batch (KTU) – 83.78%
+Intel Unnati Tool Kit Training
+A five-day Intel Unnati Tool Kit Training (O level certification) was conducted from July 8th to July 12th, 2024 at the Intel Unnati Data Centric Lab. The training went beyond the basics, exploring machine learning on Linux with the Intel® oneAPI ecosystem for accelerated performance. The participants gained server access skills, solidified their Linux foundation, and demystified machine learning algorithms. It was then integrated with hands-on Python exercises using popular libraries and explored using GitHub for project management. This comprehensive program equipped the participants to tackle machine learning on Linux with confidence. The session was handled and coordinated by Dr.Swapna P S, Associate Professor, ECE and Mr.Jijo Jose, Assistant Professor, ECE.
+IEDC Makerstudio Interns Showcase Project at Exhibition
+A group of students completed a successful internship at the IEDC Maker Studio and exhibited their internship project, a smart home/office automation device at the Navajeevan Bethany Vidyalaya on November 30, 2023.The student team, composed of Gouri Sankar (S3 EC1), Kurien P Issac(S3 EC1), Alwin John(S3 EC1), and Vishnu B. S.  (S3 EL), designed a cutting-edge device capable of seamless integration with existing wiring infrastructure. This innovation enables users to monitor and control connected devices remotely through mobile phones or other devices, utilizing voice or text inputs for convenient operation. Under the guidance of Mr. Jijo Jose, Assistant Professor, ECED and with the invaluable support of Mr. Chandramohan, Lab Instructor, IEDC Maker Studio, the students demonstrated their technical prowess and dedication. The project’s exhibition at Navajeevan Bethany Vidyalaya showcased the team’s commitment to practical applications of their skills.
+ASSISTIVE TECHNOLOGY (AT) INTERNSHIP 2023
+The inaugural ceremony of the Assistive Technology Internship 2023, organized by the Assistive Technology group at MBCET, in association with the Biomedical Research Group (ECED) and IEEE EMBS SBC MBCET, was held on 17 April 2023. Josipha Sebastian (S8 EC2) welcomed the gathering. Dr. Viswanatha Rao, Vice Principal, delivered the inaugural address and Dr. J. Jayakumari gave the felicitation address.  The internship is scheduled from 17 – 28 April 2023. During the first week of the internship (17 – 20 April), sensitization sessions were organized, where the participants were given an immersive experience of the various forms of disability in the field of visual impairment, physical impairment, and hearing impairment. The sessions were handled by experts from Jyothirgamaya Foundation, Pallium India, NISH, kanthari international at Vellayani, etc.  Ms. Simla Balasubramaniyan [MBCET Alumna, 2013 Batch] shared her untold story of fighting Arthritis since 2014. Ms. Jomole Joseph, delivered a session, inspiring the participants to embrace the idea of disability inclusion. Mr. Harikrishna Sharma (MBCET Alumnus, Batch of 2022) shared his experiences during the AT internship 2021. 21 participants are attending this internship at MBCET.
+The Assistive Technology Internship 2023 came to a close on 28 April 2023. The second week of the internship (24-28 April), hosted expert sessions and hands-on sessions by the experts like Mr. Sanju Mathew (CE0, Code of Duty Innovations), Mr. Jithin Krishna (Scientist/Engineer, SCTIMST), Mr. Vishnu P. Kumar (MBCET Alumnus & Robotics Software Engineer, Genrobotics), Mr. Mathew Abraham (Architect) and  Ms. Ajisha B. (Product Manager, Embright Infotech). A demo of the assistive technology projects done by the final year B. Tech students and the participants’ idea presentation was held on 27 April. The valedictory session conducted on 28th April, started off with a prayer song by
+Aswen A.M.
+(S8 ECE), followed by the welcome address by
+Anamikaa S. Nair
+(S8 ECE). Bursar
+Rev. Fr. John Varghese Palanilkunnathil
+, Principal –
+Dr. Abraham T. Mathew
+, Vice Principal –
+Dr. S. Viswanatha Rao
+, and
+Dr. M.J. Jayashree
+– Head, AT Group & IQAC Coordinator, addressed the gathering, and awarded the certificates to the participants. Participants shared their feedback, and internship coordinators,
+Ms. Amritha B.J.
+(Asst. Prof., Dept. of ECE), presented a brief report of the internship and
+Dr. Alice Thomas
+(Asst. Prof., Dept. of CE) proposed the vote of thanks.
+Faculty coordinators:
+Ms. Amritha B.J
+., Assistant Professor, Dept. of ECE, and
+Dr. Alice Thomas
+, Assistant Professor, Dept. of CE.
+SP Research Group, Dept. of ECE, in association with IEEE SPS SBC conducted the Internship program ‘
+Pas de Code
+–
+Simulation of Machine Learning and Deep Learning using MatLab and Orange’
+on Saturdays, starting from 02 October 2021 to 21 January 2022.
+Ms. Ancy S. Anselam
+(Associate Prof., Dept. of ECE) and
+Ms. Deepa P.L.
+(Asst. Prof., Dept. of ECE) were the resource persons for the internship.
+ONLINE INTERNSHIP ON ASSISTIVE TECHNOLOGY – 2020
+The Department of Electronics and Communication Engineering, in association with the Assistive Technology group, Mar Baselios College of Engineering and Technology, conducted a two week online internship program on
+Assistive Technology
+for the students in the college, from 3
+rd
+to 14
+th
+during the month of August 2020.
+During the internship, the students were involved in understanding the importance of technology in enhancing the lives of differently abled – with the major focus on the visually impaired, speech and hearing impaired, physically impaired and cognitively impaired community.
+The internship comprised of webinars by experts from National Institute of Speech and Hearing (NISH), Embright Infotech and Codeofduty Innovations Pvt. Ltd. During the internship program, students were given an opportunity to interact with the blind chess champion from Kerala – Mr. P. Balaraman, from Jyothirgamaya Foundation, for empowering the blind. A session on designing buildings in an inclusive manner was taken by eminent architect, Mr. Mathew Abraham. Online sessions on Introduction to Assistive Technology, Communicating through Indian Sign Language, Introduction to LabVIEW, Raspberry Pi and Arduino were organized as a part of this internship program. Assistive Technology related projects done by students of the 2016-2020 batch from various departments of the college were also showcased. The students were also involved in identifying the problems and solutions related to assistive technology and idea presentations were conducted as a part of this Internship.
+ASSISTIVE TECHNOLOGY INTERNSHIP
+The Department of Electronics & Communication Engineering at Mar Baselios College of Engineering and Technology conducted a Summer Internship for the students of the college. The three week internship from 1 July to 19 July, 2019 was organized under the initiative of the Assistive Technology (AT) group.
+During the Internship program, the students were involved in the following activities:
+Discussions on Assistive Technology (AT) and AT related Project Ideas
+Interactive sessions on Assistive Limbs, Speech Analyzers, Dynamic Orthotics of Spastic Hands
+Introduction to Arduino & Raspberry Pi – Hardware and Software
+Visits to kanthari International (Vellayani), National Institute for Speech and Hearing (Akkulam) and Fab Lab (Technopark)
+Identification of problems and solutions related to AT
+Design and hardware/software implementation
+Project presentation
+As a part of internship, the S7 EC students visited the following industries: Trivandrum  airport, Cochin airport Keltron, Doordarshan, BSNL, Railway , All India Radio , Datamatics global,  Igatech, Kakkanad, Gateway Terminal Pvt. Ltd..
+As a part of internship, the S3 EC students visited the following industries: All India Radio, State Crime Records Bureau, Keltron, Emvigo, Suparnika Builders, CET (Bosch), BSNL, Doordarshan Kendra, Prasar Bharathy, Regional Telecom Training Centre.
+Spandanam - The Social Service Wing of EC Department
+Spandanam, the social service wing of the ECE department, conducted an activity on the occasion of school reopening and distributed school bags (16 in number) to the children of our housekeeping staff on 30th May 2025.
+The Spandanam social service initiative of the ECE department extended financial support to Salini, a cancer patient from Chenkottukonam, to aid her medical treatment on February 7th, 2025.
+As part of the Spandanam (Social Service wing of Dept. of ECE, MBCET) activity,spandanam student members, along with teachers, visited Assisi Niketan Old-Age Home, Sreekaryam on 14th October 2024. Heartfelt interactions filled with stories and laughter brought joy to residents. The team sponsored lunch, spreading love and warmth.
+The Spandanam team from the ECE department visited the family of a bedridden patient residing near Parottukonam and donated an amount to support their medical needs.
+Faculty members:Dr. MJ Jayashree, Ms Teena Rajan, Mr. Jinu Baby and Ms. Merin Philip
+Student members : Aleena Maria Sam, Deepak G Thomas, Ann Mary Biju
+The Social Service Wing of the Department of Electronics and Communication has been christened “Spandanam”.
+The Spandanam, social service wing of the ECE department, distributed school bags to the children of the housekeeping staff on May 29, 2024.
+As part of the Spandanam (Social Service wing of Dept. of ECE, MBCET) activity,hosted a vital blood donation camp, showcasing the collective effort of the college community towards a noble cause in collaboration  with E-nix,Sree Chithra Thirunal Institute of Medical Science and Technology, Phoenix MBCET, and Illumina MBCET on  30 November 2023  at our college.
+As part of the Spandanam (Social Service wing of Dept. of ECE, MBCET) activity donated 107 food kits at RCC, Trivandrum in collaboration with NSS unit on 1st March 2024.
+As part of the Spandanam (Social Service wing of Dept. of ECE, MBCET) activity, monetary support was given to  a needy patient who undergoes dialysis twice a week in Powdikonam,Thiruvananthapuram on 11th October 2023.
+As part of the Spandanam (Social Service wing of Dept. of ECE, MBCET) activity, Onam kits sponsored by S6 EC students were distributed to the supporting staff of our college on 23 August 2023.
+As part of Spandanam (Social Service wing of Dept. of ECE, MBCET) activity, 25 school bags were distributed to the needy students residing in Pazhakutty Lakshamveedu colony near Nedumangad, on 01 June 2023.
+As part of Spandanam (Social Service wing of Dept. of ECE, MBCET) activity, a mobile phone was donated to kumari. Siva Ganga, Priya Nivas, Punchakkari, Thiruvalla who is a nursing student in Good Shepherd College on 12
+th
+November 2022.
+As part of the spandanam activity, bags were distributed to the needy children, at Sacred Heart Malankara Catholic Church, Kallayam, on 31 July 2022.
+Faculty representatives (
+Dr. M.J. Jayashree
+,
+Ms. Teena Rajan
+,
+Ms. Anu Susan Philip
+,
+Ms. Salga Ann Jacob
+, and student representatives (
+Joshin Samuel
+and
+Jobin J.,
+S8 EC2)  from the department of ECE, distributed  school bags, umbrellas and instrument boxes to the children,  at Pappala near Kilimanoor, on 21 May 2022.
+As part of the SPANDANAM (Social service wing of Department of Electronics and Communication Engineering) activity, the team comprising
+Dr. M.J. Jayashree
+, Prof., Dept. of ECE, along with
+Sri. D. Joykutty
+, Sr. Office Assistant, distributed food to the needy patients and their bystanders at Thiruvananthapuram Govt. Medical College, on 14 March, 2022, at 5 pm.
+Faculty from the department of ECE contributed towards donating lungis and towels, to the inmates of ‘Sneha Veedu’ near Nalanchira, on 23 December 2021.
+As part of the
+SPANDANAM
+activity, faculty from the Department of ECE contributed towards donating 2 normal wheelchairs and one commode wheelchair, to MIND (Mobility In Dystrophy) Trust. MIND Trust formed in 2017 is a non-governmental organisation working to promote and raise awareness in the areas of education, employment opportunities, and rehabilitation of individuals with physical disabilities, such as muscular dystrophy and spinal muscular atrophy (SMA).
+As part of the SPANDANAM activity, faculty representatives from the Department of ECE (
+Ms. Teena Rajan
+,
+Ms. Luxy Mathews
+and
+Mr. Anoop K. Johnson
+) visited the Central Institute on Mental Retardation (CIMR – A national Level NGO in India), Murinjapalam, Trivandrum, on 19
+th
+February 2021 and handed over stationary items and  toys, to facilitate the teaching – learning process in CIMR.
+In association with Unnat Bharat Abhiyan (UBA) cell, MBCET, SPANDANAM distributed masks and sanitizers to the students of Government Boys High School, Kanniakulangara, on 6
+th
+January 2021.
+As part of the SPANDANAM activity, student representatives from S3 EC2 (
+Alenso Rooby
+and
+Aswen A.M.
+),
+Ms. Teena Rajan
+, and
+Mr. Anoop K. Johnson
+, Assistant Professors in the department of ECE, visited Mrs. Radha’s house at Nalanchira on 18
+th
+December 2020. She belongs to a poor family and is suffering from acute diabetes.  Rs. 5000 has been donated for her treatment purpose.
+On 3
+rd
+October 2020, SPANDANAM took the initiative to provide essential commodity kit to Mr. Shivakumar’s family residing at Thiruvallom. Mr. Shivakumar, the only earning member in the family, met with an accident, and the family was struggling to make ends meet.
+A talk by Aswathy Nair, Founder of Jwala Foundation, an NGO that provides food and shelter for the needy had been organised on 6 March 2020 for ECE students.
+Staff members and students visited the Shalom Special School for mentally challenged situated in the village of Vembayam, Kaniyapuram block, Thiruvananthapuram district on 23 November 2019. The team spent half day with the inmates of the school, engaging them with entertainment programs and interactive games.
+Spandanam team, in association with UBA (Unnath Bharat Abhiyan) cell visited St. John’s Medical Village, Pirappancode, on 2 October 2019. They took surveys on education, health sanitation, electricity, etc, and elucidated why plastic eradication is the need of the hour.
+Staff members and students visited Snehabhavan near Kattakada on 19 January 2019 and handed over few immediate requirements for the inmates.
+Staff members of ECE department purchased and distributed onam kits for around 12 needy families in and around Kilimanoor, Trivandrum. The kits were distributed on August 18
+th
+, 2018 by the staff members of the department.
+Spandanam organized a collection drive for the flood affected under the #DoforKerala campaign. The staff and students of the Department of Electronics & Communication Engineering pooled in flood relief materials worth Rs. 25000/- and gave it to the collection centre at B-hub, Mar Ivanios Vidya Nagar, Trivandrum which was then transported to the collection centre under the District Administration.
+Staff members of ECE department collected and handed over an amount to the Devaki Warrier Memorial Women’s Studies & Empowerment entre, where free accommodation and food was provided for cancer patients on February 18th, 2018.
+Dr. Bipin T. Varghese, Surgeon, Regional Cancer Centre rendered a talk on cancer awareness on 31st January 2018.
+Students of S6 EC1 sponsored a one day meal for the inmates of Kerala State Council for Child Welfare on 23rd December 2017.
+Faculty and students of EC department joined the community outreach program for the welfare of children at Poonthura, a rural coastal area in Trivandrum organized by Worldvision along with MBCET on 18th February 2017.
+Spandanam members distributed meals at Medical college with the help of Mr. D. Joykutty.
+Faculty and students of EC Department visited the inmates of “Unity House” and took classes on various subjects like Physics, Chemistry, History, Maths etc. on 24
+th
+August 2016.
+Faculty and students of EC department visited the inmates of “Unity House” and took classes on jewellery making and handicrafts on 28 August 2016.
+Faculty of ECE Dept. visited the inmates of “Snehaveedu” and distributed House hold items on May, 2016. This was organized by the department social service wing Spandanam.
+Spandanam members visited families at Karette and donated Onam kits to the families in September 2016.
+The staff of EC department visited the inmates of Unity House, Chittazha on May 30, 2015 and Ananthashayi Balasadanam, Trivandrum on August 21st 2015.
+Student Projects
+Best Student Projects
+2021-2025
+Name of the students
+Name of the guide
+Title of the project
+Govind S Suresh
+Mr. Shiras S N
+GEOSYNC
+Data Harvester
+Jason E
+Roger Maria Waltin
+Sabari S
+Anoushka L Nair
+2020-2024
+Name of the students
+Name of the guide
+Title of the project
+A
+bhiram A M
+Dr. S. Viswanatha Rao
+LoRaWAN for smart campus
+Abhishek S S
+Chris Mathew
+Rohan Geo Chacko
+Project Expo –
+ProX
+E-NIX
+, the electronics association of MBCET, organized
+ProX
+– the final year project expo, on 28th March 2025, in the department of ECE. The exhibition showcased the ingenious projects developed by the final year students of dept. of ECE. The exhibited projects were evaluated by our Chief Guest,
+Mr. Nandan S,
+Assistant Director, LBS Centre for Science and Technology, Trivandrum | Secretary, IEEE India Council & IEEE Kerala Section
+Faculty Coordinators:
+Dr. Swapna P S & Ms. Lakshmy S
+. (S8 project coordinators, ECE),
+Event Coordinator:
+Mr. Shiras S.N.
+(eNIX coordinator)
+MiniProject Exhibition
+eNIX, the electronics association of MBCET, organized the MiniProjectExhibition, on 24th May 2024, in the department of ECE. The exhibition showcased the ingenious mini projects developed by the final sixth semester students of dept. of ECE. The exhibited projects were evaluated by the Chief Guest, Dr. Naveen S, Assistant Professor at LBS Institute of Technology for Womens; Currently on deputation at LBS centre as Assistant Director LBS; and Director in Charge, Centre for Excellence for Disability Studies. Faculty Coordinators: Dr. Swapna P S, Mr. Anoop K Johnson (S6 Mini Project coordinators, ECE), Mr. Shiras S.N (eNIX coordinator).
+ProX-Final Year Project Expo
+eNIX
+, the electronics association of MBCET, organized
+ProX
+– the final year project expo, on 29 May 2023, in the department of ECE. The exhibition showcased 29 ingenious projects developed by the final year B.Tech students of Department of ECE. The exhibited projects were evaluated by our Chief Guest,
+Mr Sanju Mathew
+, CEO, Code of Duty Innovations and
+Mr. Arjun Shyam
+, CEO, Kalpa Sustainable Lightings. The best project awards were bagged by
+Aishwarya Nair S, Amrutha S, Anant Nair, Ashwin K
+(S8 EC1) for their work titled “Intelligent Speed Adaptation by Traffic Sign Recognition and obstacle detection using Deep Learning” guided by
+Mr. Arun J.S.
+, Asst. Prof., Dept. of ECE and by
+Amal Anilkumar, Faizan Ahamed Dawood Majahar, Josipha Sebastian, Nandan S
+(S8 EC2) for their project “Development of Transit Signal Priority Module with Integrated AI Assistant” guided by
+Dr. Jayakumari J
+, HOD, Prof., Dept. of ECE.
+Faculty Coordinators:
+Ms. Deepa P L
+,
+Mr. Anoop K Johnson.
+(S8 project coordinators, ECE).
+Vision
+To be a Centre of Excellence in Electronics and Communication Engineering Education and Research for the service of humanity.
+Mission
+To provide quality Engineering Education and to carry out Research in the field of Electronics and Communication Engineering addressing the challenges faced by the society.
+BoS
+The People
+Department Advisory Board
+Facilities
+News and Events
+Activities
+Conferences
+Research and Consultancy
+Workshops & Seminars
+Placements
+B. Tech PEOs POs & PSOs
+Syllabus
+Video Lectures
+Time Table
+Former HoDs

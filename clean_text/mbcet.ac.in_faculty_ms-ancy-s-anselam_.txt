@@ -1,0 +1,71 @@
+Dr. Ancy S. Anselam – Mar Baselios College of Engineering And Technology
+Skip to content
+The UGC has conferred Autonomous status in July 2020,Affiliated to APJ Abdul Kalam Technological University. Degree awarded by KTU.
+||"Ph. D Admissions Open"||
+||"B.Tech admissions 2025 Rank List published"||
+Home
+>
+Electronics & Communication Engineering
+>
+Dr. Ancy S. Anselam
+Employee Code / ID No.
+10404005
+Qualifications
+M.Tech., Ph.D
+Orcid ID
+https://orcid.org/0000-0001-6592-3859
+Industry / R & D Experience
+1yr, AVIONICS, VSSC, ISRO
+Email ID
+[email protected]
+Alternate E-mail ID
+[email protected]
+Mobile No (Optional) / Intercom Extension No.
+9446534657 / 135
+Areas of Interest / Current Research
+Speech Coding, Coding Theory, Cryptanalysis
+Research, Consultancy, Publication
+Ancy S. Anselam, Sakuntala S. Pillai, Priya Haridasan, Sreeni K G “Quality Evaluation of LPC based Low Bitrate Speech Coders” International Journal of Electrical Engineering and Technology (Scopus  & Scilit Indexed), Volume 12, Issue 8, August 2021
+Arun H. P, Jithin Kunjumon, Sambhunath R, Ancy S. Anselam, “Malayalam Speech to Text Conversion using Deep Learning” The International Organization of Scientific Research Journal of Engineering, August 2021, ISSN 2250-3021.
+Jeni Francis, Ancy S. Anselam, “High-Capacity Reversible Data Hiding in Encrypted Images by Second MSB Replacement”, Transactions on Computational Science and Computational Intelligence, Springer, March 2021, ISSN 2569-7072, pp: 151-160, 2021, DOI: 978-3-030-49500-8_14.
+Arun Mathew, Athul Raj A S, Devakanth, Vyshnav B. L, Ancy S. Anselm, “Real Time Road Surveillance and vehicle detection using Deep Learning” , International Journal of Engineering Research and Technology, Volume 9, Issue 7, July 2020.
+Ancy S. Anselam, Sakuntala S. Pillai, Sreeni K G “Quality Enhancement of Low Bit rate Speech Coder with Nonlinear Prediction” International Conference on Communication Systems and Networks (Best paper award), Dec 2019. Springer book series Advances in Communication Systems and Networks (Scopus Indexed), June 2020
+Nandana R, Nissie Mary Johnson, Jubily V Reji, B. S Shreelekshmi, Ancy S. Anselam, Lani Rachel Mathew, K. Gopakumar, “Electrolaryngeal Speech Identification using GMM”, International Journal of Engineering Research and Technology,  Volume 9, Issue 6, June 2020.
+Ancy S. Anselam, Sakuntala S.Pillai “Optimization of Code Excited Linear Prediction Speech Coder with PSVQ-Genetic codebook”, International Conference on Wireless Communications Signal Processing and Networking (WiSPNET), March 22- 24
+Ancy S. Anselam, Sakuntala S.Pillai “Effect of MMSE- STSA Algorithm in CELP and MELPSpeech Coders” International Journal of Scientific & Engineering Research, Volume 7, Issue 6, June-2016.
+Mithun M. S, Ancy S. Anselam, “Effect of FTRLS Algorithm in Nonlinear Predictive Coding”, International Conference on Information Systems, Energy, Environment and Safety Emerging Scenarios (ISEES), September 2016.
+Mithun M. S, Ancy S. Anselam, “ Non Linear Prediction Based Speech Coder using FTRLS Algorithm”, IOSR Journal of VLSI and Signal Processing (IOSR – JVSP) Volume 6, Issue 5, Ver. II (Sep. – Oct. 2016), PP 64 – 73.
+Sooraj S., Ancy S. Anselam,”Performance analysis of CELP codec for Gaussian and Fixed codebooks”- International Conference on Communication Systems and Networks (COMNET ’16), July 21-23, 2016.
+Mithun M. S, Ancy S. Anselam , “Non Linear Prediction Based Speech Coder”, International Conference on Information Systems, Energy, Environment and Safety Emerging Scenarios, September 2016.
+Mithun M. S, Ancy S. Anselam “Performance Analysis of Linear and Nonlinear Predictive Coding of Speech Signal”, International Conference on Information Systems, Energy, Environment and Safety Emerging Scenarios (ISEES), September 2016.
+Sooraj S., Ancy Anselam, Sakuntala s. Pillai  , “Comparative Study on the Performance Of CELP Codec for Gaussian and Fixed Codebooks”, International Conference on Communication Systems and Networks (ComNet2016), July 2016.
+Ancy Anselam, Sakuntala s. Pillai  “Effect of MMSE- STSA Algorithm in CELP and MELP Speech Coders”, International Journal of Scientific & Engineering Research (IJSER), Volume 7, Issue 6, June-2016,  ISSN 2229-5518.
+Linta Raj, Ancy S. Anselam, Dr. Sakuntala S. Pillai, “Performance Analysis of Speech Enhancement Techniques in Low Bit Rate Speech Coders”, International Journal for Engineering and Advanced Technologies (IJEAT), ISSN: 2249-8958 (Online), Volume-4 Issue-5, June 2015.
+Nimisha Susan Jacob, Ancy S. Anselam, Dr. Sakuntala S. Pillai, “Performance Analysis of CS-ACELP Speech Coder”, International Journal of Engineering and Advanced Technology (IJEAT), ISSN: 2249 – 8958, Volume-4, Issue-5, June 2015.
+1Lani Rachel Mathew, Ancy S. Anselam, Sakuntala S. Pillai, “Quality evaluation of CCELP, LD-CELp and MELP vocoders”, International conference on Signal and Speech processing(ICSSP-2014), 21 -22 August 2014.
+Cleona Cleetus fernandes, Princy P. jayan, Sajin Mathew Zachariah, Ancy S. Anselam “Skin tine based secret data hiding in images”, International Jiurnal of Electrical and Electronics Engineering Research (IJEEER), ISSN(P): 2250-155X:ISSN(E):2278-943X, Volume -4, Issue-4 August-2014, PP 179-190.
+Lani Rachel Mathew, Ancy S. Anselam, Sakuntala S. Pillai, “A Study of Low Bit-Rate Linear Prediction based Speech Coders for Indian Dialects”, IEEE International conference Control, Instrumentation, Communication and computational Technologies (ICCICCT-2014), 10 -11 July 2014.
+Lani Rachel Mathew, Ancy S. Anselam, Sakuntala S. Pillai, “Analysis of LD-CELP coder output with Sound eXchange and Praat Software”, IEEE International conference on Advanced Communication, Control and computing Technologies (ICACCCT-2014), 8 -9 May 2014.
+Ancy S. Anselam, Sakuntala S. Pillai, “Performance evaluation of Code Excited Linear Prediction Speech Coders at various bit rates”, International conference on Computation of Power, Energy, Information and Communication (ICCPEIC-14), 16 -17 April 2014.
+Lani Rachel Mathew, Ancy S. Anselam, Sakuntala S. Pillai, , “Performance comparison Linear Prediction based vocoders in Linux Platform”, International Journal of Engineering Trends and Technology (IJETT), ISSN: 2231 – 5381, Volume 10Issue 11, April 2014, PP 554 – 558.
+Ancy S. Anselam, Deepthi S. S., “Cryptanalysis two clock controlled generators”, International Conference on Security systems (INCSS-08), 8-9 Sep 2008
+Ph.D Research Guidance ( Research Scholar, E-mail ID, Research Topic/ Tentative Thesis Tittle)
+NA
+Academic / Professional Outreach Activities
+Reviewer for various International Conferences.
+Membership in Professional bodies/ organizations
+ISTE life member, IEEE member
+Community Outreach Activities
+NIL
+Awards / Distinctions / Rank / Other Achievements if any
+First rank (Gold Medal) with distinction in MTech – Digital Systems and Communication Engineering (2006-08 Batch), NIT Calicut.
+Achieved Best paper award in International Conference on Communication Systems and Networks (Comnet 2019) for a significant contribution for the track SIGNAL PROCESSING with paper title ” Quality Enhancement of Low Bit Rate Speech Coder with Non-linear Prediction”.
+ANNOUNCEMENTS
+Exam Notifications
+New
+M.Tech Admissions 2025
+New
+B. Tech Admissions 2025
+New
+MBCET e-bulletin
+New

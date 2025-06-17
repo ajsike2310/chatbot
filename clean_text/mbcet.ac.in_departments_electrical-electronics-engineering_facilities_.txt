@@ -1,0 +1,149 @@
+Facilities – Mar Baselios College of Engineering And Technology
+Skip to content
+Home
+>
+Departments
+>
+Electrical and Electronics Engineering
+>
+Facilities
+Facilities
+Department Labs and Workshops
+The budding Engineers of our Department experience practical realization of their theoretical concepts by acquiring practical experience in the following Workshops and Laboratories of the Department.
+Electric Vehicle Lab
+Electronic Devices and Circuits Lab
+Circuits and Measurements Lab
+Digital Electronics Lab
+Electrical Machines Lab
+Electrical Workshop
+Microcontroller and Microcontrollers Lab
+Power System Lab
+Power Electronics Lab
+PG Drives Lab
+Project Lab
+Software Lab I
+Control System Lab
+Software Lab II
+Electric Vehicle Research Lab
+Room no:  K 01
+Faculty-in-charge: Mr. Aswin R B
+Staff-in-charge: Mr. Anand B H
+_______________________
+Lab Description
+The Department is paving the path ahead for the students by setting up an EV Lab and two Electric Vehicle (EV) Charging Stations in the MBCET campus premises. Vydyuthi Energy Services in association with Chargemod delivered an E-Rickshaw for the lab as a part of their EV Community Development Program initiative.
+Electronic Devices and Circuits Lab
+Room Number: E-13
+Faculty-in-charge: Dr. A V Soumya
+Staff-in-charge: Ms. Smiji RS
+_______________________________________
+Lab Description
+The Analog Electronic Circuits Lab lays the foundation stone for students and is equipped with AC/DC power supplies, function generators, oscilloscopes, training kits for the circuits, IC testers, solder/desolder stations, digital stopwatches, breadboards, digital multimeters and LCR meters. The purpose of this lab is for familiarizing basic concepts of Engineering Circuit Analysis, and to illustrate and reinforce these concepts and provide hands-on experience to the students. This lab is used to conduct a wide range of experiments in Electrical Engineering, such as Diode Circuits, Power Supplies, Optoelectronic Devices, Analysis and Design of BJT and MOSFET Amplifiers, Operational Amplifier Circuits, Power Amplifiers, Frequency Analysis, Oscillator Circuits, Active Filters, and to train Engineers and Technicians on the fundamentals as well as advanced electronic circuits and applications.
+Circuits and Measurements Lab
+Room no:   B 11
+Faculty-in-charge: Ms. Manju Sreekumar
+Staff-in-charge: Mr. Anand B H
+________________________________________
+Lab Description
+The Circuits and Measurement Lab provides thorough knowledge for students regarding various transducers and instrumentation trainers, resistive, capacitive and inductive measurement systems, LVDTs and strain gauges, thermocouples and RTDs, Spot deflection Galvanometer, Weins Bridge Oscillator and Wheatstone Bridge. The lab also contains many basic electrical variables and time measurement equipments such as Frequency Counters, Digital Stopwatches, Digital Multimeters, Digital Anemometer, Digital Earth Tester, Electronic Energy Meter and Digital Oscilloscopes. The lab helps the students to gain hands on experience in different types of transducers and measurement systems.
+Digital Electronics Lab
+Room no:   B 309
+Faculty-in-charge: Ms. Surasmi N L
+Staff-in-charge: Ms. Vidya B.
+________________________________________
+Lab Description
+The Digital Circuits Lab is equipped with AC/DC power supplies, function generators, oscilloscopes, training kits for the circuits, IC testers, solder/desolder stations, digital stopwatches, breadboards, digital multimeters and LCR meters. The purpose of this lab is for familiarizing basic concepts of Digital Electronics and logic designing, and to illustrate and reinforce these concepts and provide hands-on experience to the students.
+This lab is used to conduct a wide range of experiments in logical gates, Digital and Timing Circuits and to train Engineers and Technicians on the fundamentals as well as advanced digital circuits and applications.
+Electrical Machines Lab
+Room no:   E 11
+Faculty-in-charge: Dr. Nisha G K
+Staff-in-charge: Mr. Senthil Kumar E.
+________________________________________
+Lab Description
+The Electrical Machines Laboratory is equipped with over 20 branded AC machines (single phase and three phase Transformers, Induction machines and Synchronous machines) and DC machines, including programmable V/f controllers, Eddy-current dynamo-motor, industrial type synchronizing panel, etc., enabling our students to work in an industrial environment. The lab facilities are sufficient to provide the practical exposure to the student regarding the basic theory and operation of various electrical machines along with its industrial applications.
+Electrical Workshop
+Room no:  D07
+Faculty-in-charge: Ms. C. Sojy Rajan
+Staff-in-charge: Mr. Ratheesh Kumar V S
+________________________________________
+Lab Description
+The Electrical Workshop is sufficiently outfitted with all the equipments and accessories for conducting practical classes in wiring practices as per BIS specifications. Models of modern switchgear and wiring accessories are deployed for the benefit of the students. The electronic side deals with the familiarization of Cathode Ray Oscilloscope (CRO), Bread board connections, PCBs and Soldering station. The students are exposed to the current practices in domestic wiring and industrial installation.
+Microcontroller and Microcontroller Lab
+Room no:  K 03
+Faculty-in-charge: Ms. Sheenu P
+Staff-in-charge: Mr. Sajan SS
+_______________________________________
+Lab Description
+Microprocessors and Microcontrollers laboratory course helps the students to develop their knowledge on processor architecture and the programming skills. This laboratory course provides hands-on experience to interface I/O devices, perform A/D and D/A conversions etc. The skills acquired through the experiments help the students to do their projects and enhance their knowledge on the latest trends and technologies. This laboratory provides facilities for the use of 8/16 bit microprocessors/microcontrollers and their interfacing for different applications, using hardware and software concepts to meet industry standards.
+Power System Lab
+Room no:  E 14
+Faculty-in-charge: Mr. Praveen Raj R S
+Staff-in-charge: Mr. Rajeevmon S
+________________________________________
+Lab Description
+The Power Systems Lab is equipped with Power frequency AC/DC high voltage test set (100 kV DC/70 kV AC), Solid state relay test sets, Electromechanical relay test set, transformer oil testing set (manual and automatic), Cable testing equipment, Electrostatic field plotters, a full-fledged power system simulation software ‘Mipower‘, overcurrent and over voltage relays, Static relays, and power quality analyzer. It is used for teaching basic and advanced concepts in power system generation, transmission and distribution, and training in power quality analysis. For student projects, the lab is used for power system modeling and analysis and power quality. The lab is primarily used for teaching power system (basic and advance modeling, transmission lines, generation, distribution network and fault analysis, protective relays characteristics and schematics, and power quality analysis.
+Power Electronics Lab
+Room no:   E 12
+Faculty-in-charge: Dr. Dishore S V
+Staff-in-charge: Mr. Arun N
+________________________________________
+Lab Description
+The Power Electronics Lab is equipped with Power Electronics Training System- Power MOSFETS, Power Thyristors, Chopper/invertors Control Units, Thyristors Controllers, Function Generators, Oscilloscopes, Power scopes, Multimeters and Signal Generators. It is used for teaching the integration of power electronics converters to design and implement motor drive systems and controlled drives.
+PG Drives Lab
+Room no:  B 309
+Faculty-in-charge: Ms. Sandhya P
+Staff-in-charge: Mr. Sajan S S
+_______________________
+Lab Description
+They lab is mainly meant for the P.G. students to carry out research on emerging areas of Power Electronics, Control Systems and Drives. Simulations as well as real time implementation to validate concepts can be performed.
+Project Lab
+Room no:  B 312
+Faculty-in-charge: Dr. Shalu George K
+Staff-in-charge: Mr. Arun N
+_______________________
+Lab Description
+The Department of Electrical and Electronics Engineering has one well equipped and spacious project laboratory to carry out the project work of students. This lab provides space for students to place their theoretical ideas before the real world. The lab can be accessed during the working hours and is also made available for working beyond hours, if required. Effective utilization of the lab is done by the department. The major equipments in the lab include Digital Storage Oscilloscope, Function Generator, Digital Multimeter and Computers installed with MATLAB.
+Control System Lab
+Room no:   K 02
+Faculty-in-charge: Ms. Shyju Susan Mathew
+Staff-in-charge: Ms. Prabha S
+_______________________
+Lab Description
+The Systems and Control Lab is equipped with Stepper Motor Controller, Servo Motors, Temperature Control Process, Pressure and Flow Control Process, Synchro Transmitter-receiver Trainer and Digital Oscilloscopes. This lab is intended to introduce the fundamentals of various analog and digital control systems, for testing, calibration and diagnostic of various control systems, PID controllers and interfacing, and for diverse student projects.
+Software Labs I & II
+Lab Description
+The Department has one full-fledged and fully equipped computer lab (Software Lab with all kinds of Software platforms for engineering education. These labs are run under the keen control of teaching staff and technical staff. The lab-in-charge of the labs are fully responsible for the smooth running of the labs. The Simulation/Software lab consists of computer systems with packages like Mi Power, MATLAB, SIMULINK, Comprehensive Control package, AUTOCAD – Electrical, etc. installed in them, to help the students to gain a practical experience in these softwares.
+Software Lab I
+Room no:  B 308
+Faculty-in-charge: Ms. Shilpa Susan Peter
+Staff-in-charge: Mr. Midhun Gopal V
+_______________________
+Software Lab II
+Room no:  C 300
+Faculty-in-charge: Mr. Midhun G
+Staff-in-charge: Mr. Vijil Francis
+_______________________
+Department Library
+Apart from highly equipped Central Library the Electrical and Electronics Engineering Department separately owns a standard library. This Department Library has several foreign and well known publishers’   books and study materials related to Electrical Engineering along with the textbooks and reference books prescribed by the University of Kerala as part of the Electrical Engineering curriculum. The Department is proud as the Faculty Members and students rely on the library faithfully for their reference, development and  research activities.
+Apart from the above mentioned texts and references the Department also take initiative in subscribing to various Technical Journals and Magazines. The Faculty Members and students having IEEE Membership help in updating the Department.
+Faculty in-charge: Ms. Revathy K. P.
+Vision
+To be a Centre of Excellence in Electrical & Electronics Engineering Education, Research and Application of knowledge to benefit the society at large.
+Mission
+To mould quality Electrical Engineers, fostering creativity and innovation to address global issues.
+BoS
+Department Advisory Board
+The People
+Facilities
+News and Events
+Activities
+Conferences
+Workshops & Seminars
+Research & Consultancy
+Placement
+B. Tech PEOs, POs & PSOs
+Opportunities
+Curriculum & Syllabus
+Time Table
+Video Lectures
+Former HODs
+Department Google Site

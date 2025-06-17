@@ -1,0 +1,147 @@
+Consultancy – Mar Baselios College of Engineering And Technology
+Skip to content
+The UGC has conferred Autonomous status in July 2020,Affiliated to APJ Abdul Kalam Technological University. Degree awarded by KTU.
+||"Ph. D Admissions Open"||
+||"B.Tech admissions 2025 Rank List published"||
+Home
+>
+Research & Consultancy
+>
+Consultancy
+Consultancy
+MBCET’s staff actively participates in diverse consultancy activities, aiming to foster a strong collaboration between academia and the industry. These engagements offer a unique opportunity to understand the needs of various industries and integrate them into the academic programs of the College.
+DEPARTMENT OF CIVIL ENGINEERING
+EXPERTISE OF THE DEPARTMENT TO OFFER CONSULTANCY SERVICES
+The Department of Civil Engineering possesses a diverse range of capabilities that make it well-equipped to undertake consultancy services in various fields. With a team of highly skilled and experienced faculty and cutting-edge technologies, the Department offers a wide range of consultancy services. Some of the key areas of consultancy are as follows:
+Soil Investigations
+Total Station Surveying
+GNSS (Global Navigation Satellite System) Surveying
+Structural Design Services
+Mix design – Concrete and Bituminous mixes
+Material testing and characterization
+Traffic and Planning Studies
+Pavement Evaluation
+Water quality assessment
+Waste Management
+ONGOING CONSULTANCY ACTIVITIES
+MBCET is empanelled by the Government of Kerala for Consultancy works for the Kerala Public Works Department vide G.O. (Rt.) No. 210/2022/PWD dated 25.02.2022. Under this, the department is undertaking consultancy works and some of them are listed below:
+Soil Investigation works at different sites in Kerala for PWD, Kerala Water Authority and Kerala Infrastructure Investment Fund Board (KIIFB)
+Land surveying/ GPS surveying for various clients
+In addition, the following consultancy services were also provided:
+Material testing for various clients – Concrete cubes, tiles, reinforcement bars etc
+Concrete mix design
+Traffic volume study for the project, “Preparation of DPR for Integrated Development of Coastal Highway with Cycle Track in Thiruvananthapuram, Kollam and Alappuzha District” by KSCSTE – National Transportation Planning and Research Centre (NATPAC)
+Parking Studies for the Project “Development of Parking Policy Framework for Kerala” by KSCSTE- NATPAC.
+Making prototype of Anakkampoyil-Kalladi-Meppadi Twin Tube Road Tunnel for Konkan Railway Corporation Ltd, KIIFB, PWD.
+DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING
+EXPERTISE OF THE DEPARTMENT TO OFFER CONSULTANCY SERVICES
+Machine Learning
+Computer Vision
+Cyber Security
+Computer Networks
+IoT and Sensors
+ONGOING CONSULTANCY ACTIVITIES
+COLLABORATIVE WORK WITH ICCONS
+The Department of Computer Science and Engineering has initiated collaborative research work with the Institute for Communicative and Cognitive Neuro Sciences for developing an
+Assistive Aid for Autism
+. The app developed helps autistic kids to communicate through their thoughts and emotions, share ideas, needs, and wants and, enhance their learning capabilities. Faculty involved in the project are Dr. Tessy Mathew, Dr. Jesna Mohan and Dr. Jisha John (Dept. of CSE), and Ms. Deepa P L (Dept. of ECE)
+COLLABORATIVE RESEARCH WORK WITH THE STRATEGIC ELECTRONICS GROUP OF C-DAC, THIRUVANANTHAPURAM
+The Network Security Research group of the Department of Computer Science and Engineering has initiated collaborative research work with the Strategic Electronics group of the Centre for Development of Advanced Computing (C-DAC), Thiruvananthapuram on
+machine learning applications in the field of cyber security
+.
+COLLABORATIVE RESEARCH WORK WITH SCTIMST
+The team comprising of Dr. Tessy Mathew, Dr. Jisha John, Dr. Jesna Mohan (Dept. of CSE, MBCET), Ms.Deepa P.L (Dept. of ECE, MBCET), and Dr Sanjeev V Thomas (Professor of Neurology (Sr. Grade) Head of the Department of Neurology SCTIMST) have completed a project on
+Malformation Risk Prediction with Machine Learning Modelling for Pregnant Women with Epilepsy
+.
+This collaborative project of MBCET with Sree Chitra Tirunal Institute for Medical Sciences and Technology (SCTIMST) was presented in 34
+th
+International Epilepsy Congress (IEC), 2021 organized by International League Against Epilepsy (ILAE) and International Bureau for Epilepsy, on 31st August 2021 at Dublin, Ireland.
+DEPARTMENT OF ELECTRICAL AND ELECTRONICS ENGINEERING
+EXPERTISE OF THE DEPARTMENT TO OFFER CONSULTANCY SERVICES
+Electric Vehicles
+Renewable Energy Systems
+Simulations in Space Orbits
+Smart Grid
+ONGOING CONSULTANCY ACTIVITIES
+ORBITAL DEBRIS PROPAGATION AND PROXIMITY AWARENESS
+Funded  By : THESPACELABS ,Trivandrum
+Principal Investigator: Dr. Ushakumari S.
+Co-Investigators: Ms. Elizabeth Varghese and Mr. Aswin. R. B
+Research Assistant: Ms. Amala Justin
+Research grant: Rs. 2,00,000/-
+Project Overview
+Orbital debris-defined as any human-made space object orbiting Earth that no longer serves any useful purpose poses a significant and growing hazard for safe spaceflight operations. As the orbital debris poses threats to the live satellites, it is paramount to predict the debris movements around the live satellites. The movements can be predicted if the forces acting on the debris are accurately modeled. The forces like solar pressure, gravity effect due to Sun, Moon and Earth play a vital role for the simulations.
+Objectives of the project
+Orbital debris propagation modelling
+Conjunction analysis
+Collision avoidance analysis
+Reentry Analysis
+Proximity analysis.
+DEPARTMENT OF ELECTRONICS AND COMMUNICATION ENGINEERING
+EXPERTISE OF THE DEPARTMENT TO OFFER CONSULTANCY SERVICES
+5G/6G communication technologies
+VLSI &Embedded system
+Machine learning and Deep learning
+Biomedical Signal Processing and Image processing
+Assistive Technology, 3D printing
+To foster research culture among the faculty and encourage student research in developing new technologies and thus provide consultancy services, partnership has been established with several core industries like Vinvish technologies, Acsia technologies, NISH, SCTIMST, INTEL and AUK Computing, CDAC, KELTRON, TATA Elxsi,  Maven Silicon and Metro Scans. The faculty members are in constant touch with these industries in tracking the recent technologies and needs of society.  Faculty members & students are permitted to work on industrial projects & consult with reputable R&D for project advancements. The various research groups in the Department are heavily involved in both internal and externally financed projects.
+The
+Intel Unnati data-centric lab
+at MBCET is a center that focuses on enhancing skills in artificial intelligence applied to IoT (Internet of Things). It is powered by the industry and aims to provide faculty and students with the necessary data-centric skills. These skills will enable them to develop valuable solutions for various sectors, such as industry, agriculture, social services, and public administration. Additionally, the electronics and communication department has the following facilities to support consultancy work.
+i) MATLAB software with campus license.
+ii) Software such as LabVIEW, Ansys, Xilinx for system modelling and simulation.
+iii) High end computing facilities with GPU, 3D printing facility
+iv) ADALM-PLUTO SDR Spectrum Analyzer in the frequency range of 5KHz to 3GHz
+v) LA-2164 Expand Logic Analyzer with 1GHhz/4Mega memory, 32/64 channels
+vi) Development Boards of Texas for communication and signal processing applications such as TMS 320C6713, TMS320C5416, TMS320C5510, TMS320C6416, MS320C2812
+FPGA Development Board like Sparten-6 and latest boards of Altera which provides an enhanced hardware platform for the implementation of various communication and switching applications of high-frequency power converters.
+Fiber Optic Analog and Digital Link available for performing experiments related to optical signal transmission
+ONGOING COLLABORATIVE PROJECT WORKS
+COLLABORATION WITH UNIVERSITI TEKNOLOGI MARA, MALAYSIA (UiTM)
+The department of ECE has initiated collaborative work with UiTM in the area of Intelligent Reflecting Surface Assisted Millimetre Wave Communication for 6G. The project has two phases:
+i. To investigate the joint problem of IRS phase tracking and mm-Wave beam tracking in terms of coverage probability and data rate.
+ii. To propose reactive and intelligent algorithms to jointly optimize the IRS phase tracking and mm Wave beam.
+Team members from Universiti Teknologi Malaysia: Professor Ir. Dr. Sharul Kamal Abdul Rahim, Dr. Bruce Leow Chee Yen, Prof. Dr.Jafri Din, Siti Fatimah Ausordin.
+Team members from MBCET: Dr, Jayakumari J. (Prof. and HoD), Dr. Sreedevi P. (Asso. Prof.), Ms. Teena Rajan, Mr. Shiras S.N. (Asst. Professors)
+PROJECT COLLABORATION WITH NISH
+With a Memorandum of Understanding with the National Institute of Speech & Hearing (NISH), the ECE Department has undertaken various projects related to assistive technology. Some of these projects are:
+Connected Announcement System for Hearing Impaired (CASHI) developed for deaf students at NISH.
+Vocal Tract Resonance Measurement & Fundamental Frequency Estimation using Praat
+PROJECT COLLABORATION WITH CEDS
+CeDs provided financial & technical assistance for projects focused on disabilities and disability-related services. Accordingly, Interface for Hearing Impaired and Talking Disability with Normal People, Visual Interface System for the Disabled (VSID), Kazcha: Text to Speech Convertor were developed.
+PROJECT COLLABORATION WITH HLL
+Wireless System for Water Level Monitoring in Overhead Tank was developed for HLL Life Care Limited.
+DEPARTMENT OF MECHANICAL ENGINEERING
+EXPERTISE OF THE DEPARTMENT TO OFFER CONSULTANCY SERVICES
+Computational Fluid Dynamics
+Fluid Structure Interaction
+Energy Audit
+Energy Saving Opportunities
+Nonlinear Vibrations
+Lean Manufacturing
+Industrial Practices
+Optimisation of Supply Chain Management
+Sustainability Assessment
+Green Initiatives
+CONSULTANCY UNDERTAKEN
+Cast Iron Recycling Unit (CIRU) – Casting of cast iron blocks, gear blanks etc. for various educational institutions
+Exhaust and performance analysis of bio fuel sample
+Bomb Calorimeter analysis- IC Engines Lab.
+In-house Internship Proposals
+MoUs
+Research
+Consultancy
+Funded Projects
+In-house Projects
+Research Promotion Schemes
+Professional Development Allowance
+Publication Incentive Claim Form
+ANNOUNCEMENTS
+Exam Notifications
+New
+M.Tech Admissions 2025
+New
+B. Tech Admissions 2025
+New
+MBCET e-bulletin
+New

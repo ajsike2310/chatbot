@@ -1,0 +1,311 @@
+Research and Consultancy – Mar Baselios College of Engineering And Technology
+Skip to content
+The UGC has conferred Autonomous status in July 2020,Affiliated to APJ Abdul Kalam Technological University. Degree awarded by KTU.
+||"Ph. D Admissions Open"||
+||"B.Tech admissions 2025 Rank List published"||
+Home
+>
+Departments
+>
+Electronics & Communication Engineering
+>
+Research and Consultancy
+Ph. D
+Ph. D
+Dr. Jayakumari J.
+is guiding the following students in their doctoral research work under the APJ Abdul Kalam Technological University in the area of Wireless Communication and Signal Processing:
+1. Ms. Revathy Sivanandan
+(Completed)
+Thesis title:  “Development of novel CNN for efficient tumour diagnosis from breast ultrasound images” (
+07 November 2023
+)
+2. Ms. Syama Sasikumar (CERD Fellowship)
+(Completed)
+Thesis title:    “Efficient Resource Allocation for Carrier Aggregation based Cognitive Radio Networks” (
+31/01/2024
+)
+3. Ms. Parvathy Prathap
+Topic: Light Field Imaging and its Processing
+4. Ms. J.L. Lakshmi
+Topic: Efficient VLSI Implementation of Channel codes for 5G NR
+5. Mr. Shiras S.N.
+Topic: Performance enhancement in Intelligent reflecting surface aided millimetre wave networks
+6. Mr. Sherry Varghese George
+Topic: Optimal Resource Allocation for 5G NR V2X Communication
+7. Alin Mariam Solomon
+Topic: Spectrum sensing and resource allocation for cognitive based 6G networks
+The following staff members are pursuing Ph. D
+:
+Ms. Deepa P. L.
+Mr. Niyas K. Haneefa
+Ms. Ann Mary Alex
+Ms. P.P. Hema
+Mr. Jithin M. George
+Mr. Shiras S.N.
+Mr. Sherry Varghese George
+Mr. Arun J.S.
+Ms. Teena Rajan
+Ms. Remya Annie Eapen
+MoUs initiated
+Summary of Active MoUs
+Loading...
+Taking too long?
+Reload document
+|
+Open in new tab
+MoU SIGNING BETWEEN MBCET & INTERNATIONAL IoT COMMUNICATION TECHNOLOGIES PVT. LTD
+MBCET has signed an MoU with International IoT Communication Technologies (IICT) Pvt. Ltd on 26th May 2025. IICT – International IoT Communication Technologies GmbH, is a deep-tech spin-off company founded from the ivESK Research Institute, Germany. They specialize in developing systematic educational testbeds and hands on training labs that empower learners and professionals to build real-world skills in AIoT (Artificial Intelligence of Things), Embedded AI , IoT Communication Technologies , Next-Generation Wireless Networks (5G, 6G, LPWAN) , Industrial IoT and Automation , IoT/5G Security and Embedded Edge etc. IICT presents a Lab as a Service (LaaS) model for MBCET, which can be later used for delivering advanced training in AIoT(Artificial Intelligence of Things), Embedded AI, and future communication networks such as 5G, IoT, LPWAN technologies and its usecase development through structured hybrid training labs.
+Foreign Research Collaboration
+Foreign Research Collaboration with UNIVERSITI TEKNOLOGI MALAYSIA
+Title of the project
+: Intelligent Reflecting Surface Assisted Millimetre Wave Communication for 6G.
+Team members from Universiti Teknologi Malaysia: Professor Ir. Dr. Sharul Kamal Abdul Rahim, Dr. Bruce Leow Chee Yen, Prof. Dr.Jafri Din, Siti Fatimah Ausordin.
+Team members from MBCET: Dr, Jayakumari J.(Prof. and HoD), Dr. Sreedevi P. (Asso. Prof.), Ms. Teena Rajan, Mr. Shiras S.N. (Asst. Professors)
+Duration of the project: 2 years
+Funded Projects
+2025
+Title: EYE GAZE CONTROLLED  STANDING WHEELCHAIR
+PI: Ms. Amritha B J  Co-PI :Dr. M J Jayashree
+Type of funding: CERD KTU Funding (Student Project)
+Duration: One year
+Amount: Rs.20,100/-
+2024
+Title: AI Enhanced Customizable 5-DoF Robotic Arm for Optimizing Warehouse Operations
+PI: Mr. Shiras SN
+Type of funding: CERD KTU Funding (Student Project)
+Duration: One year
+Amount: Rs.32,500
+Title: Realization of Quadrupled Robot for Interplanetary Mission and Logistics Operations
+PI: Dr. Vineetha Mathai
+Type of funding: CERD KTU Funding (Student Project)
+Duration: One year
+Amount: Rs.27,500
+2023
+Development of Transit signal priority module with integrated AI assistant
+PI: Dr. Jayakumari J.
+Type of funding: CERD KTU Funding (Student Project)
+Duration: One year
+Amout: Rs.25,500
+Electric Wheelchair with Sip and Puff Technology, for quadriplegic/ALS patients
+PI: Ms. Amrita B.J
+Type of funding: CERD KTU Funding (Student Project)
+Duration: One year
+Amout: Rs.29,000
+2022
+Development of IOT based energy autonomous parking sensor device
+PI: Dr. Jayakumari J. (PI)
+Co-PI: Mr. Sherry Varghese George (Co-PI)
+Type of funding: CERD KTU funding (Student project)
+Duration: One year
+Funding: 15,000 INR
+Gesture controlled stair climbing wheelchair
+PI: Dr. M.J. Jayashree
+Co-PI: Ms. Amritha B.J.
+Type of funding: CERD KTU funding (Student project)
+Duration: One year
+Funding: 26,000 INR
+ROS based autonomous hospital assistant robot
+PI: Mr. Arun J.S.
+Type of funding: CERD KTU funding (Student project)
+Duration: One year
+Funding: 26,000 INR
+2021
+Title: Speech therapy system for cleft lip/Palate patients
+PI: Ms. Lani Rachel Mathew, Assistant Professor
+Co-PI: Ms. Amritha B.J., Assistant Professor
+Students:  Deepthi G.A., Aneeta Sabu, Sowmiya V.  and V. S. Devika
+Type of funding: CERD KTU (Student Project)
+Date of start: 01 June 2021
+Duration: 1 year (Ongoing)
+Project funding: 11,000 INR
+Title: Voice actuated backrest for paralysis palliation
+PI: Mr. Arun J.S., Assistant Professor
+Students: Anjana Santhosh, Arun Y., Meenakshy Sunil
+Type of funding: CERD KTU (Student Project) approved in 2021
+Date of start: 01 November 2021
+Duration: 9 months
+Project funding: 9,000 INR
+Title: Portable brain computer interface for medical applications
+PI: Dr. Jayakumari J., Professor and HoD
+Co-PI: Dr. M.J. Jayashree, Professor
+Students: Daniel C., Rohit Satheeshan, Sandra Jeeva, Shamil Shamsudheen
+Type of funding: CERD
+Status: Completed
+In-house Projects
+In-house Projects
+5 DOF 3D Printed Robotic Arm
+PI: Mr. Jijo Jose
+Duration: One year
+Amout: Rs.1,33,000
+Study and development of face recognition system for automated classroom attendance.
+PI: Ms. Athira V., Co-PI: Ms. Riya John
+Brain tumor detection from MRI images using Deep Learning.
+PI: Ms. Deepa P. L.
+Implementation of Optical OFDM
+PI: Ms. Swapna P. S.
+Implementation of Wireless Communication System on FPGA
+PI: Mr. Shiras S. N., Co-PI: Ms. Ancy Joy
+Study on Textile Sensors
+PI: Ms. Teena Rajan, Co-PI: Mr. Priyadarsan U. S.
+“Analysis of Voice signals using Throat Microphone” – This project aims at investigating the use of a throat microphone for analyzing voice. For persons with disability in speech, this analysis will be helpful in the designing of suitable voice reconstruction algorithms.
+PI: Ms. Lani Rachel Mathew
+“Autonomous Region Explore and Surveyor (A.R.E.S)” – This project proposing a drone which can map an area autonomously.
+PI: Mr. Arun P. S., Co-PI:  Ms. Lakshmy S.
+Study of Energy Harvesting for Wireless Sensors
+PI: Prof. S. Viswanatha Rao, Co-PI: Ms. Remya Annie Eapen
+Industry - Institute Collaboration Initiatives
+Intel Unnati AI Lab Inauguration:
+Rajeev Chandrasekhar,  Hon’ble  Minister of State for Electronics and Information Technology, Skill Development and Entrepreneur­ ship, Govt. of  India  inaugurated  the  Intel® Unnati AI IoT Lab on 13 June 2023 in the presence of H.B Moran Mor Baselios Cardinal Cleemis Catholicos, the Major Archbishop  of Trivandrum and the Patron of the College. Fr.  John Varghese, Bursar gave the welcome address. H.B Moran Mor Baselios Cardinal Cleemis Catholicos gave the presidential address. Shri. Rajeev Chandrasekhar as part of his ‘New India for Young India ‘ lecture series, spoke of how New India offers great opportunities for Youth. He emphasized the importance of skill development Technology and skills are the pillars to transform India. Mr. Sumeet Verma, Director, Strategy, Intel India Coorporation gave the felicitatory address. Dr. Abraham T Mathew, Principal, proposed the vote of thanks. Faculty Coordinators: Dr. Swapna P. S, Assoc. Professor and Mr. Jijo Jose, Asst. Professors, ECED.
+The prototype of the project titled “Accessible Plug for Visually impaired” was demonstrated at NISH on 1
+st
+June 2023. Student members: Ms. Abhirami J. Pradeep, Ms. Shilpa S. P. and Mr. Sreedev P.S (S8EC2).
+A project team from S8 EC comprising
+Abhinav A. Pillai, Aravind U.R. and Varun George
+was selected to exhibit their project “Electric wheelchair using Sip and Puff Technology”, as part of the “ente Keralam” event organized by the Government of Kerala, at Kanakakunnu on 20th May 2023.  The project was guided by
+Amritha B J
+, Asst. Professor, Department of EC.
+I-YwD (Innovation by Youth with Disabilities) Cohort 3 Selection Camp venue at MBCET
+MBCET hosted the I-YwD team for the online I-YwD (Innovation by Youth with Disabilities) Cohort 3 Selection Camp on 12th and 13th of May 2023. The sessions included orientation, online activities and discussions in breakout rooms for young entrepreneurs with disabilities. Indian Sign Language (ISL) interpreter,
+Ms. Bhavana U B
+, helped the team to communicate in real time with persons having hearing impairment. Project coordinators, Ms. Daisy Sebastian, Ms. Sari P Vishwanath, Ms. Anjali Gopan and Mr. Avaneesh M and interns, Ms. Archa Krishnan S and Ms.Jisha M, were involved in conducting the various sessions. Prof. Raju K. Gopal and Mr. Jith from the ITMS team ensured smooth conduct of the online sessions that were held in Faraday Hall. Faculty coordinator:
+Dr. Lani Rachel Mathew
+, Asst. Professor (ECE).
+MoU Signed
+A MoU was signed between the Metro Scans and MBCET on 6
+th
+April 2023, to provide medical radiological images for support study of graduates, post graduates and doctorate study of bio-medical engineering students.
+Lani Rachel Mathew
+, Asst. Professor, ECED, was part of the delegation from APJAKTU to Tata Consultancy Services (TCS), Trivandrum, on 15th February 2023, to discuss possibilities of promotion of assistive technology related activities in the engineering community.
+MoU Signed with SCTIMST
+MBCET signed an MoU with TIMed of Sree Chithra Institute of Medical Science and Technology on 9th January 2023, in the presence of Mr. Balram S., Scientist G, Founder CEO of SCTIMST-TIMed and HoD of Department of Technology and Quality Management, and  Mr. Sarath S. Nair, Scientist/Engineer F, Department of Medical Devices Engineering, SCTIMST. The MoU will pave the way for enabling students interested in biomedical-based engineering startups and medical device development.
+KELTRON Visit
+A team of six people from Keltron visited the IEDC and 3D printing facilities provided by the college on 25th November 2022. The team members are Mr. Hemachandran, Executive Director, Mr. Vijeesh V, Deputy Manager and Division Head, Traffic Signals Division, Mr. Srijith C S, Senior Executive and Head QA, Mr. Anoop G S, Engineer, Head Production Mr. Bijoy S, Engineer, Head Testing, Ms.Revathy Sivanandan, Engineer, Engineering and Student Projects. Dr. Abraham T Mathew, Principal, Dr. S Viswanatha Rao, Vice principal, Head of various department and faculty coordinators were present during the visit.
+MBCET Team Visited Intel Unnati lab, Crescent University, Chennai
+A team of faculty members and technical staff from the
+Department of Electronics and Communication Engineering
+visited the Intel Unnati Lab at the B.S.Abdur Rahman Crescent Institute of Science & Technology, Chennai as part of the establishment of the Intel Unnati AI IoT Lab on our campus. The team included
+Mr.
+Anoop K Johnson
+, Assistant Professor, ECED,
+Mr. Jijo Jose
+, Assistant Professor, ECED,
+Mr. Ajith Kumar SM
+, Lab Instructor, ECED.  The Crescent Innovation and Incubation Council (CIIC) team along with Mr. Ramaiah Chidambaram, Head of Industry 4.0 & IT, interacted with the team and offered all support in establishing an Intel Unnati AI IoT Lab on our campus.
+Lab Visit
+Ms. Teena Rajan and Dr. Lani Rachel Mathew,
+Asst. Professors, Dept. of ECED visited the SCTIMST Biomedical Technology Wing at Poojapura, Trivandrum on 16th November 2022, in order to discuss product development related to biomedical devices.
+MoU signed with INTEL and AUK Computing
+The Mar Baselios College of Engineering and Technology has signed a MoU with Intel and AUK Computing to set up the Intel Unnati AI IoT Lab on November 1st, 2022. Mr. Ashok R and Mr. Arun Shankar, directors of AUK Computing, Fr. John Varghese, Bursar, Dr. Abraham T. Mathew, Principal, Dr. Viswanatha Rao, Vice Principal, Mr. Sanju Mathew, CEO, Code of Duty Innovation s, Heads of various departments, Deans and faculty members were present during the MoU signing ceremony.
+The Department has been striving continuously to establish linkages with industry. Experts from industry are invited for giving talks on recent advances in technology. Students are allowed to undertake project works out sourced from industry and seek guidance from well established R&D departments for in-house project developments. Industry experts are also actively involved during various technical activities related to organizing conferences, workshops etc.
+MoU Signed with CDAC
+An MoU has been signed by Mar Baselios College of Engineering and Technology with
+Centre for Development of Advanced Computing
+, Trivandrum,  to associate in the studies and research in the subject areas of Cyber Security and Forensics, Cyber Law, Software Technologies, Cloud Computing, GIS Technology, 5G Networks, Power Electronics, Control Systems and Instrumentation, VEGA Processor based Microcontrollers and System-on-Chips and in the efforts of Collaborative Teaching, Research and Development. The cooperation will be in the form of expert lectures,collaborating in R & D projects, joint programs, students projects, industrial training, pre-placement training, faculty exchange etc.  A team from CDAC consisting of Mr. Krishnakumar Rao S., Mr. Libin T T, Mr. Deepu Krishnan and Ms. Neeta Maria Celin from Hardware Design Group, visited MBCET .  Fr. John Varghese, Bursar, Dr. Abraham T. Mathew, Principal, Dr. Viswanatha Rao, Vice Principal, Heads of various departments, Deans and faculty members were present during the MoU signing.
+IIST Lab Visit
+A team of faculty members from the department of ECE, visited the labs at IIST on 23 June 2022, as an initial step towards improving the research facilities in the department
+MoU Signed
+An MoU was signed between
+Maven Silicon
+(VLSI training institute) and
+MBCET,
+on 07 April 2022.
+MoU Renewed
+The MoU between
+MBCET
+and
+BSNL
+was renewed on 19 May 2022, opening up avenues for our students to explore the field of telecommunication networks.
+MBCET
+has renewed the MoU with
+National Institute of Speech and Hearing, Akkulam, Thiruvananthapuram,
+on 09 March 2022
+MoU Signed
+MoU was signed between
+Vinvish Technologies Pvt. Ltd.
+, Technopark and Mar Baselios College of Engineering and Technology (Autonomous) on 30 September 2021. The company is a DSIR (Govt. of India) approved R&D centre with a solid R&D foundation in niche areas of Optoelectronics. A full-fledged design and engineering team with expertise in optics, electronics, embedded firmware, and mechanical is in place.
+AT Projects discussion with NISH
+An online discussion with experts from National Institute of Speech and Hearing (NISH), on the ongoing Assistive Technology (AT) projects in the college, was held on 30 April 2021.
+Prof (Dr.) K. G. Satheesh Kumar
+, Director, Centre for Assistive Technology and Innovation (CATI), NISH and
+Dr. Akila S.
+, Senior Engineer (CATI) gave suggestions for improvement and appreciated the progress in the projects. Ten projects from across the college were presented before a virtual audience of more than 60 participants.
+Staff Coordinator:
+Ms. Jisha Jose
+(Asst. Professor, Dept. of Computer Science Engineering)
+Project at NISH
+A team of 8 students  (
+Aparna Sreekumar
+and
+Vaishnavy Menon
+(S6 CS2) ,
+Vaibhav K.
+and
+Vishnu P. Kumar
+(S6 EC2) ,
+Arya P.K.
+and
+Devika M.M.
+(S6 EE2),
+Pratyush Moni S.
+and
+Sidharth Nair
+(S6 ME2) ) from MBCET under the mentorship of
+Mr. Amith G. Nair
+, Hardware Engineer at NISH, started off with the project work on implementing an alert device for the hearing impaired, to be used inside the library and that can be controlled using a phone.
+Visit to NISH
+Faculty representatives from the Assistive Technology group at MBCET (
+Dr. M.J. Jayashree
+,
+Mr. Aswin  R.B. , Ms. P.P. Hema, Mr. Jijo Jose and Ms. Amritha B.J.)
+visited the National Institute of Speech and Hearing (NISH) on  25 March 2021, to discuss the projects related to Assistive Technology that can be implemented in collaboration with NISH. It was decided to select 7 students from across the various departments in the college to start working on their projects.
+MoU Signed
+An MoU was signed between
+BSNL Regional Telecom Training Centre
+(RTTC) and Mar Baselios College of Engineering and Technology (Autonomous) on 15 March 2021. This will help our students for attending training, internships, projects etc.
+Dr. Sreedevi P.
+and
+Mr. Shiras S.N.
+paid a visit to
+Vinvish Technologies Pvt. Ltd.
+in Technopark as part of the Industry-Institute Collaboration. The company is a DSIR (Govt. of India) approved R&D centre with a solid R&D foundation in niche areas of Optoelectronics. A full-fledged design and engineering team with expertise in optics, electronics, embedded firmware, and mechanical is in place. On the 24th of March 2021, a meeting with Vinvish Technologies and the faculty of the ECE Department was scheduled. Vinvish Technologies was represented by Mr. Pius Varghese, Chief Operating Officer, Mr.Ignatius, and Mr.Jijo. The meeting concluded on a high note
+NATIONAL INSTITUTE OF SPEECH AND HEARING (NISH)
+Connected Announcement System for Hearing Impaired (CASHI) developed for deaf students in National Institute of Speech & Hearing (NISH) has been installed successfully in one of their classrooms on 25 January 2019.
+Students members: Pranav Peter (S6 EC1), Joel Raju (S6 EC1)
+Guided by: Ms. P. P. Hema, Ms. Lani Rachel Mathew and Mr. Anil Kumar
+The project titled “Vocal Tract Resonance Measurement” was sanctioned by NISH. The project was demonstrated at NISH on 12 May 2017.
+Student members: Nilu Anna George, Rohit S., SelvaGanama, Vamsee Krishnan S.
+Guided by: Ms. Lani Rachel Mathew
+The project titled “Fundamental Frequency Estimation using Praat” was sanctioned by NISH. The project was demonstrated at NISH on 18 September 2017.
+Student members: Krishnendu Lalaji, Pooja G. S., Rahul Krishnan K. S.
+Guided by: Ms. Lani Rachel Mathew
+HLL LIFECARE LIMITED (A GOVT. OF INDIA ENTERPRISE)
+The project “Wireless System for Water Level Monitoring in Overhead Tank” was sanctioned by HLL Lifecare, Trivandrum.
+Student members: Abhinand S., Naveen S., Joji John Varghese
+Guided by: Ms. Lani Rachel Mathew, Ms. Teena Rajan
+CENTRE FOR DISABILITY STUDIES (CeDS)
+Centre for Disability Studies, Poojapura, Trivandrum sanctioned the project titled “Interface for Hearing Impaired and Talking Disability with Normal People”.
+Student members: Abhishek V., Don Jose, Aiswarya S., Aneeta Regi
+Guided by: Ms. Deepa P. L.
+Centre for Disability Studies, Poojapura, Trivandrum, sanctioned an amount of Rs. 44,000/- for the research project titled “Visual Interface System for the Disabled (VSID)”.
+Student members: Vineeth G. K., Geethu S., Nagma Rani, Zabin P. C.
+Guided by: Ms. Remya Annie Eapen
+Centre for Disability Studies, Poojapura, Trivandrum sanctioned the project titled “Kazcha: Text to Speech Convertor”.
+Student members: Darrel Daniel, Libya Thomas, Anjumol Antony, Aparna K. S.
+Guided by: Mr. Shiras S. N.
+INDIAN SPACE RESEARCH ORGANIZATION (ISRO)
+A research project titled ‘Study and Implementation of Advanced Low bit rate Audio Encoding and Decoding algorithms’ was approved by ISRO under the RESPOND project scheme during the period 1st Feb 2013 to Oct 31st 2015. The total funding for the project was Rs 13.02 lakhs.
+PI: Dr. Sakuntala S. Pillai, Co-PI: Ms. Ancy S. Anselam
+Research Groups
+1. Communication group
+2. Signal Processing group
+3. Biomedical group
+4. Embedded systems group
+ANNOUNCEMENTS
+Exam Notifications
+New
+M.Tech Admissions 2025
+New
+B. Tech Admissions 2025
+New
+MBCET e-bulletin
+New

@@ -1,0 +1,1701 @@
+Workshops & Seminars – Mar Baselios College of Engineering And Technology
+Skip to content
+Home
+>
+Departments
+>
+Electrical and Electronics Engineering
+>
+Workshops & Seminars
+Workshops & Seminars
+The Department of Electrical and Electronics Engineering is very active in conducting workshops, seminars and FDPs for the benefit of faculty and students. Faculty members are also encouraged to contribute as resource persons as well as to participate in such activities organized by other institutions.
+Workshops/Seminars/FDPs organized by Faculty
+2024-25
+WORKSHOP CONDUCTED
+Short-Term Training Programme on “Machine Learning Fundamentals and Applications”
+The Department of Electrical and Electronics Engineering at Mar Baselios College of Engineering and Technology (Autonomous) successfully conducted a
+Short-Term Training Program (STTP) on “Machine Learning Fundamentals and Applications”
+from December 2 to December 7, 2024.
+The program was inaugurated by
+Dr. S. Viswanath Rao
+, Principal, MBCET, in the presence of
+Dr. Elizabeth Varghese
+, Head of the Department of EEE.
+Dr. Athira U.
+, Data Science Manager and Lead at EY, delivered the keynote address and the first session on “Introduction to Machine Learning and Data Science.”
+The week-long program included engaging sessions by distinguished resource persons from academia and industry, covering topics such as machine learning models, deep learning, AI applications, and data science tools with hands0n case studies ion python and MATLAB. A total of 60 participants including students, research scholars, faculty members, and professionals from various institutions and industries.
+The valedictory session featured certificate distribution by the
+Principal
+,
+Dr. Nisha G. K.
+, and
+Dr. Elizabeth Varghese.
+A report on the program was presented by
+Ms. Sheenu P
+., STTP Coordinator and thanking note presented by
+Mr. Midhun.G
+, STTP Coordinator. The event was sponsored by IET and Hykon.
+A Two days
+MATLAB Awareness Session
+was organized for the students of S5 Electrical and Electronics Engineering (EE) and S5 Electrical and Computer Engineering (EL) by
+CoreEL Technologies
+on 14
+th
+and 15
+th
+September 2024
+.
+The session aimed to enhance students’ proficiency in MATLAB, a crucial tool in engineering fields. The event was coordinated by
+Dr. Sheryl Arulini
+and
+Mr. Midhun Gopakumar
+, Assistant Professors from the Electrical and Electronics Engineering Department, ensuring an engaging and informative experience for the participants.
+2023-24
+WORKSHOP CONDUCTED
+STTP ON INDUSTRIAL AUTOMATION
+The Department of Electrical and Electronics Engineering of Mar Baselios College of Engineering and Technology, Kerala, organized a short-term training program on “Hands-On Training on Industrial Automation” from 5 to 10 September 2023. This programme provided a great opportunity to enhance the understanding on Automation, PLC programming, SCADA integration, and more for faculty as well as students. The programme was coordinated by
+Dr. Sheryl Arulini A and Mr. Anil J
+, Assistant Professors, EED.
+STTP ON SMART GRID TECHNOLOGIES (SGT ’23)
+Loading...
+Taking too long?
+Reload document
+|
+Open in new tab
+Online certification programme – CIRCUITRIX
+The Department of Electrical and Electronics Engineering in association with CDAC is organizing “Circuitrix”, a 30 hrs Online certification programme on Simulation of Power Electronic Circuits from Basics to Applications in MATLAB/Simulink.
+The first session of this programme was conducted online in Google Meet platform on 16 October 2023. The resource person was
+Dr. Dishore S V,
+Assistant Professor, EED. He handled a session on “From Basics to Applications: Navigating the world of Electronic devices”.
+The second session of this programme was conducted in Hybrid mode on 26 October 2023. The resource person was
+Mr. Ajeesh A
+, Scientist E, Joint Director, CDAC. He handled a session on “Design of Power Electronic Circuits: Concepts, Devices and Implementation”.
+EMC CERTIFICATION PROGRAMME
+The Department of Electrical and Electronics Engineering in association with Energy Management Centre, Kerala organized an EMC Online Certification Programme on “Recent Trends in Sustainable Energy Management Practices” during September 2023. The programme was coordinated by Ms. Vandana P. and Mr. Aswin R B, Assistant Professors, EED.
+The first session was conducted on 14 September 2023 on the topic “Energy Conservation” in Google meet platform. The resource person for the session was Er. Tomson Sebastian, Energy Technologist, EMC, Kerala.
+The second session of this series was conducted on 18 September 2023 on the topic “Renewable Energy and Energy Efficient Technologies” in Google meet platform. The resource person for the session was Er. Anoop Surendran, Energy Technologist, EMC, Kerala.
+The third and fourth sessions were conducted on 20 and 22 September 2023, on the topic “Energy Management and Energy Efficiency in Electrical Utilities”. The sessions were handled by Er. Abhijith M.R., CEO, Esylys, TrEST Park, Thiruvananthapuram.
+The fifth session was conducted on 23 September 2023, on the topic “E-mobility – Sustainable Transport”. The session was handled by Dr. Nisha G K, Professor and HOD, EED.
+The sixth session was conducted on 25 September 2023, on the topic “Energy Auditing”. The resource person was Mr. Suresh Babu B V, Accredited Energy Auditor.
+The seventh session was conducted on 27 September 2023, on the topic “Energy Auditing case studies”. The resource person was Mr. Suresh Babu B V, Accredited Energy Auditor.
+The eighth session was conducted on 29 September 2023, on the topic “Introduction to sustainability practices and building industry”. The resource person was Ms. Ashiqua Sulthana.
+The nineth session was conducted on 2 October 2023, on the topic “Sun to Socket – Microgrid solar PV insights”. The resource person was
+Dr. Dishore S. V
+, Assistant Professor, EED, MBCET.
+The tenth session was conducted on 3 October 2023, on the topic “Green buildings”. The resource person was Ms. Ashiqua Sulthana, Sustainability consultant, Wentech Ltd. England.
+The last session of the programme was handled by
+Mr. Aswin R B
+, Assistant Professor, EED, MBCET on the topic “Electrical design aspects in Domestic installations” on 30 October 2023.
+2022-23
+HANDS-ON TRAINING ON ELECTRICAL SYSTEMS AND ELECTRIC VEHICLES (HESEV ’23)
+Illumina, the association of the Department of Electrical and Electronics Engineering, Mar Baselios College of Engineering and Technology organized a three days hands-on training programme on Electrical Systems and Electric Vehicles for school students. Thirty-one students from various schools in and around Thiruvananthapuram participated in the training which started on 4 May 2023. The training helped the children to gain an insight into the world of electrical systems, electrical wiring, solar energy, electrical machines, and electric vehicle systems. They got practical experience in electrical wiring and EV modelling. The training ended on 6 May 2023.Faculty coordinators: Ms. Surasmi N L., Mr. Ayush Vijayan.
+Webinar Series
+The Department of Electrical and Electronics Engineering is organizing a Smart Grid Webinar Series.
+The first session of this series was conducted on 13 April 2023 on the topic “
+Cy
+ber
+Security of Smart Grid
+” in the Faraday Hall. The session was organized by Power Electronics Research group, EED. The resource person for the session was
+Dr. Astha Chawla
+, Lead Researcher, Cyber Security and Trust Research group, Siemens Technology, Bengaluru. The session was coordinated by Dr. Sheryl Arulini A, Assistant Professor, EED.
+The second session of this series was conducted on 20 April 2023 on the topic “
+Electric Vehicle Challenges and Grid Integration
+” in the Faraday  Hall. The session was organized by Electric Vehicle Research group, EED. The resource person for the session was
+Dr. Arun Kumar Verma
+, Associate Professor, Department of Electrical Engineering, Indian Institute of Technology (IIT), Jammu. The session was coordinated by Dr. Sheryl Arulini A and Mr. Anil J., Assistant Professors, EED.
+Expert Talks
+The Department of Electrical and Electronics Engineering organized an Expert talk on “
+Career Prospects in Electrical Engineering
+” on 28 February 2023 in Faraday Hall for the final year B.Tech students of EED. The resource person was Mr, Sourav Gopan, MEP Faculty, Adi Institute of Quality Engineers. The programme was coordinated by
+Mr. Anil J and Dr. Dishore S V
+, Assistant Professors, EED.
+The Power Electronics Research Group, EED, organized an Expert talk on “
+Indian Power Challenges and Way forward
+” for the final year students of EED on
+24/02/2023
+from 09:30 am to 11:30 am. The resource person was Mr. Shine Raj (Assistant Engineer, TRAC, KSEBL).
+Coordinator:
+Mr. Anil J
+, Assistant Professor, EED.
+National Seminar on “Electric Vehicles”
+The Department of Electrical and Electronics Engineering in association with IEEE PES MBCET organised a National Seminar on “Electric Vehicles” on
+17 February 2023
+. The resource persons for the Seminar include Shri J. Manoharan (Head, E-Mobility cell and Technical Manager, ANERT), Dr. Sooraj Varikkottil (Specialist, TATA Elxsi), Shri. Pradeep Kumar Keloth (Adjunct Professor of Practice at Amrita School of Engineering, Coimbatore and Mar Baselios College of Engineering and Technology, Trivandrum, Former HoE, Electrification at Bosch) and Ms. Bhavya Y U (Scientist-E, CDAC).The seminar was conducted in Hybrid mode. Around 80 participants attended the Seminar, out of which 20 were external participants. The programme was coordinated by
+Ms. Sandhya P.
+and
+Mr. Anil J
+, Assistant Professors, EED.
+Webinar on Energy Management
+The Power Electronics Research Group, EED, organized a Webinar on “Energy Management” for the final year students of EED on 13/02/2023 from 09:30 am to 12:30 pm. The resource person was Mr. Jose Philip (Building Energy Efficiency Expert, GRIHA Certified Professional, BEE Certified Energy Manager, Certified Resource person of ANERT). 70 students participated for the Webinar.
+Coordinators: Ms. Revathy K P and Ms. Anila A V, Assistant Professors, EED.
+2021-22
+Webinar on EV Mid-drive Motor Test kit and CAN Analyser
+The Power Electronic Research Group, Department of Electrical and Electronics Engineering, MBCET organized a webinar for the pre-final year students on EV Mid-drive Motor Test kit and CAN Analyser, on
+6 May, 2022
+from 2:30 pm to 3:30 pm. The webinar was coordinated by
+Mr. Rejish Babu F R and Ms. Anila A V
+, Assistant Professors, EED. Around 50 students attended the Webinar.
+Webinar on Modeling and Simulation of EVs using MATLAB and Simulink
+Power Electronic Research Group and EV Research Cell, Department of Electrical and Electronics Engineering, MBCET organized a Two-day Webinar on Modeling and Simulation of EVs using MATLAB and Simulink, on
+28 February 2022 and 3 March 2022
+for final year B.Tech students, M.Tech students and members of the MBCET EV research cell. The resource person was Dr. Deb Singdeo, Education Customer Success Engineer, MathWorks India. The webinar was coordinated by
+Mr. Ajish Ashok
+, Assistant Professor, EED.
+Webinar on Zero Watt smart energy monitor
+An introductory webinar session on “Zero Watt smart energy monitor” was conducted for EEE students by
+Mr. Ansha Naji
+, Senior Manager, Business Development, NTPC and Technical Head, Alpha Geek Enterprises on
+12/02/2022
+from 10:45 am – 11:30 am. This was held as a part of the internship program on “Zero Watt Technology” to be offered by Alpha Geek for EEE students. The interns will get an extensive exposure to the technical, business and marketing aspects for a start-up.
+Ms C. Sojy Rajan
+, Assistant Professor, EED was the coordinator of the event.
+Webinar on Electric Vehicle Technology
+The Department of Electrical & Electronics Engineering, MBCET is organizing
+a series of webinars
+(10 sessions) on “Electric Vehicle Technology”. The first session was conducted on
+9 December 2021
+from 03:15 pm – 04:15 pm (IST), the second session on
+10 December 2021
+from 03:15 pm to 04:15 pm (IST), third session on
+16 December 2021
+from 03:15 pm – 04:30 pm (IST) and the fourth session on
+23 December 2021
+from 11:30 am to 12:45 pm (IST). The fifth session was on
+5 January 2022
+from 03:15 pm to 04:30 pm (IST). The sixth session was conducted on
+7 January 2022
+from 11:30 am to 01:00 pm (IST) and seventh session on
+10 January 2022
+from 03:00 pm to 04:30 pm (IST). The eighth session was conducted on
+11 January 2022
+from 03:00 pm to 04:30pm (IST), the ninth session was conducted on
+13 January 2022
+from 04:00 pm – 05:30 pm (IST) and the tenth session was conducted on
+14 January 2022
+from 04:00 pm – 05:30 pm (IST). The Speaker was
+Mr. Pradeep Kumar Keloth
+, Head of Engineering, Electrification Topics, Robert Bosch Engineering and Business Solution Pvt. Ltd. He is also the Visiting Professor of EED.
+Webinar on Solar Photovoltaic Systems
+The Power Electronics Research group, Department of Electrical and Electronics Engineering, organized a webinar on “Solar Photovoltaic Systems” on
+8 January 2022
+. The Speaker was
+Mrs. Radhika J M,
+Project Engineer, ANERT. The online platform for the webinar was Google Meet.
+Ms. Surasmi N L
+and
+Ms. Anila A. V.
+, Assistant Professors, EED, coordinated the programme
+Webinar on Grid Integration of Wind Power Systems
+Power Electronics Research Group, Department of Electrical and Electronics Engineering, MBCET organized a two days webinar on “Grid Integration of Wind Power Systems” on
+29 November 2021
+from 02:00 pm – 03:00 pm (IST). The session was handled by
+Teena George
+, Assistant Professor, Vimal Jyothi Engineering College, Kannur. The online platform for the webinar was Google Meet.
+Ms. Manju Ann Mathews
+and
+Ms. Shilpa Susan Peter
+, Assistant Professors, EED, coordinated the programme.
+Webinar on Industrial Automation and Industry 4.0
+The Department of Electrical and Electronics Engineering organized the MBCET – Siemens Industrial Webinar on the topics “Industrial Automation” and “Industry 4.0” on
+16 November 2021
+from 2:30 pm to 4:00 pm. The resource person was
+Akmal
+(Manager, CS). An Interactive quiz was also conducted after the webinar session. The webinar was coordinated by
+Mr. Ajish Ashok
+, Assistant Professor, EED.
+Webinar on Electric Vehicle Charging System and Challenges
+Power Electronics Research Group, Department of Electrical & Electronics Engineering in association with EV Research Cell, organized a Webinar on “Electric Vehicle Charging System and Challenges” on
+10.2021
+. The resource person was
+Mr. Sooraj V.
+, Senior Hardware Engineer, TATA Elxsi. The programme was coordinated by
+Ms. Shilpa George
+and
+Mr. Ajish Ashok
+.
+Online Training Programme for Faculty and Technical Staff
+The Department of Electrical and Electronics Engineering organized an Online Two day training programme on Power System and Control Engineering using MATLAB on
+13 and 14 September 2021
+from 09:30 am to 12:30 pm in Google Meet. The speaker for the programme was
+Rakshith B S
+, Senior Application Engineer, CoreEL Technologies, Bengaluru. The programme was coordinated by
+Mrs. Manju Sreekumar and Mr. Aswin R. B
+.
+Hands on Workshop for B.Tech Students
+The Department of Electrical and Electronics Engineering, MBCET organized a Hands-on training on “Fundamental Electrical Engineering Practices” for the first year students of EED on
+16 and 17 May, 2022
+from 9:30 am to 4:00 pm, at Jayamatha ITI Training Institute. The programme was coordinated by
+Ms. Soumya A V and Ms. Anila A V
+, Assistant Professors, EED.
+The Department of Electrical and Electronics Engineering, MBCET organized a one day hands-on workshop on “Industrial Automation” for final year B.Tech students on
+28 April, 2022
+from 09:30 am to 04:30 pm. The resource person for the programme was an expert from IPCS Global Ltd. The programme was coordinated by
+Ms. Surasmi N L and Ms. Jeneena Babu
+, Assistant Professors, EED. Around 20 participants attended the programme
+FDP ON ROBOTICS CONTROL AND APPLICATIONS – PHASE I (IROBO ’22)
+Coordinators: Dr. Shalu George K., Ms. Archana A. N.
+The Faculty Development Programme on Robotics Control and Applications – Phase I (IROBO ’22) was organized by the Department of Electrical & Electronics, Engineering, Mar Baselios College of Engineering & Technology Trivandrum from 4
+to 8 April 2022. Due to the Covid’19 pandemic situations, the FDP was conducted in online mode through Google Meet.
+Robotics is a branch of engineering that involves the conception, design, manufacture and operation of robots. The objective of the robotics field is to create intelligent machines that can assist humans in a variety of ways. A robot may resemble a human, or it may be in the form of a robotic application, such as robotic process automation (RPA), which simulates how humans engage with software to perform repetitive, rules-based tasks. While the field of robotics and exploration of the potential uses and functionality of robots have grown substantially in the 20th century, the idea is certainly not a new one. Today, industrial robots, as well as many other types of robots, are used to perform repetitive tasks. They may take the form of a robotic arm, robotic exoskeleton or traditional humanoid robots. Industrial robots and robot arms are used by manufacturers and warehouses, such as those owned by Amazon, Devol, Best Buy and more. To function, a combination of computer programming and algorithms, a remotely controlled manipulator, actuators, control systems – action, processing and perception – real-time sensors and an element of automation helps to inform what a robot or robotic system does.
+The objective of this programme is to provide an opportunity to acquire knowledge about the basics of Robotics, Kinematics and Dynamics of Robots and also about mobile robots. This course was also aimed at offering a unique opportunity to faculty, research scholars and academicians, working in the relevant topics in Robotics to come closer. The FDP has been planned to be conducted in two or three phases, with next phases covering the different types of Control of Robots and its applications, which would help research scholars to identify the problem definitions in the area and thus facilitate research in the field of robotics.
+The programme was inaugurated online on 4
+th
+April 2022 at 2.00 p.m. by Dr. Abraham T. Mathew, Principal, MBCET and delivered the inaugural address. Dr. Shalu George K
+,
+Co-ordinator of the FDP welcomed all the dignitaries, participants and the in-house staff. The felicitation was given by Dr. Nisha G K, HOD, Dept. of EEE.
+After inauguration the first session was on “Introduction to Robotics and its Applications” by Ms. Shyju Susan Mathew, Assistant Professor, Department of Electrical and Electronics Engineering, MBCET.
+On the second day (05/04/2022) the session was handled by Dr. Dr. Jisha V. R., Professor Department of Electrical Engineering, College of Engineering, Trivandrum on the topic “Kinematics of Robots”.
+On the third day (06/04/2022), the session was handled by Dr. Jobin Varghese, Associate Professor and HoD, Department of Mechanical Engineering, Eranad Knowledge City Technical Campus, Manjeri, Malappuram on the topic “Dynamics of Robots”.
+Dr. Sreekanth M., CEO, Kabani Tech., Shoranur handled the session on fourth day, on the topic “Shape Memory Alloys: An alternative to conventional actuators”.
+On the fifth day (08/04/22), the session was on “Mobile Robots” by Mr. Anurag Reghu, Co-Founder and Director, Trizlabz, Ernakulam.
+Feedback link was circulated to participants at the end of each session. An assessment test was also conducted on the last day of the FDP.
+The programme concluded with a Valedictory function. The participants gave their feedback. A total of 74 participants successfully completed the course for the award of certificates. Ms. Archana A. N., Coordinator of the FDP proposed the Vote of Thanks to all participants, department staff, and the resource persons for their support to make the programme a grand success
+AICTE-ISTE sponsored FDP on “AI in Power and Energy Utilities”
+The Department of Electrical and Electronics Engineering hosted an
+AICTE-ISTE sponsored FDP
+on “AI in Power and Energy Utilities” from
+18 January 2022 to 24 January 2022
+. There were 104 online registrations. The participants for the programme were faculties from various AICTE Institutions. Col. B. Venkat, Director, Faculty Development Cell, AICTE, New Delhi and Prof. Vijay Vaidya, Secretary, ISTE were the Guest of Honours for the inauguration function. The course included sessions on Mathematical Analysis of Various ML Algorithms, AI Techniques for Power System Protection, Intelligent Control Techniques for Electrical Systems, Reinforcement Learning Control of Complex Nonlinear Systems, Battery Management Techniques using AI for Electric Vehicles, Simulations and Control – an Industrial approach and AI for energy efficiency. There were Hands on sessions that covered AI with Python and familiarization of various AI toolbox in MATLAB. The President of ISTE Dr. PratapSinh Kakasaheb Desai was the Chief Guest for the valedictory function of the FDP. The FDP was coordinated by
+Manju Sreekumar
+and
+Ms. Manju Ann Mathews
+.
+Webinars
+Power Electronic Research Group and EV Research Cell, Department of Electrical and Electronics Engineering, MBCET organized a Two-day Webinar on Modeling and Simulation of EVs using MATLAB and Simulink, on
+28 February 2022 and 3 March 2022
+for final year B.Tech students, M.Tech students and members of the MBCET EV research cell. The resource person was Dr. Deb Singdeo, Education Customer Success Engineer, MathWorks India. The webinar was coordinated by
+Ajish Ashok
+, Assistant Professor, EED.
+An introductory webinar session on “Zero Watt smart energy monitor” was conducted for EEE students by
+Ansha Naji
+, Senior Manager, Business Development, NTPC and Technical Head, Alpha Geek Enterprises on
+12/02/2022
+from 10:45 am – 11:30 am. This was held as a part of the internship program on “Zero Watt Technology” to be offered by Alpha Geek for EEE students. The interns will get an extensive exposure to the technical, business and marketing aspects for a start-up.
+Ms C. Sojy Rajan
+, Assistant Professor, EED was the coordinator of the event.
+The Department of Electrical & Electronics Engineering, MBCET organized
+a series of webinars
+(10 sessions) on “Electric Vehicle Technology”. The first session was conducted on
+9 December 2021
+from 03:15 pm – 04:15 pm (IST), the second session on
+10 December 2021
+from 03:15 pm to 04:15 pm (IST), third session on
+16 December 2021
+from 03:15 pm – 04:30 pm (IST) and the fourth session on
+23 December 2021
+from 11:30 am to 12:45 pm (IST). The fifth session was on
+5 January 2022
+from 03:15 pm to 04:30 pm (IST). The sixth session was conducted on
+7 January 2022
+from 11:30 am to 01:00 pm (IST) and seventh session on
+10 January 2022
+from 03:00 pm to 04:30 pm (IST). The eighth session was conducted on
+11 January 2022
+from 03:00 pm to 04:30pm (IST), the ninth session was conducted on
+13 January 2022
+from 04:00 pm – 05:30 pm (IST) and the tenth session was conducted on
+14 January 2022
+from 04:00 pm – 05:30 pm (IST). The Speaker was
+Pradeep Kumar Keloth
+, Head of Engineering, Electrification Topics, Robert Bosch Engineering and Business Solution Pvt. Ltd. He is also the Visiting Professor of EED.
+The Power Electronics Research group, Department of Electrical and Electronics Engineering, organized a webinar on “Solar Photovoltaic Systems” on
+8 January 2022
+. The Speaker was
+Radhika J M,
+Project Engineer, ANERT. The online platform for the webinar was Google Meet.
+Ms. Surasmi N L
+and
+Ms. Anila A. V.
+, Assistant Professors, EED, coordinated the programme.
+Power Electronics Research Group, Department of Electrical and Electronics Engineering, MBCET organized a webinar on “Grid Integration of Wind Power Systems” on
+29 November 2021
+from 02:00 pm – 03:00 pm (IST). The session was handled by
+Teena George
+, Assistant Professor, Vimal Jyothi Engineering College, Kannur. The online platform for the webinar was Google Meet.
+Ms. Manju Ann Mathews
+and
+Ms. Shilpa Susan Peter
+, Assistant Professors, EED, coordinated the programme.
+The Department of Electrical and Electronics Engineering organized the MBCET – Siemens Industrial Webinar on the topics “Industrial Automation” and “Industry 4.0” on
+16 November 2021
+from 2:30 pm to 4:00 pm. The resource person was
+Akmal
+(Manager, CS). An Interactive quiz was also conducted after the webinar session. The webinar was coordinated by
+Mr. Ajish Ashok
+, Assistant Professor, EED.
+Power Electronics Research Group, Department of Electrical & Electronics Engineering in association with EV Research Cell, organized a Webinar on “Electric Vehicle Charging System and Challenges” on
+10.2021
+. The resource person was
+Mr. Sooraj V.
+,Senior Hardware Engineer, TATA Elxsi. The programme was coordinated by
+Ms. Shilpa George
+and
+Mr. Ajish Ashok
+.
+The Control Systems Research group, Department of Electrical & Electronics Engineering, MBCET is organizing a Webinar on “Introduction to Unmanned Aerial Vehicles” on 18.09.2021. The resource person was Ms. Lima Agnel Tony, Robert Bosch Centre for Cyber-Physical Systems Ph.D. fellow, Department of Aerospace Engineering, Indian Institute of Science, Bangalore. The programme was coordinated by Mr. Aswin R B and Ms. Keerti S Nair.
+Power Electronics Research Group, Department of Electrical & Electronics Engineering, MBCET organized a Webinar on “Vector Control of Three Phase Induction Motor” on 06.09.2021. The resource person was Prof. A. S. Shajilal (Retd), College of Engineering Trivandrum, Former HOD EEE Dept. Mar Baselios College of Engineering and Technology. The programme was coordinated by Mr. F R Rejish Babu and Mr. Ajish Ashok.
+2020-21
+Webinars
+The Power Electronics Research Group, Department of Electrical & Electronics Engineering in association with EV Research Cell MBCET organized a Webinar on “Control Strategies for PMSM driven Electric Vehicle” on 26.06.2021. The resource person was Mr. Pradeep Kumar Keloth, Head of Engineering, Electrification Topics, Robert Bosch Engineering and Business Solution Pvt Ltd. Around 80 members participated in the programme. The programme was coordinated by Ms. Archana A N and Mr. Ajish Ashok
+Power Electronics Research Group, Department of Electrical & Electronics Engineering, MBCET organized a Webinar on “The Role of Power Electronic Converters for EV Charging Infrastructure” on 19.06.2021. The resource person was K. Deepa, Assistant Professor, Amrita School of Engineering, Bengaluru Campus. 83 participants attended the programme. The programme was coordinated by Ms. C. Sojy Rajan and Mr. Ajish Ashok
+Power Electronics Research Group, Department of Electrical & Electronics Engineering, MBCET organized a Webinar on “Career Prospects and Higher Studies after Electrical Engineering” for B. Tech Students on 05.06.2021. The resource person was Dr. Imthias Ahamed T P, Professor, Department of EEE, TKMCE. Around 100 members participated in the programme. The programme was coordinated by Ms. Vandana P and Mr. Aswin R. B
+The Control Systems Research Group, Department of Electrical & Electronics Engineering, MBCET organized a Webinar on “Dynamics and Control of Aerial Vehicles” on 28.05.2021. The resource person was Dr. Elizabeth Rita Samuel, Associate Professor and Head of the Department of EEE, Rajagiri School of Science and Technology (Autonomous). The programme was coordinated by Dr. Shalu George K and Ms. Anu Gopinath
+The Control Systems Research Group, Department of Electrical & Electronics Engineering, MBCET organized a Webinar on “Introduction to Model Predictive Control and its Applications” on 22.05.2021. The programme was coordinated by Ms. Elizabeth Varghese and Ms. Shyju Susan Mathew.
+The Department of Electrical and Electronics Engineering in association with IPCS – The Global Technology Service Provider conducted an
+Online Training Programme on Introduction to Industrial Automation
+on 29 and 30 April 2021 from 2 to 4 PM. The programme was organized by Power Electronics Research Group of the Department as a 2 day workshop, aimed at enhancing your practical knowledge in Industrial Automation. Final year and pre-final year B.Tech students (all branches) attended. The programme was coordinated by Ms. Surasmi N L and Ms. Jeneena Babu.
+The Department of Electrical & Electronics Engineering, MBCET organized a
+3-Day Online Training Programme for technical staff members
+of Engineering Institutions on “Simulation of Electronic Circuits and Systems using MATLAB/SIMULINK and PSpice” from 7 to 9 April 2021. Experts from the respective fields handled the sessions. The programme was coordinated by Mr. Praveen Raj R.S. and Ms. Hridya C. K. Around 70 participants registered for the programme.
+Power Electronics Research Group, Department of Electrical & Electronics Engineering, MBCET organized a Webinar on “Emerging Trends in the Electric Vehicle Space” on 21 April 2021 from 12:00 PM – 01:00 PM (IST) in Google meet. The Speaker was Ms. Latha Chembrakalam, Vice President, Engineering, Robert Bosch Engineering and Business Solutions Ltd.. The programme was coordinated by Ms. Sandhya P. and Mr. Ajish Ashok.
+Power Electronics Research Group, Department of Electrical & Electronics Engineering, MBCET organized a Webinar on “Industrial Applications of Power Electronics” on 8 April 2021 from 2.30pm – 3.30pm (IST) in Google meet. The Speaker was Mr. A. Saravana Kumar, Scientist-E/Joint Director, Power Electronics Group, CDAC. The programme was coordinated by Ms. Sandhya P. and Ms. Manju Ann Mathews.
+The department of Electrical and Electronics Engineering conducted an online talk on the topic “Covid’19: Back to College Safety Measures” on 18 February 2021 from 6:00 PM to 07:00 PM, for the first semester students as part of the Impulse Lecture Series. The speaker of the session is Dr. Sajina Shijin, Junior Consultant, Jothydev’s Diabetes and Research Centre.
+Ms. Manju Ann Mathews and Ms. Anu Gopinath coordinated a 1-day Webinar on IoT: Use Cases, Benefits and Key Enabling Technologies on 20 July 2020. Resource Person: Mr. Anil Kumar, Principal Engineer, IOT/Edge Platform Architect, Intel Corporation, Arizona, USA.
+ISTE Sponsored Faculty Development Programme
+on
+Smart Power Grid Technologies -Trends, Opportunities and Challenges (SPGTOC’21)
+Coordinators: Ms. Surasmi N. L., Ms. Jeneena Babu
+The Faculty Development Program on Smart Power Grid Technologies -Trends, Opportunities and Challenges (SPGTOC’21) was organized by the Department of Electrical & Electronics, Engineering, Mar Baselios College of Engineering & Technology Trivandrum from 3
+rd
+to 8
+th
+May 2021. The programme was sponsored by ISTE Kerala Section. Due to the Covid’19 pandemic situations, the FDP was conducted in online mode through Google Meet.
+Smart grid (SG) is emerging as a new facet of power industry. It incorporates numerous advanced technologies to deal with issues prevailing in conventional electric networks. Though capable to resolve many of these issues, SG is still facing challenges in deployment. These challenges are associated with adaption of emerging technologies, socio-economic issues, lack of policies and awareness. The objective of this programme is to identify challenges and issues in Smart Grid implementation and to provide an opportunity to acquire knowledge about current developments in Smart Grid Technologies to promote the drive for energy conservation and energy efficiency among Electrical Engineers. This course was also aimed at offering a unique opportunity to faculty, research scholars and academicians, working in the relevant topics in Smart Grid Technology to come closer through theoretical sessions and laboratory-based demonstrations.
+The programme was inaugurated online on 3
+rd
+May 2021 at 1.30 p.m. by Dr.K Vijayakumar, Chairman ISTE Kerala Section in the presence of Dr. Nisha G K, Head, Dept.  of EEE and other dignitaries. Ms. Surasmi N L
+,
+Co-ordinator of the FDP welcomed all the dignitaries, participants and the in-house staff. Dr. K Vijayakumar, Chairman, ISTE Kerala Section inaugurated the FDP and delivered the inaugural address.  The felicitation was given by Dr. Nisha G K, HOD Dept of EEE. Ms. Jeneena Babu, Co-ordinator of the FDP gave the vote of thanks.
+After inauguration the first session was on “Current Indian Grid Scenario and challenges in implementing Smart Grid” by Mr. N Nandakumar, Assistant Engineer, KSEBL.
+On the second day (04/05/2021) the session was handled by Dr. Nithin S, Assistant Professor Department of Electrical Electronics Engineering, Amrita Vishwa Vidyapeetham, Coimbatore on the topic “Demand Side Management in Smart Grid”.
+On the third day (05/05/2021), the session was handled by Mr. P Sivaraj, Assistant Professor, Amrita Vishwa Vidyapeetham, Coimbatore on the topic “Smart Grid Communication”.
+Mr. Jiju K, Joint Director, Power Electronics Group, C- DAC, Trivandrum handled the session on fourth day, on the topic “Advanced Metering Infrastructure”.
+On the fifth day (07/05/21), the session was on “Energy storage and V2G to improve dynamics of renewable energy rich Power System” by Mr. Aneesh Rajendran, Energy Technologist, EMC-Kerala.
+Dr. Vinoth Kumar N, Assistant Professor, Kumaraguru College of technology, Coimbatore handled the session on the last day, on the topic “Power Quality Standards and Energy Conservation in Smart Grid”.
+Feedback link was circulated to participants at the end of each session. An assessment test was also conducted on the last day of the FDP.
+The programme concluded with a Valedictory function. The participants gave their feedback. A total of 63 participants comprising 49 external faculty, 9 internal faculty and 5 PG/Research scholars successfully completed the course for the award of certificates. Dr. Nisha G.K., HoD of Department of Electrical and Electronics Engineering, MBCET, proposed the Vote of Thanks to all participants, department staff, speakers and the sponsors – ISTE Kerala section for their support to make the programme a grand success
+Faculty Development Programme (FDP) on “Modern Control Techniques in Electrical Systems” (MCTES ’20)
+Coordinators: Ms. Manju Ann Mathews and Ms. Anu Gopinath
+A three day Online Faculty Development Programme on
+“Modern Control Techniques in Electrical Systems” (MCTES ’20)
+was organized by the Department of Electrical & Electronics Engineering, Mar Baselios College of Engineering & Technology, Trivandrum, from 28 December 2020 to 30 December 2020.
+The objective of the FDP was to impart technical expertise to the professional community including faculty, researchers and industrialists to the applications of Control Systems in Electrical Engineering. Through the lectures of eminent speakers, the Programme gave exposure to various fields like State Estimation Techniques, Evolutionary Computing Techniques, Model Order Reduction, Control of Electric Vehicles and Fractional Order Controllers. The programme was so designed to introduce the basics of Control Systems to enable the faculty and research scholars to take up research initiatives in these areas.
+The programme was inaugurated through Online platform on 28 December 2020 at 10:00 AM by
+Dr. Nisha G. K.
+, Head of the Department, EEE, MBCET. 42 participants from various institutions including faculty, research scholars and UG/PG students attended the FDP sessions.
+The first session was on
+“Introduction to Modern Control Techniques”
+handled by
+Dr. Arun Kishore W C,
+Professor, EEE Department, College of Engineering Trivandrum. The afternoon session was handled by
+Dr. Elizabeth Rita Samuel,
+Head of the Department, EEE, Rajagiri School of Engineering & Technology, Ernakulam, Kerala on the topic
+“Parameterized Modelling and Model Order Reduction”.
+On the second day, the first session was handled by
+Dr. S. N. Deepa,
+Associate Professor, Department of Electrical and Electronics Engineering, Anna University, Regional Campus, Coimbatore on
+“Evolutionary Computing Techniques for Parameter Design in Controller Models”
+. The afternoon session was on the topic
+“Control of Electric Vehicles”
+by
+Dr. Nisha G. K.
+, Professor, Department of EEE, MBCET.
+On 30 December 2020, the forenoon session was on
+‘State Estimation Techniques’
+by
+Dr. Mani Bhushan,
+Professor, Department of Chemical Engineering, IIT Bombay. In the afternoon session,
+Ms. Elizabeth Varghese,
+Associate Professor, EEE Department, MBCET delivered an expert lecture on
+“Fractional Order Controllers”.
+Participant feedback was collected for all of the sessions. The FDP concluded with an assessment quiz and overall feedback submission on MCTES ‘20.
+The valedictory function was conducted on 30 December 2020 at 3:00 PM. A few of the participants shared their feedback on MCTES ’20. Dr. Nisha G. K., Head of the EEE Department, MBCET gave the concluding remarks.  Dr. Nisha G. K. congratulated the coordinators, Ms. Manju Ann Mathews and Ms. Anu Gopinath and expressed her gratitude to all the participants for making this FDP a grand success. Ms. Manju Ann Mathews concluded the session by extending a vote of thanks
+IET Sponsored Online Faculty Development Programme on Performance Improvement in Smart Grid using Artificial Intelligence Techniques (PISGAI 2020)
+Coordinators: Ms. Sheenu P. and Ms. Soumya A. V.
+A six day Online Faculty Development Programme on
+Performance Improvement in Smart Grid using Artificial Intelligence Techniques PISGAI 2020
+was organized by the Department of Electrical & Electronics Engineering, Mar Baselios College of Engineering & Technology, Trivandrum, from 23 November 2020 to 28 November 2020. The programme was sponsored by
+The Institution of Engineering and Technology (IET)
+,
+KKLN.
+The objective of the course was to impart technical expertise to the professional community including faculty, researchers and industrialists in the field of Artificial Intelligence. The growing interest that the smart grid is attracting and its multidisciplinary nature motivate the need for solutions coming from different fields of knowledge. Due to the complexity, and heterogeneity of the smart grid and the high volume of information to be processed, artificial intelligence techniques and computational intelligence appear to be some of the enabling technologies for its future development and success. Through the lectures of eminent speakers, the Programme intends to give an exposure to various fields like Microgrid and Renewable Energy systems, Smart Grid, Grid Integration, AI techniques, Performance Improvement in Smart Grid using AI techniques etc. The programme is so designed which will enable the faculty and research scholars to take up research initiatives in these areas.
+About 103 participants from various institutions including faculty, research scholars and UG/PG students registered for the course.
+The programme was inaugurated through Online platform on 23 November, 2020 at 3:00 PM by
+Dr. Nisha G. K.
+,
+Head of the Department, EEE, MBCET
+.
+Ms. Sheenu P.
+gave a brief description about the Programme overview and welcomed the participants and the resource person of first day.
+Ms. Soumya A. V.
+explained the schedule of the programme and introduced the speaker of the session
+Dr. Hari Kumar R.
+, Assistant Professor, College of Engineering Trivandrum. The session was on
+“Introduction to Smart Grid and Renewable Energy Systems”.
+On the second day (24 November, 2020), session was handled by
+Dr. M Monica Subhashini
+, Associate Professor, Vellore Institute of Technology, Vellore on the topic “
+Introduction to Artificial Intelligence Techniques
+”.
+On 25 November, 2020, the session was handled by
+Dr. Tessy Mathew
+, HoD CSE, Mar Baselios College of Engineering and Technology, Nalanchira on the topic “
+Machine
+Learning and Deep Learning Techniques in Renewable Energy Systems”
+.
+The fourth day (26 November 2020) had two sessions, handled by
+Dr. Albert Alexander
+, CV Raman fellow and Professor, Kongu Engineering College, Erode. The first session was on the topic “
+Performance Improvement in Micro Grid using AI Techniques
+”, followed by another practical session on
+“MATLAB based Performance Improvement in Micro Grid”.
+Dr. L. Ashok Kumar
+, Professor & Associate HoD, Dept. of EEE, PSG Institute of Technology, Coimbatore handled two sessions on the fifth day (27 November 2020). The first session was on the topic “
+Integration of Renewable Energy Systems in a Micro Grid
+”, followed by another demo session on “
+Design of Hybrid System Using PVsyst and Homer Software”.
+On the last day (28 November 2020), two sessions were handled by
+Ms.
+Uma Maheswari Y
+,
+Manager Technology, Pramura Software Private Limited, Coimbatore
+.
+The first session was on the topic
+“EMC for Power Converters – Mitigation and Measurement Techniques”
+followed by another session on
+“PCB Design Software Demo”.
+The valedictory function was conducted through online platform on 28 November 2020 at 3:00 PM.
+Dr. Nisha G. K.
+,
+Head of the EEE Department
+,
+MBCET
+congratulated the coordinators and expressed her gratitude to all the participants for making this FDP a grand success.
+Ms. Sheenu P.,
+Coordinator of the FDP, presented the report
+.
+Ms. Soumya A. V.,
+Coordinator of the FDP, concluded the session by extending a vote of thanks.
+2019-20
+Webinar
+Ms. Manju Sreekumar and Ms. Keerti S Nair coordinated a 1-day Webinar on Rethink Your Future: Opportunities in Post – Covid’19 Kerala on 07 April 2020. Resource Person: Mr. C Balagopal, Founder of Penpol Ltd.
+2018-19
+KSCSTE, IET and EMC sponsored STTP on E-Vehicle: A Green Approach for Sustainable Development (EV-GASD ’19)
+Coordinators:    Ms. Archana A. N. (Assistant Professor) and Mr. Midhun G. (Assistant Professor)
+The Short Term Training Programme on
+E-Vehicle: A Green Approach for Sustainable Development (EV-GASD’19)
+was organized by the Department of Electrical & Electronics Engineering, Mar Baselios College of Engineering& Technology, Trivandrum, from 7
+th
+January 2019 to 11
+th
+January 2019. The programme was sponsored by
+Kerala State Council for Science, Technology and Environment
+(KSCSTE)
+,
+The Institution of Engineering and Technology
+(IET)
+, and
+Energy Management Centre
+(EMC)
+,
+Kerala.
+The objective of the course was to impart technical expertise to the professional community including faculty, researchers and industrialists in the field of Electric Vehicles. Through the lectures of eminent speakers, the Programme was successful in giving an exposure to various fields like Electrical machines and power electronic applications in Electric Vehicles, Energy storage system and battery management and modeling, Control techniques of various Electrical machines, Communication protocols for Electric Vehicle charging stations etc. An industrial interaction with CDAC on E-mobility related technological developments was also included which enabled the faculty and research scholars to take up research initiatives in these areas.
+The programme was inaugurated at Faraday Hall, MBCET on 7 January 2019 at 9.30 a.m. by
+Prof. Baylon G Fernandes, Head of the EEE Dept., IIT Bombay
+and Rev. Fr. Bitty Mathew, MBCET in the presence of Dr. Nisha G.K, Assistant Head of the EEE Department and other dignitaries. The sessions of the FDP were
+“
+Introduction to Electric and Hybrid Electric Vehicles
+”, by Prof. Baylon G. Fernandes, Head of the EEE Dept., IIT Bombay.
+“
+Power Electronics Applications in Electric Vehicles
+” by Dr. Dinesh Gopinath, Associate Professor, EEE Department, GEC, Idukki
+“
+Energy Management Strategies in Electric Vehicles
+” by Dr. Ajay Babu, Assistant Professor, NSSCE, Palakkad.
+“
+Principles of various Electric Machines and Control in Electric Vehicles
+” by Dr. Nisha G.K, Associate Professor, EEE Department, MBCET.
+“
+Energy storage systems, Battery Management and Modeling in Electric Vehicles
+” by Dr. K. Deepa, Assistant Professor, Amrita Vishwa Vidyapeetham, Bengaluru.
+“
+Communication Protocols used in EV Charging stations
+” by by Mr. Nithin S, Assistant Professor, Amrita School of Engineering, Coimbatore.
+“
+E-Mobility related power electronic technology developments in CDAC
+” by Shri Renji. V. Chacko, Associate Director, Power Electronics Group, CDAC-T.
+The Demo sessions were handled by Smt. Sreedevi M.L, Principal Engineer, Power Electronics Group, CDAC-T on “
+Performance Evaluation of EV/HEV systems using xEV Offline Simulator
+”, Smt. Mineeshma G.R., Senior Engineer, Power Electronics Group on “
+Component Sizing of EV/HEV subsystems using Backward Modelling approach
+” and Shri Amal.S., Principal Engineer, Power Electronics Group, CDAC-T on “
+Real time Simulation and Controller Prototyping using xEVSim
+”.
+A total of 49 participants comprising external faculty, internal faculty, research scholars, PG and UG students successfully completed the course.
+Short Term Training Programme on Distributed Generation and Smart Grids – DSG’18
+The Short Term Training Programme on Distributed Generation and Smart Grids, DSG’18 was organized by the Department of Electrical & Electronics Engineering Association, Mar Baselios College of Engineering & Technology, Trivandrum, from 30 July to 1 August 2018. The programme was sponsored by Innovation and Entrepreneurship Development Centre (IEDC), SEPTECH-MBCET Chapter, Energy Management Centre (EMC), Kerala.
+The objective of the course is to impart technical expertise to the professional community including faculty, researchers and students in the field of Distributed Generation and Smart Grids. Through the lectures of eminent speakers, the Programme intends to give an exposure to various fields like Combined Heat and Power Systems, Energy Management, Microgrid and its control, Smart grid, Power quality issues, Smart metering and Smart substation, WAMS, PMU, Hybrid electric vehicles and Cloud Computing which will enable the participants to take up research and project initiatives in these areas.
+The programme was inaugurated on 30 July 2018 at 9.30 a.m. by
+Dr A.M Narayanan
+, Head-Energy Efficiency, EMC and Rev.
+Fr. John Vilayil
+, Bursar, MBCET in the presence of
+Prof. A S Shajilal
+, Head, Department of EEE and other dignitaries.
+Ms Divya N A,
+SEPTECH-MBCET Coordinator and Coordinator of the STTP gave a brief description about the Programme overview.
+Ms. C Sojy Rajan
+, Co-ordinator of the STTP welcomed all the dignitaries on and off the dais and the participants.
+Dr T M George
+, Principal MBCET gave the Presidential Address and Dr A.M Narayanan delivered the keynote address.Fr. John Vilayil, Bursar MBCET honoured the Chief Guest.The felicitation was given by Prof. A SShajilal, HOD, Dept of EEE.
+Mr. Midhun.G
+, Co-ordinator of the STTP proposed the Vote of Thanks.
+After the Inauguration and tea break, the first session was on “Combined Heat and Power Systems and Energy Management”, by Mr. Aneesh Rajendran, Energy Technologist, Energy Management Centre, Trivandrum. The afternoon session on “Introduction to Microgrid and Smart Grid and its control strategies” was engaged by Dr. Harikumar R., Assistant Professor EEE Department CET, Trivandrum.
+The first session on the second day started with the lecture of Ms. S. Asha, Assistant Professor, CSE Department, MBCET by on the topic “Cloud Computing in Smart Grid”. After the tea break session, Dr. Francis M. Fernandez, AssistantProfessor, EEEDepartment, CET took a lecture on “Power Quality Issues in Smart Grids”. The afternoon session was handled by Mr. George V James and Mr. Bipin Shankar, Deputy Chief Engineer SLDC, Kalamassery, KSEBL on the topics – “Smart Substation, Smart Metering and Electricity Tariff”.
+On the third day, forenoon session was handled by Mr. Aby Joseph, Project Director, Power Electronics Group, CDAC, Trivandrum on the topics Wide Area Measurement System (WAMS) and Phasor Measurement Unit (PMU) and afternoon sessions were handled by
+Dr. Nisha G.K
+, Associate Professor, EEE Dept, MBCET on the area of Plug-in Hybrid Electric Vehicles and V2G Technology.
+A total of 42 participants successfully completed the course for the award of certificates. Dr. Nisha G.K., Assistant HOD, Department of EEE, proposed the Vote of thanks to participants, department staff, speakers and the sponsors – IEDC and EMC for their support to make the programme a grand success.
+2017-18
+Two week ISTE STTP on “CMOS, MIXED SIGNAL AND RADIO FREQUENCY VLSI DESIGN”
+Two week ISTE STTP on “CMOS, MIXED SIGNAL AND RADIO FREQUENCY VLSI DESIGN” under the National Mission on Education through ICT (MHRD, Govt. of India) from 30 January 2017 to 4 February 2017 by IIT Kharagpur and IIT Bombay.
+Remote center coordinator
+:
+Mr. F R Rejish Babu (Asst. Prof, Dept of EE).
+A total of 27 participants attended the course.
+KTU Sponsored Faculty Development Programme on IoT in Smart Grid–ISG’18
+The Department of Electrical & Electronics Engineering conducted the KTU sponsored Faculty Development Programme during 11-01-2018 to 13-01-2018 on the topic “Internet of Things in Smart Grid”.
+The Programme was inaugurated on 11 January 2018
+at 9.30 a.m
+. by
+Mr.S R Anand
+, Deputy Chief Engineer, State Load Dispatch Centre of Kerala, Kalamasserry in the presence of
+Rev. Fr. John Vilayil, Bursar, Rev. Fr Raju Parakoor, Asst. Bursar, Prof. Viswanatha Rao
+, Vice Principal, & other dignitaries. Asst. Professors,
+Ms. Shyju Susan Mathew,
+and
+Ms Manju Sreekumar
+were the Co-ordinators of the programme. Participants from various institutions attend the programme.  All sessions were handled by experts from NITs, R & D organization, and other reputed institutions.
+Total of 42 participants comprising 14 external faculty, 12 internal faculty and PG students successfully completed the course for the award of certificates.
+Two-Week ISTE STTP on “Electric Power System”
+Two-Week ISTE STTP on  “Electric Power System” 10 July to 15 July 2017, at MBCET, organized by Indian Institute of Technology (IIT), Kharagpur.
+Workshop coordinator: Mr. Aswin R B
+Remote center coordinator: Mr. F R Rejish Babu.
+A total of 19 participants attended the course.
+Staff members attended: Dr. Nisha G. K., Ms. P.Sheenu, Ms. P.Sandhya, Ms.  Jomole Joseph, Ms. Divya N. A., Ms. A. V. Soumya, Ms. Shyju Susan Mathew, Ms. Manju Sreekumar, Ms. C. Sojy Rajan, Ms. Surasmi N L, Ms. Vandana P, Ms. Anu Gopinath, Mr. Arun S. Mathew and Ms. A.N.Archana
+2016-17
+Two – month AICTE approved FDP by IIT Bombay on – “Use of ICT in Education for Online and Blended Learning”
+Two – month AICTE approved FDP by IIT Bombay on “Use of ICT in Education for Online and Blended Learning” under the National Mission on Education through ICT (MHRD, Govt. of India) from 2 May 2016 to 7 July 2016.
+Remote center coordinator
+:
+Mr. F R Rejish Babu (Asst. Prof, Dept of EEE).
+A total of 4 candidates of EEE, Department successfully completed the course.
+KSCSTE & EMC Sponsored Short Term Training Programme on Advancements in Power Electronics, Drives for Grid Connected Renewable Energy Systems – APGRES’17
+The Short Term Training Programme on “Advancements in Power Electronics and Drives for Grid Connected Renewable Energy Systems-APGRES’17” was organized by the Department of Electrical & Electronics Engineering, Mar Baselios College of Engineering & Technology from 19 to 23 June 2017. The programme was sponsored by Kerala State Council for Science, Technology and Environment (KSCSTE) and Energy Management Centre (EMC), Kerala.
+The course was focused on giving a wide exposure on the applications of Power Electronics in Renewable Energy Systems, Grid Integration of Renewable Energy Sources, Power Quality issues and their mitigation, Energy Conservation and Management etc. This course was also aimed at offering a unique opportunity to faculty, research scholars and academicians, working in the relevant topics in Power Electronics applications to come closer through theoretical sessions and laboratory based demonstrations.
+The programme was inaugurated on 19 June 2017 at 9.30 a.m. by
+Mr. Ajith Gopi
+, Programme Officer and Head, Technical Consultancy Division, ANERT and
+Rev. Fr. Raju Parukoor,
+Asst. Bursar, MBCET in the presence of
+Prof. A S Shajilal,
+Head of the Department of EEE and Dean Academics,
+Prof. M. K. Giridharan
+and other dignitaries.
+Ms. Surasmi N L,
+Co-ordinator of the STTP welcomed all the dignitaries on and off the dais, participants and the in-house staff.
+Mr. Ajith Gopi
+delivered the keynote address. The felicitation was given by
+Prof. A S Shajilal
+, HOD, Dept of EEE.
+Ms. Vandana P
+, Co-ordinator of the STTP proposed the Vote of Thanks.
+Total of 41 participants comprising 15 external faculty, 16 internal faculty and 10 PG students successfully completed the course for the award of certificates.
+Sequential Faculty Development Programme (SFDP) on “Electrical Systems Design”
+The Department of EEE has initiated a new venture to enhance the teaching capabilities of Engineering College teachers. The first of the series is on the subject ‘
+Electrical Systems Design
+’, a core subject in the eighth semester Electrical & Electronics branch. The revised syllabus (
+2013 scheme of Kerala University
+) of Electrical Systems Design covers several new features of Electrical systems design. The non availability of adequate printed literature and the over dependence on statutory documents, has made it difficult for the teachers to teach the subject effectively. In the light of this, the Department of Electrical & Electronics Engineering, MBCET is organizing a
+Sequential Training Programme on Electrical Systems Design
+. The course content is primarily concentrating on the 8th semester syllabus content of the University of Kerala. Certainly this would be a good opportunity for the faculty members who are teaching this subject during the current semester to enhance and enrich their knowledge in this area.
+The resource persons include experts from industry under the leadership of
+Prof M K Giridharan
+, Dean (Academics), MBCET who is the author of Electrical System Design books which are included as references by Kerala University. The FDP was held from 28th January to 8th April, 2017. Participants include faculties from Government colleges as well.
+Course Coordinators
+: Mr. Rejish Babu F R and Ms. Jomole Joseph
+2015-16
+Two Day Training on Raspberry Pi Development
+Two day training on Raspberry Pi development was organized by Illumina which was handled by IFC3 India in association with Infero, Scientech Council, IIT Hyderabad. The training was open for all students of MBCET, which was conducted from 18th to 19th March 2016. Forty five students participated.
+Two Day Hands on Workshop  on design Engineering and Product Development
+Illumina organized a two day hands on workshop on Design Engineering and Product Development for S2 students of EEE. This was a venture to motivate and instill interest in the students to start doing such simple circuits on their own using scrap materials, and make their courses more interesting. Guiding them was a group from the startup company SOFDOS, in which one of the directors is an Alumni from EEE Dept. itself – Mr. Daniel Varghese (2009-13 batch). Ms. Jomole Joseph coordinated the event, assisted by ILLUMINA (EEE Dept. Association) Faculty Advisors, Ms. Divya N.A. and Mr. Arun S Mathew and Technical staff – Mr. Vishnu Chandran C L. The workshop was conducted on 21st and 22nd April 2016.
+KSCSTE Sponsored STTP On Machine Modeling & Application Of Power Electronics To Renewable Energy Systems-Mapres’15
+The Department of EEE of Mar Baselios College of Engg & Technology was one among the 50 colleges all over India, and one among the two colleges from all over Kerala chosen by KSCSTE to conduct the 5 day STTP on Machine Modelling & Application Of Power Electronics To Renewable Energy Systems.
+The course focused at introducing modern control system design techniques, with insight and intuition in dealing with real control engineering problems. The course also spot beamed to applying knowledge of classical, modern and optimal methods for control system design. The state-space design methods including state feedback and state observer were also introduced in this course. It also intended to investigate how nonlinear systems could be analyzed, and set the stage for analysis and design tools to handle these types of systems. To have hands on experience in various design aspects, the course included practical sessions.The Programmme was inaugurated on 07th December 2015 at 9.30 a.m. by Rev. Fr. Raju Parukoor Asst.Bursar, MBCET in the presence of Prof. A S Shajilal, Dept. of EEE & other dignitaries.
+A total of 25 candidates comprising 17 external candidates & 8 internal candidates successfully completed the course for the Award of certificates.
+This STTP was coordinated by Dr. Nisha G K and Mr. Aswin R B
+Before 2015
+STTP on “Power Electronics and Drives- Technology Advances, Trends and Applications”
+A 5-Day Short Term Training Program on ‘Power Electronics and Drives- Technology Advances, Trends and Applications’, PED-TATA’13, was organized by the Department of Electrical and Electronics Engineering with the approval of ISTE from 10th to 14th June 2013. The course focused on the latest trends and applications in Power Electronics and Drives. Also an intensive training program in ANSYS Maxwell, premier electromagnetic field simulation software by Entuple Technologies, Banglore was included. The STTP was coordinated by Ms. Sandhya.P and Ms. Soumya.A.V of Electrical Department.
+The Program was inaugurated on 10th June 2013 at 9.30 a.m. by our Assistant Bursar Rev. Fr.Raju Parukoor, in the presence of Dr.T.M.George, Principal, MBCET & other dignitaries. Lectures on various fields of Power Electronics were given by eminent personalities such as Dr.M.R.Baiju & Dr. Dinesh Gopinath from College of Engineering Trivandrum. Mr. S. Albert Alexander, from Kongu Engg college, Dr. Thomas Kurian, Head Department of Avionics, IIST, Trivandrum , Dr. Rijil Ramachand, from NIT Calicut and Mr. Siji C Joseph, Scientist, CDAC. A total of 38 candidates successfully completed the course for the Award of Certificates.
+Decennial Lecture Series
+In connection with the decennial celebrations, the Department initiated the Decennial Lecture Series on 9th December 2011. The first session was on the topic “Renewable Energy Options an Overview”, by Dr. K.N. Ramachandran, Technology Advisor, FILTRAN Ltd.,Ottawa, Canada. He was accompanied by Prof. P. Vijayachandran, FIE, Director, School of Management in Hospitality, Marian College, Kuttikanam for the discussion with the audience.
+STTP on “Trends in Power Systems and MiPower Applications”
+A 5-day STTP on “Emerging Trends in Power Systems & Mipower Applications” was organized by the Department from 21
+st
+– 25
+th
+November 2011. Around 20 participants from various Engineering Colleges attended the course.
+Er. Aby Joseph (Joint Director, CDAC-T), Dr. Ashok S. (Dept. of EE, NIT Calicut), Prof. M. K. Giridharan (HoD (EE), MBCET) spoke on the occasion. 3 experts from Power Research & Development Consultants Pvt. Ltd. Bangalore handled the training on MiPower Software.
+The Program was coordinated by Ms. Divya N. A. (Asst. Professor, Dept. of EEE) and Mr. Praveen S Raj ((Asst. Professor, Dept. of EEE).
+STTP on “Electrical Systems Design”
+The Department conducted an ISTE approved STTP for the Faculty Members on the topic, “Electrical Systems Design” from November 8
+th
+– 13
+th
+2010. About 45 participants from various Engineering Colleges in Kerala and Industries such as KSEB attended the course.
+Prof. P.V. Varkey (Retd. Chief Inspector, Govt. of Kerala, HoD (EE), St. Joseph College of Engineering and Technology, Palai), Prof. M. K. Giridharan (HoD (EE), MBCET), Mr. Umasankar (Electrical Inspector (Retd)), Mr. Rajagopal (Electrical Consultant) and Mr. Rabindra Bisoy (DGM, V-Guard Industries Ltd.) spoke on the occasion.
+Workshops/Seminars/FDPs Attended by Faculty
+2024-25
+SEMINAR ATTENDED
+Ms. Revathy K P
+and
+Ms. Neetha Chandran,
+Assistant Professor/(s), EED has completed the Faculty Development Programme on “
+Engineering Entrepreneurship and IPR”
+organized by APJ Abdul Kalam Technological University in association with Kerala Startup Mission (KSUM) and Udhyam Learning Foundation held from 5 March 2025 to 26 March 2025.
+Ms. Neetha Chandran,
+Assistant Professor, EED, attended an online seminar on
+‘Deep Learning for Next-Gen Electronics’
+organized by the Department of Electronics and Telecommunication Engineering, Symbiosis Institute of Technology, Pune, on May 3, 2025.
+FDP ATTENDED
+Ms. Revathy K P
+and
+Ms. Neetha Chandran
+, Assistant Professor/s, EED attended a five day Faculty Development Programme on
+“Intellectual Property Rights”
+organized by Amal Jyothi College of Engineering, Kanjirappally from 17 February 2025 to 21 February 2025.
+WEBINAR ATTENDED
+Ms. Revathy K.P.
+and
+Ms. Neetha Chandran
+, Assistant Professor/s, EED attended a webinar on “
+Artificial Intelligence for Electronics
+” held on
+10 march 2025
+organized by the Electronics and Telecommunication Engineering Department, Symbiosis Institute of Technology, Pune.
+FACULTY TRAINING PROGRAM
+Ms. Manju Sreekumar
+, Assistant Professor & AHoD, EED,
+Mr. Midhun G.
+and
+Mr. Ayush Vijayan
+, Assistant Professors, EED attended a one-day Faculty Training Program on
+“Adapting to AI: Innovations & Strategies for Responsible content Management”
+organized by Digital University Kerala in association with Mozilla RCC at Digital University Kerala on 28 January 2025.
+FACULTY DEVELOPMENT PROGRAM
+Ms. Revathy K P, Ms. Neetha Chandran, Mr. Ayush Vijayan, Ms. Sheenu P, Ms. Vandana P.
+and
+Ms. Vrinda Prasad,
+Assistant Professor/s, EED participated in the AICTE Training and Learning (ATAL) Academy
+Faculty Development Program on Advanced Technologies for Smart Power Systems
+at Noorul Islam Centre for Higher Education from 10/02/2025 to 15/02/2025.
+WORKSHOP ATTENDED BY FACULTY
+Dr. Elizabeth Varghese,
+Associate Professor & Head, EED successfully completed NPTEL+ Workshop on Effective Teaching in online mode.
+Dr.Dishore S V
+,
+Mr. Ramjith RP, Dr.Tessy Mathew
+and Dr
+. Jesna Mohan
+of MBCET has participated in the International Seminar on
+BHARATIYASASTRAS AND SAMSKRITAMBRIDGING TRADITIONAL WISDOM & MODERN INNOVATION FOR VIKASITH BHARAT
+, organized by Rajiv Gandhi Centre for Biotechnology (RGCB), Central Sanskrit University(CSU), and ICFAI University, held on 3 and 4 January 2025 at the Rajiv Gandhi Centre for Biotechnology (RGCB),Thiruvananthapuram, Kerala.
+NATIONAL ENERGY CONSERVATION DAY
+The
+Energy Management Centre Kerala
+, in collaboration with NSS, celebrated
+National Energy Conservation Day
+across Kerala on 14 December 2024.
+Dr. Nisha G K
+, Professor, EED, and
+Ms. Revathy K P
+, Assistant Professor, EED attended the event. The event was held in each of the 14 districts, with one venue in each district.
+2023-24
+FDPs/STTPs Attended
+Dr. Dishore S V
+and
+Dr. Soumya A V
+from EEE Department has attended a workshop on ” Promotion and Development of New and Innovative Solar PV applications in selected Indian Cities (Capacity Expansion Discussion on NISA Technologies in Kerala)” conducted by ANERT as a part of Indo-German Solar Energy Partnership-Innovative New Solar Areas (IGSP IN-Solar) on 10th December 2024 (Tuesday) at Thiruvananthapuram .
+The capacity expansion workshop delved into the comprehensive understanding of innovative solar applications, and explored the challenges faced in their adoption within Kerala.
+Dr. Elizabeth Varghese
+, Head of the Department & Associate Professor, Department of Electrical & Electronics Engineering, Mar Baselios College of Engineering & Technology Nalanchira, attended the
+Programme Development Workshop on the Electrical and Electronics Sector
+, held at Thiruvananthapuram on 20-11-2024, organised by Kerala Development and Innovation and Strategic Council.
+Dr. Shalu George K.,
+Associate Professor, and
+Ms. Manju Sreekumar
+, Assistant Professor, Department of Electrical & Electronics Engineering, Mar Baselios College of Engineering and Technology, attended the online Faculty Development Programme on “
+Smart Sensor Systems: IoT-Based Sensor Design, Development and Applications in Electrical Engineering
+“, organised by the Department of Electrical and Electronics Engineering, Mangalam College of Engineering from 18-11-2024 to 22-11-2024. Development and Innovation and Strategic Council.
+Dr. Nisha G K
+, Professor, EED has participated in National Level One Week Online Faculty Development Program on “
+Cyber Security: Advanced Concepts and Practices
+” from 21 to 25 October 2024 organized by Department of Information Technology in association with IOIT ACM Student Chapter, AISSMS Institute of Information Technology, Pune.
+Dr. Nisha G K
+(Professor, EED & IQAC Coordinator) and
+Ms. Surasmi N L
+(Assistant Professor, EED) attended 5 days FDP (4th October, 7th to 10th October) on
+“Exploring New Frontiers in Power Systems and Power Electronics”
+conducted by Department of Electrical and Electronics Engineering, Carmel College of Engineering and Technology, Alappuzha.
+Mr. Anil J,
+Assistant Professor, EED attended a two days seminar on “
+Deep Learning Techniques and Tools for Medical Applications
+” sponsored by Science and Engineering Research Board and organized by Baselios Mathews II College of Engineering on 3
+rd
+and 4
+th
+of October 2024.
+Ms. Revathy K P, Ms.Neetha Chandran
+and
+Mr. Ayush Vijayan,
+Assistant Professor/s, EED has completed a
+3 Day Workshop on Machine Learning
+organized by Department of Computer Science and Engineering, Mahaguru Institute of Technology on 10
+th
+September 2024.
+Dr. Nisha G K
+, Professor, EED and IQAC coordinator participated in the workshop on
+IPR Awareness
+organized by IPR Cell, APJ Abdul Kalam Technological University on 04.09.2024 at College of Engineering Trivandrum.
+Dr. Nisha G K
+, Professor, EED and IQAC coordinator attended a Lecture by Dr. Zachariah Mathew on “
+Positioning Kerala as an Academic Hub: Essential Strategies for success
+” organized by The Kerala State Higher Education Council on 10.09.2024 at Senate Chamber, University of Kerala, Senate House Campus, Palayam.
+Dr. Nisha G K,
+Professor, EED participated in the webinar on
+Institutional Preparedness for Accreditation & Ranking Framework
+, organized by MasterSoft & IQAC, Baba Farid University of Health Sciences, Faridkot, on 24/07/2024
+Dr. Nisha G K,
+Professor, EED participated National Webinar on
+The Indian Knowledge Systems (IKS)
+organized by MasterSoft in association with Malwanchal University, Indore on 08/08/2024
+Dr. Nisha G K,
+Professor, EED and
+Ms. Surasmi N L,
+Assistant Professor, EED attended a seminar on the topic “
+Climate Change and Energy Conservation
+” as part of 32
+nd
+Foundation Day celebration activities of
+Energy Conservation Society (ECS)
+at Press Club, Trivandrum on 8
+th
+July 2024.
+faculty development programmes
+Ms. Shyju Susan Mathew, Ms. Sheenu P, Ms. Revathy K P, Dr. Sheryl Arulini, Ms. Neetha Chandran
+and
+Ms. Parvathy C J
+, Assistant Professor/s, EED has participated in the national level online event “
+Matlab for Engineers: An Experiential Learning
+” organized by Department of Electrical and Electronics Engineering, MIT-Manipal in association with Mathworks India Pvt Ltd from 18 June to 18 July 2024
+Ms. Shyju Susan Mathew
+,
+Ms. Surasmi N L, Ms. Shilpa Susan Peter, Dr. Dishore S V, Ms. Vrinda Prasad, Ms. Neetha Chandran
+and
+Ms. Parvathy C J,
+Assistant Professor/s, EED has participated in the
+Mathworks training on Simulink and UAV Control for MBCET
+organized by Mathworks Training Services from 9th to 11th July 2024
+Ms. Revathy K
+P
+, Assistant Professor, EED has participated in the Faculty Development Programme on
+“AI @ Energy Efficiency”
+organized by the Department of Electrical and Electronics Engineering, Vimal Jyothi Engineering College from 26/06/2024 to 28/06/2024.
+Dr. Dishore S V
+, Assistant Professor, EED has participated in the workshop on
+“Micro-grid Systems, Simulations and Implementation using MATLAB”
+organized by the Department of Electrical and Electronics Engineering, Amal Jyothi College of Engineering, Kanjirappally from 22/07/2024 to 26/07/2024.
+Dr. Nisha G K,
+Professor, EED,
+Ms. Surasmi N L
+and
+Mr. Anil J
+Assistant Professor/s, EED attended a seminar on the topic “
+Hydrogen Energy for Sustainable Future”
+” organized by the Department of Electrical and Electronics Engineering, MES College of Engineering, Kuttipuram from 08/07/2024 to 12/07/2024
+Mr. Anil J,
+Assistant Professor, EED attended a 5 days Faculty Development Program on “
+Publishing in High Impact Scopus, SCI and SCIE Indexed Journal
+s” organized by Gokul Global University, Siddhpur in collaboration with Nucleus of Learning and Development from 24
+th
+June 2024 to 29
+th
+June 2024.
+Dr. Shalu George K
+(Associate Professor, EED),
+Ms. Manju Sreekumar, Ms. Sandhya P, Ms. C. Sojy Rajan, Ms. Shyju Susan Mathew, Ms. Surasmi N L, Ms. Revathy K P, Mr. Anil. J, Ms. Neetha Chandran
+and
+Mr. Ayush Vijayan
+Assistant Professors, EED participated in the 5 days Faculty Development Program on
+“Engineering Next- Gen Materials”,
+organized by the Department of Science and Humanities, Mar Baselios College of Engineering and Technology which was held from 18
+th
+June 2024 to 22
+nd
+June 2024.
+UHV Program :
+Dr
+. Ushakumari S.
+, Dean Corporate Relations and Professor, EED, attended the UHV program held at SRM University, Chennai from May 1
+st
+to 8
+th
+May 2024. The program was sponsored by AICTE.
+Dr. Shalu George K, Ms. Surasmi N L and Ms. Revathy K P
+attended a 5 days online FDP on “Research and publication awareness” from 19/02/2024 to 23/02/2024 organized by the Department of Artificial Intelligence and Machine Learning, Mahaguru Institute of Technology, Kayamkulam, Alappuzha.
+Dr. Nisha G K, Ms. Sandhya P, Ms. Manju Sreekumar, Ms. C Sojy Rajan, Ms. Surasmi N L
+attended an online 5 days STTP on “Enabling Power Electronics Technologies for EVs Ecosystem” from Feb 05 to 09, 2024 organized by the Department of Electrical Engineering, NIT Uttarakhand.
+Ms. Revathy K P,
+Assistant Professor, EED attended a Faculty Development Programme on “Recent Trends in Biomedical Applications using AI” from 29 January 2024 to 3 February 2024, organised by the Department of Biomedical Engineering in association with Centre for Faculty Development, St. Peter’s Institute of Higher Education and Research.
+Ms. Revathy K P
+, Assistant Professor, EED attended a Faculty Development Programme on “Recent Trends in Biomedical Applications using AI” from 29 January 2024 to 3 February 2024, organized by the Department of Biomedical Engineering in association with Centre for Faculty Development, St. Peter’s Institute of Higher Education and Research.
+Workshops Attended
+Dr. Dishore S V
+, Assistant Professor, EED participated in the online workshop “
+AI/ML based controllers design and their applications in realtime platform
+” conducted by National Institute of Technology Rourkela from 28
+th
+September 2024 to 2
+nd
+October 2024.
+The following faculty members and students from the Department of Electrical and Electronics Engineering attended the seminar on “Artificial intelligence in Power Distribution”, jointly organised by Energy Management Centre (EMC) and Centre for Energy Studies (CES) on 14 February 2024: Dr. Soumya A V, Ms. C Sojy Rajan, Ms. Vandana P, Mr. Aswin R B, Ms. Shilpa Susan Peter, Assistant Professors, EED, Mr. Ram Abhishek and Mr.  Sanjay S S (S8 EE), Mr. Abhijith Anand, Mr. Arunesh J B, Ms. Blessy Smitha Das, and Ms. Sophy Maria Joy (S6 EE). The seminar was inaugurated by Shri. K. Krishnankutty, Hon’ble Minister for Electricity, Kerala and the presentation was done by Shri. Rajesh Shenoy, Centre for Study of Science, Technology and Policy (CSTEP), Bangalore.
+S. Ushakumari
+, Dean, Corporate Relations and Professor, EED participated in the Butterfly Activists Meet 2023 on 24 November 2023 at Darsana Pastoral Centre, Peechi, Thrissur.
+Dishore S V
+, Assistant Professor, EED, successfully participated in the online MATLAB workshop on “Advanced Control and Energy System Modelling” organised by LMS solutions on 7 October 2023.
+Dishore SV
+has participated and successfully completed a workshop on “Electric Vehicle Design using MATLAB” on 30/09/2023.
+Sandhya P and Mr. Aswin R B
+attended one day workshop on “Two-wheeler retrofitting live demo” by ANERT on 29/09/2023.
+2022-23
+AWARENESS SESSION
+Ms. Revathy K P,
+Ms.
+Neetha Chandran
+and seven students from EED attended an Energy Conservation Awareness session organized by EMC on 7 October 2023. The event focused on capacity improvement of women technocrats on the possibilities of energy conservation and its practical implementation in the state.
+Dr. Dishore S V
+, Assistant Professor, EED, successfully participated in the online MATLAB workshop on “Advanced Control and Energy System Modelling” organized by LMS solutions on 7 October 2023.
+Dr. Dishore S V
+, Assistant Professor, EED, successfully completed a
+30 hrs Course
+on “Compendium of Electric Vehicle Engineering’’ organized by the Department of EEE & Centre for Continuing Education, Sri Ramakrishna Engineering College, Coimbatore, Tamilnadu.
+Dr. Nisha G K, Ms. Sandhya P.
+and
+Ms. Surasmi N L
+attended a One Week FDP on “E-Mobility and Associated Power Electronics” from 21 to 25 August 2023 organized by the Department of Electrical & Electronics Engineering, Ajay Kumar Garg Engineering College Ghaziabad.
+Dr. S. Ushakumari
+, Professor, EED attended Theme centred interaction Stage 1 on the theme “Leading myself and others with TCI” from 12 to 15 September 2023 at Sthala, Thiruvananthapuram.
+Ms. Revathy K P
+participated in the Faculty Development Programme on “Tricks and Techniques for Research Article and Thesis Writing using Modern e-tools” on 2 August 2023 organized by the Department of Mechanical Engineering, Baselios Mathews II College of Engineering.
+Ms. Soumya A V
+, (Waste management cell coordinator), Assistant Professor, EED represented MBCET for an “Awareness Session on Green and Sustainable Practices for Buildings and Industries” on 09-08-2023 at Taj Vivanta. The session was hosted by CII and IGBC, which was sponsored by Novenco and Panache. Distinguished panelists from CREDAI, Kerala, and IGBC led the session on achieving sustainability in buildings through green practices. Ms. Neethu Jain, MD of Panache Green Tech Solutions, gave the keynote address on mitigation measures for UHI and climatic solutions
+Dr. Dishore S V
+, Assistant Professor from Mar Baselios College of Engineering and Technology has actively participated in DST PURSE Workshop on “Future of Sustainability: Electric Vehicles and Smart Grid” from 27-07-2023 to 29-07-2023, organized by Centre for E-Mobility and Department of Electrical and Electronics Engineering, SRM institute of Science and Technology, Katankulathur, Chennai.
+Dr. Dishore S V
+, Assistant Professor, EED participated in a One-week National Level Online Faculty Development Programme on “Recent Trends in Green Energy Initiatives and Soft Computing Techniques” from 11-07-2023 to 15-07-2023 organized by the Department of Electrical and Electronics Engineering, Mahatma Gandhi Institute of Technology, Gandipet, Hyderabad.
+Dr. Dishore S V
+, Assistant Professor, EED completed the 20 hours fastrack course on “Electric Vehicles”, organised by the Department of Electrical and Electronics Engineering, Sri Ramakrishna Engineering College, Coimbatore from 2 to 5 May 2023.
+Dr. Nisha G K, Ms. Surasmi N L, Dr. Dishore S V attended the
+State Electric Vehicle Consortium Conclave series 2023
+on “LTO Batteries and its Battery Management System (BMS)” conducted by Kerala Development and Innovation Strategic Council (K-DISC) on April 5, 2023 at Hycinth Hotel, Thiruvananthapuram.
+Dr. Ushakumari S (Dean, Corporate Relations), Dr. Shalu George K., Ms. Manju Sreekumar and Dr. Sheryl Arulini from EED attended ‘
+Meetings of the Minds’ – a panel discussion organized by MERP Systems
+to discuss the current industrial trends/needs and academic focus to explore collaborative synergies in the application of Machine Learning and AI, on April 5, 2023, at the Mascot Hotel in Thiruvananthapuram. The team was joined by Dr. Jayakumari J, (HoD ECE), Ms. Deepa PL (Assistant Professor, ECE), Dr. Jisha John (HoD CSE), Dr. Tessy Mathew (Professor, CSE), Dr. Jesna Mohan (Assistant Professor, CSE), and Mr. Vipinkumar K.C (Corporate Relations).
+Dr. Dishore S V, Ms. Soumya A V, Ms. Shilpa Susan Peter and Ms. Vrinda Prasad from EED along with Dr. Premchand V P and Mr. Bobin Saji George (MED) and Mr. Jinu Baby and Mr. Jijo Jose (ECED) attended the
+Seminar on “The Rise of Electrification and Robotics Autonomous Systems: Trends and Opportunities”
+conducted by
+MathWorks
+on April 4, 2023 at Hycinth Hotel, Thiruvananthapuram.
+Dr. Dishore S V
+attended a Five-Day Online Faculty Development Programme on
+“
+Electric Vehicle Technology: Challenges and Opportunities
+”
+organized by Department of Electrical and Electronics Engineering, Sasi Institute of Technology & Engineering, Tadepalligudem, West Godavari district, Andhra Pradesh, India, from 19-12-2022 to 23-12-2022.
+Dr. Dishore S V
+attended the Energy Conservation Building Code and ECO NIWAS SAMHITA workshop conducted by EMC (Energy Management Centre), Thiruvananthapuram on 14 December 2022.
+Dr. Nisha G. K.
+attended a workshop session on Energy Efficiency and Energy Conservation on 10 December 2022 organised by Energy Management Centre Kerala in association with Global Institute for Design Engineering.
+Ms. Anila A. V.
+attended 3-days National online workshop on Data Exploration through Python from 09 to 11 December 2022, organised by PES Institute of Technology & Management in association with Hi Learn Edutech Institute.
+Mr. Ajish Ashok
+attended 3-days IOT training session from 5 to 7 December 2022 for Unnati Lab held at IISC Bangalore in association with Intel.
+2021-22
+Dr. Nisha G. K. and Ms. Jeneena Babu attended a Motivational talk on “Power of Purpose and Resilience in Life and Work” on 3 March 2022 organised by WSU MBCET in association with Institution’s Innovation Council (IIC).
+Dr. Nisha G. K. attended a Webinar on “SHE Talks – Life journey of Daya Gayathri” on 7 March 2022 organized by SHE ISTE MBCET and WSU MBCET.
+Ms. Surasmi N. L. attended 5 days Indo-US SPARC Online Workshop on “DC Community Level Grid Challenges in Protection, Control and Stability (DCLG)-2022” organized by Department of Electrical Engineering, National Institute of Technology Calicut in association with Virginia Tech, USA and sponsored by Scheme for Promotion of Academic and Research Collaboration (SPARC) from 1 to 5 March 2022.
+Ms. Archana A N attended ATAL FDP on “Electric Charging Station for Vehicles” from 21 to 25 February 2022, organized by the Department of Electrical Engineering, Government Engineering College, Thrissur.
+Dr. S. Ushakumari participated and successfully completed the Part 2 of the online “UHV Refresher 1 FDP” organized by All India Council for Technical Education (AICTE) from 17 January, 2022 to 22 January, 2022.
+Ms. Jomole Joseph P. attended a Webinar on “Research Opportunities in AI & DS: Too Big to Miss”, organized by Amrita Center for Computational Engineering and Networking (CEN), Coimbatore Campus, on 5 February 2022.
+Ms. Jomole Joseph P. and Ms. Surasmi N. L. attended an online Workshop on “Renewable Energy: Materials and Devices”, organized by National Institute of Technical Teachers Training & Research in association with I K Gujral Punjab Technical University, Amritsar Campus on 3 and 4 February 2022.
+Ms. Archana A. N. attended the online programme on “EV Technology and Public Charging Station” organized by National Institute of Electronics and Information Technology (NIELIT) Calicut during 24 – 28 January 2022.
+Dr. Nisha G K, Ms. Sheenu P, Ms. Sandhya P., Dr. Shalu George K., Ms. Surasmi N L, and Ms. Archana A.N attended the AICTE-ISTE sponsored FDP on “AI in Power and Energy Utilities” from 18 January 2022 to 24 January 2022, organized by Department of EEE, Mar Baselios College of Engineering and Technology, Thiruvananthapuram.
+Dr. S. Usha Kumari, Professor, EED attended the “5-day Online Universal Human Values Refresher 1 FDP: Part 2” organized by the All-India Council for Technical Education (AICTE) from 18-01-2022 to 22-01-2022.
+Dr. Nisha G. K. and Ms. Sandhya P. attended a DTE sponsored Online Course on “Electric & Hybrid Vehicles: Scope and Challenges” from 10 January 2022 to 15 January 2022 organized by Government Engineering College, Idukki.
+Ms. Jomole Joseph P. and Ms. Shyju Susan Mathew attended Webinar on “Disaster Mitigation and Management”, organized by The Environmental and Water Resources Engineering Research Group, Department of Civil Engineering, MBCET in association with the MBCET Student Chapter of American Society of Civil Engineers (ASCE) on 27 December 2021.
+Ms. Elizabeth Varghese, Assistant Professor, EED attended & successfully completed AICTE Training and Learning (ATAL) Academy sponsored online FDP on “Non linear Systems – Dynamics and Control” from 13 to 17 December 2021 organized by Department of Electrical Engineering, Government Engineering College, Thrissur.
+Ms. Anu Gopinath and Dr. Shalu George K., Assistant Professors, EED attended & successfully completed AICTE Training and Learning (ATAL) Academy sponsored online elementary FDP on ” Robotics and Artificial Intelligence” from 13 to 17 December, 2021 organized by Manav Rachna International Institute of Research and Studies.
+Ms. Surasmi N. L. attended & successfully completed AICTE Training and Learning (ATAL) Academy sponsored online elementary FDP on “Power Electronics for Power Systems” organized by Department of Electrical Engineering, RIT Kottayam from 6 to 12 December 2021.
+Mr. Praveen Raj R. S., Mr. F. R. Rejish Babu, Ms. Shilpa Susan Peter and Ms. Ashni Elisa George completed the 5-day Online FDP on ‘Inculcating Universal Human Values in Technical Education’ organized by the All-India Council for Technical Education (AICTE) from 08-11-2021 to 12-11-2021.
+Dr. Nisha G. K., Dr. Shalu George K., Ms. Surasmi N. L and Ms. A. N. Archana attended a webinar on ‘Electric Vehicle Charging System and Challenges’ organised by Department of Electrical and Electronics Engineering in association with Power Electronic Research Group and EV Research Cell, Mar Baselios College of Engineering and Technology, Thiruvananthapuram on 9 October 2021.
+Dr. Shalu George K. and Ms. A. N. Archana attended a webinar on ‘Grid Integration of Wind Power Systems’ organised by Power Electronics Research Group, Department of Electrical and Electronics Engineering, Mar Baselios College of Engineering and Technology on 29 November 2021.
+Dr.Shalu George K., Ms. C. Sojy Rajan, Ms. Manju Sreekumar, Ms. Manju Ann Mathews, Ms. Anu Gopinath and Ms. Archana A. N. completed the 5-day Online FDP on ‘Inculcating Universal Human Values in Technical Education’ organized by the All India Council for Technical Education (AICTE) from 27-09-2021 to 01-10-2021.
+Ms. Elizabeth Varghese, Ms. Sheenu P. and Ms. Shilpa George completed the 5-day Online FDP on ‘Inculcating Universal Human Values in Technical Education’ organized by the All India Council for Technical Education (AICTE) from 13-09-2021 to 17-09-2021.
+Dr. Nisha G K, Ms. Sandhya P, Ms. Shyju Susan Mathew, Ms. Surasmi N L, Ms. Jeneena Babu successfully completed the 5-day Online FDP on the theme ‘Inculcating Universal Human Values in Technical Education’ organized by All India Council for Technical Education (AICTE) from 16-08-2021 to 20-08-2021.
+Ms. Surasmi N L attended a 5-day Online ATAL FDP on Microgrid an Opportunity: Electric Vehicles and Renewable Energy Resources organized by Dayalbagh Educational Institute, Agra from 05-07-2021 to 09-07-2021.
+Ms. Surasmi N L attended a 5-day Online ATAL FDP on Recent trends in power system operation and control organized by ATAL online FDP from 12-07-2021 to 16-07-2021.
+2020-21
+Dr. Nisha G K, Sheenu P attended Online FDP on Training Program on Enhancing Technical Writing Skills organized by Dept. of Electrical and Electronics Engineering, Ahalia School of Engineering and Technology, Palakkad from 07-06-2021 to 11-06-2021.
+Dr. Nisha G K, Sandhya P, Surasmi N L, Jeneena Babu attended Online FDP on Recent Trends in Electric Vehicles and System Design organized by Dept. of Electrical and Electronics Engineering, Sahrdaya College of Engineering and Technology, Kodakara from 07-06-2021 to 09-06-2021.
+Dr. Nisha G K, C Sojy Rajan, Hridya C K attended Online FDP on Smart Power Grid Technologies -Trends, Opportunities and Challenges (SPGTOC’21) organized by Dept. of Electrical and Electronics Engineering, MBCET from 03-05-2021 to 08-05-2021.
+Dr. Nisha G. K., Ms. Elizabeth Varghese, Ms. Shyju Susan Mathew, Ms. C. Sojy Rajan, Mr. Aswin R B, Ms. Archana A. N., Ms. Keerti S Nair attended Webinar on Dynamics and Control of Aerial Vehicles organized by Dept. of Electrical and Electronics Engineering, MBCET on 28-05-2021.
+Dr. Nisha G K, Dr. Shalu George K., Ms. Anu Gopinath, Ms. Archana A. N., Ms. Surasmi N L, Hridya C K attended Webinar on Introduction to Model Predictive Control and its Applications organized by Dept. of Electrical and Electronics Engineering, MBCET on 22-05-2021.
+Surasmi N L, C Sojy Rajan attended Online FDP on Distributed Generation & Smart Grids organized by Dept. of EEE, Mahaguru Institute of Technology, Kattachira from 08-04-2021 to 09-04-2021.
+Surasmi N L, C Sojy Rajan, Hridya C K attended Online Workshop on Simulation of Electronic circuits and systems using MATLAB/Simulink and PSpice organized by Dept. of EEE, MBCET from 07-04-2021 to 09-04-2021.
+C Sojy Rajan, Surasmi N L, Hridya C K attended Webinar on Emerging Trends in the Electric Vehicle Space organized by Dept. of EEE, MBCET on 21-04-2021.
+C Sojy Rajan, Surasmi N L, Hridya C K attended Webinar on Industrial Applications of Power Electronics organized by Dept. of EEE, MBCET on 08-04-2021.
+Surasmi N L attended Online FDP on Environmental Impact Assessment organized by Dept. of EEE, MDIT from 19-04-2021 to 23-04-2021.
+Jomole Joseph attended Online Certification course on Online National Level Workshop on “Project Proposal Writing” conducted on Saturdays organized by Nodal Office, Christ (Deemed to be University) from 10-04-2021 to 24-04-2021.
+Dr. Nisha G K attended Online Workshop on Introduction to Industrial Automation organized by Dept. of EEE, MBCET from 29-04-2021 to 30-04-2021.
+Dr. Shalu George K., Ms. Anu Gopinath, Ms. Archana A. N. attended Online FDP on Python for Engineers organized by Electronics and Communication Engineering department, Vimal Jyothi Engineering College, Kannur from 26-04-2021 to 30-04-2021.
+Surasmi N L attended Online FDP on KTU sponsored FDP-Advancements in Systems for Electric and Hybrid Vehicles organized by Dept of EEE, Viswajyothi College of Engineering and Technology from 19-04-2021 to 23-04-2021.
+Ms. Manju Ann Mathews attended Online Workshop on Patent Filing Process, PCT, Specifications, Claims and Patent Search organized by Rajiv Gandhi National Institute of Intellectual Property Management, Nagpur from 01-03-2021 to 03-03-2021.
+Dr. Nisha G K, Sheenu P, Soumya A V, Jeneena Babu, Surasmi N L, Manju Ann Mathews, Manju Sreekumar, Jomole Joseph P attended Two days online symposium organized by Women’s studies unit, MBCET organized by Mar Baselios College of Engineering and Technology from 05-03-2021 to 06-03-2021.
+Dr. Nisha G K, Shyju Susan Mathew, Sandhya P, Archana A N, Jeneena Babu attended Online FDP on State of the Art Technologies in EV Control organized by Government Engineering College Palakkad from 03-03-2021 to 05-03-2021.
+Surasmi N L attended Online Workshop on Advanced Materials for Power Electronic Circuits organized by Dept. of EEE, BMS College of Engineering, Bengaluru from 01-03-2021 to 05-03-2021.
+Dr. Nisha G K, Surasmi N L, Jeneena Babu, C Sojy Rajan attended Online FDP on Modern Trends in Power Electronics organized by Dept. of EEE, College of Engineering Perumon from 08-03-2021 to 12-03-2021.
+Ms. Manju Ann Mathews attended a National Level Research Seminar on Green Energy-2021 organized by Dept. of EEE, VJCE on 20-03-2021.
+Ms. Jomole Joseph P, Mr. Aswin R B attended training on Inculcating Universal Human Values in Technical Education organized by All India Council for Technical Education (AICTE) from 08-03-2021 to 12-03-2021.
+Ms. Jeneena Babu, Ms.Archana A N, Ms Sandya P, Ms Manju Sreekumar, Ms. Surasmi N L attended Online FDP on Opportunities and Challenges of Integrating Renewable Energy in Smart Grid organized by Dept. of EEE,VJCE from 15-03-2021 to 19-03-2021.
+Dr. Nisha G K, Ms. Manju Ann Mathews, Ms C Sojy Rajan, Ms Surasmi N L, Dr. Shalu George K., Ms. Anu Gopinath, Ms. Archana A. N, Ms.Shyju Susan Mathew, Ms Sandya P, Ms. Manju Sreekumar, Ms. Hridya C K attended Webinar on National Education Policy 2020 organized by TLC,MBCET on 23-03-2021.
+Ms. Shyju Susan Mathew, Ms. Anu Gopinath attended Online STTP on Robotics – Modeling, Planning and Control – Phase I organized by Department of Electrical Engineering, Government Engineering College Palakkad from 15-03-2021 to 20-03-2021.
+Ms. Surasmi N L attended Webinar on Articulating course outcomes, program outcomes and mappings organized by Mastersoft ERP solutions pvt. ltd., Nagpur on 20-03-2021.
+Ms C Sojy Rajan, Ms Manju Ann Mathews attended Webinar on IP as a Strategic Tool for Entrepreneurship Development organized by Technology Information, Forecasting and Assessment Council (TIFAC), Department of Science and Technology, Govt. of India in association with Intellectual Property Rights Information Centre – Kerala (IPRICK), Kerala State Council for Science, Technology and Environment (KSCSTE) from 23-03-2021 to 24-03-2021.
+Dr. Shalu George K, Ms. Shyju Susan Mathew, Ms. Anu Gopinath, Ms. Keerti S Nair, Ms. Ashni Elisa George attended Online STTP on Control System Design – Classical and Modern with Hands-on organized by College of Engineering Pune from 22-03-2021 to 27-03-2021.
+C Sojy Rajan, Surasmi N L attended Online FDP on Power System Security & IoT: A Future Energy Scenario organized by Department of EEE, Sree Buddha College of Engineering, Pattoor from 15-03-2021 to 19-03-2021.
+C Sojy Rajan, Manju Sreekumar, Archana A N attended Online FDP on Role of Energy Storage Systems in Microgrid & Electric Vehicles organized by TEQIP-II Sponsored, Department of EEE, TKM College of Engineering from 22-03-2021 to 27-03-2021.
+Archana A N attended Webinar on Resiliency and Reliability of Power Electronics Converters organized by Department of Electrical Engineering Jamia Millia Islamia, New Delhi on 10-03-2021.
+Jomole Joseph attended Online FDP on Design Thinking organized by College of Engineering, Trivandrum and DTE, Gov.of Kerala from 22-03-2021 to 27-03-2021.
+Dr. Nisha G K, C Sojy Rajan, Surasmi N L, Jeneena Babu attended Online FDP on Research Opportunities in Smart Grid Technologies organized by Department of EEE, College of Engineering, Perumon, TEQIP-II Sponsored, from 22-03-2021 to 27-03-2021.
+Ms. Manju Ann Mathews attended Online FDP on Recent research trends in industrial drives and Power Systems organized by Department of EEE, Rajiv Gandhi Institute of Technology, Kottayam, DTE Sponsored from 23-03-2021 to 27-03-2021.
+Surasmi N L attended Online FDP on Industrial Electrical Safety- Issues & Innovations organized by Dept. of EEE, Musaliar College of Engineering, Pathanamthitta from 24-03-2021 to 30-03-2021.
+C Sojy Rajan attended Online FDP on Electric Vehicles organized by Department of EEE, College of Engineering, Kidangoor, TEQIP-II Sponsored, from 29-03-2021 to 02-04-2021.
+Dr. Shalu George K., C Sojy Rajan, Hridya C K attended Other on Women’s Day Talk by Dr Divya S Iyer organized by WSU, MBCET on 08-03-2021.
+Ms. Surasmi N L attended a Distinguished Lecture Programme by Dr. Peter J Grobovic on 27 February 2021 organized by IEEE PELS, Vimal Jyothi College of Engineering.
+Ms. Surasmi N L attended Webinar on ‘Her Entrepreneurial Life Journey’ organized by WSU, MBCET on 11-02-2021.
+Dr. Shalu George K. and Ms. Anu Gopinath attended a 5 day Online FDP on Research Initiatives in Advanced Control Systems conducted by the Department of Electrical and Electronics Engineering, Muthoot Institute of Technology and Science from 22 to 26 February 2021.
+Mr. Aswin R. B. completed a course on Modelling of Physical Systems with Simscape conducted by MathWorks on 15 February 2021.
+Ms. Surasmi N L attended a 3 day Online Workshop on Qualitative Research Methods – A Guidance for Research Career, from 15 February 2021 to 17 February 2021 organized by Department of Electronics and Communication Engineering, The National Institute of Engineering, Belagavi.
+Mr. Ajish Ashok, Ms. Archana A N attended a 5 day Online FDP on Electric Vehicle: Charging and Challenges from 05 February 2021 to 09 February 2021 organized by Department of Electrical and Electronics Engineering, College of Engineering, Vadakara (TEQIP II Sponsored).
+Dr. Shalu George K., Ms. Archana A. N. attended a 5 day Online FDP on Artificial Intelligence and Machine Learning: Theory and Applications from 01 February 2021 to 05 February 2021 organized by Department of Applied Electronics and Instrumentation Engineering, Rajagiri School of Engineering and Technology, Kochi.
+Surasmi N. L. attended a 1 day Webinar on Electric Power Transmission on 20 January 2021 organized by Dept. of EEE, Amal Jyothi College of Engineering, Kanjirappalli.
+Ms. Jomole Joseph P, Soumya A V attended a 2 day Online Certification course on CII-certified Masterclass on Compliance to Recent Amendments in Waste Management Rules from 19.01.2021 to 20.01.2021 organized by Confederation of Indian Industry (CII).
+Dr. Shalu George K., Anu Gopinath attended a 5 day Online ATAL FDP on Robotics from 11 January 2021 to 15 January 2021 organized by Department of EEE, Vidya Academy of Science and Technology, Thrissur.
+Ms. Hridya C K attended a 6 day Online FDP on Biomedical Engineering and Applications from 11 January 2021 to 16 January 2021 organized by Department of Electronics and Communication Engineering, Mar Baselios College of Engineering and Technology.
+Ms. Surasmi N. L. attended a 6 day Online FDP on Application of Power Electronics to Renewable Energy Sources and Power Quality Improvement Devices from 04 January 2021 to 09 January 2021 organized by Department of Electrical Engineering, NIT Warangal.
+Dr. Nisha G K, Mr. Praveen Raj R S, Ms. Sheenu P, Mr. Rejish Babu F R, Ms. Sandhya P, Dr. Shalu George K, Ms. Shyju Susan Mathew, Ms. Soumya A V, Ms. C Sojy Rajan, Ms. Manju Sreekumar, Ms. Surasmi N L, Ms. Vandana P,  Mr. Aswin R B, Ms. Archana A N, Ms. Jeneena Babu, Ms. Ashni Elisa George, Ms. Shilpa Susan Peter, Ms. Hridya C K, and Mr. Ajish Ashok attended a 3 day Online FDP on Modern Control Techniques for Electrical Systems from 28 December 2020 to 30 December 2020 organized by Department of Electrical and Electronics Engineering, Mar Baselios College of Engineering and Technology.
+Dr. Nisha G. K. attended a 4 day Online Certification course on Electric Powertrain Design from 21 December 2020 to 24 December 2020 organized by Haritha Tech Logix.
+Ms. Elizabeth Varghese attended a 4 day Online FDP on Faculty Development Programme on Control & Automation from 15 December 2020 to 18 December 2020 organized by Department of Avionics, IIST, Thiruvananthapuram.
+Jomole Joseph P, Soumya A V attended a 5 day Online Workshop on Training on Data Collection, Assessment, and Planning of a Green Campus from 14.12.2020 to 18.12.2020 organized by Centre for Science and Environment.
+Ms. Surasmi N L attended a 14 day Online STTP on Photonics and Photovoltaics: Devices, Circuits, and Metrology from 11 December 2020 to 24 December 2020 organized by Department of Electronics and Electrical Engineering under the Quality Improvement Programme (QIP) sponsored by AICTE / Ministry of Human Resource Development, Government of India.
+Surasmi N. L. attended a 6 day Online FDP on Design and Development of Control Strategies on Electrical Power Applications – An Industrial Perspective from 07 December 2020 to 12 December 2020 organized by Prasad V. Potluri Siddhartha Institute of Technology, AP, India.
+Ms. Manju Sreekumar attended a 5 day Online Workshop on Design Challenges of IoT with AI and ML Applications from 30 November 2020 to 04 December 2020 organized by Department of Electronics and Communication Engineering, NIT, Hamirpur.
+Ms. Sandhya P, Dr. Shalu George K., Ms. Shyju Susan Mathew, Ms. Manju Sreekumar, Ms. Manju Ann Mathews, Ms. Surasmi N L, Ms. Archana A. N, Ms. Jeneena Babu, and Ms. Hridya C K attended a 6 day Online FDP on Performance Improvement in Smart Grid using Artificial Intelligence Techniques – PISGAI 2020 from 23 November 2020 to 28 November 2020 organized by Department of Electrical and Electronics Engineering, Mar Baselios College of Engineering and Technology.
+Ms. Hridya C K attended a 6 day Online STTP on Smart Microgrid and its Future Trends from 16 November 2020 to 21 November 2020 organized by Lendi Institute of Engineering and Technology.
+Ms. Jeneena Babu attended a 7 day Online Training Programme on Introduction to Building Energy Efficiency from 7 November 2020 to 13 November 2020 organized by Kerala Institute of Local Administration (KILA), Thrissur.
+Dr. Shalu George K., Ms. Surasmi N L, Ms. Ashni Elisa George attended a 5 day Online FDP on Recent advances in Intelligent Systems and Nonlinear Control (RISNC 2020) from 12 October 2020 to 16 October 2020 organized by Department of Electrical Engineering, National Institute of Technology, Calicut.
+Ms. Surasmi N L, Ms. A N Archana, Ms. Shilpa Susan Peter attended a 6 day Online STTP on Design of Drive Train and Charging station for Electric Vehicle Applications from 26 October 2020 to 31 October 2020 organized by Saintgits College of Engineering, Kottayam.
+Ms. Surasmi N L attended a 1 day Online Workshop on Design and Development of Power Electronic converters for Renewable Energy Applications on 17 October 2020 organized by Vellore Institute of Technology, Chennai.
+Ms. Surasmi N L attended a 5 day Online FDP on Five-Day Faculty Development Programme on Recent Trends in Power Electronics – Research Scope and Challenges from 23 September 2020 to 27 September 2020 organized by Department of Electrical and Electronics Engineering, National Institute of Technology Karnataka, Surathkal.
+Dr. Nisha G. K. attended a 5 day Online Course on Electric and Hybrid Vehicle Engineering from 21 September 2020 to 25 September 2020 organized by Haritha Tech Logix.
+Ms. Surasmi N. L. attended a 1 day Webinar on Interpretation of Machine learning on 20 September 2020 organized by MES Institute of Technology and Management, Kollam.
+Ms. Surasmi N. L. attended a 1 day Webinar on Recent Advances in Cascade Control of Processors on 19 September 2020 organized by Mangalam College of Engineering Kottayam.
+Dr. Nisha G. K., Ms. A. N. Archana attended a 6 day Online STTP on Grid Integration Techniques for Electric Vehicles: Challenges, Opportunities, G2V and V2G applications from 14 September 2020 to 19 September 2020 organized by Saintgits College of Engineering, Kottayam.
+Dr. Nisha G. K. attended a 3 day Online Workshop on Electric Vehicle Design Using MATLAB from 10 September 2020 to 12 September 2020 organized by Electrical Engineering Student Association, G.H. Raisoni Institute of Engineering & Technology.
+Ms. Ashni Elisa George attended a 6 day Online FDP on Teaching and Learning of Advanced Control Systems from 10 August 2020 to 16 August 2020 organized by Department of Electrical Engineering in association with teaching and learning centre, NIT Warangal.
+Ms. C Sojy Rajan attended a 1 day Webinar on Value of IEEE Publications in Research and Career Development on 28 August 2020 organized by Mar Baselios College of Engineering & Technology, Trivandrum.
+Ms. Surasmi N L attended a 1 day Webinar on Emerging trends in Electric Vehicle on 15 August 2020 organized by Musaliar College of Engineering, Thiruvananthapuram.
+Ashni Elisa George attended a 6 day Online FDP on Teaching and Learning of Advanced Control Systems from 10 August 2020 to 16 August 2020 organized by Department of Electrical Engineering in association with teaching and learning centre, NIT Warangal.
+Ms. Surasmi N L attended a 6 day Online FDP on Design and Development of Control Strategies on Electrical Power Applications – An Industrial Perspective from 12 July 2020 to 12 December 2020 organized by Prasad V. Potluri Siddhartha Institute of Technology, AP, India.
+Ms. Jomole Joseph attended a 2 day Online Workshop on Sustainability Commitment in Educational Campuses from 16.07.2020 to 17.07.2020 organized by Centre for Science and Environment.
+Dr. Shalu George K. attended a 1-day Webinar on Artificial Intelligence on 26 September 2020 organised by Battalion of Electrical Techno Artificers (BETA), Christ College of Engineering, Irinjalakuda.
+A N Archana attended a 5-day Online FDP on Real Time Typhoon HIL simulations applications for power systems, power electronics-based RES, Electric Vehicles and Mricrogrids from 10 to 14 August 2020 organized by Dept. of EEE, Anurag University, Hyderabad.
+A N Archana, Surasmi N L attended a 1-day Webinar on Grid Friendly Photovoltaic systems on 08 August 2020 organized by EEE Department, Saintgits College of Engineering.
+A N Archana attended a 1-day Webinar on Challenges and oppurtunities for Engineers in Electric Vehicle Design and Development on 07 August 2020 organized by Department of Robotics and Automation, Jain University, Bengaluru.
+A V Soumya, A N Archana, Surasmi N L, Ashni Elisa George attended a 1-day Webinar on BASIC INTRODUCTION TO LATEX SOFTWARE on 05 August 2020 organized by Organised by Department of Mechanical Engineering, SHM Engineering College, Kadakkal.
+Manju Sreekumar attended a 1-day Webinar on Support Vector Machine: Some Introductory note on 05 August 2020 organized by College of Engineering, Kidangoor.
+A N Archana attended a 5-day Online Workshop on Electric and Hybrid Vehicle Engineering from 03 to 07 August 2020 organized by Haritha TechLogix in collaboration with Dept. of Electrical and Electronics Engineering and the IEEE PES SBC of Rajagiri School of Engineering and Technology, Kochi.
+A N Archana attended a 6-day Online STTP on Introduction to Electric Vehicles, Opportunities and Challenges – Case Study from 03 to 08 August 2020 organized by AICTE sponspored STTP organized by EEE Department of Saintgits College of Engineering.
+Nisha G K attended a 5-day Online FDP on Electric and Hybrid Vehicle Engineering from 03 to 07 August 2020 organized by Rajagiri School of Engineering and Technology, Kochi.
+Elizabeth Varghese, Dr. Shalu George K. attended a 1-day Webinar on Development of Linear Fractional Order Controllers on 02 August 2020 organized by Lourdes Matha College of Engineering and Technology, Thiruvananthapuram.
+Shilpa Susan Peter, Shyju Susan Mathew attended a 3-day Webinar on EFFECTIVE ONLINE TEACHING TOOLS from 29 to 31 July 2020 organized by Mar Baselios College of Engineering and Technology.
+Surasmi N L attended a 5-day Online Workshop on Electric Power Grid Modernisation: Trends, Challenges and Opportunities from 20 to 24 July 2020 organized by Technical Education Quality Improvement Programme (TEQIP-III), Dept. of EEE, National Institute of Engineering Mysuru.
+Shilpa Susan Peter attended a 1-day Webinar on IoT: How to fetch data from the real world on 19 July 2020 organized by Dept.of EEE, Muslim Association College of Engineering, TVM.
+Surasmi N L, Shyju Susan Mathew, Sandhya P. attended a 1-day Webinar on Webinar on Renewable Sources of Energy on 11 July 2020 organized by Department of Electrical and Electronics Engineering, Technology Centre for Renewable Energy, MSAJCE and WePOWER Programme (Supported by World Bank Group on Energy and Extractives), Chennai.
+Shilpa Susan Peter attended a 1-day Webinar on Renewable Sources of Energy on 11 July 2020 organized by Dept.of EEE, Technology centre for Renewable Energy, MSAJCE, and WePOWER Programme.
+A V Soumya, Jeneena Babu, Dr. Shalu George K., Anu Gopinath, Archana A. N.,Surasmi N L, Ashni Elisa George, Sandhya P, Manju Sreekumar, Manju Ann Mathews, Dr. Nisha G K, Vandana P attended a 3-day Online Workshop on EFFECTIVE TEACHING AND LEARNING TOOLS from 29 to 31 July 2020 organized by Mar Baselios College of Engineering & Technology, Thiruvananthapuram.
+Manju Sreekumar attended a 1-day Webinar on Introduction to Computer vision and Deep learning on 29 July 2020 organized by AWH Engineering College,Kozhikode.
+Elizabeth Varghese, A N Archana, Keerti S Nair, Ashni Elisa George, Sandhya P, Anu Gopinath, Shyju Susan Mathew, Dr. Shalu George K., Dr. Nisha G K attended a 5-day Online FDP on Control System Applications with Matlab Session from 27 to 31 July 2020 organized by Department of Electrical & Electronics Engineering, Rajagiri School of Engineering and Technology,Kochi.
+A N Archana,Manju Sreekumar attended a 5-day Online FDP on Research Perspective of Artificial Intelligence in Electrical Engineering from 27 to 31 July 2020 organized by Sri Ramakrishna Institute of Technology.
+Nisha G K, Sandhya P. attended a 5-day Online FDP on Real Time Applications of Power Electronics-Research Scope and Challenges from 27 to 31 July 2020 organized by Adi Shankara Institute of Engineering and Technology, Kalady, Kerala.
+Nisha G K attended a 1-day Webinar on Emerging Trends in Electric Vehicle Technology on 26 July 2020 organized by Vidya Academy of Science and Technology technical Campus, Kilimanoor.
+A N Archana, Surasmi N L, C Sojy Rajan, Shilpa Susan Peter, Shyju Susan Mathew attended a 1-day Webinar on Introduction to Intellectual Property Rights and Patent Protection on 25 July 2020 organized by IIC, MBCET.
+A V Soumya, A N Archana, Shilpa Susan Peter, C Sojy Rajan,Sandhya.P attended a 5-day Online FDP on Research Initiatives in Renewable Energy Systems from 21 to 25 July 2020 organized by Department of Electrical & Electronics Engineering, MITS.
+A N Archana, C Sojy Rajan attended a 1-day Webinar on HOMER on 21 July 2020 organized by Mar Baselios Christian College of Engineering and Technology, Peermade.
+Shalu George K.,Surasmi N L, Manju Sreekumar, Jeneena Babu, A N Archana, Shilpa Susan Peter, Ashni Elisa George, Sandhya P., Shyju Susan Mathew, Dr. Nisha G K attended a 1-day Webinar on IoT : Use Cases, Benefits and Key Enabling Technologies on 20 July 2020 organized by Department of Electrical & Electronics Engineering, Mar Baselios College of Engineering & Technology, Thiruvananthapuram.
+A N Archana, Sandhya.P attended a 7-day Online FDP on Recent Trends in Electrical Engineering: A Research Perspective – 2020 from 20 to 26 July 2020 organized by Department of Electrical and Electronics Engineering and IEEE PES & IAS Jt Student Branch Chapter of Amrita School of Engineering -Bangalore.
+Nisha G K attended a 7-day Online FDP on Recent Trends in Electrical Engineering : A Research Perspective – 2020 from 20 to 26 July 2020 organized by IEEE Power Energy Society & Industry Applications Society & Industry Applications, Amrita School of Engineering, Bangalore.
+Ashni Elisa George, Aswin R. B attended a 5-day Online FDP on Robotics and Control (RoboCon-2020) from 15 to 19 July 2020 organized by Dept. of Electrical and Instrumentation Engineering, NIT Silchar sponsored by TEQIP III.
+Elizabeth Varghese, Ashni Elisa George, Vandana P attended a 5-day Online FDP on System Modelling & Control Methods from 13 to 17 July 2020 organized by Department of Electrical & Electronics Engineering, SCMS School of Engineering, Kochi.
+A V Soumya, A N Archana attended a 1-day Webinar on Microgrid Management on 10 July 2020 organized by IEEE Power and Energy Society Student Branch Chapter Vimal Jyothi Engineering College.
+Elizabeth Varghese, Surasmi N L, Ashni Elisa George, C Sojy Rajan attended a 1-day Webinar on Scientific Publishing on 10 July 2020 organized by Mar Baselios College of Engineering and Technology,Thiruvananthapuram.
+Nisha G K attended a 1-day Webinar on Microgrid Management on 10 July 2020 organized by IEEE Power and Energy Society Student Branch Chapter Vimal Jyothi Engineering College.
+Nisha G K attended a 1-day Webinar on Scientific Publishing on 10 July 2020 organized by Mar Baselios College of Engineering and Technology, Thiruvananthapuram.
+Jeneena Babu, A N Archana, Ashni Elisa George, Shilpa Susan Peter, Vandana P attended a 1-day Webinar on OnlineTools for Researchers on 07 July 2020 organized by Organised by Department of EEE,Albertian Institute of Science & Technology, Kochi.
+Elizabeth Varghese attended a 1-day Webinar on Impact of Plagiarism and Citations in Research Article Writing on 02 July 2020 organized by Lourdes Matha College of Engineering and Technology, Thiruvananthapuram
+2019-20
+Surasmi N L, C Sojy Rajan attended a 1-day Webinar on MPPT in Wind Energy Conversion System on 29 June 2020 organized by IET On Campus SXCCE of St. Xavier’s Catholic College of Engineering.
+Surasmi N L attended a 3-day Online FDP on Research Methodology and Scientific Writing from 29 to 31 June 2020 organized by IQAC, Sree Buddha College of Engineering, Kerala.
+C Sojy Rajan attended a 3-day Webinar on COMMUNICATIVE ENGLISH SKILLS FOR ENGINEERING STUDENTS AND FACULTY from 28 to 30 June 2020 organized by Mar Baselios Institute of Technology and Science, Kothamangalam.
+Surasmi N L, C Sojy Rajan attended a 1-day Webinar on Digital control of Grid-tied converters on 26 June 2020 organized by Dept. of EEE, Saintgits college of Engineering.
+Nisha G K attended a 1-day Webinar on Digital control of Grid-tied converters on 26 June 2020 organized by Dept. of EEE, Saintgits college of Engineering.
+Surasmi N L, C Sojy Rajan, Shyju Susan Mathew attended a 1-day Webinar on Modeling Electrical Systems using Simulink on 25 June 2020 organized by Mathworks, CoreEL Technologies.
+Surasmi N L attended a 1-day Webinar on Energy – Routes to future careers on 23 June 2020 organized by Department of EEE, Amal Jyothi College of Engineering, Kottayam.
+Surasmi N L attended a 1-day Webinar on Model predictive control in power electronics: a critical review and recent industrial products on 20 June 2020 organized by Mar Baselios College of Engineering and Technology, Trivandrum.
+Surasmi N L attended a 1-day Webinar on DODECAGONAL VOLTAGE SPACE VECTORS FOR INDUCTION MOTORS on 17 June 2020 organized by Jyothi Engineering College, Jyothi Hills, Vettikattiri P O, Cheruthuruthy.
+Nisha G K attended a 1-day Online Lecture Series on Engineering Opportunity Seminar Series-II on the topic MPPT in Wind Energy Conversion System on 29 June 2020 organized by IET On Campus SXCCE of St.Xavier’s Catholic College of Engineering .
+Nisha G K attended a 1-day Webinar on Understanding EV Charging Technology – Level 1 on 28 June 2020 organized by HarithaTechLogix, Bengaluru.
+Jeneena Babu, Surasmi N L, C Sojy Rajan, Jomole Joseph P attended a 4-day Online FDP on Computer Aided Design of Electrical Systems After the Meter from 26 to 29 June 2020 organized by Organised by Department of EEE, Marian Engineering College, Trivandrum.
+Elizabeth Varghese, Ashni Elisa George attended a 1-day Webinar on Modeling Electrical Systems using Simulink on 26 June 2020 organized by CoreEL Technologies,Banglore.
+Elizabeth Varghese, Ashni Elisa George attended a 1-day Webinar on Art of Writing a Survey Paper for Research on 26 June 2020 organized by Amal Jyoti College of Engineering, Kanjirapally.
+A N Archana attended a 1-day Webinar on Emerging Trends in Electric Vehicle Technology on 26 June 2020 organized by EEE Department, Viswajyothi College of Engineering and Technology.
+Ashni Elisa George, Aswin R. B attended a 5-day Internship on 5-day’s Online Industrial Training on Artificial Intelligence from 26 to 30 June 2020 organized by Agimus Technologies.
+Nisha G K attended a 4-day Online FDP on Computer Aided Design of Electrical Systems After the Meter from 26 to 29 June 2020 organized by Organised by Department of EEE, Marian Engineering College, Trivandrum.
+A V Soumya, Jeneena Babu, A N Archana, Shilpa Susan Peter attended a 1-day Webinar on Modeling Electrical Systems using Simulink on 25 June 2020 organized by CoreEL Technologies.
+Nisha G K attended a 1-day Webinar on HOW TO SEARCH AND ANALYSE EFFECTIVELY TO GET RELEVANT AND LATEST LITERATURE: FEW TIME SAVING TIPS on 25 June 2020 organized by JYOTHI ENGINEERING COLLEGE, THRISSUR in association with JYOTHI CENTER FOR RESEARCH & DEVELOPMENT.
+Nisha G K attended a 1-day Webinar on Modeling Electrical Systems using Simulink on 25 June 2020 organized by CoreEL Technologies.
+A N Archana attended a 1-day Webinar on POWER ELECTRONICS CONVERTERS FOR ELECTRIC VEHICLE NEW GENERATION LOW COST SOLUTIONS on 24 June 2020 organized by Jyothi Engineering College.
+A N Archana, Shyju Susan Mathew attended a 5-day Online FDP on Real Time Hardware in the Loop (HIL) simulation for power electronics and power systems from 22 to 26 June 2020 organized by Rajkiya Engineering College in association with Opal RT Technologies and IEEE STB REC Manipuri.
+Nisha G K attended a -day Webinar on APPLICATIONS OF POWER ELECTRONICS IN ENGINEERING from 22 to 21 June 2020 organized by Amrita School of Engineering, Bangalore.
+Anu Gopinath, Ashni Elisa George attended a 3-day Online FDP on Industrial Instrumentation and Automation from 08 to 10 June 2020 organized by Muthoot Institute of Technology and Science.
+Surasmi N L attended a 5-day Online FDP on Power Electronic Applications to Renewable energy systems and Energy storage systems from 07 to 11 June 2020 organized by .
+Shilpa Susan Peter, Dr. Nisha G K attended a 2-day Webinar on Introduction to IoT and Case study on industrial applications from 28 to 29 May 2020 organized by IEDC-MBCET.
+Shyju Susan Mathew attended a 1-day Webinar on A new trend in power distribution and scope of an electrical engineer in Canada on 16 May 2020 organized by Vimal Jyothi Engineering College.
+Nisha G K attended a 1-day Webinar on Insights to INDUSTRY 4.0 on 29 May 2020 organized by SA Engineering College, Chennai, India.
+Anu Gopinath, Dr. Shalu George K. attended a 3-day Online FDP on Research Methodology from 28 to 30 May 2020 organized by Amal Jyothi College of Engineering & Technology, Kottayam.
+Nisha G K attended a 1-day Webinar on Testing, Certification & Standards for EV’s & HEV’s on 28 May 2020 organized by Haritha TechLogix, Bengaluru.
+Nisha G K attended a 1-day Webinar on BASICS OF PROTECTION RELAY on 28 May 2020 organized by IEEE Power Energy Society & Industry Applications Society & Industry Applications, Amrita School of Engineering, Bangalore.
+Elizabeth Varghese attended a 1-day Webinar on “Preparing for Online Learning” on 27 May 2020 organized by SH Thevera.
+Nisha G K attended a 1-day Webinar on ON-LINE TRANSFORMER CONDITION MONITORING SYSTEM on 27 May 2020 organized by IEEE Power Energy Society & Industry Applications Society & Industry Applications, Amrita School of Engineering, Bangalore.
+Nisha G K attended a 1-day Webinar on The New Normal in Education on 23 May 2020 organized by Internal Quality Assurance Cell, St. Albert’s College (Autonomous) .
+Elizabeth Varghese attended a 1-day Webinar on “Preparing for Online Learning” on 21 May 2020 organized by SH Thevera.
+Surasmi N L attended a 1-day Webinar on Use of online resources in teaching -learning process on 20 May 2020 organized by Department of Chemistry, Uka Tarsadia University, Gujarat.
+Anu Gopinath attended a 1-day Webinar on Virtual Labs on 19 May 2020 organized by NIT Karnataka, Surathkal.
+Anu Gopinath attended a 1-day Webinar on An Introduction to Robust Control on 19 May 2020 organized by Baselios Mathews II College of Engineering.
+Nisha G K attended a 1-day Webinar on Autonomous Vehicles on 16 May 2020 organized by IEEE Power and Energy Society Student Branch Chapter Vimal Jyothi Engineering College.
+Anu Gopinath, Shyju Susan Mathew attended a 7-day Online FDP on IEEE RAS WEBINAR ‘INTRODUCTION TO ROBOTIC OPERATING SYSTEM’ from 14 to 20 May 2020 organized by RAS Chapter, IEEE Kerala Section.
+Surasmi N L, C Sojy Rajan attended a 1-day Webinar on BASIC INTRODUCTION TO LATEX SOFTWARE on 08 May 2020 organized by Department of Mechanical Engineering, SHM Engineering College, Kadakkal..
+Nisha G K attended a 2-day Online Lecture Series on Fuzzy Logic and Neural Network Approches for Engineering Solutions from 29 to 30 April 2020 organized by Journal of Advanced Engineering Research, Hexacube-India.
+Nisha G K attended a 1-day Webinar on Automation and Digitalisation on 26 April 2020 organized by IEEE Power Energy Society & Industry Applications Society & Industry Applications, Amrita School of Engineering, Bangalore.
+A N Archana, Anu Gopinath, Shyju Susan Mathew attended a 1-day Webinar on Writing quality Technical Papers on 25 April 2020 organized by IEEE IA/IE/PELS Jt. Chapter Kerala.
+Nisha G K attended a 1-day Webinar on Grid 4.0 and Industry 4.0 on 25 April 2020 organized by IEEE Power Energy Society & Industry Applications Society & Industry Applications, Amrita School of Engineering, Bangalore.
+Nisha G K attended a 1-day Webinar on Energy Storage Technologies for Electric Vehicles on 24 April 2020 organized by IEEE Power Energy Society & Industry Applications Society & Industry Applications, Amrita School of Engineering, Bangalore.
+Nisha G K attended a 1-day Webinar on Battery management systems for Electric Vehicles – An overview on 23 April 2020 organized by IEEE Power Energy Society & Industry Applications Society & Industry Applications, Amrita School of Engineering, Bangalore.
+Nisha G K attended a 3-day Online Lecture Series on Design of Experiments: An Engineering Perspective from 22 to 24 April 2020 organized by Journal of Advanced Engineering Research, Hexacube-India.
+Nisha G K attended a 1-day Webinar on Autonomous Hybrid Microgrids – Future Power Systems on 22 April 2020 organized by IEEE Power Energy Society & Industry Applications Society & Industry Applications, Amrita School of Engineering, Bangalore.
+Nisha G K attended a 1-day Webinar on Power Electronic Interfaces for Solar Photovoltaic Systems – Principles and Operation on 21 April 2020 organized by IEEE Power Energy Society & Industry Applications Society & Industry Applications, Amrita School of Engineering, Bangalore.
+Nisha G K attended a 1-day Webinar on Lights off – lessons for Electrical Engineers on 05 April 2020 organized by IEEE Power Energy Society & Industry Applications Society, Amrita School of Engineering, Bangalore.
+Surasmi N L attended a 5-day Online Workshop on Introduction to PLECS tool for Power Electronics Applications from 07 to 11 February 2020 organized by Dept. of EEE, VRSEC, AP, India.
+A N Archana, Anu Gopinath attended a 1-day Webinar on Control Systems with MATLAB and SIMULINK on 00 January 1900 organized by Power and Energy Society of IEEE SCT SB and PES Kerala Chapter.
+Anu Gopinath, Ashni Elisa George attended St Albert’s College (Autonomous) from 8th to 10th June 2020.
+Manju Sreekumar attended Webinar on Efficacy of Artificial Intelligence from 8th June 2020.
+Ashni Elisa George attended IEEE PES webinar on “Control and tracking of bio inspired unmanned Aerial Vehicles” hosted by IEEE PES SBC MES College of Engineering Kuttipuram, Department of EEE and IEEE PES Kerala Chapter from 12th June 2020.
+P attended Webinar on “LabVIEW”organised by Dept of EIE, Karpagam college of Engineering and Pantech E learning on 13th June 2020.
+P attended Webinar on”Model Design of solar charging using MATLAB” Dept of EEE, Jepiaar engineering college chennai & Pantech E learning on 18th June 2020.
+P attended Webinar on “Study of Switched mode power Supply” Department of Electrical and Electronics Engineering, Mohamed Sathak A J College of Engineering, Chennai, Tamil Nadu, India. on 18th June 2020.
+Surasmi N L, attended webinar on Power Electronics and the world of Sinusoids on 4 June 2020.
+Jomole Joseph P attended Webinar on “Machine Learning Basics – PS” by AWS Training & Certification Programme, organized by Advanced Skill Development Centre (ASDC), ASAP, Department of General and Higher Education Government of Kerala from 4 June 2020.
+Jomole Joseph P attended Webinar on Looking Ahead: Leading and Inspiring through Uncertain Times organized by the Internal Quality Assurance Cell, St Albert’s College (Autonomous) from 18 June 2020.
+C Sojy Rajan, Dr. Shalu George K., Shyju Susan Mathew attended Webinar on “How to write a Research Paper” organized by IQAC, MBITS Kothamangalam Kerala; Resource Person: Dr. V. Barla, Senior Faculty, RG Kedia College, Hyderabad on 31/05/2020.
+C Sojy Rajan attended Webinar on “Basics of Protection Relay” organized by IEEE PES & IAS Jt Student branch Chapter and Dept. of EEE, Amrita School of Engineering Bangalore, Resource Person: Mr Anand, Head-System Technology, ZIV Automation India on 28/05/2020.
+C Sojy Rajan attended Webinar on “Online Transformer Condition Monitoring System” organized by IEEE PES & IAS Jt Student branch Chapter and Dept. of EEE, Amrita School of Engineering Bangalore, Resource Person: Mr Anand, Head-System Technology, ZIV Automation India on 29/05/2020.
+C Sojy Rajan, Dr. Shalu George K. attended Webinar on “Introduction to LT Spice”, Resource Person: Dr Dinesh Gopinath on 30/05/2020.
+C Sojy Rajan, Anu Gopinath attended “Big Talk Webinar” by Knimbus organized by DTE – Kerala, Elsevier Science Direct & Scopus on 23/05/2020.
+Shalu George K., Anu Gopinath, Shyju Susan Mathew attended Webinar on “An Introduction to Robust Control” on 19/05/2020.
+Shalu George K. attended Webinar on “Collaborative Type Setting using Latex” on 15/05/2020.
+Shalu George K. attended Webinar on “Demystifying IoT” on 13/05/2020.
+Surasmi N L attended webinar on Analytical modelling of modular multilevel converters and circulating current control on 10 May 2020.
+Surasmi N L attended webinar on Design of home solar system on 11 May 2020.
+Surasmi N L, Shyju Susan Mathew, Ashni Elisa George attended webinar on Autonomous Vehicles on 16 May 2020.
+Surasmi N L, Anu Gopinath attended Webinar on Virtual labs by NITK on 19 May 2020.
+Jomole Joseph P attended Webinar hosted by Women In Lighting, Society of Light & Lighting and the Institution of Lighting Professionals on “Dismantle the Default ” from 20 May 2020.
+Jomole Joseph P attended National webinar on The New Normal in Education organized by the Internal Quality Assurance Cell, St. Albert’s College (Autonomous) from 23 May 2020.
+Jomole Joseph P attended Webinar on “Meet The Expert: Edition 1 on Lighting Design” by Er. Daniel Varghese, organized by Sodfos Engineering Consultancy from 24 May 2020.
+Jomole Joseph P attended Webinar on “Introduction to IOT & Case Study On Industrial Applications” by Dr. Ajith Chandran M C conducted by IEDC-Catalyst,MBCET and Theia New Consultancy LLP from 28 May 2020.
+Nisha G. K attended Haritha Techlogix Webinar on “Testing Certification and Standards for EVs and HEVs” from 28 May 2020.
+Nisha G. K attended Webinar on “AUTONOMOUS VEHICLES” organised with IEEE PES DAY 2020 oconduted by IEEE Power and Energy Society Student Branch ChapterVimal Jyothi Engineering College from 16 May 2020.
+Nisha G. K attended National webinar on “The New Normal in Education” organized by the Internal Quality Assurance Cell, St. Albert’s College (Autonomous) from 23 May 2020.
+Shalu George K., Archana A. N., Keerti S Nair attended Online Lecture Series on “Applications of AI in Electrical Engineering” from 13/04/2020 to 18/04/2020.
+Shalu George K., Archana A. N., Keerti S Nair attended Online Lecture Series on “Internet of Things and its Applications ” from 13/04/2020 to 15/04/2020.
+Nisha G. K attended Online workshop on, “Design Experiments- An Engineering Perspective” organized by Journal of Advanced Engineering Research and powered by hexacube, India from April 22-24 2020.
+Nisha G. K attended Online workshop on “Fuzzy Logic and Neural Network Approaches for Engineering Solutions ” organized by Journal of Advanced Engineering Research from 29 & 30 April 2020.
+Jomole Joseph P attended 3 Day National Seminar on “Waste to Wealth- Opportunities & Challenges”, organized by TLPC & ECOLOOP 360, GECBH from 4-03-2020 to 6-03-2020.
+Shilpa Susan Peter，Surasmi N L attended Webinar on Introduction to IoT and Case Study on Industrial Applications from 28/05/2020-29/05/2020.
+Manju Ann Mathews attended Two days online workshop on “Fuzzy Logic and Neural Network Approaches for Engineering Solutions” conducted on 01st & 02nd May 2020. on 01/05/2020-02/05/2020.
+Shalu George K., Anu Gopinath attended Online STTP on “Research Methodology” from 28/05/2020 to 30/05/2020.
+Surasmi N L attended Workshop on Patent drafting and procesaing with importance of trademark and copyright from 8 and 9 May 2020.
+Shyju Susan Mathew, Anu Gopinath attended Worshop on Robot Operating Systems (ROS) from 14-05-2020 to 21-05-2020.
+Nisha G. K attended Online Webinar on “Introduction to IoT & Case study on Industrial Applications” organized by Catalyst – Mar Baselios IEDC in association with Theia New Consultancy LLP from 28, 29 May 2020.
+Archana AN, Manju Ann Mathews, C Sojy Rajan attended “Typhoon HIL 2 weeks online Advance Training Program” organized by Quarbz Info Systems and Typhoon HIL GmbH- Switzerland, in collaboration with Atal Incubation Center (Center supported by Niti Aayog, Government of India) from 25/05/2020 to 05/06/2020.
+Shalu George K., Archana A. N. attended Webinar on “April 5 Lights off – lessons for Electrical Engineers” on 20/04/2020.
+Shyju Susan Mathew, Anu Gopinath attended Webinar on “Writing Quality Technical Papers”, by Dr. G Vincent from 25-04-2020.
+Jomole Joseph P attended 2nd edition of IET India Digital Conversations on ‘Mind your own business: Maintaining our sanity in times of a pandemic’. from 3 April 2020.
+Jomole Joseph P attended Webinar “Unravelling COVID 19 & Emerging Tech opportunities in Pandemics” by Mr. Shubham Saraff, hosted by IET Chennai Local Network from 8 April 2020.
+Jomole Joseph P attended 3rd Edition of ‘IET India Digital Conversations on “Adapt, Improvise and Overcome: The essential skills post the pandemic” from 17 April 2020.
+Jomole Joseph P attended Webinar on “SLL LG2: Lighting for Healthcare Premises” conducted by Society of Light and Lighting from 21 April 2020.
+Jomole Joseph P attended Webinar on The World of Lighting Design”, hosted by Sodfos Engineering Consultancy from 23 April 2020.
+Jomole Joseph P attended Online Workshop on “Academic Research Methodology, Publication & Ethics” co-organized by Elsevier & VTU Consortium. from 28 April 2020.
+Jomole Joseph P attended Online Workshop on “Improving Research Planning & Writing Skills at Technical Institutes” co-organized by Elsevier & VTU Consortium. from 29 April 2020.
+Shyju Susan Mathew, Anu Gopinath attended Uncertain Times organized by the Internal Quality Assurance Cell, on 2 April 2020.
+Nisha G. K attended Webinar on “Power Electronic Interfaces for Solar Photovoltaic Systems-Principles and Operation” organised with IEEE PES DAY 2020 organized by IEEE Power Energy Society and Industrial Application Society Joint Student Branch Chapter of Amritha School of Engineering, Banglore from 21 April 2020.
+Dr Nisha G. K attended Webinar on “Lights off Lessons for Electrical Engineering” organised with IEEE PES DAY 2020 organized by IEEE Power Energy Society and Industrial Application Society Joint Student Branch Chapter of Amritha School of Engineering, Banglore from 20 April 2020.
+Nisha G. K attended Webinar on “Autonomous Hybrid Microgrid-Future Power Systems” organised with IEEE PES DAY 2020 organized by IEEE Power Energy Society and Industrial Application Society Joint Student Branch Chapter of Amritha School of Engineering, Banglore from 22 April 2020.
+Nisha G. K attended Webinar on “Battery Management Systems for Electric Vehicles- An overview” organised with IEEE PES DAY 2020 organized by IEEE Power Energy Society and Industrial Application Society Joint Student Branch Chapter of Amritha School of Engineering, Banglore from 23 April 2020.
+Nisha G. K attended Webinar on “Energy storage technologies for Electric Vehicles” organised with IEEE PES DAY 2020 organized by IEEE Power Energy Society and Industrial Application Society Joint Student Branch Chapter of Amritha School of Engineering, Banglore from 24 April 2020.
+Nisha G. K attended Webinar on “Grid 4.0 and Industry 4.0″ organized in conjunction with IEEE PES DAY 2020 by IEEE Power Energy Society & Industry Applications Society Joint Student Branch Chapter of Amrita School of Engineering -Bangalore” from 25 April 2020.
+Nisha G. K attended Webinar on “Automation and Digitalisation” organised with IEEE PES DAY 2020 organized by IEEE Power Energy Society and Industrial Application Society Joint Student Branch Chapter of Amritha School of Engineering, Banglore from 26 April 2020.
+Nisha G. K attended Webinar on “ON-LINE TRANSFORMER CONDITION MONITORING SYSTEM” organised with IEEE PES DAY 2020 organized by IEEE Power Energy Society and Industrial Application Society Joint Student Branch Chapter of Amritha School of Engineering, Banglore from 27 April 2020.
+Nisha G. K attended Webinar on “Automation and Digitalisation” organised with IEEE PES DAY 2020 organized by IEEE Power Energy Society and Industrial Application Society Joint Student Branch Chapter of Amritha School of Engineering, Banglore from 28 April 2020.
+Nisha G. K attended Webinar on “BASICS OF PROTECTION RELAY” organised with IEEE PES DAY 2020 organized by IEEE Power Energy Society and Industrial Application Society Joint Student Branch Chapter of Amritha School of Engineering, Banglore from 29 April 2020.
+Jomole Joseph P.
+attended a three day workshop “The Art of Technical Writing and Publishing in the Pursuit of Academic Excellence” on January 13, 14 & 15, 2020 at SCMS, Karukutty Campus.
+Jomole Joseph P. and Ms.
+Jeneena Babu
+attended a Five day FDP on “Renewable Energy Sources: Conversion, Storage & Applications”, conducted by Department of Mechanical Engineering, Jyothi Engineering College, Cheruthuruthy, Thrissur from 6 to 10 January 2020.
+Nisha G. K., Ms. Sandhya P., Ms.
+Manju Sreekumar,
+Ms. Surasmi N. L. and                   Ms.
+Shilpa Susan Peter
+participated in Training programme on “Modelling and Simulation of Power Converters” organized by the Dept. of Electrical and Electronics Engineering, College of Engineering, Trivandrum from 16 to 21 December 2019.
+Elizabeth Varghese
+attended a five day Workshop on Control System Engineering, with MATLAB/SIMULINK, organized by Department of Avionics, IIST, Trivandrum from 16-20 December 2019.
+Shyju Susan Mathew, Ms. Anu Gopinath and Ms. Ashni Elisa George
+attended a Five day FDP on “System Identification and Parameter Identification” organized by the Dept. of Electrical and Electronics Engineering, College of Engineering, Trivandrum from 9 -13 December 2019.
+Shalu George K.
+attended a 6 day FDP on Process Control, Instrumentation and Automation (PCIA 2019) organized by the Department of Electrical Engineering, National Institute of Technology Calicut from 2 to 7 December 2019.
+2018-19
+Three day STTP on “
+SCIENTIFIC COMPUTING
+”
+organized by the Department of Science & Humanities, MBCET from 18 to 20 July 2018.
+Staff members attended:
+Ms. Sandhya P, Ms. Shyju Susan Mathew, Ms. Sojy Rajan, Ms. Manju Ann Mathews, Ms. Vandana P, Ms. Shalu George K, Ms. Anu Gopinath, Mr. Aswin R B
+and
+Ms. A N Archana.
+Two Day TLC-Workshop
+: Teaching learning Centre of MBCET arranged two day session on 23 and 24 July 2018.
+Session 1
+: “Teacher – A Performing Artist “by Dr. B. Premlet
+Staff attended:
+Ms. Jomole Joseph, Ms. Sandhya P, Ms. Divya N A, Ms. Soumya A V, Ms. Shyju Susan Mathew
+and
+Ms. Sojy Rajan.
+Session 2
+: “Creative Leadership in a rapidly changing environment” by Sri. Tom Theckel.
+Staff members attended:
+Ms. Manju Ann Mathews, Ms. Shalu George K, Ms. A N Archana, Ms. Jeneena Babu, Ms. Shilpa Susan Peter
+and
+Ms. Ashni Elisa George.
+Co-ordinators: Ms. Sheenu P(EEE), Ms. Ancy S Anselam (ECE)
+Sheenu P and Ms. Soumya A V
+attended a FDP on “
+Hands-on Workshop on Internet of Things for Electrical Applications
+” organized by the Department of Electrical Engineering sponsored by APJ Abdul Kalam Technological University, Kerala from 16 to 21 July 2018.
+Manju Sreekumar
+attended a 5 day faculty development programme on “
+Industrial Robotics: Platform, Algorithms and Techniques
+” at FISAT, Angamaly from 16 July to 20 July 2018.
+Nisha G K, Ms. Jomole Joseph, Ms. Shilpa Susan Peter, Ms. Divya M D, Ms. Ashni Elisa George
+and
+Ms. Shilpa George
+attended a 5 Day Workshop on “
+Industry 4.0 – Towards Embedded Future
+” from 16 to 20 July 2018 jointly organized by Dept of ECE and IEDC, Kerala Startup Mission.
+Manju Sreekumar
+and
+Ms. Keerti S Nair
+attended a two day FDP on “
+Basics of Artificial Intelligence & Machine Learning
+” conducted by the department of Computer Science and Engineering on 12 and 13 July 2018.
+Surasmi N L
+attended a five day workshop on “
+Essentials of Research
+” organized by APJ Abdul Kalam Technological University at CET from 9 to 13 July 2018.
+Jomole Joseph
+attended a National Workshop on “
+Sustainable Energy Development
+” from 2 to 6 July 2018 jointly organized by Kerala State Council for Science Technology & Environment (KSCSTE) and Dept. of Mechanical Engineering, Marian Engineering College, Trivandrum.
+2017-18
+Nisha G K, Ms. Surasmi N L
+and
+Ms. Jeneena Babu
+attended a KTU sponsored five day STTP on “
+Recent Trends in Power Electronics and Drives
+” from 18 to 22 June 2018 at CET.
+Divya N A
+attended the MHRD-TEQIP III sponsored Faculty Development Programme on “
+Real Time Monitoring, Protection and Control of Power Systems (RTMPC 2018)
+” during 21 to 26 May 2018 organized by the department of EEE at National Institute of Technology Calicut (NITC).
+Two day Workshop on “Introduction to Field Practices in EEE” held at MBCET on 23 and 24 February 2018.
+Faculty Coordinator
+: Ms Jomole Joseph.
+Staff members attended:
+Dr. Nisha G. K., Ms. P.Sandhya, Ms.  Jomole Joseph, Ms. Divya N. A Ms. Shyju Susan Mathew, Ms. C. Sojy Rajan, Ms. Manju Ann Mathews, Ms. Vandana P, Ms. Anu Gopinath, Mr. Aswin R B, Ms. A.N.Archana, Ms. Keerti S Nair, Ms. Divya M D, Ms. Ashni Elisa George and Ms. Shilpa George.
+Elizabeth Varghese and Ms. Jomole Joseph
+attended a FDP on “
+Research Methodology: A Step into the world of Research
+” from 5 to 9 February 2018, by Dept. of ECE, SCT College of Engineering, Pappanamcode, sponsored by APJAKTU and approved by DTE, Kerala.
+Surasmi N L
+attended a DTE sponsored FDP on “
+Design and Hardware implementation of Power Electronics Circuits
+” organized by Dept. of EEE, CET from 8th to 13 January 2018.
+KTU sponsored Faculty Development Programme on the topic “Internet of Things in Smart Grid” from 11 to 13 January 2018.
+Coordinators of the programme:
+Ms. Shyju Susan Mathew and Ms Manju Sreekumar
+A total of 12 participants attended the course.
+Staff members attended:
+Dr. Nisha G. K., Ms. P.Sheenu, Ms. P.Sandhya, Ms.  Jomole Joseph, Ms. Divya N. A., Ms. A.V.Soumya, Ms. C. Sojy Rajan, Ms. Manju Ann Mathews, Ms. Anu Gopinath, Ms. A.N.Archana, Ms. Divya M D and Ms. Shilpa George.
+Ms Divya M D and Ms Ashni Elisa George
+attended the Faculty Development Programme on “Design and Engineering” organized by the department of Mechanical Engineering, College of Engineering, Trivandrum from 18 to 22 December 2017.
+Ms Jomole Joseph
+has attended TEDx Vazhuthacaud, State Standard Event held on 26 August 2017.
+Ms Divya N A and Ms C Sojy Rajan
+attended a Workshop on “Kerala State Energy Conservation Award Scheme-Sensitisation Camp and Best Practices Case Sharing” at Energy Management Centre, Sreekaryam on 29 July 2017.
+Ms Divya N A and Ms C Sojy Rajan
+attended a 5 day Short Term Training Programme on “Modern Power Systems” at College of Engineering, Trivandrum from 24 July to 28 July 2017.
+FDP on “Product Development of an IoT Device” organized by Dept. of Civil Engineering at MBCET, Trivandrum from 26 to 28 July 2017.
+Staff members attended:
+Ms. Jomole Joseph, Ms. Divya M D and Ms. Shilpa George.
+National Conference on Mathematical Methods for Engineering Applications (NACMMEA -17) organized by the Department of Science and Humanities with the academic assistance of Kerala Mathematical Association and Co-Sponsored by SERB, NBHM and KCSTE at MBCET, Trivandrum from 27 – 29 July, 2017.
+Staff members attended
+: Dr. Nisha G. K., Ms. P.Sheenu, Ms. A.V.Soumya, Ms. Manju Sreekumar, Ms. Manju Ann Mathews, Ms. Surasmi N L, Ms. Anu Gopinath, Mr. Aswin R B, Ms. A N Archana, Ms. Jeneena Babu, Ms. Ashni Elisa George and Ms. Shilpa Susan Peter.
+Sheenu P and Ms. A V Soumya
+attended a Faculty Development Programme on “Introduction to Embedded Systems’ and hands on training on ‘Keil & Arduino IDE’ from 3 to 7 July 2017 conducted by Dept of EEE, Marian Engineering College.
+Shyju Susan Mathew and Ms. Anu Gopinath
+attended a STTP on “Robotics and Automation”, organised by CET Centre for Interdisciplinary Research, College of Engineering Trivandrum and sponsored by Directorate of Technical Education, Government of Kerala, from 3 to 7 July 2017.
+Shalu George
+attended a workshop on “Soft Computing for Biomedical Applications” jointly organised by KSCSTE and the Department of Electronics & Communication Engineering, MBCET from 3 to 7 July 2017.
+2016-17
+Short Term Training Programme on “Advancements in Power Electronics and Drives for Grid Connected Renewable Energy Systems-APGRES’17” was organized by the Department of Electrical & Electronics Engineering, Mar Baselios College of Engineering & Technology from 19 to 23 June 2017.
+Coordinators of STTP
+: Ms. Surasmi N L and Ms. Vandana P.
+Staff members attended
+: Prof. A S Shajilal, Dr. Nisha G. K., Ms. P.Sheenu, Ms. P.Sandhya,Ms.  Jomole Joseph, Ms. Divya N. A., Ms. A.V.Soumya, Ms. Shyju Susan Mathew, Ms. Manju Sreekumar, Ms. C. Sojy Rajan, Ms. Manju Ann Mathews, Ms. Shalu George.K, Ms. Anu Gopinath ,Mr. Aswin R B , Mr. Arun S. Mathew and Mr. Midhun G.
+Jomole Joseph
+attended a one day FDP on “Funding Your Research: How to apply for and get International Research Grants” organized by Dept. of Mechanical Engineering, Trinity College of Engineering, in association with Indian Society for Technical Education (ISTE) held at Trinity College of Engineering on 13 June 2017.
+Aswin R B,
+attended “One Week ISTE STTP for Coordinators on Electric Power System” at IIT Kharagpur from May 1 – 5, 2017.
+Dr. Nisha G K, Ms. Elizabeth Varghese, Ms. Sheenu P, Ms. Sowmya A V, Ms. Jomole Joseph and Ms. Manju Ann Mathews
+attended an FDP on “Teaching and Learning” conducted by IIT Madras from 21 to 23 April 2017.
+Dr. Nisha G K, Ms. Elizabeth Varghese, Ms. Sheenu P, Ms. Sowmya A V, Ms. Jomole Joseph and Ms. Manju Ann Mathews
+attended an FDP on “Teaching and Learning” conducted by IIT Madras from 21st to 23rd April 2017.
+Two day workshop on “Solar Photovoltaics” as a part of the Smart Energy Programme at EMC and ANERT on 18 and 19 January 2017.
+Staff members attended:
+Ms. Divya N A and Ms. Sojy Rajan
+STTP on “Image and Speech Processing with Practical applications” organized by Dept of Electronics and Communication Engineering, MBCET during 9 to 13 January 2017.
+Staff members attended:
+Ms. Sheenu P and Ms. Manju Sreekumar.
+Two day training in “High Speed Reconfigurable Power Electronic Controller (HSRPEC)” at CDAC, Trivandrum on 1 and 2 December 2016.
+Staff members attended:
+Ms. Sandhya P, Ms. Manju Ann Mathews, Ms. A N Archana,  Midhun G, Mr.  Aravind
+and Ms. Keerthi s Nair.
+Manju Sreekumar
+attended a two day workshop on e-yantra organized by FISAT, Angamali in association with IIT Bombay during November 2016.
+International Seminar on Power India: “Impacts of Climate Change and Imperatives for Rapid Transition” at Energy Management Center, Sreekaryam, Trivandrum from 14 to 15 November 2016.
+Soumya A V
+attended a FDP on “Solar Photo-voltaics and Applications to Smart Grid” organized by the Department of Electrical and Electronics Engineering, LBSITW, Poojapura , Thiruvananthapuram from 25 – 27 July 2016.
+Staff members attended
+: Ms. Jomole Joseph and Ms. Divya N A.
+STTP on Solar Photovoltaics and Applications to Smart Grid from 25 to 27 July 2016 organised by the Department of Electrical Engineering, LBS Institute of Technology for Women and sponsored by TEQIP-II.
+Staff members attended:
+Ms. Divya N A, Ms. Jomole Joseph, Ms. Sowmya A V and Ms. C Sojy Rajan.
+2015-16
+Two – month AICTE approved FDP by IIT Bombay on – “Use of ICT in Education for Online and Blended Learning” under the National Mission on Education through ICT (MHRD, Govt. of India) from 2 May 2016 to 7 July 2016.
+Staff members attended:
+Ms. Sheenu P, Ms. Soumya A V, Ms. Surasmi N L, and Ms. Archana A N.
+Mr. Aravind S
+attended a one day workshop on “Smart-Digital-Drives-Control-Development-using FPGA in Entuple Technologies”, Bangalore on 29 March 2016
+Before 2015
+The following Faculty Members have attended an STTP organized by Dept. of Electrical and Electronics Engg, Mar Baselios College of Engineering and Technology, on “Power Electronics and Drives Technology Advances Trends and Applications” during
+10
+th
+June – 14
+th
+June 2013
+.
+Mrs. Divya N A, (Asst. Professor,EEE)
+Mrs. C Sojy Rajan ,(Asst. Professor,EEE)
+Mrs. Manju Sreekumar, (Asst. Professor,EEE)
+Mrs. Manju Ann Mathews, (Asst. Professor,EEE)
+Ms. Surasmi N L, (Asst. Professor,EEE)
+Mrs. Vandana P ,(Asst. Professor,EEE)
+Mrs. Anumol George ,(Asst. Professor,EEE)
+The following Faculty Members attended an STTP organized by Dept. of Avionics, IIST, Trivandrum on “Power Electronics Drives and Control” during
+2
+nd
+July – 5
+th
+July 2013
+.
+Mrs. Sandhya P, (Asst. Professor,EEE)
+Mrs. Soumya A.V ,(Asst. Professor,EEE)
+Ms. Surasmi N L, (Asst. Professor,EEE)
+MOOC Courses completed by Faculty
+Ms. Shilpa Susan Peter
+, Assistant Professor, EED completed two MOOC courses namely Design of Electric Motors and Control Engineering with Elite certificate.
+Dr. Dishore S V
+successfully completed the 4-week NPTEL course on ‘Fundamentals of Electronic Device Fabrication’ with Elite certificate, conducted by IIT Madras during July-Aug 2023.
+Dr. Dishore S V
+successfully completed the 4-week NPTEL course on “Electric Vehicles – Part I”
+with Elite certificate conducted by IIT Madras
+during
+Jan-Feb 2023
+.
+Ms. Jeneena Babu
+completed NPTEL 12 week online course on Introduction to Internet of Things with Elite certificate conducted by IIT, Kharagpur and a 4 week online course on Biomedical Nanotechnology with Elite certificate conducted by IIT, Roorkee.
+Ms. Ashni Elisa George
+, and
+Ms. Shalu George K.
+successfully completed NPTEL 8 Week Online Course on “Automatic Control” with elite certificate and silver medal conducted by IIT Roorkee from Jan to Mar 2019.
+Ms. Anu Gopinath
+successfully completed NPTEL 8 Week Online Course on “Automatic Control” with elite certificate and
+gold medal
+conducted by IIT Roorkee
+from Jan to Mar 2019
+Dr. G. K. Nisha
+successfully completed a NPTEL course on Electric Vehicles conducted by IIT Madras
+.
+Ms. Sheenu P
+and
+Ms. Soumya A V
+completed NPTEL 12 week Online Course on “
+Introduction to Internet of Things
+” with Elite certification conducted by IIT Kharagpur from Jan to April 2018.
+Ms. Sheenu P
+and
+Ms. Soumya A V
+successfully completed NPTEL 12 week Online Course on “
+Integrated Circuits, MOSFETS, Op-Amps and their Applications
+” conducted by IISc Bangalore from Jan to April 2018.
+Ms. Manju Sreekumar
+completed Coursera certification of 4 week course on “
+Python Programming: A concise Introduction
+”.
+Ms. Shalu George K
+successfully completed NPTEL 12 week Online Course on “
+Control Engineering
+” conducted by IIT Madras from Jan-April 2018.
+Ms. Shalu George
+K
+completed NPTEL 8 week Online Course on “
+Introduction to Soft Computing
+” with elite certification conducted by IIT Kharagpur from Jan-April 2018.
+Ms. Anu Gopinath, Ms. A N Archana
+and
+Ms. Ashni Elisa George
+completed NPTEL 12 Week Online Course on “
+Control Engineering
+” with elite certification conducted by IIT Madras from Jan-April 2018.
+Ms. A N Archana
+completed NPTEL 12 week Online Course on “
+Power System Engineering
+” with Elite certification conducted by IIT Kharagpur from Jan to April 2018.
+Ms. Elizabeth Varghese
+completed NPTEL 8 week course on “
+Introduction to Airplane Performance
+” with elite certification from January to March 2017.
+Ms. Sheenu P and Ms. A V Soumya
+completed online course of 6 week duration from 2nd May to 12th June 2017 on “
+Making Powerful Multimedia Presentations
+” conducted by the University of Kerala.
+Ms. Manju Ann Mathews
+completed NPTEL online course on “
+Introduction to internet of things
+” with elite certification conducted by IIT Kharagpur from July to October 2017.
+Ms. A N Archana
+successfully completed NPTEL 8 week online course on “
+Basic Electrical Circuits
+” conducted by IIT Madras from July to October 2017
+Faculty as Resource Persons
+2024-25
+Dr. Dishore S. V.,
+Asst. Prof., Dept.of EEE was invited as
+Session Chair
+for the International Conference on Modern Trends in Engineering and Management
+(ICMTEM)
+organised by the Department of Electrical and Electronics Engineering, Stella Mary’s College of Engineering in association with AB Technologies Nagercoil on 24 April 2025
+Dr. Anil J
+, Assistant Professor, EED, was invited as a resource person for the Seminar on
+“Generative AI for Symbolic Reasoning”
+organized by Baselios Mathews II College of Engineering, Sasthamkotta, Kollam, on February 27–28, 2025. As part of the seminar, he conducted a session on
+“Exploring AI and ChatGPT.”
+Dr. Sheryl Arulini,
+Assistant Professor, EED served as the resource person for the AICTE sponsored 6 day Faculty Development Programme on
+Navigating the Energy Transition-Climate Nexus: Greening the Grid
+on 13- 2-2025 at Mangalam College of Engineering, Kottayam.
+Dr. Elizabeth Varghese
+, Associate Professor & Head, Department of Electrical and Electronics Engineering, Mar Baselios College of Engineering & Technology, engaged a talk on
+‘Introduction to fractional order modelling and controllers
+‘ held on 13 and 14 December 2024, as subject expert at Department of Electrical Engineering, College of Engineering Trivandrum . The session was organised by IEEE CSS SBC CET, in collaboration with IEEE CSS Kerala Section.
+Dr. Ushakumari S,
+Professor and Dean- Corporate Relations, MBCET served as the
+resource person
+for the
+3 days workshop on Basic Human Aspirations and its fulfilment
+organised by HRD Cell of Government Engineering College, Thrissur.
+Dr. S Ushakumari,
+Professor and Dean, Corporate Relations, has been the
+Resource person
+for the Faculty Development Programme organised by Bishop Jerome Institute on 9
+th
+July 2024
+2023-24
+Dr. Sheryl Arulini
+, Assistant Professor, EED was invited as the speaker for the Webinar on “
+Cyber Security Challenges in Smart Grid
+” organized by the Department of Electrical and Electronics Engineering, Mangalam College of Engineering on 1
+st
+May 2024.
+Dr. Dishore S V,
+Assistant Professor, Dept.of EEE was invited as
+Keynote Speaker
+for the International Conference on Modern Trends in Engineering and Management (ICMTEM) organised by Department of Electrical and Electronics Engineering, Stella Mary’s College of Engineering in association with AB Technologies Nagercoil on 02
+nd
+April 2024.
+Mr.Anil J
+, Assistant Professor, Dept.of EEE was invited as
+Chief Guest and Resource Person
+for the National Level Technical Symbosium on Big Data Analytics and Artificial Intelligence
+(ALACS ’24)
+organised by Department of Computer Science, St Alphonsa College of Arts and Science, Soosaipuram, Karinkal, Tamil Nadu on 20
+th
+March 2024.
+Dr. S Ushakumari
+Professor, EED and Dean, Corporate Relations was one of the resource persons for a workshop on ‘Universal Human Values’ conducted on 02/02/24 and 03/02/24 in MBCET at Pascal Hall from 9.30 a.m to 5:00 p.m.  25 staff members of Stackmod Innovations Pvt Ltd, an IT company operating from CCCIET B Hub participated in the programme. Sessions on various topics like Value Education, namely, Basic Aspiration, Right Understanding in the Self, Right Understanding of Relationships, Right Understanding of Physical Facility were taken.
+Mr. Vipinkumar KC
+, Corporate Relations and
+Dr. Veena Nair
+, Assistant Professor, S&H coordinated the programme. Ms. Sanjana, S4 CS1 student also participated and shared her UHV experience.
+Dr. Ushakumari S
+., Dean Corporate Relations and Professor, EED, MBCET was invited as resource person to deliver expert lecture in ‘Need for Value Education’ and ‘Holistic Transformation of Human being’, on 8 and 9 January 2024, as part of the Short Term Training Programme on “Recent Research Trends in Green Energy Technologies”, organized by Centre of Sustainable Development in collaboration with the Department of Mechanical Engineering and Department of Civil Engineering, College of Engineering Trivandrum.
+In connection with the visiting faculty programme in the Dept. of Electrical Engineering, College of Engineering Trivandrum,
+Dr. Elizabeth Varghese
+, Associate Professor and HoD, EED delivered lectures on “Modelling and Control of Fractional Order Systems” on 13, 18 and 19 December 2023.
+Mr. Aswin R B
+, Assistant Professor, EED, MBCET was invited as the Resource person for the EMC Online Certification Programme on “Recent Trends in Sustainable Energy Management Practices”, organised by the Department of Electrical and Electronics Engineering, MBCET in association with Energy Management Centre, Kerala. He handled a session on the topic “Electrical design aspects in Domestic installations” on 30 October 2023.
+Dr. Dishore S V
+, Assistant Professor, EED, handled an online session on “From Basics to Applications: Navigating the world of Electronic devices” for the first session of the 30 hrs Online certification programme on Simulation of Power Electronic Circuits from Basics to Applications in MATLAB/Simulink, Circuitrix, on 16 October 2023, organized by the Department of Electrical and Electronics Engineering in association with CDAC.
+Dr. Nisha G K
+, Professor and HOD, EED was invited as the Resource person for the EMC Online Certification Programme on “Recent Trends in Sustainable Energy Management Practices”, organised by the Department of Electrical and Electronics Engineering, MBCET in association with Energy Management Centre, Kerala. She handled a session on the topic  “E-mobility – Sustainable Transport “on 23 September 2023.
+2022-23
+Dr. S. Ushakumari
+, Dean, Corporate Relations and Professor, EED was the resource person for the FDP on “Universal Human Values” organized in KMEA Engineering College in collaboration with AICTE for the faculty of Engineering colleges from 5 to 7 October 2023. She also delivered a talk on the topic “Universal Human Values (Session 3)” on 20 September 2023 at Visvesvaraya Bhavan, Institute of Engineers (India), Thiruvananthapuram.
+Dr. Nisha G K
+, Professor and HOD, EED delivered a technical talk on the topic “Plug in Electric Vehicle and Grid Integration” on 10 May 2023 for the National Conference at the Visvesvaraya Bhavan, Trivandrum, conducted by The Institution of Engineers (India) Kerala State Centre on 10th and 11th May 2023.
+Ms. Soumya A V
+, Assistant Professor, EED handled two sessions on the topic “Linear Motors” on
+4 and 9 May 2023
+for the S8 EEE students as part of their elective subject, Special Electrical Machines.
+The IEEE PES SB MBCET in connection with IEEE PES Day 2023 organized a 3-Day series with the theme “Powering a Climate Safer Future”. As part of this,
+Dr. Dishore S V
+, Assistant Professor, EED delivered an online Expert talk on “The Role of Sustainable Energy for a Safer Future” on 22 April 2023.
+Dr. Sheryl Arulini A
+., Assistant Professor, EED delivered a talk on the topic Cyber Security: Challenges and Solutions in Smart Grid on 22 April 2023, as part of the STTP on “Smart Grid Technologies – SGT ’23”, organized by the Department of Electrical and Electronics Engineering, Mar Baselios College of Engineering and Technology (Autonomous), Thiruvananthapuram.
+Dr. Nisha G.K
+., Professor and HoD, EED delivered a talk on the topic Plug in Electric Vehicle in Smart Grid on 19 April 2023, as part of the STTP on “Smart Grid Technologies – SGT ’23”, organized by the Department of Electrical and Electronics Engineering, Mar Baselios College of Engineering and Technology (Autonomous), Thiruvananthapuram.
+Dr. Dishore S. V
+., Assistant Professor, EED gave an expert talk on “Revolution and Advances in e-vehicles” on
+28 February 2023
+, as part of National Science Day Celebration Activity of IIC, MBCET.
+2021-22
+Ms. Shyju Susan Mathew
+delivered a talk on the topic Robot Kinematics on 29 August 2022, as part of the Faculty Development Programme on Control Systems & Robotics, organized by the Department of Electronics & Communication Engineering, College of Engineering, Muttathara.
+Dr. Nisha G K,
+Professor and Head, EED, MBCET, delivered a technical talk on Electric Vehicles on 25 May 2022 at 5:45 pm at The Institution of Engineers (India) Hall, Visvesvaraya Bhavan, Thiruvananthapuram.
+Dr. Nisha G K
+, Professor and Head, EED, MBCET, delivered an expert lecture on “Linear Motors” for final year students of EED on
+17 May 2022
+as part of the course Special Electrical Machines.
+Ms. Shyju Susan Mathew
+delivered a talk on the topic “Introduction to Robotics and its Applications” on
+04 April 2022
+, as part of the Faculty Development Programme on Robotics: Control and Applications – Phase I, organized by the Department of Electrical Engineering, Mar Baselios College of Engineering and Technology (Autonomous), Thiruvananthapuram.
+Dr. Shalu George K.
+, Associate Professor, EED, MBCET, delivered an expert talk on the topic ‘
+Virtual Instrumentation
+’ for the third semester subject Measurements and Instrumentation on
+8 March 2022
+from 1.30 pm to 2.30 pm
+Dr. Nisha G. K.
+, Professor and Head, EED, MBCET, delivered a talk on Electric Vehicles in the 20th Annual State Students Convention of ISTE, Daksha’22 hosted by Government Engineering College, Kannur on
+08 January 2022
+from 1.00 pm to 2.30 pm.
+Dr. Nisha G. K.
+, Professor and Head, EED, MBCET, handled a session on Electric Vehicles, for the Webinar organized by
+ISTE Kerala Section
+on
+10 December 2021
+at 10:30 am in Google Meet.
+Dr. Nisha G. K
+, Professor and Head, EED, MBCET, handled a session on Introduction to Electric Vehicle for the Online Certification course on
+18 September 2021
+as part of Urja Pariraksh, an expert webinar series organized by Illumina, Association of
+Department of Electrical and Electronics Engineering, MBCET, Trivandrum
+in association with KSEB Ltd and Energy Management Centre.
+2020-21
+Dr Nisha G. K.
+, Professor and HOD,
+Department
+of Electrical and Electronics Engineering
+, MBCET, delivered an expert talk on the topic ‘Linear Motors’
+for the eighth semester subject Special Electrical Machines on 7 June 2021 from 8.30 am to 9.30 pm through Google Meet platform.
+Ms. Hema P. P.
+, Assistant Professor,
+Department
+of Electronics & Communication Engineering
+, MBCET, delivered an expert talk on the topic ‘Micro Electro Mechanical Systems
+(MEMS)’ for the eighth semester subject Industrial Instrumentation & Automation on 1 June 2021 from 3.00 pm to 4.30 pm through Google Meet platform.
+Ms. Manju Ann Mathews
+delivered a
+talk
+on the topic “Energy Storage Technology for Renewable Integration” on 18 February 2021, as part of the Faraday
+talk
+Series organized by the Department of Electrical Engineering, College of Engineering Thiruvananthapuram.
+Ms. Jomole Joseph P.
+delivered an
+expert
+talk
+on “Problem Identification – Design Thinking” for first year students of EEE, MBCET on 8 January 2021, for CE students on 22 January 2021 and for other branches on 27 January 2021, as part of
+Expert
+talk
+session of Life Skill.
+Ms. Archana A. N.
+delivered a
+talk
+on “Distribution System Reliability Evaluation” in the Faraday
+talk
+Series organized by the Department of Electrical Engineering, College of Engineering Thiruvananthapuram on 21 January 2021.
+Mr. F. R. Rejish Babu
+delivered a
+talk
+on “Home Energy Audit” for the NSS volunteers of MBCET on 12 January 2021, as part of a 7-day special camp conducted by National Service Scheme MBCET Unit.
+Dr. Nisha G. K.
+delivered a
+talk
+on “PWM and Space Vector Modulation Three Phase Inverters” for S5 students of ECE, MBCET on 5 December 2020 as part of
+Expert
+talk
+session of Power Electronics and Instrumentation.
+Ms. Shyju Susan Mathew
+delivered a
+talk
+on “Introduction to Robotics and Control” in the Faraday
+Talk
+Series organized by the Department of Electrical Engineering, College of Engineering Trivandrum on 24 September 2020.
+Ms. Elizabeth Varghese
+delivered a
+talk
+on Design of Fractional Order Controllers in the Faraday
+Talk
+Series organized by the Department of Electrical Engineering, College of Engineering Trivandrum on 17 September 2020.
+Dr. Shalu George K., Ms. Shyju Susan Mathew
+handled a session of a 1-day Webinar on Introduction to Robotic Control on 03 July 2020 organized by Department of Mechanical Engineering, Adi Shankara Institute of Technology in association with ASME Students Section.
+2019-20
+Dr. Nisha G K
+handled a session of a 1-day Online Lecture Series on Special Electrical Machines, Reluctance Motors on 07 May 2020 organized by ASAP, and Dept of Higher Education, Kerala.
+Dr. Nisha G K
+handled a session of a 1-day Online Lecture Series on Synchronous and Induction Machines, Circle Diagram and Starting of Induction Motor on 29 April 2020 organized by ASAP, and Dept of Higher Education, Kerala.
+Dr. Nisha G K
+handled a session of a 1-day Online Lecture Series on Special Electrical Machines, Linear Motors on 27 April 2020 organized by ASAP, and Dept of Higher Education, Kerala.
+Dr. Nisha G K
+handled a session of a 1-day Online Lecture Series on Synchronous and Induction Machines, Braking and Speed Control, Double cage Induction Motor on 01 May 2020 organized by ASAP, and Dept of Higher Education, Kerala.
+G. K. Nisha
+delivered an expert talk on
+Three Phase Transformer
+at Marian Engineering College on 20 November 2019.
+G. K. Nisha
+delivered an expert talk on
+Finite Element Analysis
+for S8 EEE students of MBCET on 15 November 2019.
+Dr. G. K. Nisha
+delivered an expert talk on “A
+rmature LAP Winding diagram of DC Machine
+” for S3 EEE students of MBCET on 5 September 2019.
+Dr. G.K. Nisha
+gave an expert talk on
+Future scope in Electrical Engineering
+at Marian Engineering College, Kazhakuttam on 7 August 2019.
+Dr. G.K. Nisha
+gave an invited talk on
+Electric and Hybrid Vehicles
+at Marian Engineering College on 9 October 2018.
+Dr. G.K. Nisha
+served as a Resource speaker in the STTP on E-Vehicle: A Green Approach for Sustainable Development (EV-GASD’19) organized by the Dept. of EEE, MBCET, on the topic
+Electric Machine Control in E – Vehicle
+on 8 January 2019.
+Prof. A. S. Shajilal
+gave an expert lecture on
+PWM Inverters
+for the fifth semester B.Tech Students at MBCET during November 2018.
+Ms. Elizabeth Varghese
+gave an expert lecture on
+Automatic Control Systems
+for the fifth semester B.Tech Students at MBCET during November 2018.
+Ms. Sheenu P.
+gave an expert lecture on
+Application of 555 timer as multi-vibrator
+for the third semester B.Tech Students at MBCET during October 2018.
+Mr. Aswin R.B.
+gave an expert lecture on
+A Hands-on training on “ORCAD PSpice Simulation Software
+for the third semester B.Tech students at MBCET during October 2018.
+Prof. M.K. Giridharan
+gave an expert lecture on
+Home PV System: An Overview
+on 9 March 2018 for final year B.Tech students at MBCET.
+Dr. G.K. Nisha
+gave an expert lecture on
+Technical Journal Writing
+on 22 March 2018 for Final years and P.G. students of MBCET
+Vision
+To be a Centre of Excellence in Electrical & Electronics Engineering Education, Research and Application of knowledge to benefit the society at large.
+Mission
+To mould quality Electrical Engineers, fostering creativity and innovation to address global issues.
+BoS
+Department Advisory Board
+The People
+Facilities
+News and Events
+Activities
+Conferences
+Workshops & Seminars
+Research & Consultancy
+Placement
+B. Tech PEOs, POs & PSOs
+Opportunities
+Curriculum & Syllabus
+Time Table
+Video Lectures
+Former HODs
+Department Google Site

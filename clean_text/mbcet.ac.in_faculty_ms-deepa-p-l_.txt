@@ -1,0 +1,75 @@
+Ms. Deepa P. L. – Mar Baselios College of Engineering And Technology
+Skip to content
+The UGC has conferred Autonomous status in July 2020,Affiliated to APJ Abdul Kalam Technological University. Degree awarded by KTU.
+||"Ph. D Admissions Open"||
+||"B.Tech admissions 2025 Rank List published"||
+Home
+>
+Electronics & Communication Engineering
+>
+Ms. Deepa P. L.
+Employee Code / ID No.
+10409016
+Qualifications
+M.Tech in Signal Processing, Pursuing PhD
+Orcid ID
+https://orcid.org/0000-0002-6028-9374
+Industry / R & D Experience
+NA
+Email ID
+[email protected]
+Alternate E-mail ID
+[email protected]
+Mobile No (Optional) / Intercom Extension No.
+9497272551 / 135
+Areas of Interest / Current Research
+Signal Processing, Image Processing, Computer Vision and Deep Learning
+Research, Consultancy, Publication
+Deepa P L
+, Narain Ponraj D and Sreena V G, “Performance analysis of deep transfer learning approaches in detecting and classifying brain tumor from magnetic resonance images”,
+Intelligent Data Analysis
+, vol. 27, no. 6, pp. 1759-1780, 2023 (
+https://content.iospress.com/articles/intelligent-data-analysis/ida227321
+)  (SCIE indexed publication online)
+Deepa P. L., Narain Ponraj and Sreena V. G. , “A Comparative Analysis of Deep Neural Networks for Brain Tumor Detection”, 2021 3rd IEEE International Conference on Signal Processing and Communication (ICPSC), June 2021. (Best paper award).
+Sreena V. G., Narain Ponraj and Deepa P. L., “Study on Public Chest X-ray Data sets for Lung Disease Classification”, 2021 3rd IEEE International Conference on Signal Processing and Communication (ICPSC), June 2021.
+Nice Maria, Jayalakshmi V, J Ananthakrishnan, Tania Sam , Deepa P. L., “Sketch to Image Translation”, International Research Journal of Engineering and Technology (IRJET), Vol. 7, Issue 7, July 2020.
+Aditya Raj, Abhishek Anil, H Aravind Sarma, R Naveen Chandran, Deepa P. L., “BrainNET: A Deep Learning Network for Brain Tumor Detection and Classification”, Advances in Communication Systems and Networks, Lecture notes in Electrical Engineering, Vol. 656, pp. 577-589, June 2020.
+Seungjun Nah, Sanghyun Son, Radu Timofte. Kyoung Mu Lee, Yu Tseng, Yu-Syuan Xu, Cheng-Ming Chiang, Yi-Min Tsai, Stephan Brehm, Sebastian Scherer, Dejia Xu, Yihao Chu, Qingyan Sun, Jiaqin Jiang, Lunhao Duan, Jian Yao, Kuldeep Purpohit, Maitreya Suin, A.N. Rajagopalan, Yuichi Ito, Hrishikesh P S, Densen Puthussery, Akhil K A, Jiji C V, Guisik Kim, Deepa P. L., Zhiwei Xiong, Jie Huang, Dong Liu, Sangmin Kim, Hyungjoon Nam, Jisu Kim, Jechang Jeong, Shihua Huang, Yuchen Fan, Jiahui Yu, Haichao Yu, Thomas S. Huang, Ya Zhou, Xin Li, Sen Liu, Zhibo Chen, Saikat Dutta, Sourya Dipta Das, Shivam Garg, Daniel Sprague, Bhrij Patel and Thomas Huck, “Ntire 2020 challenge on image and video deblurring”, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, pp. 416-417, June 2020.
+Arvind Rajan, Ashwin Jayachandran, Ashwin Thomas Abraham, Pranav Peter and Deepa P. L., “Lung Cancer Detection using CT Scans using Deep Learning”, International Journal of Engineering Science and Computing (IJESC), Vol. 10, Issue 6, June 2020.
+Deepa P. L. and Jiji C. V., “Non-uniform deblurring from blurry/noisy image pairs”, 4th International Conference on Computer Vision & Image Processing, Scopus Indexed – Springer Communications in Computer and Information Science Series (CCIS) organized by Malaviya National Institute of Technology Jaipur, September 2019.
+Gayathri V. S. and Deepa P. L., “Multimodal Neuroimaging for the Detection of Alzhemier’s Disease”, IOSR Journal of Engineering (IOSRJEN), Volume 9, Issue 6, June 2019.
+Gayathri V.S., Deepa P. L., “A Study on Deep Learning Networks for Detecting Alzheimer’s Disease” in IOSR Journal of Engineering (IOSRJEN), June 2019.
+Abhishek Anil, Aditya Raj, H Aravind Sarma, Naveen Chandran R, Deepa P. L., “Brain Tumor Detection From Brain MRI Using Deep Learning” 9th International Conference On Recent Engineering And Technology (ICRET) 2019, 5th May 2019.
+N. Gayathri , Deepa P. L., “Multi-focus Color Image Fusion using NSCT and PCNN”, 2016 International Conference on Communication Systems and Networks (ComNet2016), IEEE Proceedings, pp.173 – 178, July 2016.
+Reshma Vijay V. J. and Deepa P. L., “Image Deblurring using Convolutional Neural Network”, IOSR Journal of Electronics and Communication Engineering (IOSR-JECE), Vol. 11, Issue 5, pp.7-12, September-October 2016.
+Nandana U. S., Deepa P. L., “Pan Sharpening using Modified Sparse FI Algorithm”, International Journal of Advanced Research in Electrical, Electronics and Instrumentation Engineering (IJAREEIE), ISSN: 2278-8875 (Online), ISSN: 2320-3765 (print),Vol. 4, Issue 7, pp. 6135-6142, July 2015
+Aparna Ashok, Deepa P. L., “Handling Noise And Outliers In Single Image Deblurring Using L0 Sparsity”, International Journal of Advanced Research in Electrical, Electronics and Instrumentation Engineering (IJAREEIE), ISSN: 2278-8875 (Online), ISSN: 2320-3765 (print), Vol. 4, Issue 7, July 2015.
+Aparna Ashok and Deepa P. L., “Image Deblurring using L0 Sparse and Directional Filters” in International Journal of Image Processing (IJIP), Vol. 9, Issue 4, May 2015.
+Nandana U. S., Deepa P. L., “A Comparative Study on Pan-sharpening Methods”, International Journal of Graphics & Image Processing (IJGIP), ISSN 2249 – 5452, Vol. 5, Issue 2, pp. 97-102, May 2015.
+Jobin J., Jiji Joseph, Sandhya Y.A, Soni P. Saji and Deepa P. L., “Palm Biometrics Recognition and Verification System”, International Journal of Advanced Research in Electrical, Electronics and Instrumentation Engineering, Vol. 1, Issue 2, page no: 41-48 August 2012.
+Aravind V.S, Deepa P. L., Raja R.I, Nithya Mathai and Roopa Esther Philip, “Automatic Offside Detection in Football”, International Journal of Graphics & Image Processing, Vol 2, issue 2, page no: 105-108, May 2012.
+Deepa P. L. and K. Suresh, “An optimized feature set for music genre classification based on Support Vector Machine”, IEEE Recent Advances in Intelligent Computational Systems (RAICS), page no: 610-614, September 2011.
+Aju Sony, KavyaAjith, Keerthi Thomas, Tijo Thomas and Deepa P. L., “Video summarization by clustering using euclidean distance”, International Conference on Signal Processing, Communication, Computing and Networking Technologies (ICSCCN), page no: 642-646, July 2011.
+Deepa P. L. and K. Suresh, “A new feature set for music genre classification and retrieval based on Support Vector Machine”, MBCET Journal, Vol.1.
+Deepa P. L. and K. Suresh, “Feature optimization for music genre classification based on Support Vector Machine”, 10th National Conference on Technological Trends, page no: 315-318, November 2009.”
+Ph.D Research Guidance ( Research Scholar, E-mail ID, Research Topic/ Tentative Thesis Tittle)
+NA
+Academic / Professional Outreach Activities
+NPTEL Translator
+Membership in Professional bodies/ organizations
+IEEE, IEEE SPS
+Community Outreach Activities
+—-
+Awards / Distinctions / Rank / Other Achievements if any
+First rank for M.Tech degree from Kerala University.
+Best Paper award for one IEEE International Conference paper.
+ANNOUNCEMENTS
+Exam Notifications
+New
+M.Tech Admissions 2025
+New
+B. Tech Admissions 2025
+New
+MBCET e-bulletin
+New

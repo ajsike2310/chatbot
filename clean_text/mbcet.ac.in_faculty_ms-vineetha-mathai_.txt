@@ -1,0 +1,93 @@
+Dr. Vineetha Mathai – Mar Baselios College of Engineering And Technology
+Skip to content
+The UGC has conferred Autonomous status in July 2020,Affiliated to APJ Abdul Kalam Technological University. Degree awarded by KTU.
+||"Ph. D Admissions Open"||
+||"B.Tech admissions 2025 Rank List published"||
+Home
+>
+Electronics & Communication Engineering
+>
+Dr. Vineetha Mathai
+Qualification
+B.Tech, M.E., Ph.D
+email ID
+[email protected]
+Room No. | Extension No.
+B-311/ 508
+Area of Interest
+Communication and Signal processing
+Publications
+Journals
+Vineetha Mathai, P.Indumathi, “Prediction of Spectral Vacancy using Time Series Forecasting Method for Cognitive Radio Applications”, Intelligent Automation & Soft Computing, 2022, vol.33, no. 3, pp. 1729–1746, ISSN-1079-8587. IF:3.4.
+Vineetha Mathai, P.Indumathi, “Reinforcement learning based handoff mechanism in cooperative cognitive radio networks”, Dynamic Systems and Applications, vol.30, no 11, pp. 1719–1732, 2021, ISSN- 1056-2176. IF:0.6.
+Vineetha Mathai, Santhiya Lakshmi K, P.Indumathi, “Performance Evaluation of Interference Cancellation Methods in Cognitive Radio for Aeronautical Communication Systems”, International Journal of Scientific Research & Engineering Trends, volume7, issue 4, 2021, ISSN-2395-566X.
+Vineetha Mathai, P.Indumathi, R.Radhika,” Performance Evaluation of Relay Selection Methods in Cooperative Networks using Diversity Techniques”, International Journal of Management, Technology and Engineering vol. IX, issue V, May 2019. IF: 6.3.
+Vineetha Mathai, P. Indumathi, R J Abhinaya, “ Performance Analysis of cluster based Cooperative spectrum sensing in Cognitive Radio Networks using Genetic Algorithm, International Journal of Science and Innovative Engineering & Technology, May 2018.
+Vineetha Mathai “Analysis of capacity for multiuser mimo downlink systems”, December 2013, Elixir International Journal of Electronics Engineering, pp. 20056-20059, IF:6.07.
+Vineetha Mathai, K. Martin Sagayam, “Comparison and Analysis of Channel Estimation Algorithms in OFDM systems” March 2013, International Journal of Scientific and Technology Research vol. no.2, pp.76-80, IF:3.023.
+Conferences
+Vineetha Mathai, S. Anusankari, P.Indumathi, “A Novel QoS guaranteed Spectrum Sharing Method in Cognitive Radio Network”, presented in virtual conference on IOT and Intelligent Apps 2020 organized by Institute for Engineering Research and Publication on 4th December 2020.
+Vineetha Mathai, Santhiya Lakshmi K, P.Indumathi, “Performance Evaluation of Interference Cancellation Methods in Cognitive Radio for Aeronautical Communication Systems”, presented in virtual conference on IOT and Intelligent Apps 2020 organized by Institute for Engineering Research and Publication on 4th December 2020.
+Vineetha Mathai, P.Indumathi, A.Sathiarani Chitra ,” Performance Evaluation of Secured Co-operative Networks using Diversity Combining Techniques”, presented in IEEE international Conference on Innovations in Communication, Computing and Instrumentation held on March 2019, Chennai. DOI: 10.1109/ICCI46240.2019.9404429.
+Vineetha Mathai, P.Indumathi, R.Radhika,”Queuing based Channel Selection Strategy in Cognitive Radio Networks”, International Conference on Cognitive Computing, Communication & Informatics Systems, held on 13-14 Dec,2018, Chennai.
+R.J Abhinaya, Vineetha Mathai, P. Indumathi, ”Channel Gain Estimation for spectrum sharing in cognitive radio networks using Relaying Techniques”, in International conference on computing communication and drastic innovations in Energy thrive held on 28th Feb 2018 Chennai.
+M. Logeswari, Vineetha Mathai, “Multiuser Channel Allocation in Cognitive Radio Networks”, March 2016, 3rd International Conference on Green technologies in power generation, communication and instrumentation, Chennai.
+S. Poornima, Vineetha Mathai, “Throughput Analysis of MIMO – OFDM System Based On Space Time   Coding”,   March   2015,   International   Conference   on   Electrical,   Electronics   and   Computer Engineering, Namakkal.
+Archana Kamal, Vineetha Mathai, “A Novel Cell Selection Method for LTE Hetnet”, April 2014, 3rd IEEE International Conference on Communication and Signal Processing, Chennai.
+Vineetha Mathai, K. Martin Sagayam “Spatial Multiplexing for Multi-User MIMO Downlink Systems” April 2013, Second National conference on Emerging Trends in Computer, Communication and Informatics, Coimbatore.
+James, Benjamin, John, Joseph, Vineetha Mathai, Sakuntala S. Pillai, “Channel Estimation for OFDM systems”, July 2011, IEEE International Conference on Signal processing, Communication, Computing and Networking technologies, Kanyakumari.
+Details of Faculty as resource person
+Delivered a lecture on Digital Communication organized by Loyola Institute of Technology on 11-Sep-2018.
+Delivered a lecture on Transmission Line and Waveguides organized by DMI College of Engineering on 30-Aug-2018.
+Delivered a lecture on Radio Frequency and Microwave Engineering organized by St. Joseph College of Engineering on 02-August-2017.
+Delivered a lecture on Channel Modeling and Characterization organized by Anna University Regional Centre Coimbatore on 24-Dec-2013.
+Delivered a lecture on Advance Wireless Communication organized by Anna University Regional Centre Coimbatore on 17-Oct-2014.
+Funded Projects
+Realization of Quadrupled Robot for Interplanetary Mission and Logistics Operations
+Principle Investigator
+Project Cost: Rs.27,500
+June 2024-June 2025
+CERD KTU Funding (Student Project)
+Workshops, conferences, seminars (ORGANIZED)
+Organized AICTE sponsored ATAL Faculty Development Programme on the topic ‘5G and beyond: Research directions and opportunities’ from 2nd December to 7th December 2024.
+Workshops, conferences, seminars(ATTENDED)
+Attended One-Week Online Faculty Development Programme on “Cognitive Computing” organized by Dept. of ECE, Vels Institute of science technology & advanced studies held from 20 to 24 March, 2023
+Attended Three days Faculty Development Programme on “3 days training programme on Machine Learning, Deep Learning and LTE to 5G using MATLAB by Mathworks” organized by department of ECE at Mar Baselios College of engineering and technology held from 6 to 7 Dec, 2022 & 13 Jan 2023
+Attended One-Week Online Faculty Development Programme on “Recent trends in Artificial Intelligence and Cyber Security” organized by department of CSE at Shri Vishnu Engineering college for Women held from 1 to 5 November, 2022
+Attended One-Week Online Faculty Development Programme on “Internet of Things” organized by E&ICT Academy IIT Guwahati held from 24 to 30 January, 2022.
+Completed NPTEL online certification course on “Digital Circuits” from July-Oct 2021(12 week course ).
+Participated AICTE Training And Learning (ATAL) Academy Online Elementary “FDP on Internet of Things” from 2021-06-07 to 2021-06-11 at Electronics Service and Training Centre.
+Participated AICTE Training And Learning (ATAL) Academy Online Elementary FDP on “Research Methodologies and Design Thinking for Leadership, Excellence and Soft Skills” from 2021-6-21 to 2021-6-25 at PDPM Indian Institute of Information Technology Design and Manufacturing.
+Participated in online faculty and student development programme on the Role of Science and Spirituality for a Harmonius and Fulfilling Human Community organized by Research Foundation of India and St. Paul Institute of Professional Studies, Indore from 15th -19th March 2021.
+Participated in online faculty development programme on Information Security and Privacy sponsored by ISEA-II organized by Motilal Nehru National Institute of Technology, Uttar Pradesh during 10th -14th March 2021.
+Participated AICTE Training And Learning (ATAL) Academy Online FDP on Photonics at Govt. Model Engineering College, Ernakulam from 19th -23rd October 2020.
+Participated online two day Faculty Development Training Programme on advanced C++ organized by VIT, Chennai on 13-14 May 2020.
+Attended two day Faculty Development Training Programme under the UGC XII plan scheme on Research Challenges in VLSI and Communications conducted at MIT Campus, Anna University on 6th -7th February 2020.
+Attended one day workshop on Pedagogy held at MIT Campus, Anna University on 26th June 2019.
+Attended a two day hands-on training programme on LABVIEW conducted by National Instruments held during 14th-15th February 2019, organized by Madras Institute of Technology, Anna University.
+Attended the AICTE approved two week “Faculty Development and Training Program on Induction Program for Students” organized by Anna University from 18th to 29th June 2018.
+Participated in National level workshop on “Programming Embedded System” organized by Madras Institute of Technology, India from 09-March-2018 to 10-March-2018.
+Participated in National level workshop on “Workshop on Internet of Things” organized by Madras Institute of Technology, India from 23-Feb-2018 to 24-Feb-2018.
+Participated in the seven day special camp on the theme “Our Principles in Action”, organized by Youth Red Cross Madras Institute of Technology, India, from 23-June-2015 to 26-June-2015.
+Attended 3rd International Conference on Signal Processing, Communications and Networking conducted by IEEE and organized by Madras Institute of Technology, India 2015.
+Participated in National level workshop on “Workshop on 4G Wireless Technology” organized by Madras Institute of Technology, India from 20-Feb-2014 to 21-Feb-2014.
+Attended National level Short Course on “Faculty Development and Training Programme on Signals and Systems” organized by Madras Institute of Technology, India from 23-Jun- 2014 to 30-Jun-2014.
+Participated in National level workshop on “Two week ISTE Workshop on Control Systems organized by Department of Power System Engineering, Anna University, CEG Campus, Chennai, India from 02-Dec-2014 to 12-Dec-2014.
+Participated in a National level workshop on “Workshop on LTE-A” organized by Madras Institute of Technology, India from 20-Oct-2014 to 21-Oct-2014.
+Professional body Membership
+TheSocietyofDigitalInformationandWirelessCommunications, Former IEEE student member
+Date of joining @MBCET
+21/10/2022
+Details of previous work Experience:Industry / Academics / Others
+Academics/ Department of Electronics Engineering, Madras Institute of Technology Campus, Anna University, Chennai from July 2013 to September 2022.
+Awards
+Awarded Elite Certificate for successful completion of the NPTEL online 12-week course on ‘Digital Circuits’, in October 2021.
+ANNOUNCEMENTS
+Exam Notifications
+New
+M.Tech Admissions 2025
+New
+B. Tech Admissions 2025
+New
+MBCET e-bulletin
+New
